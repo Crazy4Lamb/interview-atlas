@@ -3807,6 +3807,40 @@
       "guestName": "Peter Diamandis、Tony Robbins",
       "title": "Tim Ferriss 主持对谈 Peter Diamandis、Tony Robbins（#35）",
       "summary": "本期为Tim Ferriss 主持对谈 Peter Diamandis、Tony Robbins。"
+    },
+    {
+      "id": "alex-game-1015-e3d58a7cfc6f",
+      "person": "alex",
+      "title": "赚钱之后，如何管理和保住财富",
+      "summary": "本期由 Alex、Leila 和 Sharran Srivatsaa 讨论赚钱之后如何管理财富。官方简介回顾了他们的投资失误，并介绍三个影响投资方式和财富保全的思考框架。",
+      "points": [
+        "02:15｜主动与被动配置的杠铃策略",
+        "06:59｜私募交易与非流动性溢价",
+        "10:26｜巨额资金闲置在支票账户：恐惧的代价"
+      ],
+      "evidence": [
+        {
+          "title": "The Game 官方节目简介与章节",
+          "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml"
+        }
+      ]
+    },
+    {
+      "id": "alex-game-1014-81aa64f78b74",
+      "person": "alex",
+      "title": "还没想好做什么生意？从业务选择开始",
+      "summary": "Alex 讨论创业初期怎样选择业务方向、辨认目标客户，并争取第一笔收入。官方简介的重点是先把想法拿到市场检验，再持续调整，而不是等待一个完美方案。",
+      "points": [
+        "00:00｜找到能赚钱的业务：五步框架",
+        "00:34｜三个 P：痛点、职业与热情",
+        "03:50｜先尝试一个不完美的想法，再根据反馈改进"
+      ],
+      "evidence": [
+        {
+          "title": "The Game 官方节目简介与章节",
+          "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml"
+        }
+      ]
     }
   ],
   "mapping": [

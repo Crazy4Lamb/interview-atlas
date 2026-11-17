@@ -68827,19 +68827,13 @@ window.ARCHIVE_LONGREADS = {
   "alex-game-1015-e3d58a7cfc6f": {
     "sections": [
       {
-        "heading": "官方资料简介",
+        "heading": "官方节目说明",
         "kind": "source",
         "paragraphs": [
-          "官方简介介绍：亚历克斯和莱拉在学会如何处理他们赚到的钱之前就损失了数百万美元。在本集中，Sharran Srivatsaa 与他们一起打破了改变他们投资方式和保留内容的三个框架。"
-        ]
-      },
-      {
-        "heading": "章节与节目资料",
-        "kind": "source",
-        "paragraphs": [
-          "02:15｜主动-被动杠铃",
-          "06:59｜构建私募交易和非流动性溢价",
-          "10:26｜数百万人的支票账户闲置：恐惧的成本"
+          "本期由 Alex、Leila 和 Sharran Srivatsaa 讨论赚钱之后如何管理财富。官方简介回顾了他们的投资失误，并介绍三个影响投资方式和财富保全的思考框架。",
+          "02:15｜主动与被动配置的杠铃策略",
+          "06:59｜私募交易与非流动性溢价",
+          "10:26｜巨额资金闲置在支票账户：恐惧的代价"
         ]
       }
     ],
@@ -68853,7 +68847,7 @@ window.ARCHIVE_LONGREADS = {
         "url": "https://pscrb.fm/rss/p/episode.flightcast.com/01M75Z12MAHM45CTZE26VV9P3S.mp3"
       }
     ],
-    "takeaway": "官方简介介绍：亚历克斯和莱拉在学会如何处理他们赚到的钱之前就损失了数百万美元。在本集中，Sharran Srivatsaa 与他们一起打破了改变他们投资方式和保留内容的三个框架。"
+    "takeaway": "本期由 Alex、Leila 和 Sharran Srivatsaa 讨论赚钱之后如何管理财富。官方简介回顾了他们的投资失误，并介绍三个影响投资方式和财富保全的思考框架。"
   },
   "alex-game-873-01cc0ea02ff9": {
     "sections": [
@@ -68924,19 +68918,13 @@ window.ARCHIVE_LONGREADS = {
   "alex-game-1014-81aa64f78b74": {
     "sections": [
       {
-        "heading": "官方资料简介",
+        "heading": "官方节目说明",
         "kind": "source",
         "paragraphs": [
-          "官方简介介绍：创业最困难的部分是选择正确的想法。在这一集中，亚历克斯打破了每月帮助数千名初学者找到业务、正确的客户头像并赚到第一笔钱的框架。"
-        ]
-      },
-      {
-        "heading": "章节与节目资料",
-        "kind": "source",
-        "paragraphs": [
-          "00:00｜寻找支付业务的五步框架",
-          "00:34｜什么：三个P：痛苦、职业和激情",
-          "03:50｜为什么最好的坏主意胜过等待"
+          "Alex 讨论创业初期怎样选择业务方向、辨认目标客户，并争取第一笔收入。官方简介的重点是先把想法拿到市场检验，再持续调整，而不是等待一个完美方案。",
+          "00:00｜找到能赚钱的业务：五步框架",
+          "00:34｜三个 P：痛点、职业与热情",
+          "03:50｜先尝试一个不完美的想法，再根据反馈改进"
         ]
       }
     ],
@@ -68950,7 +68938,7 @@ window.ARCHIVE_LONGREADS = {
         "url": "https://pscrb.fm/rss/p/episode.flightcast.com/01M715EXZJ1HQDXP4S3G9HPGHS.mp3"
       }
     ],
-    "takeaway": "官方简介介绍：创业最困难的部分是选择正确的想法。在这一集中，亚历克斯打破了每月帮助数千名初学者找到业务、正确的客户头像并赚到第一笔钱的框架。"
+    "takeaway": "Alex 讨论创业初期怎样选择业务方向、辨认目标客户，并争取第一笔收入。官方简介的重点是先把想法拿到市场检验，再持续调整，而不是等待一个完美方案。"
   },
   "alex-game-1012-eb360b3febf2": {
     "sections": [
