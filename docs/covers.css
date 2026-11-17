@@ -5,3 +5,5 @@
 @media(max-width:480px){.wordmark{font-size:clamp(28px,8.7vw,36px);letter-spacing:2px;white-space:nowrap}}
 
 .article-cover[data-article^="justin-wealth-course"] .poster-title{font-size:clamp(17px,5.2cqw,28px);max-width:76%;max-height:3em;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.article-cover[data-article^="justin-wealth-course"] .poster-year{letter-spacing:-1px}
+
+.source-poster .poster-title{max-width:78%;font-size:clamp(16px,5.2cqw,27px)!important;max-height:3em;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.source-poster .poster-year{letter-spacing:-1px;font-size:clamp(23px,8cqw,48px)}

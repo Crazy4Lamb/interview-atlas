@@ -7998,5 +7998,2655 @@ window.ARCHIVE_COVERS = {
     "width": 320,
     "height": 180,
     "sha256": "15edabc29ad62111deaabc4320393364c901bd805b36b1d1a41cfae8e858ecb9"
+  },
+  "naval-r20261117b-ranveer-446": {
+    "file": "assets/covers/other-naval-r20261117b-ranveer-446.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/wQGOYnWHnto/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=wQGOYnWHnto",
+    "credit": "封面来源：BeerBiceps；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "255fcf5446d7a259ef2922b40963150adb0c54a51e14ea95bae5e7fea519afcc"
+  },
+  "tim-external-goodlife-2017-01": {
+    "file": "assets/covers/other-tim-external-goodlife-2017-01.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/96CD-F7V3eA/maxresdefault.jpg",
+    "pageUrl": "https://www.goodlifeproject.com/podcast/tim-ferriss/",
+    "credit": "封面来源：Good Life Project · 官方节目页；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "340d6aff988323d697aec2abb8bd95f8644f21a098d7177d588f7ffd15dbc1a0"
+  },
+  "tim-external-shawn-274": {
+    "file": "assets/covers/other-tim-external-shawn-274.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/3VT-FKvfnqo/maxresdefault.jpg",
+    "pageUrl": "https://shawnryanshow.com/blogs/the-shawn-ryan-show/srs-274-tim-ferriss-life-changing-practical-wisdom-backed-by-experience-and-science",
+    "credit": "封面来源：Shawn Ryan Show · 官方页面与原视频；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "9e31cd923bd87f5ee662ecbfa436373b492042969e19afc1c97063395c4b89cd"
+  },
+  "naval-r20261117b-megyn-kelly-881": {
+    "file": "assets/covers/other-naval-r20261117b-megyn-kelly-881.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/wogE5q43u-U/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=wogE5q43u-U",
+    "credit": "封面来源：Megyn Kelly；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "c3b8f83efcee47c749201440e7096d24bbf9b0bcf8ee0e7daa33725f47217dbd"
+  },
+  "naval-r20261117b-milken-tabbiner-2023": {
+    "file": "assets/covers/other-naval-r20261117b-milken-tabbiner-2023.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/RomzXcdrAlQ/hqdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=RomzXcdrAlQ",
+    "credit": "封面来源：Milken Institute；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 480,
+    "height": 360,
+    "sha256": "bb22785b54f1eb047449da944e7b75c32edd019c7e3a40ca5c8b558729be1a40"
+  },
+  "naval-r20261117b-spartan-desires-2017": {
+    "file": "assets/covers/other-naval-r20261117b-spartan-desires-2017.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/X7tnoR6a-8A/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=X7tnoR6a-8A",
+    "credit": "封面来源：The Hard Way Podcast With Joe De Sena ；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "4aa27f5c3231ed5741012afa95932dbe31170a47bf6816ba2aacac582f8fafd5"
+  },
+  "naval-r20261117b-techcrunch-ny-2017": {
+    "file": "assets/covers/other-naval-r20261117b-techcrunch-ny-2017.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/0F_3voFWSFI/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=0F_3voFWSFI",
+    "credit": "封面来源：TechCrunch；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "ad8a75244956ba026addcf87249c5d214f584f3ab8a7ecac1b64e90238eb7c5a"
+  },
+  "naval-r20261117b-goldman-sachs-2017": {
+    "file": "assets/covers/other-naval-r20261117b-goldman-sachs-2017.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/dvZNUHfbs8w/hqdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=dvZNUHfbs8w",
+    "credit": "封面来源：Goldman Sachs；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 480,
+    "height": 360,
+    "sha256": "b592f997d5150e9ad961963318c843ba033071beea4ff1c79449d8d8dd523921"
+  },
+  "naval-r20261117b-token-summit-ii": {
+    "file": "assets/covers/other-naval-r20261117b-token-summit-ii.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/few99D5WnRg/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=few99D5WnRg",
+    "credit": "封面来源：Token Summit；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "696e8401ac28575e97e99e8903781c2f423c420f0bbf5f570c327797397cafca"
+  },
+  "naval-r20261117b-blockstack-ryan-shea-2017": {
+    "file": "assets/covers/other-naval-r20261117b-blockstack-ryan-shea-2017.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/IrSn3zx2GbM/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=IrSn3zx2GbM",
+    "credit": "封面来源：Stacks；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "eed79422d2f305154f6e060a190846e32c312c40629fbb0f018b2adb549b52f9"
+  },
+  "naval-r20261117b-beyond-blockchain-3": {
+    "file": "assets/covers/other-naval-r20261117b-beyond-blockchain-3.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/jCtOHUMaUY8/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=jCtOHUMaUY8",
+    "credit": "封面来源：Blockstreet HQ；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "9ab9807e203290f13a613dd49a058f671904c41246191fe16116df436e025ee8"
+  },
+  "naval-r20261117b-tim-dixon-542": {
+    "file": "assets/covers/other-naval-r20261117b-tim-dixon-542.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/DlNDYMNJ5zQ/maxresdefault.jpg",
+    "pageUrl": "https://tim.blog/2021/10/28/chris-dixon-naval-ravikant/",
+    "credit": "封面来源：Tim Ferriss · The Tim Ferriss Show；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "f86295cbd97ecb11f29a58e26f3e2119f91b63813816ce84cc433b122a8c44dd"
+  },
+  "dan-r20261117b-louis-kyle-2023": {
+    "file": "assets/covers/other-dan-r20261117b-louis-kyle-2023.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/S6dvhMEWnDo/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=S6dvhMEWnDo",
+    "credit": "封面来源：The Louis and Kyle Show；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "82e5499b3866678177d982fa05c6248f340da31b101a148e78586ca6fd76b5cf"
+  },
+  "naval-r20261117b-all-in-2025": {
+    "file": "assets/covers/other-naval-r20261117b-all-in-2025.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/AI5qI6ej-yM/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=AI5qI6ej-yM",
+    "credit": "封面来源：All-In Podcast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "84205bd4cb72d370b997941652dee306340d5a62cd6b84208a607c70c1ea82d6"
+  },
+  "naval-r20261117b-scott-adams-2024": {
+    "file": "assets/covers/other-naval-r20261117b-scott-adams-2024.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/wTRcs5ZsSJE/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=wTRcs5ZsSJE",
+    "credit": "封面来源：Real Coffee with Scott Adams；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "80530acc5e17e9f4e8d1da9d59cdde66e11e54079b85d564a8ba932c05209882"
+  },
+  "tim-external-tony-2016": {
+    "file": "assets/covers/other-tim-external-tony-2016.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/H-Xlhb5Q2A4/maxresdefault.jpg",
+    "pageUrl": "https://www.tonyrobbins.com/podcasts/the-tools-of-titans-tim-ferriss",
+    "credit": "封面来源：The Tony Robbins Podcast · 官方页面；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "53bda91be336456159baa6c42a99491671a8f7a93ae3802391e0c2a3968d333c"
+  },
+  "tim-external-choosefi-558": {
+    "file": "assets/covers/other-tim-external-choosefi-558.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/J7N3NbVhZxQ/maxresdefault.jpg",
+    "pageUrl": "https://choosefi.com/podcast/episode/tim-ferriss-financial-independence-fire-podcast-558",
+    "credit": "封面来源：ChooseFI · Brad Barrett；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "3a099c816b4dac19d6408fdbc6ac5ab81d32c6a90cacd3933b9651dfe98f5a37"
+  },
+  "tim-external-jayshetty-2026": {
+    "file": "assets/covers/other-tim-external-jayshetty-2026.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/s0DohADRRlY/maxresdefault.jpg",
+    "pageUrl": "https://www.jayshetty.me/podcast/tim-ferriss-feeling-stuck-right-now-use-this-10-minute-exercise-to-stop-overthinking-and-take-action",
+    "credit": "封面来源：On Purpose with Jay Shetty · 官方节目页；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "95c2721429911e034adbd665bb7d8b208ffa88879384ec164dc0e1d7e0be084b"
+  },
+  "tim-show-888": {
+    "file": "assets/covers/other-tim-show-888.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2026/11/888-Final-.jpg?fit=879%2C1010&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2026/11/05/lucky-888-my-tour-of-designing-luck-in-china-japan-and-korea/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 879,
+    "height": 1010,
+    "sha256": "300115066d181ad925832535bcce6be3e3f8336dcab7a606664ef9b9ceb4c436"
+  },
+  "tim-show-885": {
+    "file": "assets/covers/other-tim-show-885.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2026/10/01-how-to-simplify-your-life.jpg?fit=1254%2C1254&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2026/10/01/how-to-simplify-your-life-4/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "92cac610d783782c7ddf78e5a2351f9ccc044a9b7579e127aa9c0baaf9b0ded1"
+  },
+  "tim-show-887": {
+    "file": "assets/covers/other-tim-show-887.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2026/10/Tim-Ferriss-QA-Podcast-Thumbnail_v1.png?fit=1672%2C941&quality=80&ssl=1",
+    "pageUrl": "https://tim.blog/2026/10/21/qa-with-tim-ai-4-hour-workweek/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 1672,
+    "height": 941,
+    "sha256": "77c0ef6605588d04464bfd8364833f31c03c9f34f113045e9b0b3f63d55c2901"
+  },
+  "tim-show-889": {
+    "file": "assets/covers/other-tim-show-889.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2026/11/Tim-Ferriss-QA-Podcast-Thumbnail-Learn-Optimism.png?fit=1920%2C1080&quality=80&ssl=1",
+    "pageUrl": "https://tim.blog/2026/11/12/qa-with-tim-how-to-get-unstuck/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 1920,
+    "height": 1080,
+    "sha256": "945b03ed1025fbfd04dac17b160e46133f40b966f3ec74fcf487cb23b9d7ed3a"
+  },
+  "tim-show-881": {
+    "file": "assets/covers/other-tim-show-881.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2026/09/Failure-into-Success.png?fit=1254%2C1254&quality=80&ssl=1",
+    "pageUrl": "https://tim.blog/2026/09/04/failure-into-success/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "2b062013e335acb01554bcb18762e9622f07c7aea5e9bfc9d2bb2e6b4305f994"
+  },
+  "tim-show-880": {
+    "file": "assets/covers/other-tim-show-880.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2026/08/Relationship-Compilation.png?fit=1828%2C1828&quality=80&ssl=1",
+    "pageUrl": "https://tim.blog/2026/08/19/relationship-tools/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 1828,
+    "height": 1828,
+    "sha256": "726534ecd4f2c301062a76c50fba28e8cab9f865bf7f50c9a92639c6fc6012e7"
+  },
+  "tim-show-886": {
+    "file": "assets/covers/other-tim-show-886.png",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2026/07/RandomShowJuly26_v6-scaled.png?fit=2560%2C1440&quality=80&ssl=1",
+    "pageUrl": "https://tim.blog/2026/10/09/the-random-show-ai-super-assistants-boner-pills-dream-engineering-wizards-supplements-books-and-more/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 1440,
+    "sha256": "5d895d4975ce224552de349c1ed001133d5b283e32fd0cc594601de637e9d903"
+  },
+  "tim-show-882": {
+    "file": "assets/covers/other-tim-show-882.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2026/09/Niels-Hoven-Illustration-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2026/09/10/niels-hoven-mentava/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "63d7118a7be7ee68397b1728e15fe6d7b80bb833a6ec8f6b5b6e7a5cc84c62c5"
+  },
+  "tim-show-879": {
+    "file": "assets/covers/other-tim-show-879.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2026/08/reinvent.jpg?fit=1662%2C1662&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2026/08/12/how-to-reinvent-yourself/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 1662,
+    "height": 1662,
+    "sha256": "279ef7003abe3f5e7260b33ebd21be2996cbd1f80595ba99df176fdd657337c1"
+  },
+  "tim-show-877": {
+    "file": "assets/covers/other-tim-show-877.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2021/12/Tim-Ferriss-Illustration-scaled.jpeg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2026/07/29/qa-with-tim-male-friendship/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "a853a5fd0c347a6e95467406a53e3e5f78ced7097c4037d0c41d9a257fa20902"
+  },
+  "tim-show-884": {
+    "file": "assets/covers/other-tim-show-884.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2026/09/Kevin-Ryan-Illustration-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2026/09/24/kevin-ryan/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "fbda762aba88e8ff6e818ee4834e1df00b2570af2741cf8f463947c829651759"
+  },
+  "tim-show-876": {
+    "file": "assets/covers/other-tim-show-876.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2026/07/Dr-Andrew-Huberman-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2026/07/22/dr-andrew-huberman-protocols/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "4113c97ba17852b5f90b50a259ae5cf7780e7f704022d5cbb57855ae73351bb9"
+  },
+  "tim-show-878": {
+    "file": "assets/covers/other-tim-show-878.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2020/01/Tim-Ferriss-Writing-In-Journal.jpg?fit=2048%2C1367&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2026/08/07/writing-inspiration/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2048,
+    "height": 1367,
+    "sha256": "c871cda9e20d21e2076c9f06f5f0d653b7c51dd11131360f9fd987ff8bd59dcc"
+  },
+  "tim-show-869": {
+    "file": "assets/covers/other-tim-show-869.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2026/05/Max-Levchin-Illustration-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2026/06/10/max-levchin-2/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "8fc76fcc314fb7067dda3e089a46dbfe175d1ef345f218174735d2a1fdd58c5e"
+  },
+  "tim-show-883": {
+    "file": "assets/covers/other-tim-show-883.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2026/09/Tania-de-Jong-Illustration-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2026/09/18/how-to-legalize-medical-psychedelics/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "170d5621f265eab6f57dfe84246277309346f2b8f0bd482de229101090d6b41d"
+  },
+  "tim-show-871": {
+    "file": "assets/covers/other-tim-show-871.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2026/06/Andrew-Weil-and-Wade-Davis-Illustration.png?fit=1254%2C1254&quality=80&ssl=1",
+    "pageUrl": "https://tim.blog/2026/06/25/coca/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "4ea8a6165b96df815d3a0098c02ba0abd4972395a0693d8b249c02ddab9d53b8"
+  },
+  "tim-show-875": {
+    "file": "assets/covers/other-tim-show-886.png",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2026/07/RandomShowJuly26_v6-scaled.png?fit=2560%2C1440&quality=80&ssl=1",
+    "pageUrl": "https://tim.blog/2026/07/16/the-random-show/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 1440,
+    "sha256": "5d895d4975ce224552de349c1ed001133d5b283e32fd0cc594601de637e9d903"
+  },
+  "tim-show-870": {
+    "file": "assets/covers/other-tim-show-870.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2026/06/Sebastian-Mallaby-Illustration-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2026/06/17/sebastian-mallaby/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "c215b073a83a67755af031eaeedcf423afb792a90da0b0dd9bcec6bf566d55cb"
+  },
+  "tim-show-864": {
+    "file": "assets/covers/other-tim-show-864.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2026/05/How-to-Simplify-Your-Life-May-2026.png?fit=1254%2C1254&quality=80&ssl=1",
+    "pageUrl": "https://tim.blog/2026/05/06/how-to-simplify-your-life-3/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "43ce720674e8ec8e5de2e24bae3a81414ffda5d68f2c6d722e7882d9828e6116"
+  },
+  "tim-show-868": {
+    "file": "assets/covers/other-tim-show-868.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2026/05/Jake-Becraft-Illustration-scaled.jpg?fit=2560%2C1920&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2026/06/02/jake-becraft-strand-therapeutics/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 1920,
+    "sha256": "3c90b3698830c742e53c01e70fe1f368cad4125da34576df4f0982c702e72a66"
+  },
+  "tim-show-866": {
+    "file": "assets/covers/other-tim-show-866.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2026/05/Sami-Inkinen-Illustration-scaled.jpg?fit=2560%2C1920&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2026/05/20/sami-inkinen/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 1920,
+    "sha256": "ccd6fb9852e8f816dfcd830bb57d65df62c83749427180e3c6003320a1382999"
+  },
+  "tim-show-874": {
+    "file": "assets/covers/other-tim-show-874.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2026/07/Guy-Oseary-Illustration-2-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2026/07/07/guy-oseary/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "7810e78447c794bd24fc344ff1afda187b56be1fd892a6f12f2d13ab9342a774"
+  },
+  "tim-show-863": {
+    "file": "assets/covers/other-tim-show-863.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2026/04/Elad-Gil-Illustration-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2026/04/29/elad-gil/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "f5c6235f3e6e8b92b231bd944b347a633190fe187f95c8dac6ddf600a993bbc1"
+  },
+  "tim-show-859": {
+    "file": "assets/covers/other-tim-show-877.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2021/12/Tim-Ferriss-Illustration-scaled.jpeg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2026/03/26/qa-with-tim-ai-tsunami/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "a853a5fd0c347a6e95467406a53e3e5f78ced7097c4037d0c41d9a257fa20902"
+  },
+  "tim-show-865": {
+    "file": "assets/covers/other-tim-show-865.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2026/05/Jerzy-Gregorek-Illustration-Final-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2026/05/14/jerzy-gregorek-cerebral-palsy/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "d2e5d8cbf2e1298f201cfd4b74f964afec9f9357f6be915c4112321b7393aa37"
+  },
+  "tim-show-861": {
+    "file": "assets/covers/other-tim-show-861.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2026/04/Brian-Dean-Illustration-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2026/04/16/brian-dean-backlinko-case-study/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "3ccdfdbe0553dc1126ab08b9aa44f3a84393bbab46161c254ff5d9bc69e8d02f"
+  },
+  "tim-show-860": {
+    "file": "assets/covers/other-tim-show-860.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2026/04/Michelle-Khare-Illustration-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2026/04/07/michelle-khare-challenge-accepted/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "a17c714d16bc33832633c02f2685a74874bac31501bae804b63809e883ab2d80"
+  },
+  "tim-show-857": {
+    "file": "assets/covers/other-tim-show-857.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2026/03/How-to-Simplify-Your-Life.png?fit=1536%2C1024&quality=80&ssl=1",
+    "pageUrl": "https://tim.blog/2026/03/10/how-to-simplify-your-life-2/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 1536,
+    "height": 1024,
+    "sha256": "ef7f4e0356b69a90efbf38afd2bf85850444f3a9dfa2844c3d871b9394f210c2"
+  },
+  "tim-show-862": {
+    "file": "assets/covers/other-tim-show-862.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2026/04/Cathy-Lanier-Illustration-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2026/04/23/cathy-lanier-nfl-chief-security-officer/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "af2303fad14bd070bd26dbe1bee1de7cfba6d6f2e14904a3fe51865df4136b4f"
+  },
+  "tim-show-855": {
+    "file": "assets/covers/other-tim-show-877.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2021/12/Tim-Ferriss-Illustration-scaled.jpeg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2026/02/24/tim-ferriss-how-to-quiet-the-ruminative-mind/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "a853a5fd0c347a6e95467406a53e3e5f78ced7097c4037d0c41d9a257fa20902"
+  },
+  "tim-show-852": {
+    "file": "assets/covers/other-tim-show-852.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2026/02/Tim-McGraw-Illustration-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2026/02/04/tim-mcgraw/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "c41e4bff64f4c524c6d593e749b16d9dc317eb2d8c060b6c41c87c25ef1ba324"
+  },
+  "tim-show-858": {
+    "file": "assets/covers/other-tim-show-858.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2026/03/RANDOM-SHOW-4.jpg?fit=1920%2C1080&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2026/03/18/random-show-couch-edition/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 1920,
+    "height": 1080,
+    "sha256": "4533288cccf52e729eee21669b80e7bf2a441590d13d393d48b0d30048243802"
+  },
+  "tim-show-856": {
+    "file": "assets/covers/other-tim-show-856.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2026/03/Jim-Collins-Illustration-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2026/03/04/jim-collins-what-to-make-of-a-life/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "4ee253aada041e70126e2510162d5d5e38c9836368dc0c0cab3b95a65c89b6ea"
+  },
+  "tim-show-853": {
+    "file": "assets/covers/other-tim-show-853.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2026/02/Jordan-Jonas-Illustration-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2026/02/11/jordan-jonas/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "cacd18f8e56463e9a16d2ee9ba1145df7e4fafd6913119c79b23a7438becb626"
+  },
+  "tim-show-854": {
+    "file": "assets/covers/other-tim-show-854.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2026/02/Tish-Rabe-Illustration-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2026/02/18/tish-rabe/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "fe15cb78e36721369626ceef589eee59b4914170f6c87e52192d3f19d98a1d6d"
+  },
+  "tim-show-842": {
+    "file": "assets/covers/other-tim-show-842.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/12/Drug-Story.png?fit=1280%2C1280&quality=80&ssl=1",
+    "pageUrl": "https://tim.blog/2025/12/30/epipen-allergies/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 1280,
+    "height": 1280,
+    "sha256": "431a7c9f9f997007455350b5d52e57bfc7eb46d9f619f6b8e7d6bc19124f39ef"
+  },
+  "tim-show-849": {
+    "file": "assets/covers/other-tim-show-849.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2026/01/Michael-Levin-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2026/01/21/dr-michael-levin/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "1e51325f4359190f007d4ae32492ba374e81b6556d8af9ceda43b965fa97918d"
+  },
+  "tim-show-841": {
+    "file": "assets/covers/other-tim-show-841.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/12/Arthur-Brooks-Illustration-December-2025-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/12/23/arthur-brooks-meaning/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "009b1f9024a841856fc6a0ea4b4468da83aef7049bf08097dd9cd89de89e6c2f"
+  },
+  "tim-show-847": {
+    "file": "assets/covers/other-tim-show-847.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/12/Steve-Young-Illustration-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2026/01/14/steve-young/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "d5caec061d5897c8f8e7c8780a9c286f6dfa4bab603a27fc758e3cdeecb1a0e0"
+  },
+  "tim-show-837": {
+    "file": "assets/covers/other-tim-show-837.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/11/Derek-Seth-and-Martha-How-to-Simplify.png?fit=1080%2C1080&quality=80&ssl=1",
+    "pageUrl": "https://tim.blog/2025/11/26/how-to-simplify-your-life/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 1080,
+    "height": 1080,
+    "sha256": "61458a4d9dd7616f13f4954eaf367c081cd1cf16f43eaa657122bfa9a1988e76"
+  },
+  "tim-show-839": {
+    "file": "assets/covers/other-tim-show-839.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/12/Dr-Fei-Fei-Li-Illustration-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/12/09/dr-fei-fei-li-the-godmother-of-ai/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "8c91a694ef3ff82ed64670f63282fe0652706149f24d36836dc64d288d5ce61c"
+  },
+  "tim-show-845": {
+    "file": "assets/covers/other-tim-show-845.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/09/Dominic-DAgostino-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2026/01/06/ketosis-practical-guide-dom-dagostino/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "f1858fbafad129856a14e68f3b8aa8762b761ef1f602e879e134890073f1908e"
+  },
+  "tim-show-840": {
+    "file": "assets/covers/other-tim-show-840.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/12/Bill-Gurley-Illustration-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/12/17/bill-gurley-running-down-a-dream/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "b97e5c0c66640a233b282ec53af68dfa06364fada4e917e62e3f2802174ad122"
+  },
+  "tim-show-836": {
+    "file": "assets/covers/other-tim-show-836.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2023/11/Tim-Ferriss-Illustration-2023-scaled.jpeg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/11/19/the-4-hour-workweek-principles/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "cf92037786d2262aacfde6634551a06c1fddef047a5ea9af802d3c95732b4ad4"
+  },
+  "tim-show-838": {
+    "file": "assets/covers/other-tim-show-838.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2022/04/The-Random-Show-with-Kevin-Rose-scaled.jpeg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/12/03/the-random-show-with-kevin-rose-2/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "d54a90d96f6bd3ffa78d68e3d07e2532489eed9b85ba1c8efbca7aefd58abd7e"
+  },
+  "tim-show-835": {
+    "file": "assets/covers/other-tim-show-835.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/11/Ben-Patrick--scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/11/11/ben-patrick-kneesovertoesguy/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "e7dac4e4910d2e1c556ce74d2414eb16488b3fd28f8aba471677de7ad0fbe352"
+  },
+  "tim-show-834": {
+    "file": "assets/covers/other-tim-show-834.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/11/David-Baszucki-Illustration-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/11/04/david-baszucki-roblox/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "fbf4adb9be299cd1638ee8e344d14b0d5abef8861b051137bbacf2390b8db118"
+  },
+  "tim-show-851": {
+    "file": "assets/covers/other-tim-show-851.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/12/Dr-Tommy-Wood-Illustration-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2026/01/28/dr-tommy-wood-how-to-future-proof-your-brain-from-dementia/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "10cf2ec795c5f65c4113ddc28ea36348375b89395c00dce96f89fea314fb945c"
+  },
+  "tim-show-833": {
+    "file": "assets/covers/other-tim-show-833.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/10/Jack-Canfiled-Illustration-1-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/10/29/jack-canfield/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "797068d97c2a1792d1fcc69416aeac4ab44ea645e71047775591a3b35bcb39de"
+  },
+  "tim-show-831": {
+    "file": "assets/covers/other-tim-show-831.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/10/Frank-Miller-Illustration-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/10/20/frank-miller/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "b33480d0316b48906577fc183bbad0d0b8ee2c1c2f1fe8606162073c6c4ff09b"
+  },
+  "tim-show-832": {
+    "file": "assets/covers/other-tim-show-832.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/10/Boyd-Varty-Illustration-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/10/22/the-return-of-the-lion-tracker/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "62946bcf30fa5f96643544ad2f59788fcdcf51ec2caadecf92edaee2c098d69d"
+  },
+  "tim-show-829": {
+    "file": "assets/covers/other-tim-show-829.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/09/James-Nestor-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/09/30/james-nestor-breath/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "83d3a1c9e5311026c8ef986c37f199068fdc1b0176aa0b9e1ee64e24c10a645b"
+  },
+  "tim-show-830": {
+    "file": "assets/covers/other-tim-show-830.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/10/Richard-H-Thaler-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/10/10/richard-thaler/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "8f9455523b9230332dff79ed1864640ff111ac2b3d1ceb431089819c10b0aa23"
+  },
+  "tim-show-828": {
+    "file": "assets/covers/other-tim-show-828.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/09/David-Senra-Illustration-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/09/24/david-senra/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "f194edf9bad66a21f1a77f0cc025621ea86a2c8688b0cfc469275b1c901f67eb"
+  },
+  "tim-show-826": {
+    "file": "assets/covers/other-tim-show-836.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2023/11/Tim-Ferriss-Illustration-2023-scaled.jpeg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/09/09/qa-with-tim-supplements-ai-recovery/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "cf92037786d2262aacfde6634551a06c1fddef047a5ea9af802d3c95732b4ad4"
+  },
+  "tim-show-823": {
+    "file": "assets/covers/other-tim-show-823.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/08/Dr.-Jeffrey-Goldberg-Illustration-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/08/20/dr-jeffrey-goldberg/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "4993a39714a9773d59f7aec349710492f4635dd7f2366417ea4d9ed8f072e7a6"
+  },
+  "tim-show-825": {
+    "file": "assets/covers/other-tim-show-845.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/09/Dominic-DAgostino-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/09/03/dr-dominic-dagostino-all-things-ketones/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "f1858fbafad129856a14e68f3b8aa8762b761ef1f602e879e134890073f1908e"
+  },
+  "tim-show-827": {
+    "file": "assets/covers/other-tim-show-827.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/09/Pablos-Holman-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/09/16/pablos-holman/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "a91687ba16f7fd8a288d025a1d36b1f0c1a7634b3bb2f7b5646039259d006205"
+  },
+  "tim-show-824": {
+    "file": "assets/covers/other-tim-show-824.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/08/Kevin-Tracey-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/08/27/kevin-tracey-vagus-nerve/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "60877bee53af650b5937e5aed3d2ed2e74ba622c3fad5d5bbfc8c2d183b7bb86"
+  },
+  "tim-show-816": {
+    "file": "assets/covers/other-tim-show-816.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/06/Nsima-Illustration-scaled-1.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/06/19/nsima-inyang/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "624d8c1b1a2ee80409e657650ec2b6fc071fb59ba1a23d1c85123054d150dbb8"
+  },
+  "tim-show-817": {
+    "file": "assets/covers/other-tim-show-817.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/06/Charlie-Houpert-Illustration-scaled-1.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/06/25/charlie-houpert-charisma-on-command/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "c6292ffea3c703bae6b2c4aad3174b6c684e3aa2f6550aa70050fafc224187f8"
+  },
+  "tim-show-821": {
+    "file": "assets/covers/other-tim-show-821.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2023/02/Elan-Lee-Illustration-scaled.jpeg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/08/06/coyote-card-game/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "a2d838cd7a671af7fcad3104238c365c6f7205f3daa878d9663a7c26282e9fea"
+  },
+  "tim-show-822": {
+    "file": "assets/covers/other-tim-show-822.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/08/Random-Show-Illustration-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/08/12/random-show-vibe-coding/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "a30e2e785860b3cad1eb9a08514e6157b5e90053cf5f763c009e3fe580625b09"
+  },
+  "tim-show-815": {
+    "file": "assets/covers/other-tim-show-815.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/06/Chris-Hutchins_V2_2.jpg?fit=1920%2C1080&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/06/11/chris-hutchins-all-the-hacks/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 1920,
+    "height": 1080,
+    "sha256": "02fe025c6c3d6d5c286838d2f2a614d2c72c2b9ea1cb9b2879a0e1395bde2678"
+  },
+  "tim-show-819": {
+    "file": "assets/covers/other-tim-show-819.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/07/Rhonda-Patrick-Illustration-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/07/24/dr-rhonda-patrick/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "31d9a4f40b6257627da0347efa341cb6c94180ff5702caa3edbd642b6948f258"
+  },
+  "tim-show-812": {
+    "file": "assets/covers/other-tim-show-812.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/05/Random-Show-2025-Thumbnail-Final-1.jpg?fit=1920%2C1080&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/05/23/the-random-show-ai-genome/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 1920,
+    "height": 1080,
+    "sha256": "225d11c7298067675f87158e3a559feb7907da74945a1988769103b25ceb6a8a"
+  },
+  "tim-show-813": {
+    "file": "assets/covers/other-tim-show-813.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/05/QAMAY25_V2.jpg?fit=1920%2C1080&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/05/30/q-a-tim-ferriss/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 1920,
+    "height": 1080,
+    "sha256": "c8deda9c7d92cc52bc34754bdd2b6104e87d413f634145fc88e74d62d41ce915"
+  },
+  "tim-show-814": {
+    "file": "assets/covers/other-tim-show-814.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/06/Chatri-Illustration-scaled-1.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/06/05/chatri-sityodtong-ceo-of-one-championship/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "2f855dea6f129b7af85669c3fa0a9aafa1e5455baffcc5eca4ac978c1f2394c4"
+  },
+  "tim-show-811": {
+    "file": "assets/covers/other-tim-show-811.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/05/Jake-Kaminski_V1_2.jpg?fit=1920%2C1080&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/05/15/jake-kaminski-archery/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 1920,
+    "height": 1080,
+    "sha256": "bc37122fe50042f210ca610cddc2136a326311f74de9e212267a53f8cbae658d"
+  },
+  "tim-show-810": {
+    "file": "assets/covers/other-tim-show-810.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/05/1.TerryReal-Final-scaled-1.jpg?fit=2172%2C2560&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/05/09/terry-real-therapy/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2172,
+    "height": 2560,
+    "sha256": "774366f38c99f1c1aea8410fe5298fe4731a14217b6ece4c968373a39bf8ba0b"
+  },
+  "tim-show-804": {
+    "file": "assets/covers/other-tim-show-804.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/04/Robert-Rodriguez-scaled-1.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/04/03/robert-rodriguez-returns/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "d5585eb625579f4f599b646558dc1c8902e8db6ae3b0bc526aab0fae7d27e590"
+  },
+  "tim-show-808": {
+    "file": "assets/covers/other-tim-show-808.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/04/STEPHEN-WEST-V2.jpg?fit=1920%2C1080&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/04/24/stephen-west-philosophize-this/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 1920,
+    "height": 1080,
+    "sha256": "3773918e154b89f9344835daa7f351069c9072854dd4e464617093afa6b50aa7"
+  },
+  "tim-show-806": {
+    "file": "assets/covers/other-tim-show-806.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/04/Rich-Barton-Illustration-scaled-1.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/04/17/rich-barton/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "6aa731d5b3dead76925eee631e60dec418c004fd6601a1f5d8973ad239692a9f"
+  },
+  "tim-show-803": {
+    "file": "assets/covers/other-tim-show-803.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/03/Craig-Mod-Illustration-scaled-1.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/03/28/craig-mod-returns/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "19aa75a335f8e756b9e4e4dd8bd97438fc6827b7a6e6222ba93c7e99179d41e0"
+  },
+  "tim-show-809": {
+    "file": "assets/covers/other-tim-show-809.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/08LIrfeKkRE/maxresdefault.jpg",
+    "pageUrl": "https://tim.blog/2025/05/01/the-4-hour-workweek-tools/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "9f235d756731069514708b184cdecd9f06d292a98218f27eb48b1509baea303a"
+  },
+  "tim-show-800": {
+    "file": "assets/covers/other-tim-show-800.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/03/EV1.jpg?fit=1920%2C1080&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/03/20/ev-williams/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 1920,
+    "height": 1080,
+    "sha256": "35713d02da8485aa70d1b846679c372d8f47a15a1cafe7f30a614a83628f6bbe"
+  },
+  "tim-show-805": {
+    "file": "assets/covers/other-tim-show-805.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/04/Philip-Goff-scaled-1.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/04/10/philip-goff-exploring-consciousness/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "3bcac091d50f214b7c0c56fd35b447bd21ea69fc1eea84e8649b31b9f0819493"
+  },
+  "tim-show-795": {
+    "file": "assets/covers/other-tim-show-795.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2013/04/4-hour-chef-tim-ferriss-the-starting-point-of-hundreds-of-top-rated-books-courtesy-of-tim-ferriss-500x281.jpg?fit=500%2C281&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/02/14/the-end-of-time-management/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 500,
+    "height": 281,
+    "sha256": "7ab66d34b2073bd9ec6038bda3e5a7ad78829dea5d3fae6439cc6323908e29e9"
+  },
+  "tim-show-802": {
+    "file": "assets/covers/other-tim-show-803.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/03/Craig-Mod-Illustration-scaled-1.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/03/27/craig-mod/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "19aa75a335f8e756b9e4e4dd8bd97438fc6827b7a6e6222ba93c7e99179d41e0"
+  },
+  "tim-show-799": {
+    "file": "assets/covers/other-tim-show-799.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/03/WETA-WORKSHOP-2-1.jpg?fit=1920%2C1080&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/03/13/weta-workshop/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 1920,
+    "height": 1080,
+    "sha256": "f28f1fd578d21814eb94a9f3a156c268d7941c42d062ecd0e4c99d247122daa9"
+  },
+  "dan-r20261117b-youtube-zdshL1IcetU": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-zdshL1IcetU.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/zdshL1IcetU/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=zdshL1IcetU",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "dff32b48b3069d1dbe1851c50e9ccb02eadcd733df8006828158e6d0cf37ac4e"
+  },
+  "tim-show-796": {
+    "file": "assets/covers/other-tim-show-796.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/02/LA-Paul-Illustration-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/02/21/l-a-paul-transformative-experiences/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "f8b3dd648e098558bcd272c89749ff68a778ae1cc8fa5b589411a149bb51692e"
+  },
+  "tim-show-797": {
+    "file": "assets/covers/other-tim-show-797.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/02/Keith-Baar-scaled.jpg?fit=1707%2C2560&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/02/26/dr-keith-baar/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 1707,
+    "height": 2560,
+    "sha256": "3daa7cb896b896be062d37a75722e2c7a4de123c2e7978b9c62986874d104a52"
+  },
+  "dan-r20261117b-koecast-44028b13d9f6": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-44028b13d9f6.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/rAjMOfKSAks/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/You-need-to-be-delusional-if-you-want-to-succeed-e3p4ube",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "1d475b75bc4fe80ac0fad598cde4994befc975785088fde93cb8663c0648d97f"
+  },
+  "dan-r20261117b-koecast-63f712089252": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-63f712089252.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/CZ5WyfbXtH4/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/The-Death-Of-The-Influencer--The-Future-Of-Creative-Work-e3r1dnd",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "303693fa75f69c587ba7af47d5bfce7bab04299d14079c2172c7a27fb34bd576"
+  },
+  "dan-r20261117b-youtube-Qk8rSlDR8z4": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-Qk8rSlDR8z4.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/Qk8rSlDR8z4/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=Qk8rSlDR8z4",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "7a743d892952d438614fa7623d0e51a7a2aa7816c0df728238e40b55a59dfb07"
+  },
+  "tim-show-794": {
+    "file": "assets/covers/other-tim-show-794.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/02/Tim.Brandon-2-scaled.jpg?fit=2560%2C1807&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/02/05/brandon-sanderson/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 1807,
+    "sha256": "b8202e9db9da029cf559df772e5bb6ce8ceb3f250da675731734220a0c02fa9f"
+  },
+  "tim-show-792": {
+    "file": "assets/covers/other-tim-show-792.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/01/Seth-Godin-Illustration-scaled.jpg?fit=2560%2C2048&quality=89&ssl=1",
+    "pageUrl": "https://tim.blog/2025/01/30/seth-godin-strategy/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 2560,
+    "height": 2048,
+    "sha256": "9653914eece5d6c9d5bc5490074c786e5882cc2558cb41a25119fb354cda3dbd"
+  },
+  "dan-r20261117b-koecast-914e52acd31b": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-914e52acd31b.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/dbDpegaaxvo/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/How-To-Learn-Anything-10x-Faster-Than-Anyone-e3n9fi8",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "c0c351f677426f83a91f6912e82e461806a68c4cd36e878e0e512527f092acb8"
+  },
+  "dan-r20261117b-youtube-oMtAfbNHfnw": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-oMtAfbNHfnw.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/oMtAfbNHfnw/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=oMtAfbNHfnw",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "e1aded11cde86c59ea2967cc2ded3c2705a5e2672e803fd51fdf6eb79b1d40fd"
+  },
+  "dan-r20261117b-koecast-9d8995019cec": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-9d8995019cec.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/XqS7kIWMIDE/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/If-You-Have-Multiple-Interests--Please-Start-a-One-Person-Business-e3onha3",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "c4d91d1eded3afea567101882511176b88cff67b2306b5847fe524148f6a486f"
+  },
+  "dan-r20261117b-koecast-5a95b2736093": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-5a95b2736093.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/FBHhmqBs894/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/If-You-Have-Multiple-Interests--Start-A-One-Person-Business-e3kodsf",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "e888de8331d5e7c78240fa1adfb7bde81cf8eb616760b41e0471c6ca042e658f"
+  },
+  "dan-r20261117b-youtube-KCjwU4XYBL8": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-KCjwU4XYBL8.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/KCjwU4XYBL8/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=KCjwU4XYBL8",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "33260ff674a4090d37bdc9987019a5ecb5a51b5ea35d5d1610042f0962766b02"
+  },
+  "dan-r20261117b-koecast-a8d7cf3dec6d": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-a8d7cf3dec6d.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/7HM-rptYdTs/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/How-To-Grow-An-Audience-If-You-Have-0-Followers-Its-Only-2-Habits-e3jcnts",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "8b45f0279906e003201569f3011a76c5f70d21353a25e85c71ac10e4a95f840d"
+  },
+  "dan-r20261117b-youtube-bWR_3Sg-H-8": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-bWR_3Sg-H-8.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/bWR_3Sg-H-8/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=bWR_3Sg-H-8",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "5f3154f087a62a4301910591b20d1fd9dd9f64565dec3b6b3f40570cfd3d3678"
+  },
+  "dan-r20261117b-koecast-694ae7c23794": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-694ae7c23794.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/vRsO_SmCYbQ/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/If-youve-lost-your-creative-genius--watch-this-e3homkb",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "6419d9dd43d8d5ddd9aacd47a29d21fece663e44847642acb3c25ad9c3341d1a"
+  },
+  "dan-r20261117b-koecast-42897307c417": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-42897307c417.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/pmQhqVLVApw/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/If-You-Have-Multiple-Interests--Please-Take-Advantage-of-the-Next-10-Years-e3oae8p",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "f7296ddc54b8a6f24be629a6debea29035275050d12e709d95c9946fffa0c90c"
+  },
+  "dan-r20261117b-koecast-0704da3a4090": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-0704da3a4090.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/3rNqNvwNcrM/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/Im-begging-you-to-start-writing-essays-even-if-you-hate-writing-e3hompp",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "f80dd5c742451d7ad5f3fa09f67a97617fe914ac08e54287ce8ce0572a44a47c"
+  },
+  "dan-r20261117b-koecast-bdf77ce0fa93": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-bdf77ce0fa93.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/VXgusdDbsQE/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/How-To-Build-A-1M-One-Person-Business-Faster-With-AI-e3gfsqa",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "f12c751b949a02a7cbe8681d9dcbdd7b0babe79d73f9ef7699bf66925b693b46"
+  },
+  "dan-r20261117b-koecast-201bbfbf2ce1": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-201bbfbf2ce1.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/YM0_8mOaKic/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/How-To-Completely-Reinvent-Yourself-In-6-12-Months-e3in8ak",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "7a41ab393ba4c1553f209e361f35239269677ee6883a60dda803c9b0baa0459f"
+  },
+  "dan-r20261117b-youtube-K2QvCV1PB1w": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-K2QvCV1PB1w.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/K2QvCV1PB1w/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=K2QvCV1PB1w",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "e884bf16fefff2f6687b00339ae07900a01eb32413b5771bf6c0e743d4e6a9cd"
+  },
+  "dan-r20261117b-koecast-3521336cab3b": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-3521336cab3b.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/K8K09g9XR4s/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/How-to-fix-your-entire-life-in-1-day-e3ct5vu",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "98c8895828f16215fd57194b085bd4257fc28d6b954dcc5ec17758b3f7d2a53e"
+  },
+  "dan-r20261117b-koecast-c0eaa9645ccf": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-c0eaa9645ccf.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/vCoGfisdS8Y/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/The-Future-Of-Work--The-New-High-Income-Skill-Stack-e3f10kk",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "21a80aa55a70bf794ba0154ecb6fbc2563aac125b0ceec9ed40e1b276238e1e1"
+  },
+  "dan-r20261117b-koecast-a29eb9c25a77": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-a29eb9c25a77.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/ExNWGF-q64M/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/If-you-have-multiple-interests--do-not-waste-the-next-2-3-years-e3dt5ac",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "a4dc4ff794ab997eb06e530c1d2874d33f5b3c53a586c21abc98ece318242cda"
+  },
+  "dan-r20261117b-koecast-b553f91f9369": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-b553f91f9369.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/DKT6m_8vCkA/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/How-To-Articulate-Your-Thoughts-Intelligently-Talk-Like-This-e3c0rt0",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "05f7fbe19751c240b70150c2617f3d315a623abf726c6cffe9dfb1ac6dbffaea"
+  },
+  "dan-r20261117b-koecast-e505a320fe13": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-e505a320fe13.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/xgpLjLHB5sA/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/How-To-Use-AI-Better-Than-99-Of-People-This-Changed-My-Life-e3bicv8",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "a7e632451371e0467043702541495002a6590344597c9e8e80450106bdd14505"
+  },
+  "dan-r20261117b-youtube-0XI_Xt0ci2Y": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-0XI_Xt0ci2Y.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/0XI_Xt0ci2Y/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=0XI_Xt0ci2Y",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "636eac372ef9094db117d66205ced897170e21eb15c2c533ad1aca61d3682e21"
+  },
+  "dan-r20261117b-koecast-b1351f68314d": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-b1351f68314d.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/TY8IVSQnwlk/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/How-To-Think-Like-A-Strategic-Genius-5-Dimensional-Thinking-e3fenko",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "273cc6094d6cb2ed2de118428125d1443cb30232427b56c0ce476e4a30580bf4"
+  },
+  "dan-r20261117b-youtube-vbrTv-4PsdA": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-vbrTv-4PsdA.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/vbrTv-4PsdA/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=vbrTv-4PsdA",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "e2db3e96f81a577c68143c08dfda37b7b5da7220088cf94f8f647d2023744687"
+  },
+  "dan-r20261117b-youtube-SL5lwg1wYaE": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-SL5lwg1wYaE.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/SL5lwg1wYaE/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=SL5lwg1wYaE",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "8b9706d7b141dfac127dc8fcb6065356ebb60be27279e0179b1b95c7a9f96844"
+  },
+  "dan-r20261117b-youtube-JeaBetH8UUc": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-JeaBetH8UUc.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/JeaBetH8UUc/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=JeaBetH8UUc",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "6ce6f9c87c1c598ce898f2b0b87de437b28d7edda4d0562d5cb001d42d32d48c"
+  },
+  "dan-r20261117b-koecast-8d7f6750c5b2": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-8d7f6750c5b2.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/VyR8nqD3sQ8/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/How-Id-build-a-one-person-business-if-I-started-over-in-2026-e3d4nmo",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "d05c15a557f905c9c8f90dae0693abf34f680855837f7cc63adb0ed7522701dc"
+  },
+  "dan-r20261117b-koecast-15d6ef3f98e8": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-15d6ef3f98e8.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/ve1L21l1GW4/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/You-Have-About-36-Months-To-Make-It-e36v65j",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "dced5fabc0c7961c29ce0edfac3ef718952263d13b13225f0fa83ff54d240928"
+  },
+  "dan-r20261117b-youtube-oGSHKXEKT2Q": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-oGSHKXEKT2Q.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/oGSHKXEKT2Q/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=oGSHKXEKT2Q",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "43d08a65b0e703405a7910f34e2480c4515b3d076a6dd929f99bddde84c604c5"
+  },
+  "dan-r20261117b-koecast-e402c1b77476": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-e402c1b77476.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/IajTL2RCJ_k/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/12-Rules-To-Change-Your-Life-In-12-Months-e3878so",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "f9394f49e01b074f02065e07f13741c05d88132c69f5111d89be3aba1a791cea"
+  },
+  "dan-r20261117b-youtube-ni04Zp7mUMM": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-ni04Zp7mUMM.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/ni04Zp7mUMM/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=ni04Zp7mUMM",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "3af56fba58ddb90397aeb448b6e0e89d3a2bc118bd9e4c994e63110ffb17fa34"
+  },
+  "dan-r20261117b-koecast-8e03e535e80b": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-8e03e535e80b.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/U5kQTKWTUX0/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/A-Dopamine-Detox-To-Reset-Your-Life-In-30-Days-e3a2h8h",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "c907fd9e88c0336c1120c1a69656ccb849a2ddea1659f180c38fc7d7469d754c"
+  },
+  "dan-r20261117b-youtube-wdA5y0k7CRA": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-wdA5y0k7CRA.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/wdA5y0k7CRA/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=wdA5y0k7CRA",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "63899c9e2e3a20b34dfd8b4681c379cbc425dbea49d926cb6084c29d3610fbcd"
+  },
+  "dan-r20261117b-youtube-YTWm6sG0n6s": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-YTWm6sG0n6s.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/YTWm6sG0n6s/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=YTWm6sG0n6s",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "0718778e2e2b6fb3b56bae46ffebe7d6710e9edfaab7c044ee692122304af826"
+  },
+  "dan-r20261117b-youtube-rUD3Y1BFJFA": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-rUD3Y1BFJFA.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/rUD3Y1BFJFA/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=rUD3Y1BFJFA",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "7f0f162a80e10e10852ff211ed4db740f09f88ab0ccbee5808323b9100698aa2"
+  },
+  "dan-r20261117b-koecast-4a921b65160b": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-4a921b65160b.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/UixhcccGcdY/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/You-Need-To-Be-Extreme-If-You-Want-Your-Life-To-Change-e34sjbr",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "52d5992388d5e04a4c4a7f14c623bb22aece9dc19e77af248b9199109bf66b6b"
+  },
+  "dan-r20261117b-koecast-286fd2e87c32": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-286fd2e87c32.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/vFgjDSySYo8/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/The-Future-Of-Work-How-To-Become-AI-First-e33bdu1",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "b36742dd36d911e32fdaa045bd980c00c02cc9c9e66b5149c11f4a71cd73bb2d"
+  },
+  "dan-r20261117b-koecast-8edc4982ad20": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-8edc4982ad20.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/kLd5AvsLWAc/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/The-Deep-Work-Routine-That-Changed-My-Life-e330olr",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "06a03cc37cd9c7f6cbedc70216f67dd43c1d23aefa97d4db58e7738f4e8a87c8"
+  },
+  "dan-r20261117b-youtube-SutAIv68yNk": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-SutAIv68yNk.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/SutAIv68yNk/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=SutAIv68yNk",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "7bfe8aba954038e6a1b9f6438e13f380d2816c7a1ce0e44c934b49ad37de2e57"
+  },
+  "dan-r20261117b-youtube-VztPAofKWvg": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-VztPAofKWvg.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/VztPAofKWvg/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=VztPAofKWvg",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "f3778d589fc922175eeff4ecb676aae04ce3c3217dde6aaef2f545808e0fd221"
+  },
+  "dan-r20261117b-youtube-0OEtXlPtyYk": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-0OEtXlPtyYk.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/0OEtXlPtyYk/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=0OEtXlPtyYk",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "ffca0bea23716ad88ad00b640f926d3746ad4a97d11f960606f7f00fcc6ed84a"
+  },
+  "dan-r20261117b-koecast-b3d48d5ac409": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-b3d48d5ac409.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/FzaHX5rxU34/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/How-To-Learn-Anything-10x-Faster-Than-Anyone-With-AI-e2vto5v",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "a0af4daeb8e9185bb3057d67b7701433c07794b371a00d9d5a0fcfb922ecbb19"
+  },
+  "dan-r20261117b-koecast-48ce44df33bd": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-48ce44df33bd.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/HA6XxtGNOm0/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/How-To-Build-A-Better-Personal-Brand-Than-99-Of-People-e33v5sv",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "cfd8cc58b7fc405c70c0826077e840e2675a584b5a66827b752b38e46fb54cac"
+  },
+  "dan-r20261117b-youtube-0cSwXV2FAJ8": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-0cSwXV2FAJ8.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/0cSwXV2FAJ8/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=0cSwXV2FAJ8",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "750f3a681b2dec43e1b041c3c295fad622b1b4e8781712591102a964a3554422"
+  },
+  "dan-r20261117b-youtube-65N6sQfQDV8": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-65N6sQfQDV8.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/65N6sQfQDV8/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=65N6sQfQDV8",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "79596e9780f4fe4625e66a96b973870f7bc4c3b51869f3d0d2a3f862ff128627"
+  },
+  "dan-r20261117b-youtube-WZeLFMQOtZ4": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-WZeLFMQOtZ4.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/WZeLFMQOtZ4/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=WZeLFMQOtZ4",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "b752b842086e2ce49a476fa525e827640d7a2911b43602afbac6b72a60006ab3"
+  },
+  "dan-r20261117b-koecast-c287ab141d98": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-c287ab141d98.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/n0AB6pZpotg/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/How-To-Change-Your-Life-So-Fast-It-Feels-Illegal-e2vjn1c",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "09fe013fba40132a9056a0539acdff08d870ce8d6b0efc34aee0a5bbf36cd725"
+  },
+  "dan-r20261117b-youtube-Li-6QMs9_G4": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-Li-6QMs9_G4.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/Li-6QMs9_G4/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=Li-6QMs9_G4",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "44d23fce5fb280fdc7945e0bb79dc4b5ce6320c4927c9b6a2d38d0d5181d7301"
+  },
+  "dan-r20261117b-koecast-e0b8437720af": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-e0b8437720af.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/Er2s-CFoZSo/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/A-Full-Guide-To-Making-Your-First-Profitable-Product-Beginners--Take-Notes-e2ump0q",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "133dac1bd0e8f8ba70cd7b6860d86418c3caf3f23ed2558cb4edf9fb4b7cdd16"
+  },
+  "dan-r20261117b-youtube-REwaFvbelEk": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-REwaFvbelEk.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/REwaFvbelEk/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=REwaFvbelEk",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "a90200803c4e629c4aa6c9b4c8f83e7a85174d260a8d963109e0614cccffcc2d"
+  },
+  "dan-r20261117b-youtube-p6n4Q6-N7XI": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-p6n4Q6-N7XI.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/p6n4Q6-N7XI/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=p6n4Q6-N7XI",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "3e48318ee01c35c90aaf1c4a87ef8bffafb5c4d98b5ee4331ed0e30ee20cac2e"
+  },
+  "dan-r20261117b-youtube-jhoG3WcECnw": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-jhoG3WcECnw.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/jhoG3WcECnw/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=jhoG3WcECnw",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "86d5dbeb2a5b192bd013d849ff9138b156ed8405193095fec5385190ddacd2e8"
+  },
+  "dan-r20261117b-koecast-fd7316d8fb0a": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-fd7316d8fb0a.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/cG-brqeMrBw/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/How-To-Make-The-Greatest-Comeback-Of-Your-Life-e2sc3b5",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "7d1177da9093d5076d968cb024d6c2e84e8f6954d012f0f2226ab4f01405509b"
+  },
+  "dan-r20261117b-youtube-B18O2QtkyCE": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-B18O2QtkyCE.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/B18O2QtkyCE/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=B18O2QtkyCE",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "4b524a67a90b5156bb1f07f9b89abb0953859bed2851d4bc73a41ad11bf35446"
+  },
+  "dan-r20261117b-koecast-1553ced9f1dc": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-1553ced9f1dc.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/vG4dnVJTA9w/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/The-Time-Billionaire-A-Concept-That-Will-Change-Your-Life-With-Sahil-Bloom-e2u6ufp",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "68a2a2574832357dad44483c24e6898f7b2e7f69e34d67dd6d369c7f3e966ae2"
+  },
+  "dan-r20261117b-youtube-Lt79hNo6SWE": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-Lt79hNo6SWE.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/Lt79hNo6SWE/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=Lt79hNo6SWE",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "8c792bca262e686fc97d44e2f860a58b270bdda7ccb6e77cab2bad595ae0fbdf"
+  },
+  "dan-r20261117b-koecast-b1a724911816": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-b1a724911816.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/hRgG8omhOJ0/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/Build-A-One-Person-Business-As-A-Normal-Person-From-0-To-10K-e2rpf36",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "6b14ab8a9ff59fbf84a81d25e82b6bb291712839e7877b7528de82daf53f1c83"
+  },
+  "dan-r20261117b-koecast-edffa37ad90c": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-edffa37ad90c.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/18ahFtnuBwI/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/The-Most-Important-Skill-To-Learn-In-The-Next-10-Years-With-Devon-Eriksen-e2s21se",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "886f3049f9e1a020c4aedee876784e44a34ac0813b33c0de69209a149eadc61f"
+  },
+  "dan-r20261117b-youtube-Bq9de46Uh4I": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-Bq9de46Uh4I.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/Bq9de46Uh4I/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=Bq9de46Uh4I",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "d2ef278850c3c99667a936b2a598b1484a42594dd9b299505a5a902fddabeb6a"
+  },
+  "dan-r20261117b-youtube-j1Xu3qLI3r0": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-j1Xu3qLI3r0.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/j1Xu3qLI3r0/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=j1Xu3qLI3r0",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "a9d394a52d43846ae253704a8d8ac62cb665ba7e14a523a4a668113de16fdac2"
+  },
+  "dan-r20261117b-koecast-49477a797c40": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-49477a797c40.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/RPVxwzJtp4o/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/The-Death-Of-The-Personal-Brand--The-Future-Of-Creative-Work-e2pa4f5",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "a27bc68d362e7cf259cf6d613ac6dc63945a2e1f2d1366438d1427ba3e489522"
+  },
+  "dan-r20261117b-youtube-CzSmZvTYvME": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-CzSmZvTYvME.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/CzSmZvTYvME/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=CzSmZvTYvME",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "b188ced7265ccaa29e24012a00ad401a2ec2c112218d3a85b1b25c54a0740c3b"
+  },
+  "dan-r20261117b-youtube-j4ltbwDegHg": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-j4ltbwDegHg.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/j4ltbwDegHg/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=j4ltbwDegHg",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "6d6f2536eb35d31c0742c6f711e1addb4f8b201edf46d46f592d2bb4d29c9b9d"
+  },
+  "dan-r20261117b-youtube-2kOGHcN8Avs": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-2kOGHcN8Avs.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/2kOGHcN8Avs/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=2kOGHcN8Avs",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "c71e57d1495da132c8b59b9c1288dba1cf1715aa2a55b8fe8737f8ad9141fd27"
+  },
+  "dan-r20261117b-youtube-gRIK2BYMrrc": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-gRIK2BYMrrc.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/gRIK2BYMrrc/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=gRIK2BYMrrc",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "1490ebcf1a5a6b8474bd7822980761325acb640ab92bcbdc63cc4fee840560f5"
+  },
+  "dan-r20261117b-youtube-yddBiuvcaFs": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-yddBiuvcaFs.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/yddBiuvcaFs/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=yddBiuvcaFs",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "acb13f171370763169d253c68ea55304899f10713ce490d411f1a81009c4a7f9"
+  },
+  "dan-r20261117b-youtube-_VhxCfUb2Ys": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-_VhxCfUb2Ys.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/_VhxCfUb2Ys/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=_VhxCfUb2Ys",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "13941f2cecf8de6c451b399bda18d49fa850e3f9e92c16a6fdf81750a951ed0e"
+  },
+  "dan-r20261117b-youtube-lU1wgq-2Isg": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-lU1wgq-2Isg.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/lU1wgq-2Isg/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=lU1wgq-2Isg",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "e71a2fee67221f1e7919fa79cbcd92b3c68d0260975655e621c64122e44d5447"
+  },
+  "dan-r20261117b-youtube-QOgR70Y3nBw": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-QOgR70Y3nBw.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/QOgR70Y3nBw/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=QOgR70Y3nBw",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "8e155e24c7d46f1958322c3bac28d481f77ba6dfbff8a8e25f879d4f9effde0a"
+  },
+  "dan-r20261117b-koecast-1f721486e8de": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-1f721486e8de.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/RS9qrdJLdmU/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/The-Future-Of-Work-Avoid-Learning-These-Skills-e2mia98",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "ac09a6accc236a7fd095ad81faf4420104dfbf4d246d583562180c906b1d5c8c"
+  },
+  "dan-r20261117b-youtube-jNUFWPqz3Wk": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-jNUFWPqz3Wk.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/jNUFWPqz3Wk/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=jNUFWPqz3Wk",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "88020d89562fb472fff3acb92eb59d7e023b250285afa3f47a55ce4a9aec06fe"
+  },
+  "dan-r20261117b-koecast-c6ad5a5eff1a": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-c6ad5a5eff1a.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/tkrlxYTRU_M/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/Learn-This-Skill-If-You-Want-To-Be-Relevant-In-10-Years-e2m03rv",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "d99a5176cdf14c1eca9308cfc0ded1d5b784ae6d2ba6a82fdba5e3baffbce63b"
+  },
+  "dan-r20261117b-youtube-hSi6tr0ZUSQ": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-hSi6tr0ZUSQ.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/hSi6tr0ZUSQ/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=hSi6tr0ZUSQ",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "f2ddc019a4142ac8c431b9452f3277d87fb814371678c726e3efcd698654b84d"
+  },
+  "dan-r20261117b-youtube-fJKeB3fz4_Q": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-fJKeB3fz4_Q.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/fJKeB3fz4_Q/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=fJKeB3fz4_Q",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "e260a84477ff11302fa0caf60e28f188d4de047c58bb968c5afa86c70cfd5812"
+  },
+  "dan-r20261117b-youtube-rSe3QZ151nY": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-rSe3QZ151nY.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/rSe3QZ151nY/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=rSe3QZ151nY",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "20973cd58dc07b399332195e47d9da24dcda3764222278f05ed827c093bb627e"
+  },
+  "dan-r20261117b-youtube-IgWeGmmiw7Q": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-IgWeGmmiw7Q.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/IgWeGmmiw7Q/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=IgWeGmmiw7Q",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "c225453949ebd8de587083f35f0606cd0ed153e48a3d4f71cbcf746572a08018"
+  },
+  "dan-r20261117b-youtube-vNObjIoMe_w": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-vNObjIoMe_w.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/vNObjIoMe_w/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=vNObjIoMe_w",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "f09673b683352e9b0b48bcaf4245a9ad7f4e9551ac83e1218d24374bbe1b4fec"
+  },
+  "dan-r20261117b-youtube-9Gwp-bqzxwQ": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-9Gwp-bqzxwQ.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/9Gwp-bqzxwQ/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=9Gwp-bqzxwQ",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "101928951165d7db68fe410fd01bfd275fd38b7a737f153e44d611bb6bf582ca"
+  },
+  "dan-r20261117b-koecast-267a4924f970": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-267a4924f970.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/reLmDf_PIvI/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/Disappear-And-Come-Back-Unrecognizable-12-Rules-To-Change-Your-Life-e2icmgh",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "ba86b3fee6bffffa94b62d92e91e9da95f7e4d48d6f0e4f9741c57092f2d9a7e"
+  },
+  "dan-r20261117b-youtube-ReyMCKC-FwU": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-ReyMCKC-FwU.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/ReyMCKC-FwU/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=ReyMCKC-FwU",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "d2d4176ead6db91a31cb674c63c48ce65a1d069149e84cbe0fb4847e4064f280"
+  },
+  "dan-r20261117b-youtube-JI3ajrxdLEk": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-JI3ajrxdLEk.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/JI3ajrxdLEk/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=JI3ajrxdLEk",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "6de4be2b7ed9e15dc00c3070c556c26466b0109acf6168e8649fe7907781f9dc"
+  },
+  "dan-r20261117b-youtube-QTpx8BcCnTg": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-QTpx8BcCnTg.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/QTpx8BcCnTg/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=QTpx8BcCnTg",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "7e99f5393a0d05ec85122cf9d4acd0c8f1ca93874a743edc6fc5911db791b1ea"
+  },
+  "dan-r20261117b-youtube-KTgakWW0Rzw": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-KTgakWW0Rzw.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/KTgakWW0Rzw/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=KTgakWW0Rzw",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "6d0c1142ea54d245a7bdae6404c9a6766c71e90ca43f9d8e791eb87a789ae76e"
+  },
+  "dan-r20261117b-youtube-jCIoQF6PjzM": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-jCIoQF6PjzM.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/jCIoQF6PjzM/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=jCIoQF6PjzM",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "14bf3feed06407358a86c8c82f3635538e8e4e2f3dbdb5073bc925747a445055"
+  },
+  "dan-r20261117b-youtube-DPcw7ZA4LJA": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-DPcw7ZA4LJA.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/DPcw7ZA4LJA/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=DPcw7ZA4LJA",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "9debbcd1ff982354a2773722b55df1c761067f2ea8b7e2787d99f1964617b33a"
+  },
+  "dan-r20261117b-koecast-520ae00de954": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-520ae00de954.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/5_PchY1xXlo/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/Disappear-For-2-4-Hours-A-Day-The-Millionaire-Productivity-Routine-e2g20nn",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "bded629a3daa7235e11758a81421289e39ff286d8841436eef4240b9e5ea7c0a"
+  },
+  "dan-r20261117b-youtube-h7pJO8e52IM": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-h7pJO8e52IM.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/h7pJO8e52IM/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=h7pJO8e52IM",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "36babd617c3a8426aef2c47cfe63d123e660f7c1836da840376893ee4184b058"
+  },
+  "dan-r20261117b-youtube-KrCzMfvSDv0": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-KrCzMfvSDv0.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/KrCzMfvSDv0/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=KrCzMfvSDv0",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "d1ecd38143b5dc31870d77b684632a1dc7c887b392fa3be7678a0e410481393e"
+  },
+  "dan-r20261117b-youtube-SUzKZfyaAK8": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-SUzKZfyaAK8.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/SUzKZfyaAK8/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=SUzKZfyaAK8",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "2272e34e0399c58f86179ba3a28488aa110c434e08cc063da44559455bfa6c41"
+  },
+  "dan-r20261117b-koecast-075a3fc3a1cd": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-075a3fc3a1cd.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/l9-4lWrYAVw/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/Zero-To-1-Million-As-A-One-Person-Business-Working-2-4-Hours-A-Day-e2g8nlb",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "50f3a565fcada971218e5dddccf890fb0a607ea22379e04cafa91cf5be030e9e"
+  },
+  "dan-r20261117b-koecast-d7f1fd1524a1": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-d7f1fd1524a1.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/iX5CgAwxAtc/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/The-Art-Of-Focus--Official-Book-Summary-By-The-Author-Dan-Koe-e2ek7tk",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "1d571676684ad0f0ee5021d3c13a286a7845a47e0a21b04f6c25060b7b6bf781"
+  },
+  "dan-r20261117b-youtube-7wMY5MsKEkM": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-7wMY5MsKEkM.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/7wMY5MsKEkM/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=7wMY5MsKEkM",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "a7025d45b50eda5625ffe8214c32c6277fd0f9ba9bcc9c40f177aecf2a5edf17"
+  },
+  "dan-r20261117b-youtube-_VLZ4b9LHLs": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-_VLZ4b9LHLs.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/_VLZ4b9LHLs/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=_VLZ4b9LHLs",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "89427e6adb2a9398e6b94e4e2b9be7717b2fa46b6d297efb5ea10d21a4628963"
+  },
+  "dan-r20261117b-koecast-a78deaf46c11": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-a78deaf46c11.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/h_r6Mo8EDic/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/You-Wont-Be-The-Same-Person-In-6-Months-Master-Anything--Fast-e2dc3os",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "b3216c4cecae6a2a3b33a71e17c39fadd8b7dbdc57849e3e54228a21d20c200b"
+  },
+  "dan-r20261117b-koecast-aa70cabed20a": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-aa70cabed20a.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/2DTZ6Kcdtmk/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/Turn-Your-Knowledge-Into-A-Business-How-To-Productize-Your-Mind-e2cecsi",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "c5bd46cbf85da63f75d83671f12c3310b693a53a7ca4e06fc8d568d4552782ac"
+  },
+  "dan-r20261117b-koecast-7d03a0ce8463": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-7d03a0ce8463.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/fXhmecN-AFw/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/The-Future-Of-Work-Is-Play-How-To-Create-A-Digital-Career-e2ds0jf",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "5f827ffbdb9d67db366febfbbbf977d4e0cf58a5999a7a6cbbd7ab3e2a67cdf3"
+  },
+  "dan-r20261117b-youtube-wXcEtxlrPMA": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-wXcEtxlrPMA.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/wXcEtxlrPMA/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=wXcEtxlrPMA",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "663550a403565fe268680a56abcc4d4be4430f247fceb853bc69ec9526512511"
+  },
+  "dan-r20261117b-koecast-8f9147ede47b": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-8f9147ede47b.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/M6dhlz8hhe0/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/The-Daily-Routine-That-Changed-My-Life-4-Habits-Most-People-Ignore-e2c4jlc",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "50ea6b3bb6d708271f9398275d89e24b3b6e37ab1ab6851c4d18be14d63f8aea"
+  },
+  "dan-r20261117b-koecast-8709b4e8a95c": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-8709b4e8a95c.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/fY7B5ZermSw/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/How-Intelligent-Creators-Will-Make-Money-In-2024-The-Build-Teach-Earn-Method-e2cosg7",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "8cfd0a9352ac98c5711eff215bcf64ea30541783491c54d7d3434292f8e26fd4"
+  },
+  "dan-r20261117b-youtube-iD1jJMz9zOs": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-iD1jJMz9zOs.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/iD1jJMz9zOs/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=iD1jJMz9zOs",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "7ae6d8d454e7f8ad7deacc947dd3a496081c3110a2892511c1c41b1b5b2a7386"
+  },
+  "dan-r20261117b-youtube-j5S5a7_pk60": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-j5S5a7_pk60.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/j5S5a7_pk60/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=j5S5a7_pk60",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "2d20947d8ee6aed8dc60648da2580e8a494d7b9c593e14bb43c8d17ad04ab860"
+  },
+  "dan-r20261117b-koecast-6d20e8bc4889": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-6d20e8bc4889.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/6XSim-zigGA/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/Micro-Education-Businesses-Are-The-Future--How-To-Start-With-Zero-Dollars-e29eko9",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "e01dbfaa0efb14d566b83ad88ebc7e0c07ba8a5043ca3ef66e1a3142b5391435"
+  },
+  "dan-r20261117b-youtube-kVj7Py4Yor4": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-kVj7Py4Yor4.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/kVj7Py4Yor4/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=kVj7Py4Yor4",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "1dbcc3702d0d999f353e8a834c8bf96c9cf428989a259c7e73fc9bcbf4bf8bfb"
+  },
+  "dan-r20261117b-koecast-08280cea3075": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-08280cea3075.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/gtMqg_QWMzA/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/How-To-Make-1-Million-A-Year-As-An-Internet-Writer-e2aakt0",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "90bd31d5d66b72adde4a7eb3eeb93ddbd967b0157e559fa40799a2306930c361"
+  },
+  "dan-r20261117b-youtube-XV5-PHwzubY": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-XV5-PHwzubY.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/XV5-PHwzubY/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=XV5-PHwzubY",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "d0ef8e6c1cb649f8e3f89b6e2c11d35494349666916dc4787cf6afe666050f9f"
+  },
+  "dan-r20261117b-koecast-f25c540efabf": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-f25c540efabf.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/eDoUahe4BLk/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/The-Cure-To-A-Mediocre-Life-Become-Multidimensionally-Jacked-e28nadj",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "8098ae6661fa821d175d6c243d1b10294ce0f0633ad50776ac9c0f7587933cab"
+  },
+  "dan-r20261117b-youtube-BoxC63ZvCnU": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-BoxC63ZvCnU.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/BoxC63ZvCnU/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=BoxC63ZvCnU",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "2a732fe0ab1df284e1c588922d40512d8898b524d3b0be2d5db81dfb4400c458"
+  },
+  "dan-r20261117b-koecast-6ea10f83c3fb": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-6ea10f83c3fb.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/ZcegvPYE2MI/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/Life-Is-A-Video-Game-You-Cant-Escape-The-Matrix-e28vanu",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "41b9d59221536676aa09ab8f7fcae2a640a5c0b9cd2672948376966ed00c5a20"
+  },
+  "dan-r20261117b-youtube-pK02W9y8PYo": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-pK02W9y8PYo.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/pK02W9y8PYo/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=pK02W9y8PYo",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "7fbcd4c4c0f21170ed837636299f73af285a738090ec35f406e82062c5901481"
+  },
+  "dan-r20261117b-youtube-SKI8FcKXQkg": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-SKI8FcKXQkg.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/SKI8FcKXQkg/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=SKI8FcKXQkg",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "4418d729ec6f1a0eb4fd3f8bef4cb66c7aaf7b70823330fa5fc1b3eb194abce2"
+  },
+  "dan-r20261117b-koecast-f7af69b3461b": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-f7af69b3461b.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/U1tVnANCDH0/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/You-Arent-Successful-Because-You-Care-Too-Much-How-To-Stop-e27t4ul",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "341cc32e6b2f38772ebafb0a81b9ae2daac894914be315999ce2b9b92a87729b"
+  },
+  "dan-r20261117b-koecast-dce35be50b7e": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-dce35be50b7e.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/48LrD1SW20I/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/I-Had-To-Learn-These-High-Income-Skills-If-I-Wanted-To-Make-Money-e28elk5",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "c0ca402dac8436060e0cb75778dd106f0a751562602b91f8124e31e49ef91e77"
+  },
+  "dan-r20261117b-koecast-e46c2d58687d": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-e46c2d58687d.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/PhbJLu0RFHQ/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/The-Value-Creator-A-New-Internet-Career-Path-For-Intelligent-People-e273sat",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "65f311bc2adfa5edd567c2c84260660f814a5f72e95c39edfa2450a8345b42fa"
+  },
+  "dan-r20261117b-koecast-948ab8bfe953": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-948ab8bfe953.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/EdrNo3w_EWc/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/A-Full-Guide-To-Reinvent-Your-Life-In-6-12-Months-e27bt1l",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "53a554a1401adcaeaf45ec7cddca38d880a2e3ba78354072c8e3462d0759c02d"
+  },
+  "dan-r20261117b-koecast-e0c954039839": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-e0c954039839.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/qHNzBdTr_54/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/How-To-Escape-Wage-Slavery-Entrepreneurship-Is-Modern-Survival-e27kf9l",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "a701e6691935661cb85f65158f2f799eed0c74978faae27a2406d5eee1abe07e"
+  },
+  "dan-r20261117b-koecast-ee672bfa19f2": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-ee672bfa19f2.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/a6GdcCYxZUE/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/Niche-Down-Is-Terrible-Advice-For-Smart-People-e26huvb",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "1b386af52b03808a24588f44f0ee0bc64e38b8f84a031e8dbee5bc23c3e6009c"
+  },
+  "dan-r20261117b-koecast-6ea687dff928": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-6ea687dff928.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/83O-aP6ISyM/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/Focus-Is-A-Superpower-Take-Back-Control-Of-Your-Life-e26r7uq",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "4595ab3565ffa964ca73f89165167d1ca9116e39d5b1096456c7e8979d1bdc87"
+  },
+  "dan-r20261117b-youtube-ZdtU6TKD1qo": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-ZdtU6TKD1qo.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/ZdtU6TKD1qo/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=ZdtU6TKD1qo",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "e4eecb2d3510b8408d8f228d01389cea8eccf1ebf033c40fab9f82e95adcf20e"
+  },
+  "dan-r20261117b-koecast-31b067a929a9": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-31b067a929a9.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/RV9rlD6rHRo/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/Get-Mad-At-Where-You-Are-In-Life-A-Deep-Explanation-e25jho2",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "4f86af3156a1fde482e681d2f6e1dbf906083bc7043a47967d779ba56fe28c50"
+  },
+  "dan-r20261117b-youtube-r1LI1-K08II": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-r1LI1-K08II.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/r1LI1-K08II/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=r1LI1-K08II",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "72c1d8254459a442a519f95cc5f9e4056871641358212925d589a57ce8939126"
+  },
+  "dan-r20261117b-youtube-YW7yTzqedu8": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-YW7yTzqedu8.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/YW7yTzqedu8/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=YW7yTzqedu8",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "b5e6650c6635f9775087b795cac9f5d72483ca7febe8c9e4fd04f746ad3af0ed"
+  },
+  "dan-r20261117b-youtube-D1PaYO1sC5k": {
+    "file": "assets/covers/other-dan-r20261117b-youtube-D1PaYO1sC5k.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/D1PaYO1sC5k/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=D1PaYO1sC5k",
+    "credit": "封面来源：Dan Koe · YouTube；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "c6da61f2801763f5cbab22fc648b266fc79c8c2b0bb270d359996bf7bc839c38"
+  },
+  "dan-r20261117b-koecast-77268537e1a6": {
+    "file": "assets/covers/other-dan-r20261117b-koecast-77268537e1a6.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/QoBCtcWO02g/maxresdefault.jpg",
+    "pageUrl": "https://podcasters.spotify.com/pod/show/the-koe-cast/episodes/The-One-Person-Business-Model-2-0-Turn-Yourself-Into-A-Business-e26663v",
+    "credit": "封面来源：Dan Koe · The Koe Cast；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "7efeec7b49b27304c0713561ce79b1149c7163126bfa665c6d3ebb409068a8a1"
+  },
+  "alex-game-667-23ac4dc15af6": {
+    "file": "assets/covers/other-alex-game-667-23ac4dc15af6.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/FXzDLLdxsCk/maxresdefault.jpg",
+    "pageUrl": "https://pscrb.fm/rss/p/episode.flightcast.com/czl0zz281eqooqy8r7490td4.mp3",
+    "credit": "封面来源：Acquisition.com · The Game 官方RSS；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "30f5895f9096af66ec2b800e7066caa3d8addececba370c30998298d36f627f0"
+  },
+  "alex-game-664-cebe3db41c33": {
+    "file": "assets/covers/other-alex-game-664-cebe3db41c33.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/jvXOOddDg_s/maxresdefault.jpg",
+    "pageUrl": "https://pscrb.fm/rss/p/episode.flightcast.com/q4kpi0x9die3s4uvojhv99dt.mp3",
+    "credit": "封面来源：Acquisition.com · The Game 官方RSS；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "4858659036279f12c65eb58454b936e0b1a7f8f360018219f5923e06e34e8bca"
+  },
+  "alex-game-657-8b7aac04fcd1": {
+    "file": "assets/covers/other-alex-game-657-8b7aac04fcd1.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/Gk8EGWoGnEQ/maxresdefault.jpg",
+    "pageUrl": "https://pscrb.fm/rss/p/episode.flightcast.com/tchijt83yf1ruibbca5a5gmr.mp3",
+    "credit": "封面来源：Acquisition.com · The Game 官方RSS；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "724545f23433e4c1fd464cd21d12055252f6ef24e1d2b6501521ffcafdd7a855"
+  },
+  "alex-game-656-6765bdae80eb": {
+    "file": "assets/covers/other-alex-game-656-6765bdae80eb.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/QGcjweehrvU/maxresdefault.jpg",
+    "pageUrl": "https://pscrb.fm/rss/p/episode.flightcast.com/qc9m4dl1fsc8s3svnthl73qa.mp3",
+    "credit": "封面来源：Acquisition.com · The Game 官方RSS；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "346463553bef611e870f1ffe070d1263dc5b634a4430f21eaac276d3e070a66e"
+  },
+  "alex-game-619-1a1cd1446310": {
+    "file": "assets/covers/other-alex-game-619-1a1cd1446310.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/mHrAjWni65E/maxresdefault.jpg",
+    "pageUrl": "https://pscrb.fm/rss/p/episode.flightcast.com/wt6a7542oo1ha2jlwsy37rtr.mp3",
+    "credit": "封面来源：Acquisition.com · The Game 官方RSS；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "718afa02c2fafeb80e3377d4bc23b0a723cbf83e5048d2e6d9bde09d107a986d"
+  },
+  "alex-game-612-974b59ea2ad8": {
+    "file": "assets/covers/other-alex-game-612-974b59ea2ad8.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/iGAT6i1qE8g/maxresdefault.jpg",
+    "pageUrl": "https://pscrb.fm/rss/p/episode.flightcast.com/mmzuhws4uu90l4kymoylufpt.mp3",
+    "credit": "封面来源：Acquisition.com · The Game 官方RSS；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "229fa05381f1ee82e4e1741a4550054eeb9fc8f44159064160d3ef5c47a9a1f3"
+  },
+  "alex-game-608-292d1cbd3eb7": {
+    "file": "assets/covers/other-alex-game-608-292d1cbd3eb7.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/42SOlVhDwWE/maxresdefault.jpg",
+    "pageUrl": "https://pscrb.fm/rss/p/episode.flightcast.com/ewly5i8yxiv66iejiiea5kpd.mp3",
+    "credit": "封面来源：Acquisition.com · The Game 官方RSS；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "1ac401e4e6deeed67d5257e20bde240f477daf58b9db60cd72f69b6e19cfddef"
+  },
+  "alex-game-610-92b160e5889d": {
+    "file": "assets/covers/other-alex-game-610-92b160e5889d.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/ln24y0FPJHo/maxresdefault.jpg",
+    "pageUrl": "https://pscrb.fm/rss/p/episode.flightcast.com/hwlu051jiif5kr3sis85ienz.mp3",
+    "credit": "封面来源：Acquisition.com · The Game 官方RSS；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "f5d3c757a363da906eb03b4ef9c5502605208843c07764dfbb911f5a0ed950d8"
+  },
+  "alex-game-631-adefba4da528": {
+    "file": "assets/covers/other-alex-game-631-adefba4da528.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/gpKz22P84iM/maxresdefault.jpg",
+    "pageUrl": "https://pscrb.fm/rss/p/episode.flightcast.com/xtus9v5xuk0hb1rwz1zducvv.mp3",
+    "credit": "封面来源：Acquisition.com · The Game 官方RSS；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "e9089476a4acea39317d6fa1209bb1976824e8550a0071ade720d3f21222565d"
+  },
+  "alex-game-606-6331accd30c4": {
+    "file": "assets/covers/other-alex-game-606-6331accd30c4.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/UQhhFKEECmI/maxresdefault.jpg",
+    "pageUrl": "https://pscrb.fm/rss/p/episode.flightcast.com/jb0z94kb0vggu54cf5nxfxva.mp3",
+    "credit": "封面来源：Acquisition.com · The Game 官方RSS；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "0c973cd658818d97d0aab2309971d4cc05dbe78611e6a6e1eb31707d81079d50"
+  },
+  "alex-game-598-85fa2b41025d": {
+    "file": "assets/covers/other-alex-game-598-85fa2b41025d.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/c_6BrF7jOGk/maxresdefault.jpg",
+    "pageUrl": "https://pscrb.fm/rss/p/episode.flightcast.com/fnwvhr8ach9dy56o2m18h8yh.mp3",
+    "credit": "封面来源：Acquisition.com · The Game 官方RSS；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "0f6d80074169deb1f6630e8d54225ef636d91e236909c19b196e5d63e390eccd"
+  },
+  "alex-game-595-f63c16ff4bc1": {
+    "file": "assets/covers/other-alex-game-595-f63c16ff4bc1.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/HKbFUWJwEG0/maxresdefault.jpg",
+    "pageUrl": "https://pscrb.fm/rss/p/episode.flightcast.com/fo2s7z73e4ul884850b4pryz.mp3",
+    "credit": "封面来源：Acquisition.com · The Game 官方RSS；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "53185d43610a1f6b5128b2410b7d1a70b6ba9e357bbd1b5ca28c4e840433fc38"
+  },
+  "alex-game-583-afc3581f93a5": {
+    "file": "assets/covers/other-alex-game-583-afc3581f93a5.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/Nh8Oc7ERdIU/maxresdefault.jpg",
+    "pageUrl": "https://pscrb.fm/rss/p/episode.flightcast.com/vytlvp0x2mj3kghbqkoo2url.mp3",
+    "credit": "封面来源：Acquisition.com · The Game 官方RSS；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "51f0480f47dd201812c630996800300ce28ac094ec4c88faa3198dfc494dc830"
+  },
+  "alex-game-547-1086ead428af": {
+    "file": "assets/covers/other-alex-game-547-1086ead428af.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/QtE6kk0158o/hqdefault.jpg",
+    "pageUrl": "https://pscrb.fm/rss/p/episode.flightcast.com/i1i7a6h8jfsa229zedmlvuq5.mp3",
+    "credit": "封面来源：Acquisition.com · The Game 官方RSS；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 480,
+    "height": 360,
+    "sha256": "284bfede38bdba620dbba0870e195edcba3f75a2843e1288c6021e3700fd6cf0"
+  },
+  "alex-game-530-b0c99fb1ba8b": {
+    "file": "assets/covers/other-alex-game-530-b0c99fb1ba8b.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/zpF4PaG0w6A/maxresdefault.jpg",
+    "pageUrl": "https://pscrb.fm/rss/p/episode.flightcast.com/wzukxmpi1dk33i9lgekrlu3y.mp3",
+    "credit": "封面来源：Acquisition.com · The Game 官方RSS；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "a622fecef01a553910478fec659e2681a4ab6c169554ba18530d3bf3a6443d23"
+  },
+  "alex-game-403-fc5be09b7148": {
+    "file": "assets/covers/other-alex-game-403-fc5be09b7148.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/2YHJ6VV_Ohg/hqdefault.jpg",
+    "pageUrl": "https://pscrb.fm/rss/p/episode.flightcast.com/m97hajlahe3na1u2d8dxgdbc.mp3",
+    "credit": "封面来源：Acquisition.com · The Game 官方RSS；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 480,
+    "height": 360,
+    "sha256": "edeb8eec4fad697ae9ec2ee0ccc9b1e98c690a104e7f625059e1e5c08eb0a6af"
+  },
+  "alex-game-1015-e3d58a7cfc6f": {
+    "file": "assets/covers/other-alex-game-1015-e3d58a7cfc6f.jpg",
+    "sourceUrl": "https://files.flightcast.com/workspaces/nb70npdrh8ux1i431tcvbz44/podcasts/zz5nwp81tktx53wb8fw6qq7j/cgn395ohauyt6r8q4kliieoi.jpg",
+    "pageUrl": "https://pscrb.fm/rss/p/episode.flightcast.com/01M75Z12MAHM45CTZE26VV9P3S.mp3",
+    "credit": "封面来源：Acquisition.com · The Game 官方RSS；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 3000,
+    "height": 3000,
+    "sha256": "739dfb4d69fc773492aeba8398868c3802aa13d05ae2454b1497af8cfaca6770"
+  },
+  "alex-game-1012-eb360b3febf2": {
+    "file": "assets/covers/other-alex-game-1015-e3d58a7cfc6f.jpg",
+    "sourceUrl": "https://files.flightcast.com/workspaces/nb70npdrh8ux1i431tcvbz44/podcasts/zz5nwp81tktx53wb8fw6qq7j/cgn395ohauyt6r8q4kliieoi.jpg",
+    "pageUrl": "https://pscrb.fm/rss/p/episode.flightcast.com/01M6FGDR2QW0FGR04SBTZ7QZXK.mp3",
+    "credit": "封面来源：Acquisition.com · The Game 官方RSS；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 3000,
+    "height": 3000,
+    "sha256": "739dfb4d69fc773492aeba8398868c3802aa13d05ae2454b1497af8cfaca6770"
+  },
+  "alex-game-1011-09f16b19c2b3": {
+    "file": "assets/covers/other-alex-game-1015-e3d58a7cfc6f.jpg",
+    "sourceUrl": "https://files.flightcast.com/workspaces/nb70npdrh8ux1i431tcvbz44/podcasts/zz5nwp81tktx53wb8fw6qq7j/cgn395ohauyt6r8q4kliieoi.jpg",
+    "pageUrl": "https://pscrb.fm/rss/p/episode.flightcast.com/01M62MV5RDHVJNT3P8VBH08PT9.mp3",
+    "credit": "封面来源：Acquisition.com · The Game 官方RSS；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-episode-image",
+    "width": 3000,
+    "height": 3000,
+    "sha256": "739dfb4d69fc773492aeba8398868c3802aa13d05ae2454b1497af8cfaca6770"
+  },
+  "tim-show-636": {
+    "file": "assets/covers/other-tim-show-636.jpg",
+    "sourceUrl": "https://tim.blog/wp-content/uploads/2022/11/COCKPUNCH-TWITTER-Logo-with-Background-scaled.jpg",
+    "pageUrl": "https://tim.blog/2022/11/18/the-legend-of-cockpunch/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-og",
+    "width": 2560,
+    "height": 1440,
+    "sha256": "c1db43b5eb0b499f435891413f50fe326caac98202bc98f8825425a3757b47c3"
+  },
+  "tim-show-682": {
+    "file": "assets/covers/other-tim-show-682.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/wR08_hJ7V84/maxresdefault.jpg",
+    "pageUrl": "https://tim.blog/2023/07/19/bill-gurley-interviews-tim-ferriss/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "76343f5a26d970304867738e4e6815fb3ebe191844d286cdcf6a36e84d5d1f8a"
+  },
+  "tim-show-500": {
+    "file": "assets/covers/other-tim-show-500.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/6NnwSKHZwM8/maxresdefault.jpg",
+    "pageUrl": "https://tim.blog/2021/02/23/episode-500-kevkev-timtim-talktalk/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "612797407521164fb2ecc8f2616348a1e8076601b71964073c8eba6775cc3a0e"
+  },
+  "tim-show-538": {
+    "file": "assets/covers/other-tim-show-538.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/8JOt7ExgEyM/maxresdefault.jpg",
+    "pageUrl": "https://tim.blog/2021/10/14/how-i-built-the-tim-ferriss-show-podcast/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "ba7b21b40e2516ddfcaa6d685c7a80bc45e1487bc66975310c21fa37b36ef4d9"
+  },
+  "tim-show-594": {
+    "file": "assets/covers/other-tim-show-594.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/rjZUq0SWqMk/hqdefault.jpg",
+    "pageUrl": "https://tim.blog/2022/05/17/cal-newport-and-tim-ferriss-revisit-the-4-hour-workweek/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 480,
+    "height": 360,
+    "sha256": "95e1083d39a2e93ec5d08ed2ccf1bdaada20362c88e8fab85f2208d228b91dfd"
+  },
+  "tim-show-352": {
+    "file": "assets/covers/other-tim-show-352.jpg",
+    "sourceUrl": "https://tim.blog/wp-content/uploads/2018/12/Peter_Attia_Blog.jpg",
+    "pageUrl": "https://tim.blog/2018/12/13/peter-attia-vs-tim-ferriss/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-og",
+    "width": 1086,
+    "height": 724,
+    "sha256": "ea71f3c035d6383ce1b651bb272c50cec320e2cb524a6294e37b3cb5a06a8c03"
+  },
+  "tim-show-130": {
+    "file": "assets/covers/other-tim-show-130.jpg",
+    "sourceUrl": "https://tim.blog/wp-content/uploads/2016/01/power-of-broke.jpg?quality=80&strip=all",
+    "pageUrl": "https://tim.blog/2016/01/06/daymond-john-and-how-to-turn-weaknesses-into-strengths/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-og",
+    "width": 333,
+    "height": 499,
+    "sha256": "200b3ee9915350186815406142ee435a9736f31a4931e419ce0e5cefd6e461bf"
+  },
+  "tim-show-324": {
+    "file": "assets/covers/other-tim-show-324.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/4qSYbRSgyPI/hqdefault.jpg",
+    "pageUrl": "https://tim.blog/2018/06/30/cal-fussman-corners-tim-ferriss/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 480,
+    "height": 360,
+    "sha256": "a60142497677a2dda841113f270ae58c889b24b0773416b76c187457e25218d5"
+  },
+  "tim-show-167": {
+    "file": "assets/covers/other-tim-show-167.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/0O5P7VD_UYY/hqdefault.jpg",
+    "pageUrl": "https://tim.blog/2016/06/18/jamie-foxx-part-2-bringing-the-thunder/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 480,
+    "height": 360,
+    "sha256": "f751be3bc348717eb9ab1a5d8d50b4c17d4542aaf44d89309c92222995e12d42"
+  },
+  "tim-show-162": {
+    "file": "assets/covers/other-tim-show-162.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2016/05/how-to-be-tim-ferriss-on-the-tim-ferriss-show3.jpg?fit=750%2C640&ssl=1",
+    "pageUrl": "https://tim.blog/2016/05/27/how-to-be-tim-ferriss-featuring-freakonomics/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-og",
+    "width": 750,
+    "height": 640,
+    "sha256": "c2a11e42616a2fa38bc1fe52a17dad5f3f3ab43ce28a5e316bf0604f352e48a3"
+  },
+  "tim-external-spi-51": {
+    "file": "assets/covers/other-tim-external-spi-51.jpg",
+    "sourceUrl": "https://www.smartpassiveincome.com/wp-content/uploads/2023/12/Podcasts-2012-legacy-posts.jpg",
+    "pageUrl": "https://www.smartpassiveincome.com/podcasts/tim-ferriss/",
+    "credit": "封面来源：Smart Passive Income · Pat Flynn；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-og",
+    "width": 2000,
+    "height": 960,
+    "sha256": "a2cad7c86d60a34bd9fa9dc20dcf954a769f3414d96b6ce001fe12a5e83d8d5a"
+  },
+  "tim-external-spi-110": {
+    "file": "assets/covers/other-tim-external-spi-110.jpg",
+    "sourceUrl": "https://www.smartpassiveincome.com/wp-content/uploads/2023/12/05-May-SPI-110-1.jpg",
+    "pageUrl": "https://www.smartpassiveincome.com/podcasts/tim-ferriss-on-podcasting-productivity-experimentation/",
+    "credit": "封面来源：Smart Passive Income · Pat Flynn；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-og",
+    "width": 2000,
+    "height": 960,
+    "sha256": "590e75d8183746db414370c83f4026c25a3bd2536b5277f95e692decebe41c5f"
+  },
+  "tim-show-464": {
+    "file": "assets/covers/other-tim-show-464.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/w9rvOfdk10c/hqdefault.jpg",
+    "pageUrl": "https://tim.blog/2020/09/14/how-to-heal-trauma/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 480,
+    "height": 360,
+    "sha256": "c9ec85f18680705e2697ca59ef1fa94e2a084ecb57021b8d33adfe31a7d76934"
+  },
+  "tim-show-458": {
+    "file": "assets/covers/other-tim-show-458.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/8K5sJuTbQvY/hqdefault.jpg",
+    "pageUrl": "https://tim.blog/2020/09/03/psychedelic-news-hour/",
+    "credit": "封面来源：The Tim Ferriss Show · 官方 RSS / tim.blog；版权归原权利方，仅作该条资料索引配图",
+    "kind": "youtube-thumbnail",
+    "width": 480,
+    "height": 360,
+    "sha256": "9e6ec5e4cd6e0f2d50e46a9dd0aaa94f5d1875d43b9fc5be5d56f4bf61d063d7"
+  },
+  "tim-external-altucher-196": {
+    "file": "assets/covers/other-tim-external-altucher-196.jpg",
+    "sourceUrl": "https://archive.jamesaltucher.com/wp-content/uploads/2016/12/tim-ferriss-altucher-show-1.jpg",
+    "pageUrl": "https://archive.jamesaltucher.com/podcast/tim-ferriss/",
+    "credit": "封面来源：The James Altucher Show · 官方档案；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-og",
+    "width": 740,
+    "height": 420,
+    "sha256": "349b27aac64ad1b4e966a0784dc9ae6f38664c8657afb1ee2b21987ed4b8bc14"
+  },
+  "tim-external-designmatters-2025": {
+    "file": "assets/covers/other-tim-external-designmatters-2025.jpg",
+    "sourceUrl": "https://i0.wp.com/designmattersmedia.com/wp-content/uploads/2025/08/1754270590997-64a8da50-e729-4505-8227-3b8fb367b60a-scaled.jpeg?fit=1200%2C1200&quality=89&ssl=1",
+    "pageUrl": "https://designmattersmedia.com/podcast/tim-ferriss/",
+    "credit": "封面来源：Design Matters · 官方原集与重播转录；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 1200,
+    "sha256": "30c177f127d554445a348945c004cd6abf2a051741e89731b831877beeda247c"
+  },
+  "tim-external-altucher-281": {
+    "file": "assets/covers/other-tim-external-altucher-281.png",
+    "sourceUrl": "https://archive.jamesaltucher.com/wp-content/uploads/2017/11/tim-ferriss.png",
+    "pageUrl": "https://archive.jamesaltucher.com/podcast/tim-ferriss-using-a-new-lens-to-make-life-easier/",
+    "credit": "封面来源：The James Altucher Show · 官方档案；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-og",
+    "width": 740,
+    "height": 400,
+    "sha256": "127d65e4be12720dc11e1f17c9cb16a6af7e2599c77c70ae27af4c0837ec0633"
+  },
+  "tim-external-altucher-109": {
+    "file": "assets/covers/other-tim-external-altucher-109.jpg",
+    "sourceUrl": "https://jamesaltucher-uploads.s3.amazonaws.com/wp-content/uploads/2018/12/11175056/home-hero-facebook.jpg",
+    "pageUrl": "https://archive.jamesaltucher.com/podcast/ferriss/",
+    "credit": "封面来源：The James Altucher Show · 官方档案；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 630,
+    "sha256": "2de48573874db02292bfbdc82b26f61c0f6519f0b1a0c9a7d3ddb9994b232bea"
+  },
+  "tim-external-20vc-2025": {
+    "file": "assets/covers/other-tim-external-20vc-2025.png",
+    "sourceUrl": "https://framerusercontent.com/images/qsHIxH1l2DbEKbdoep6x4KBLj4.png?width=832&height=500",
+    "pageUrl": "https://www.thetwentyminutevc.com/tim-ferriss",
+    "credit": "封面来源：20VC · Harry Stebbings；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-og",
+    "width": 832,
+    "height": 500,
+    "sha256": "6a97d4aa91b204d64ff95e93b69db5b627b827dce3fd540a76b1a4f499317366"
+  },
+  "tim-external-hbs-case-2025": {
+    "file": "assets/covers/other-tim-external-hbs-case-2025.png",
+    "sourceUrl": "https://hbr.org/resources/images/article_assets/2025/02/wide-cold-call-25.png",
+    "pageUrl": "https://hbr.org/podcast/2025/10/tim-ferriss-at-a-career-crossroads-how-should-he-shape-his-next-chapter",
+    "credit": "封面来源：Harvard Business School · Cold Call；版权归原权利方，仅作该条资料索引配图",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 676,
+    "sha256": "995bd33d151eb8255ab3f9bcda33ce38823f76ecf44ae67972a40a71b58c958b"
   }
 };

@@ -268,5 +268,2837 @@
     "importedChineseReadings": 586,
     "attribution": "elon.qiaomu.ai 中文精读（AI 改写，非官方翻译）",
     "scope": "以来源条目计数；同一原始链接归并，已识别的同场重传及分段标为来源版本。资料总数不等于独立访谈场次。原站AI中文精读署名转载，英文文稿和媒体未托管。"
+  },
+  "otherArchives": {
+    "checkedAt": "2026-11-17",
+    "sourceRecords": 2822,
+    "added": 2821,
+    "batches": [
+      {
+        "file": "research-20261117b-naval-dan.json",
+        "status": "complete",
+        "sourceRecords": 853,
+        "coverage": {
+          "checkedAt": "2026-11-17",
+          "status": "frozen",
+          "existing": {
+            "naval": 37,
+            "dan": 31
+          },
+          "naval": {
+            "officialArchiveTotal": 240,
+            "scope": "Complete nav.al WordPress posts API, 3 pages; article body available in evidence. Quotes by other authors, recruitment/personal announcements, empty content and link-only notes excluded.",
+            "excluded": [
+              {
+                "person": "naval",
+                "slug": "ai",
+                "title": "A Motorcycle for the Mind",
+                "url": "https://nav.al/ai",
+                "reason": "announcement, job, link-only, or very short personal note"
+              },
+              {
+                "person": "naval",
+                "slug": "hiring",
+                "title": "Hiring a Podcast Editor and Personal Chief of Staff",
+                "url": "https://nav.al/hiring",
+                "reason": "announcement, job, link-only, or very short personal note"
+              },
+              {
+                "person": "naval",
+                "slug": "the-need-for-indifference",
+                "title": "The Need for Indifference",
+                "url": "https://nav.al/the-need-for-indifference",
+                "reason": "empty content"
+              },
+              {
+                "person": "naval",
+                "slug": "a-founders-anxiety",
+                "title": "A Founder’s Anxiety",
+                "url": "https://nav.al/a-founders-anxiety",
+                "reason": "empty content"
+              },
+              {
+                "person": "naval",
+                "slug": "on-humility",
+                "title": "On Humility",
+                "url": "https://nav.al/on-humility",
+                "reason": "empty content"
+              },
+              {
+                "person": "naval",
+                "slug": "on-meditation",
+                "title": "On Meditation",
+                "url": "https://nav.al/on-meditation",
+                "reason": "empty content"
+              },
+              {
+                "person": "naval",
+                "slug": "the-truth-about-hard-work",
+                "title": "The truth about hard work",
+                "url": "https://nav.al/the-truth-about-hard-work",
+                "reason": "empty content"
+              },
+              {
+                "person": "naval",
+                "slug": "interview-on-entrepreneurship-up-at-gigaom-tv",
+                "title": "Interview on Entrepreneurship up at GigaOm TV",
+                "url": "https://nav.al/interview-on-entrepreneurship-up-at-gigaom-tv",
+                "reason": "announcement, job, link-only, or very short personal note"
+              },
+              {
+                "person": "naval",
+                "slug": "upcoming-sxsw-panel",
+                "title": "Venture Hacks Meetup and Panel at SXSW",
+                "url": "https://nav.al/upcoming-sxsw-panel",
+                "reason": "announcement, job, link-only, or very short personal note"
+              },
+              {
+                "person": "naval",
+                "slug": "self-promotion",
+                "title": "Self-Promotion",
+                "url": "https://nav.al/self-promotion",
+                "reason": "announcement, job, link-only, or very short personal note"
+              },
+              {
+                "person": "naval",
+                "slug": "live-appearance",
+                "title": "Live Appearance",
+                "url": "https://nav.al/live-appearance",
+                "reason": "announcement, job, link-only, or very short personal note"
+              },
+              {
+                "person": "naval",
+                "slug": "how-to-pick-a-co-founder-at-venture-hacks",
+                "title": "How to Pick a Co-Founder (at Venture Hacks)",
+                "url": "https://nav.al/how-to-pick-a-co-founder-at-venture-hacks",
+                "reason": "announcement, job, link-only, or very short personal note"
+              },
+              {
+                "person": "naval",
+                "slug": "the-foundations-of-cooperation",
+                "title": "The Foundations of Cooperation",
+                "url": "https://nav.al/the-foundations-of-cooperation",
+                "reason": "quotation by other named author"
+              },
+              {
+                "person": "naval",
+                "slug": "new-blog-and-feed-address",
+                "title": "New Blog and Feed Address",
+                "url": "https://nav.al/new-blog-and-feed-address",
+                "reason": "announcement, job, link-only, or very short personal note"
+              },
+              {
+                "person": "naval",
+                "slug": "we-get-these-questions-a-lot-from-the-enterprising-young-it8217s-a-very-intelligent-question-you-look-at-some-old-guy-who8217s-rich-and-you-ask-8216how-can-i-become-like-you-except-faster8217-spend-ea",
+                "title": "Charlie Munger on Getting Ahead",
+                "url": "https://nav.al/we-get-these-questions-a-lot-from-the-enterprising-young-it8217s-a-very-intelligent-question-you-look-at-some-old-guy-who8217s-rich-and-you-ask-8216how-can-i-become-like-you-except-faster8217-spend-ea",
+                "reason": "quotation by other named author"
+              },
+              {
+                "person": "naval",
+                "slug": "out-of-school-i-offered-to-work-for-benjamin-graham-for-free-and-he-said-i-was-overpriced",
+                "title": "Warren Buffett on Effort and Value",
+                "url": "https://nav.al/out-of-school-i-offered-to-work-for-benjamin-graham-for-free-and-he-said-i-was-overpriced",
+                "reason": "quotation by other named author"
+              },
+              {
+                "person": "naval",
+                "slug": "if-you-love-wealth-more-than-liberty-the-tranquility-of-servitude-better-than-the-animating-contest-of-freedom-depart-from-us-in-peace-we-ask-not-your-counsel-nor-your-arms-crouch-down-and-lick-the-ha",
+                "title": "Samuel Adams on Freedom",
+                "url": "https://nav.al/if-you-love-wealth-more-than-liberty-the-tranquility-of-servitude-better-than-the-animating-contest-of-freedom-depart-from-us-in-peace-we-ask-not-your-counsel-nor-your-arms-crouch-down-and-lick-the-ha",
+                "reason": "quotation by other named author"
+              },
+              {
+                "person": "naval",
+                "slug": "there-is-no-subtler-surer-means-of-overturning-the-existing-basis-of-society-than-to-debauch-the-currency-the-process-engages-all-the-hidden-forces-of-economic-law-on-the-side-of-destruction-and-it-do",
+                "title": "Keynes on the Currency",
+                "url": "https://nav.al/there-is-no-subtler-surer-means-of-overturning-the-existing-basis-of-society-than-to-debauch-the-currency-the-process-engages-all-the-hidden-forces-of-economic-law-on-the-side-of-destruction-and-it-do",
+                "reason": "quotation by other named author"
+              },
+              {
+                "person": "naval",
+                "slug": "new-year-new-blog",
+                "title": "New year, new blog",
+                "url": "https://nav.al/new-year-new-blog",
+                "reason": "announcement, job, link-only, or very short personal note"
+              },
+              {
+                "person": "naval",
+                "slug": "when-going-through-hell-keep-going",
+                "title": "Churchill on Persistence",
+                "url": "https://nav.al/when-going-through-hell-keep-going",
+                "reason": "quotation by other named author"
+              },
+              {
+                "person": "naval",
+                "slug": "venture-hacks-is-hiring-one-man-developer-army",
+                "title": "Venture Hacks is Hiring – One Man Developer Army",
+                "url": "https://nav.al/venture-hacks-is-hiring-one-man-developer-army",
+                "reason": "announcement, job, link-only, or very short personal note"
+              },
+              {
+                "person": "naval",
+                "slug": "two-more-hacks",
+                "title": "Two More Hacks",
+                "url": "https://nav.al/two-more-hacks",
+                "reason": "announcement, job, link-only, or very short personal note"
+              },
+              {
+                "person": "naval",
+                "slug": "bill-burnham-on-the-future-of-google-base",
+                "title": "Bill Burnham on the future of Google Base",
+                "url": "https://nav.al/bill-burnham-on-the-future-of-google-base",
+                "reason": "announcement, job, link-only, or very short personal note"
+              },
+              {
+                "person": "naval",
+                "slug": "vastcom-launches-credit-card-search",
+                "title": "Vast.com launches Credit Card Search!",
+                "url": "https://nav.al/vastcom-launches-credit-card-search",
+                "reason": "announcement, job, link-only, or very short personal note"
+              },
+              {
+                "person": "naval",
+                "slug": "mobbin",
+                "title": "Mobbin’",
+                "url": "https://nav.al/mobbin",
+                "reason": "announcement, job, link-only, or very short personal note"
+              },
+              {
+                "person": "naval",
+                "slug": "something-vast-this-way-comes",
+                "title": "Something Vast This Way Comes",
+                "url": "https://nav.al/something-vast-this-way-comes",
+                "reason": "announcement, job, link-only, or very short personal note"
+              },
+              {
+                "person": "naval",
+                "slug": "craigslist-is-worth-more-than-ebay",
+                "title": "Craigslist is Worth More than EBay",
+                "url": "https://nav.al/craigslist-is-worth-more-than-ebay",
+                "reason": "announcement, job, link-only, or very short personal note"
+              },
+              {
+                "person": "naval",
+                "slug": "job-opening-at-my-new-company",
+                "title": "Job Opening at my New Company",
+                "url": "https://nav.al/job-opening-at-my-new-company",
+                "reason": "announcement, job, link-only, or very short personal note"
+              }
+            ],
+            "smartFriends": {
+              "officialFeed": "https://feeds.megaphone.fm/SOMC8581176390",
+              "matchedRecords": 14,
+              "notes": [
+                "2025 five parts and 2026 Megasode are one day of recording, linked as parts/collection.",
+                "2021 Almanack audio material classified as collections with Naval as subject, not new guest interviews."
+              ]
+            }
+          },
+          "dan": {
+            "rssTotal": 293,
+            "rssDateRange": [
+              "Mon, 19 Apr 2021 03:48:30 GMT",
+              "Sun, 25 Oct 2026 20:18:37 GMT"
+            ],
+            "youtubeVideosTotal": 170,
+            "youtubeMatchedToRSS": 87,
+            "youtubeResidualCount": 83,
+            "substackTotal": 93,
+            "oldWebsiteLettersTotal": 189,
+            "scope": "Complete public The Koe Cast RSS, all six YouTube Videos pages, full current Substack archive (5 cursor pages), both old website letters API pages. Solo spoken episodes are talk/speaker; explicitly identified guest conversations on his own show are interview/host.",
+            "pendingYouTube": [],
+            "youtubeResidualAdded": 83,
+            "youtubeDateEvidence": "work/dan-residual-watch-metadata.json",
+            "youtubeRelationsNote": "87 high-confidence audio/video pairings (title overlap plus almost identical duration), 83 additional YouTube sources remain unpaired. A same-title 2022/2024 pair with 27m40s duration difference is explicitly separated."
+          },
+          "dedupeMatches": [
+            {
+              "candidate": "naval-r20261117b-official-future",
+              "existingId": "naval-r20261117-future-2026",
+              "url": "https://nav.al/future",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "naval-r20261117b-official-industrial",
+              "existingId": "naval-r20261117-industrial-2026",
+              "url": "https://nav.al/industrial",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "naval-r20261117b-official-over",
+              "existingId": "naval-r20261117-nothing-over",
+              "url": "https://nav.al/over",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "naval-r20261117b-official-code",
+              "existingId": "naval-r20261117-return-code",
+              "url": "https://nav.al/code",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "naval-r20261117b-official-deutsch-files-i",
+              "existingId": "naval-r20261117-deutsch-files",
+              "url": "https://nav.al/deutsch-files-i",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "naval-r20261117b-official-david-deutsch",
+              "existingId": "naval-r20261117-deutsch-knowledge-2023",
+              "url": "https://nav.al/david-deutsch",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "naval-r20261117b-official-vitalik",
+              "existingId": "naval-r20261117-vitalik-ethereum",
+              "url": "https://nav.al/vitalik",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "naval-r20261117b-official-infinity",
+              "existingId": "naval-beginning-infinity",
+              "url": "https://nav.al/infinity",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "naval-r20261117b-official-matt-ridley",
+              "existingId": "naval-r20261117-ridley-innovation",
+              "url": "https://nav.al/matt-ridley",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "naval-r20261117b-official-kapil",
+              "existingId": "naval-r20261117-kapil-mind",
+              "url": "https://nav.al/kapil",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "naval-r20261117b-official-rich",
+              "existingId": "naval-how-to-get-rich",
+              "url": "https://nav.al/rich",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "naval-r20261117b-official-angel-1",
+              "existingId": "naval-r20261117-angel-invest-series",
+              "url": "https://nav.al/angel-1",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "naval-r20261117b-official-a-venture-sla",
+              "existingId": "naval-r20261117-venture-sla",
+              "url": "https://nav.al/a-venture-sla",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "naval-r20261117b-official-build-a-team-that-ships",
+              "existingId": "naval-r20261117-team-ships",
+              "url": "https://nav.al/build-a-team-that-ships",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "naval-r20261117b-official-why-you-cant-hire",
+              "existingId": "naval-r20261117-why-hire",
+              "url": "https://nav.al/why-you-cant-hire",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "naval-r20261117b-official-funding-markets-develop-in-reverse",
+              "existingId": "naval-r20261117-funding-reverse",
+              "url": "https://nav.al/funding-markets-develop-in-reverse",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "naval-r20261117b-official-why-private-investors-are-herd-animals",
+              "existingId": "naval-r20261117-investor-herd",
+              "url": "https://nav.al/why-private-investors-are-herd-animals",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "naval-r20261117b-official-who-has-time-for-meetings",
+              "existingId": "naval-r20261117-meetings",
+              "url": "https://nav.al/who-has-time-for-meetings",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "naval-r20261117b-official-the-returns-to-entrepreneurship",
+              "existingId": "naval-r20261117-entrepreneur-returns",
+              "url": "https://nav.al/the-returns-to-entrepreneurship",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "naval-r20261117b-official-the-80-hour-myth",
+              "existingId": "naval-r20261117-80-hour-myth",
+              "url": "https://nav.al/the-80-hour-myth",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "dan-r20261117b-substack-the-most-lucrative-ai-business-to",
+              "existingId": "dan-r20261117-ai-business-2027",
+              "url": "https://letters.thedankoe.com/p/the-most-lucrative-ai-business-to",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "dan-r20261117b-substack-the-influencer-is-dead-the-age-of",
+              "existingId": "dan-r20261117-age-experience",
+              "url": "https://letters.thedankoe.com/p/the-influencer-is-dead-the-age-of",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "dan-r20261117b-substack-full-course-how-to-turn-your-interests",
+              "existingId": "dan-r20261117-interest-lifestyle",
+              "url": "https://letters.thedankoe.com/p/full-course-how-to-turn-your-interests",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "dan-r20261117b-substack-you-need-to-be-delusional-if-you",
+              "existingId": "dan-r20261117-delusional-success",
+              "url": "https://letters.thedankoe.com/p/you-need-to-be-delusional-if-you",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "dan-r20261117b-substack-the-one-human-business-how-to-earn",
+              "existingId": "dan-r20261117-one-human-ai",
+              "url": "https://letters.thedankoe.com/p/the-one-human-business-how-to-earn",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "dan-r20261117b-substack-we-are-in-the-middle-of-the-digital",
+              "existingId": "dan-r20261117-digital-renaissance",
+              "url": "https://letters.thedankoe.com/p/we-are-in-the-middle-of-the-digital",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "dan-r20261117b-substack-give-me-20-minutes-and-ill-make-you",
+              "existingId": "dan-r20261117-cognitive-flexibility",
+              "url": "https://letters.thedankoe.com/p/give-me-20-minutes-and-ill-make-you",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "dan-r20261117b-substack-strategy-vs-tactics-how-to-actually",
+              "existingId": "dan-r20261117-strategic-thinking",
+              "url": "https://letters.thedankoe.com/p/strategy-vs-tactics-how-to-actually",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "dan-r20261117b-substack-how-to-remember-everything-you-read",
+              "existingId": "dan-r20261117-remember-reading",
+              "url": "https://letters.thedankoe.com/p/how-to-remember-everything-you-read",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "dan-r20261117b-substack-the-writing-habit-that-saved-my-brain",
+              "existingId": "dan-r20261117-writing-habit",
+              "url": "https://letters.thedankoe.com/p/the-writing-habit-that-saved-my-brain",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "dan-r20261117b-substack-the-most-profitable-skill-of-the",
+              "existingId": "dan-r20261117-human-nature-skill",
+              "url": "https://letters.thedankoe.com/p/the-most-profitable-skill-of-the",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "dan-r20261117b-substack-full-guide-how-to-start-writing-long",
+              "existingId": "dan-r20261117-long-form-guide",
+              "url": "https://letters.thedankoe.com/p/full-guide-how-to-start-writing-long",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "dan-r20261117b-substack-how-to-turn-1-idea-into-1000-that",
+              "existingId": "dan-r20261117-one-idea-many",
+              "url": "https://letters.thedankoe.com/p/how-to-turn-1-idea-into-1000-that",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "dan-r20261117b-substack-the-content-map-how-to-never-run",
+              "existingId": "dan-r20261117-content-map",
+              "url": "https://letters.thedankoe.com/p/the-content-map-how-to-never-run",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "dan-r20261117b-substack-how-to-launch-a-product",
+              "existingId": "dan-r20261117-launch-product",
+              "url": "https://letters.thedankoe.com/p/how-to-launch-a-product",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "dan-r20261117b-substack-how-to-write-persuasive-landing-pages",
+              "existingId": "dan-r20261117-landing-pages",
+              "url": "https://letters.thedankoe.com/p/how-to-write-persuasive-landing-pages",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "dan-r20261117b-substack-3-drills-to-become-a-master-at-short",
+              "existingId": "dan-r20261117-short-form-drills",
+              "url": "https://letters.thedankoe.com/p/3-drills-to-become-a-master-at-short",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "dan-r20261117b-substack-how-to-build-a-world-the-2-hour-content",
+              "existingId": "dan-r20261117-build-world",
+              "url": "https://letters.thedankoe.com/p/how-to-build-a-world-the-2-hour-content",
+              "reason": "same canonical URL or media ID"
+            },
+            {
+              "candidate": "dan-r20261117b-substack-full-guide-how-i-write-about-deep",
+              "existingId": "dan-r20261117-deep-ideas",
+              "url": "https://letters.thedankoe.com/p/full-guide-how-i-write-about-deep",
+              "reason": "same canonical URL or media ID"
+            }
+          ],
+          "limitations": [
+            "Completeness applies to each fetched public official directory at the check date, not all appearances anywhere on the internet.",
+            "Source-entry totals must not be described as independent interview totals. Series excerpts and media versions retain relations.",
+            "RSS dates and YouTube upload dates may differ. Metadata-only entries carry metadataBrief=true and contentStatus=brief; no viewpoints are inferred from titles.",
+            "Public access does not establish reuse permission. No license for republishing full original texts or transcripts is inferred. Only metadata, links and short original Chinese summaries are supplied.",
+            "Only known source correspondence is linked. Same-title articles across the official WordPress/Substack catalogs are retained as alternate official sources, without claiming body identity.",
+            "Additional candidate guest appearances without a verified direct original episode remain unimported: PandoMonthly 2012 original video unavailable; Vitalia 2024 original video unavailable; some early Periscope and Clubhouse recordings no longer directly retrievable."
+          ],
+          "enrichment": {
+            "navalSpecificSummaries": 220,
+            "method": "Original Chinese condensed summaries of downloaded official post bodies, with speaker viewpoints distinguished; no full translation.",
+            "danSpecificReadings": 64
+          },
+          "guestDiscovery": {
+            "added": 24,
+            "notes": [
+              "High Growth Handbook parts belong to one two-part interview.",
+              "Blockstack investment panel, host conversations and short programs have distinct roles.",
+              "Some YouTube dates are upload dates; Milken event date preserved separately.",
+              "Financial figures in Dan program titles are attributed historical self-reports, not verified current earnings."
+            ]
+          },
+          "frozenAt": "2026-11-17T03:28:26.857Z",
+          "baseline": {
+            "path": "work/catalog-before-other-archives-20261117.json",
+            "articleCount": 919,
+            "sha256": "70c7a06be1cb4c5a70daa14028994ffc39ed82c72a0bddcd90c4344a3635dd6d"
+          },
+          "permissions": {
+            "checkedAt": "2026-11-17",
+            "scope": "No blanket permission to reproduce full original articles/transcripts was found or inferred. Official public access, RSS availability and free-to-listen statements are used only to establish public availability. This batch publishes metadata/links and short original Chinese summaries.",
+            "sourceExamples": [
+              {
+                "title": "Naval official archive and original post bodies",
+                "url": "https://nav.al/archive"
+              },
+              {
+                "title": "Dan official article index",
+                "url": "https://thedankoe.com/letters/"
+              },
+              {
+                "title": "Dan official RSS",
+                "url": "https://anchor.fm/s/560a5ae0/podcast/rss"
+              },
+              {
+                "title": "Smart Friends official episode descriptions",
+                "url": "https://feeds.megaphone.fm/SOMC8581176390"
+              }
+            ]
+          },
+          "finalCounts": {
+            "naval": {
+              "total": 229,
+              "types": {
+                "clip": 144,
+                "interview": 33,
+                "collection": 11,
+                "essay": 40,
+                "summary": 1
+              },
+              "roles": {
+                "speaker": 145,
+                "host": 9,
+                "author": 41,
+                "guest": 26,
+                "subject": 8
+              },
+              "reading": 219,
+              "brief": 10,
+              "metadataBrief": 9
+            },
+            "dan": {
+              "total": 624,
+              "types": {
+                "talk": 312,
+                "interview": 69,
+                "essay": 243
+              },
+              "roles": {
+                "speaker": 312,
+                "host": 64,
+                "author": 243,
+                "guest": 5
+              },
+              "reading": 64,
+              "brief": 560,
+              "metadataBrief": 560
+            }
+          },
+          "finalAudit": {
+            "missing": {
+              "navalPosts": [],
+              "danOldLetters": [],
+              "danSubstack": [],
+              "danYouTube": [],
+              "danRSS": []
+            },
+            "errors": [],
+            "duplicateIds": []
+          }
+        }
+      },
+      {
+        "file": "research-20261117b-tim.json",
+        "status": "complete",
+        "sourceRecords": 842,
+        "coverage": {
+          "checkedAt": "2026-11-17",
+          "status": "官方 RSS 与节目分类已全量枚举；外部受访补充完成，冻结索引。",
+          "baselineTotal": 919,
+          "baselineTimRelated": 41,
+          "officialFeed": {
+            "url": "https://rss.art19.com/tim-ferriss-show",
+            "rawItems": 893,
+            "firstDate": "2014-04-18",
+            "lastDate": "2026-11-11",
+            "maxEpisodeNumber": 889
+          },
+          "officialArchive": {
+            "url": "https://tim.blog/podcast/",
+            "api": "https://tim.blog/wp-json/wp/v2/posts?categories=40&per_page=100",
+            "posts": 836,
+            "all9PagesDownloaded": true,
+            "guestTaxonomyCount": 512,
+            "unmatchedPosts": [
+              {
+                "title": "Legendary Chef Jacques Pépin — The Pursuit of Mastery, Cooking for Presidents, Meeting Julia Child, and More",
+                "date": "2026-10-27",
+                "url": "https://tim.blog/2026/10/27/jacques-pepin/",
+                "id": 117384
+              },
+              {
+                "title": "My New Rules for Podcasting – To Keep Things Interesting",
+                "date": "2024-09-16",
+                "url": "https://tim.blog/2024/09/16/my-new-rules-for-podcasting-to-keep-things-interesting/",
+                "id": 91612
+              },
+              {
+                "title": "24 Highlights from The Tim Ferriss Show to Make You Healthy, Wealthy, and Wise in 2024",
+                "date": "2024-01-03",
+                "url": "https://tim.blog/2024/01/03/the-tim-ferriss-show-clips/",
+                "id": 70646
+              },
+              {
+                "title": "The 30 Most Popular Episodes of The Tim Ferriss Show from 2022",
+                "date": "2023-01-03",
+                "url": "https://tim.blog/2023/01/03/the-30-most-popular-episodes-of-the-tim-ferriss-show-from-2022/",
+                "id": 65174
+              },
+              {
+                "title": "The Liberation of Cosmic Insignificance Therapy",
+                "date": "2021-12-15",
+                "url": "https://tim.blog/2021/12/15/the-liberation-of-cosmic-insignificance-therapy/",
+                "id": 58922
+              },
+              {
+                "title": "The 30 Most Popular Episodes of The Tim Ferriss Show from 2021",
+                "date": "2021-12-14",
+                "url": "https://tim.blog/2021/12/14/the-top-30-episodes-of-the-tim-ferriss-show-from-2021/",
+                "id": 58852
+              },
+              {
+                "title": "The Tim Ferriss Show Transcripts: How I Built The Tim Ferriss Show to 700+ Million Downloads — An Immersive Explanation of All Aspects and Key Decisions (Featuring Chris Hutchins) (#538)",
+                "date": "2021-10-18",
+                "url": "https://tim.blog/2021/10/18/how-i-built-the-tim-ferriss-show-podcast-transcript/",
+                "id": 57890
+              },
+              {
+                "title": "The Top 30 Episodes of The Tim Ferriss Show from 2020",
+                "date": "2020-12-22",
+                "url": "https://tim.blog/2020/12/22/top-podcast-episodes-2020-the-tim-ferriss-show/",
+                "id": 54077
+              },
+              {
+                "title": "The Top 25 Episodes of The Tim Ferriss Show from 2019",
+                "date": "2019-12-23",
+                "url": "https://tim.blog/2019/12/23/top-25-podcast-episodes/",
+                "id": 48211
+              },
+              {
+                "title": "Why I’m Stopping the Fan-Supported Podcast Experiment",
+                "date": "2019-07-11",
+                "url": "https://tim.blog/2019/07/11/why-im-stopping-the-fan-supported-podcast-experiment/",
+                "id": 46311
+              },
+              {
+                "title": "All Transcripts from The Tim Ferriss Show!",
+                "date": "2018-09-20",
+                "url": "https://tim.blog/2018/09/20/all-transcripts-from-the-tim-ferriss-show/",
+                "id": 36531
+              },
+              {
+                "title": "Human Foie Gras — A Golden Opportunity",
+                "date": "2014-12-17",
+                "url": "https://tim.blog/2014/12/17/foie-gras/",
+                "id": 13897
+              },
+              {
+                "title": "The Unusual Books That Shaped Billionaires, Mega-Bestselling Authors, and Other Prodigies",
+                "date": "2014-10-29",
+                "url": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+                "id": 13321
+              },
+              {
+                "title": "Not-To-Do Lists, Drugs, and Other Productivity Tricks",
+                "date": "2014-06-16",
+                "url": "https://tim.blog/2014/06/16/not-to-do-lists-drugs-and-other-productivity-tricks/",
+                "id": 12508
+              }
+            ]
+          },
+          "newItems": 842,
+          "byRole": {
+            "speaker": 57,
+            "host": 723,
+            "guest": 33,
+            "author": 6,
+            "subject": 23
+          },
+          "byType": {
+            "talk": 57,
+            "interview": 688,
+            "collection": 95,
+            "clip": 2
+          },
+          "excluded": [
+            {
+              "episodeNumber": 850,
+              "title": "#850: The Peace That's Always Within You — Guided Meditation by Zen Master Henry Shukman",
+              "url": "https://art19.com/shows/tim-ferriss-show/episodes/da855215-af3e-4203-950f-253d0c149da0",
+              "reason": "Meditation Monday：Henry Shukman 独立引导冥想，Tim 简介与推广；不计 Tim 参与的访谈。"
+            },
+            {
+              "episodeNumber": 848,
+              "title": "#848: From Stress to Stillness — Guided Meditation with Zen Master Henry Shukman",
+              "url": "https://art19.com/shows/tim-ferriss-show/episodes/eeff59ea-8da1-4bed-bf58-462a64eb2263",
+              "reason": "Meditation Monday：Henry Shukman 独立引导冥想，Tim 简介与推广；不计 Tim 参与的访谈。"
+            },
+            {
+              "episodeNumber": 846,
+              "title": "#846: Permission to Do Nothing — Guided Meditation with Zen Master Henry Shukman",
+              "url": "https://art19.com/shows/tim-ferriss-show/episodes/3c399544-d94a-40ac-8415-1a52e5b851fe",
+              "reason": "Meditation Monday：Henry Shukman 独立引导冥想，Tim 简介与推广；不计 Tim 参与的访谈。"
+            },
+            {
+              "episodeNumber": 844,
+              "title": "#844: Be Still — Guided Meditation with Zen Master Henry Shukman",
+              "url": "https://art19.com/shows/tim-ferriss-show/episodes/bc9856b3-8f90-423a-91e3-4b8f6714a294",
+              "reason": "Meditation Monday：Henry Shukman 独立引导冥想，Tim 简介与推广；不计 Tim 参与的访谈。"
+            },
+            {
+              "episodeNumber": 818,
+              "title": "#818: John Arnold with Dr. Peter Attia — The Greatest Energy Trader of All Time on Lessons Learned, Walking Away from Wall Street, and Reinventing Philanthropy",
+              "url": "https://art19.com/shows/tim-ferriss-show/episodes/7b9c53ad-4d4e-41e6-90f2-50d66996b35f",
+              "reason": "Peter Attia 替班采访 John Arnold，转播 The Drive；未将 Tim 算成参与采访者。"
+            },
+            {
+              "episodeNumber": 798,
+              "title": "#798: Terry Real — Breaking the Rules of Traditional Couples Therapy for Superior Results, A Few Frameworks That Work",
+              "url": "https://art19.com/shows/tim-ferriss-show/episodes/d6f97869-4019-4cde-98d0-0c8f42c3a221",
+              "reason": "Terry Real 有声书 Fierce Intimacy 五章摘录，非 Tim 的对谈。"
+            },
+            {
+              "episodeNumber": 793,
+              "title": "#793: How to Calm Your Inner Storm — A Guided Meditation to Tame Restlessness with Zen Master Henry Shukman",
+              "url": "https://art19.com/shows/tim-ferriss-show/episodes/ad64a59f-145f-47a4-a73c-65e4cfeb7f97",
+              "reason": "Meditation Monday：Henry Shukman 独立引导冥想，Tim 简介与推广；不计 Tim 参与的访谈。"
+            },
+            {
+              "episodeNumber": 791,
+              "title": "#791: How to Feel at Peace Amidst High Stress — Guided Meditation with Zen Master Henry Shukman",
+              "url": "https://art19.com/shows/tim-ferriss-show/episodes/905dd4d9-551b-4668-929d-68ca65dc9551",
+              "reason": "Meditation Monday：Henry Shukman 独立引导冥想，Tim 简介与推广；不计 Tim 参与的访谈。"
+            },
+            {
+              "episodeNumber": 789,
+              "title": "#789: Ease Into Stillness — Guided Meditation with Zen Master Henry Shukman",
+              "url": "https://art19.com/shows/tim-ferriss-show/episodes/0adb39d0-4b01-4660-9a50-ba47a0f6b232",
+              "reason": "Meditation Monday：Henry Shukman 独立引导冥想，Tim 简介与推广；不计 Tim 参与的访谈。"
+            },
+            {
+              "episodeNumber": 787,
+              "title": "#787: How to Be in The Present Moment — Guided Meditation with Zen Master Henry Shukman",
+              "url": "https://art19.com/shows/tim-ferriss-show/episodes/333965f8-72ef-435c-a6be-0a1612f4a2e2",
+              "reason": "Meditation Monday：Henry Shukman 独立引导冥想，Tim 简介与推广；不计 Tim 参与的访谈。"
+            },
+            {
+              "episodeNumber": 768,
+              "title": "#768: What Happens When Israelis and Palestinians Drink Ayahuasca Together?",
+              "url": "https://art19.com/shows/tim-ferriss-show/episodes/617279a2-fed9-44e9-abf4-7208ac1c53ff",
+              "reason": "Altered States 纪录播客转播，主体报道人为 Shaina Shealy。"
+            },
+            {
+              "episodeNumber": 698,
+              "title": "#698: Dr. Mark Plotkin on Coffee, The World’s Favorite Stimulant — Chemistry, History, and More",
+              "url": "https://art19.com/shows/tim-ferriss-show/episodes/073bcf81-7a25-4262-a50f-420040562e1a",
+              "reason": "Mark Plotkin 替班，转播 Plants of the Gods。"
+            },
+            {
+              "episodeNumber": 646,
+              "title": "#646: Brian C. Muraresku with Dr. Mark Plotkin — The Eleusinian Mysteries, Discovering the Divine, The Immortality Key, The Pagan Continuity Hypothesis, Lessons from Scholar Karen Armstrong, and Much More",
+              "url": "https://art19.com/shows/tim-ferriss-show/episodes/e7b8453c-4461-4dec-99f0-e93866217d1b",
+              "reason": "Mark Plotkin 替班采访 Brian Muraresku。"
+            },
+            {
+              "episodeNumber": 640,
+              "title": "#640: Announcing My New Fiction Podcast Series (Plus: A 50-Second Trailer)",
+              "url": "https://art19.com/shows/tim-ferriss-show/episodes/57cebf95-378c-4fa1-a114-f256a6dc3504",
+              "reason": "自家小说播客发布宣传与 50 秒预告，不计独立访谈。"
+            },
+            {
+              "episodeNumber": 605,
+              "title": "#605: Hamilton Morris and Dr. Mark Plotkin — Exploring the History of Psychoactive Substances, Synthetic vs. Natural Options, Microdosing, 5-MeO-DMT, The “Drunken Monkey” Hypothesis, Timothy Leary’s Legacy, and More",
+              "url": "https://art19.com/shows/tim-ferriss-show/episodes/4633a9b3-7c14-429b-ab07-2e5a0b49e176",
+              "reason": "Mark Plotkin 替班采访 Hamilton Morris。"
+            },
+            {
+              "episodeNumber": 555,
+              "title": "#555: The Liberation of Cosmic Insignificance Therapy — Oliver Burkeman",
+              "url": "https://art19.com/shows/tim-ferriss-show/episodes/52cc1f51-20bb-47ab-9365-9ca3276a631f",
+              "reason": "Oliver Burkeman 所著 Four Thousand Weeks 的有声书章节；Tim 仅作推介，不记成其采访。"
+            },
+            {
+              "episodeNumber": 407,
+              "title": "#407: Sam Zell — Strategies for High-Stakes Investing and Dealmaking",
+              "url": "https://art19.com/shows/tim-ferriss-show/episodes/4cf51dad-4030-443e-b3b4-dde5e8dd90cf",
+              "reason": "Peter Attia 替班采访 Sam Zell，转播 The Drive。"
+            },
+            {
+              "episodeNumber": 397,
+              "title": "#397: Two Questions Every Entrepreneur Should Answer",
+              "url": "https://art19.com/shows/tim-ferriss-show/episodes/f0f6d83f-20b7-4736-8e71-a36eb1b79db1",
+              "reason": "Mike Maples 替班采访 Andy Rachleff，转播 Starting Greatness。"
+            },
+            {
+              "episodeNumber": 395,
+              "title": "#395: Jocko Willink Takeover — On Quitting, Relationships, Financial Discipline, Contrast Baths, and More",
+              "url": "https://art19.com/shows/tim-ferriss-show/episodes/170ae5a4-9ff8-49e2-b39d-caf3fed91ae9",
+              "reason": "Jocko Willink 接管节目回答问题。"
+            },
+            {
+              "episodeNumber": 344,
+              "title": "#344: A.J. Jacobs — 10 Strategies to Be Happier Through Gratitude",
+              "url": "https://art19.com/shows/tim-ferriss-show/episodes/c33ccd44-41f1-411e-8d4c-0ee743dfad5e",
+              "reason": "A.J. Jacobs 接管节目单独分享感恩方法。"
+            },
+            {
+              "episodeNumber": null,
+              "title": "BONUS: Sam Harris Guided Meditations and Lessons",
+              "url": "https://art19.com/shows/tim-ferriss-show/episodes/8c683309-a02f-4e88-a6ac-072fb72e58c2",
+              "reason": "官方预告/第三方引导冥想，不计 Tim 独立访谈。"
+            },
+            {
+              "episodeNumber": 326,
+              "title": "#326: Reid Hoffman of LinkedIn, Brian Chesky of Airbnb, and How to Scale to 100M+ Users",
+              "url": "https://art19.com/shows/tim-ferriss-show/episodes/f6217276-dda9-484a-9f90-ccd79579d937",
+              "reason": "转播 Masters of Scale，由 Reid Hoffman 采访 Brian Chesky；未确认 Tim 参与主对谈。"
+            },
+            {
+              "episodeNumber": 309,
+              "title": "#309: Astro Teller, CEO of X - How to Think 10x Bigger",
+              "url": "https://art19.com/shows/tim-ferriss-show/episodes/efc9c4a0-937e-4124-9f4b-33484e4e45d9",
+              "reason": "Astro Teller 在 A360 的单人演讲转播；未确认 Tim 参与主内容。"
+            },
+            {
+              "episodeNumber": 275,
+              "title": "#275: Discipline Equals Freedom -- Jocko Willink",
+              "url": "https://art19.com/shows/tim-ferriss-show/episodes/95fe892c-1309-421a-be21-7297b0698dd1",
+              "reason": "Jocko Willink 的 Discipline Equals Freedom 书籍/单人口述内容。"
+            },
+            {
+              "episodeNumber": 179,
+              "title": "#179: What's Important to You?",
+              "url": "https://art19.com/shows/tim-ferriss-show/episodes/2270eac3-d115-453d-a47b-05b01c9825c2",
+              "reason": "Ryan Holiday 有声书 Ego Is the Enemy 摘录。"
+            },
+            {
+              "episodeNumber": 165,
+              "title": "#165: The Canvas Strategy -- What Ben Franklin and Bill Belichick Have in Common",
+              "url": "https://art19.com/shows/tim-ferriss-show/episodes/e2d9fe52-6004-438a-8eaf-0acf355aca34",
+              "reason": "Ryan Holiday 有声书 Ego Is the Enemy 摘录。"
+            },
+            {
+              "episodeNumber": null,
+              "title": "Jamie Foxx Mega-Interview - 5-Minute Teaser",
+              "url": "https://art19.com/shows/tim-ferriss-show/episodes/5fa450e5-e29f-4d05-8095-e378c8c18049",
+              "reason": "官方预告/第三方引导冥想，不计 Tim 独立访谈。"
+            },
+            {
+              "episodeNumber": 68,
+              "title": "#68: Lazy: A Manifesto (15 Min)",
+              "url": "https://art19.com/shows/tim-ferriss-show/episodes/c9847b7c-e4ef-4b73-8247-868b81caf82a",
+              "reason": "Tim Kreider 有声书 We Learn Nothing 摘录，Tim 参与制作但非本人访谈。"
+            },
+            {
+              "episodeNumber": null,
+              "title": "Arnold Schwarzenegger Teaser",
+              "url": "https://art19.com/shows/tim-ferriss-show/episodes/39e7ccb1-2fe4-4b10-9d72-89e428e81697",
+              "reason": "官方预告/第三方引导冥想，不计 Tim 独立访谈。"
+            }
+          ],
+          "mergedReposts": [
+            {
+              "number": 873,
+              "title": "#873: David Allen — The Art of Getting Things Done (GTD) (Repost)",
+              "originalNumber": 384,
+              "originalUrl": "https://tim.blog/2019/09/03/david-allen-getting-things-done/",
+              "method": "官方旧版节目链接或同嘉宾原集核对"
+            },
+            {
+              "number": 872,
+              "title": "#872: Graham Duncan — Talent Is the Best Asset Class (Repost)",
+              "originalNumber": 362,
+              "originalUrl": "https://tim.blog/2019/02/28/graham-duncan/",
+              "method": "官方旧版节目链接或同嘉宾原集核对"
+            },
+            {
+              "number": 867,
+              "title": "#867: Dr. Becky Kennedy — Parenting Strategies for Raising Resilient Kids, Plus Word-for-Word Scripts for Repairing Relationships, Setting Boundaries, and More (Repost)",
+              "originalNumber": 784,
+              "originalUrl": "https://tim.blog/2024/12/27/dr-becky-kennedy-good-inside/",
+              "method": "官方旧版节目链接或同嘉宾原集核对"
+            },
+            {
+              "number": 843,
+              "title": "#843: Tactics and Strategies for a 2026 Reboot — Essentialism and Greg McKeown (Repost)",
+              "originalNumber": 786,
+              "originalUrl": "https://tim.blog/2025/01/09/personal-reboot-greg-mckeown/",
+              "method": "官方旧版节目链接或同嘉宾原集核对"
+            },
+            {
+              "number": 820,
+              "title": "#820: Elizabeth Gilbert — How to Find Your Inner Voice, Set Strong Boundaries, and Live a Life of Radical Ease (Repost)",
+              "originalNumber": 770,
+              "originalUrl": "https://tim.blog/2024/09/26/elizabeth-gilbert-2/",
+              "method": "官方旧版节目链接或同嘉宾原集核对"
+            },
+            {
+              "number": 708,
+              "title": "#708: Dr. Andrew Huberman — A Neurobiologist on Optimizing Sleep, Enhancing Performance, Reducing Anxiety, Increasing Testosterone, and Using the Body to Control the Mind (Repost)",
+              "originalNumber": 521,
+              "originalUrl": "https://tim.blog/2021/07/06/andrew-huberman/",
+              "method": "官方旧版节目链接或同嘉宾原集核对"
+            },
+            {
+              "number": 656,
+              "title": "#656: Brené Brown — Striving versus Self-Acceptance, Saving Marriages, and More (Repost)",
+              "originalNumber": 409,
+              "originalUrl": "https://tim.blog/2020/02/06/brene-brown-striving-self-acceptance-saving-marriages/",
+              "method": "官方旧版节目链接或同嘉宾原集核对"
+            },
+            {
+              "number": 638,
+              "title": "#638: Seth Godin on The Game of Life, The Value of Hacks, and Overcoming Anxiety (Repost)",
+              "originalNumber": 476,
+              "originalUrl": "https://tim.blog/2020/10/26/seth-godin-the-practice/",
+              "method": "官方旧版节目链接或同嘉宾原集核对"
+            },
+            {
+              "number": 632,
+              "title": "#632: Jim Collins — A Rare Interview with a Reclusive Polymath (Repost)",
+              "originalNumber": 361,
+              "originalUrl": "https://tim.blog/2019/02/18/jim-collins/",
+              "method": "官方旧版节目链接或同嘉宾原集核对"
+            },
+            {
+              "number": 577,
+              "title": "#577: Hugh Jackman on Best Decisions, Daily Routines, The 85% Rule, Favorite Exercises, Mind Training, and Much More (Repost)",
+              "originalNumber": 444,
+              "originalUrl": "https://tim.blog/2020/06/26/hugh-jackman/",
+              "method": "官方旧版节目链接或同嘉宾原集核对"
+            },
+            {
+              "number": 575,
+              "title": "#575: Neil Gaiman — The Interview I've Waited 20 Years to Do (Repost)",
+              "originalNumber": 366,
+              "originalUrl": "https://tim.blog/2019/03/28/neil-gaiman/",
+              "method": "官方旧版节目链接或同嘉宾原集核对"
+            },
+            {
+              "number": 574,
+              "title": "#574: Arnold Schwarzenegger on Psychological Warfare (And Much More) (Repost)",
+              "originalNumber": 60,
+              "originalUrl": "https://tim.blog/2015/02/02/arnold-schwarzenegger/",
+              "method": "官方旧版节目链接或同嘉宾原集核对"
+            },
+            {
+              "number": 558,
+              "title": "#558: Ann Miura-Ko — The Path from Shyness to World-Class Debater and Investor (Repost)",
+              "originalNumber": 331,
+              "originalUrl": "https://tim.blog/2018/08/02/ann-miura-ko/",
+              "method": "官方旧版节目链接或同嘉宾原集核对"
+            },
+            {
+              "number": 552,
+              "title": "#552: Aisha Tyler — How to Use Pain, Comedy, and Practice for Creativity (Repost)",
+              "originalNumber": 327,
+              "originalUrl": "https://tim.blog/2018/07/16/aisha-tyler/",
+              "method": "官方旧版节目链接或同嘉宾原集核对"
+            },
+            {
+              "number": 544,
+              "title": "#544: How to Design a Life — Debbie Millman (Repost)",
+              "originalNumber": 214,
+              "originalUrl": "https://tim.blog/2017/01/12/how-to-design-a-life-debbie-millman/",
+              "method": "官方旧版节目链接或同嘉宾原集核对"
+            },
+            {
+              "number": 475,
+              "title": "#475: Mr. Money Mustache — Living Beautifully on $25-27K Per Year (Repost)",
+              "originalNumber": 221,
+              "originalUrl": "https://tim.blog/2017/02/13/mr-money-mustache/",
+              "method": "官方旧版节目链接或同嘉宾原集核对"
+            },
+            {
+              "number": 465,
+              "title": "#465: Jamie Foxx on Workout Routines, Success Habits, and Untold Hollywood Stories (Repost)",
+              "originalNumber": 124,
+              "originalUrl": "https://tim.blog/2015/12/06/jamie-foxx/",
+              "method": "官方旧版节目链接或同嘉宾原集核对"
+            },
+            {
+              "number": 463,
+              "title": "#463: Esther Perel — The Relationship Episode: Sex, Love, Polyamory, Marriage, and More (Repost)",
+              "originalNumber": 241,
+              "originalUrl": "https://tim.blog/2017/05/21/esther-perel/",
+              "method": "官方旧版节目链接或同嘉宾原集核对"
+            },
+            {
+              "number": 460,
+              "title": "#460: Maria Popova on Writing, Workflow, and Workarounds (Repost)",
+              "originalNumber": 39,
+              "originalUrl": "https://tim.blog/2014/10/21/brain-pickings/",
+              "method": "官方旧版节目链接或同嘉宾原集核对"
+            },
+            {
+              "number": 376,
+              "title": "#376: How Seth Godin Manages His Life — Rules, Principles, and Obsessions (Repost)",
+              "originalNumber": 138,
+              "originalUrl": "https://tim.blog/2016/02/10/seth-godin/",
+              "method": "官方旧版节目链接或同嘉宾原集核对"
+            },
+            {
+              "number": 370.5,
+              "title": "#370.5: Derek Sivers on Developing Confidence, Finding Happiness, and Saying “No” to Millions (Repost)",
+              "originalNumber": 125,
+              "originalUrl": "https://tim.blog/2015/12/14/derek-sivers-on-developing-confidence-finding-happiness-and-saying-no-to-millions/",
+              "method": "官方旧版节目链接或同嘉宾原集核对"
+            }
+          ],
+          "mergedMultipartEpisodeGroups": [
+            [
+              25,
+              26,
+              27
+            ],
+            [
+              30,
+              31,
+              32
+            ],
+            [
+              33,
+              34
+            ],
+            [
+              37,
+              38
+            ],
+            [
+              41,
+              42
+            ],
+            [
+              52,
+              53
+            ],
+            [
+              58,
+              59
+            ],
+            [
+              178,
+              186
+            ]
+          ],
+          "alreadyIndexed": [
+            {
+              "existingId": "naval-sovereign-child-788",
+              "episodeNumbers": [
+                788
+              ],
+              "url": "https://tim.blog/2025/01/18/naval-ravikant-sovereign-child/",
+              "additionalSources": [
+                "https://art19.com/shows/tim-ferriss-show/episodes/bb8b49e2-6ad8-485d-bc86-d4426801cd06"
+              ]
+            },
+            {
+              "existingId": "tim-r20261117-past-year-review",
+              "episodeNumbers": [
+                559
+              ],
+              "url": "https://tim.blog/2025/12/26/past-year-review/",
+              "additionalSources": [
+                "https://art19.com/shows/tim-ferriss-show/episodes/70df830d-de78-4729-ad0e-5b31c70ea986"
+              ]
+            },
+            {
+              "existingId": "tim-guy-raz-489",
+              "episodeNumbers": [
+                489
+              ],
+              "url": "https://tim.blog/2020/12/22/guy-raz-interviews-tim-ferriss-how-i-built-this/",
+              "additionalSources": [
+                "https://art19.com/shows/tim-ferriss-show/episodes/4fe4a82b-3936-4b77-ace7-3647adb8be04"
+              ]
+            },
+            {
+              "existingId": "naval-tim-473",
+              "episodeNumbers": [
+                473
+              ],
+              "url": "https://tim.blog/2020/10/14/naval/",
+              "additionalSources": [
+                "https://art19.com/shows/tim-ferriss-show/episodes/3a822b04-2b5b-4eaf-8c82-66d18c2e05a9"
+              ]
+            },
+            {
+              "existingId": "tim-r20261117-17-questions",
+              "episodeNumbers": [
+                206
+              ],
+              "url": "https://tim.blog/2016/12/07/testing-the-impossible-17-questions-that-changed-my-life/",
+              "additionalSources": [
+                "https://art19.com/shows/tim-ferriss-show/episodes/f9e14c2e-34ab-4c81-852c-6fbf170b3b09"
+              ]
+            },
+            {
+              "existingId": "tim-google-monkey-mind-2016",
+              "episodeNumbers": [
+                175
+              ],
+              "url": "https://tim.blog/2016/07/24/how-to-cage-the-monkey-mind/",
+              "additionalSources": [
+                "https://art19.com/shows/tim-ferriss-show/episodes/2160ba7e-f291-490d-918c-a8715ededd42"
+              ]
+            },
+            {
+              "existingId": "naval-tim-136",
+              "episodeNumbers": [
+                136
+              ],
+              "url": "https://tim.blog/2016/01/30/naval-ravikant-on-happiness-hacks/",
+              "additionalSources": [
+                "https://art19.com/shows/tim-ferriss-show/episodes/ce6cf515-20f7-4e57-8a2e-596e3f4f1d0c"
+              ]
+            },
+            {
+              "existingId": "tim-r20261117-morning-rituals",
+              "episodeNumbers": [
+                105
+              ],
+              "url": "https://tim.blog/2015/09/18/5-morning-rituals/",
+              "additionalSources": [
+                "https://art19.com/shows/tim-ferriss-show/episodes/a63095e6-447a-4da9-883e-a96f2e8a665a"
+              ]
+            },
+            {
+              "existingId": "naval-startup-advice",
+              "episodeNumbers": [
+                97
+              ],
+              "url": "https://tim.blog/2015/08/18/the-evolutionary-angel-naval-ravikant/",
+              "additionalSources": [
+                "https://art19.com/shows/tim-ferriss-show/episodes/68f95546-fd20-47f4-8dd1-37e652f4d70c"
+              ]
+            },
+            {
+              "existingId": "tim-r20261117-generalist",
+              "episodeNumbers": [
+                19
+              ],
+              "url": "https://art19.com/shows/tim-ferriss-show/episodes/329dc23d-5cc3-4a67-b76b-b52c786c89b3",
+              "additionalSources": [
+                "https://art19.com/shows/tim-ferriss-show/episodes/329dc23d-5cc3-4a67-b76b-b52c786c89b3"
+              ]
+            },
+            {
+              "existingId": "tim-r20261117-productivity-human",
+              "episodeNumbers": [
+                13
+              ],
+              "url": "https://art19.com/shows/tim-ferriss-show/episodes/c6d3783c-c61a-4f33-94bd-aa97f4220b72",
+              "additionalSources": [
+                "https://art19.com/shows/tim-ferriss-show/episodes/c6d3783c-c61a-4f33-94bd-aa97f4220b72"
+              ]
+            },
+            {
+              "existingId": "tim-r20261117-not-to-do",
+              "episodeNumbers": [
+                9
+              ],
+              "url": "https://art19.com/shows/tim-ferriss-show/episodes/f782ad24-b42e-4ad6-b1b1-6aee2b086cce",
+              "additionalSources": [
+                "https://art19.com/shows/tim-ferriss-show/episodes/f782ad24-b42e-4ad6-b1b1-6aee2b086cce"
+              ]
+            }
+          ],
+          "methodology": [
+            "先获取官方 RSS 全量 893 条和 WordPress 官方节目分类 836 篇，再以发布方 UUID、节目编号、官方 show-notes 页交叉归并。",
+            "重播与原场合并；同场分段合并；主题/月度精选保留 collection，排除在新访谈计数之外。",
+            "替班节目与他人有声书、宣传预告明确列入排除表，未当作 Tim 本人访谈。",
+            "Books I’ve Loved 系列仅确认 Tim 邀请嘉宾推荐书单，未声称他在当期主持；以 subject/collection 标注。",
+            "官方简介与标题支持的事实才进入中文简述。绝大多数保留 brief，没有伪造未读转录的长文。"
+          ],
+          "limitations": [
+            "此批覆盖官方现存 RSS，不声称涵盖 Tim 历来所有第三方受访。",
+            "嘉宾分类标签由官方页面提供；少数旧集无标签，仅按标题可核人名填写，未补猜嘉宾身份。",
+            "录音时长来自官方 feed；节目日期为发布日。",
+            "主办方自己重复或错误使用编号时，以 UUID 区分，不仅按编号合并。",
+            "外部受访来源为逐条核得的补充，不声称穷尽。官方节目中绝大多数仍属元数据/简介索引，不能称全文精读。",
+            "排除表包含节目频道确实发布、但 Tim 未主持主内容的条目；这是有意不纳入 Tim 本人访谈统计。"
+          ],
+          "externalSupplementCount": 21,
+          "byContentStatus": {
+            "brief": 832,
+            "reading": 10
+          }
+        }
+      },
+      {
+        "file": "research-20261117b-julian-alex.json",
+        "status": "complete",
+        "sourceRecords": 1126,
+        "coverage": {
+          "existingAtStart": {
+            "total": 919,
+            "julian": 39,
+            "alex": 29
+          },
+          "alex": {
+            "officialFeed": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+            "officialFeedItems": 1165,
+            "feedDateRange": {
+              "from": "2017-07-01",
+              "to": "2026-11-12"
+            },
+            "addedFeedVersionItems": 1076,
+            "mergedIntoNewOrExistingMothers": 81,
+            "mergedIntoExistingFromPreparation": 8,
+            "otherOmissions": [],
+            "formatCounts": {
+              "hosted-conversation": 3,
+              "commentary": 758,
+              "panel-discussion": 2,
+              "business-coaching-session": 27,
+              "unclassified": 248,
+              "audience-qa": 31,
+              "guest-interview-rebroadcast": 7
+            },
+            "distinctions": "The Game为官方节目版本目录。独立受访、主持、本人讲述、问答、咨询、重播分段及未分类分别标记，不能把新增条目总数称为独立采访场数。",
+            "sourceLinkPolicy": "RSS大多未提供网页link，保留真实enclosure音频URL；母节目URL只在官方简介实际给出视频时记录，不凭名称拼造。",
+            "translation": "中文标题和部分官方短简介由公共翻译服务辅助，未译整篇英文全文；保留原题与原始来源。The Game目录均为brief资料索引。",
+            "completeness": "覆盖本次下载的完整当前RSS；不声称覆盖已删除节目、所有YouTube上传或全网所有受访。"
+          },
+          "julian": {
+            "baseline": 39,
+            "newAtThisStage": 3,
+            "officialHostCatalog": {
+              "series": "Brains",
+              "feedUrl": "https://feeds.transistor.fm/brains",
+              "currentFeedCount": 9,
+              "alreadyIndexedCount": 9,
+              "newHostEpisodes": 0
+            },
+            "guestCatalogSourcesReviewed": [
+              "https://www.brainspodcast.com/",
+              "https://feeds.transistor.fm/brains",
+              "https://feeds.transistor.fm/the-indie-hackers-podcast",
+              "https://artofproductpodcast.com/episode-100",
+              "https://brainstation.io/magazine/julian-shapiro",
+              "https://techcrunch.com/2021/08/10/the-art-of-startup-storytelling-with-julian-shapiro/",
+              "https://developertea.com/episodes/51967825-6656-4ab5-9c28-e592b87fadaa",
+              "https://changelog.com/podcast/214",
+              "https://skio.com/interviews/designing-zero-to-one-growth-funnels-with-julian-shapiro"
+            ],
+            "exclusions": [
+              {
+                "reason": "同名人物",
+                "detail": "Julian Shapiro-Barnum / Recess Therapy / Celebrity Substitute 为另一位人物，全部排除。"
+              },
+              {
+                "reason": "旧访谈的转载或改题",
+                "detail": "Developer Tea 的两部分已合并在旧库；2026年重新上传的 Art of Product 第61期不算新访谈。"
+              },
+              {
+                "reason": "错误关联",
+                "detail": "若干聚合站把2025年Julie Zhuo的领导力节目或2022年的Lenny节目错误挂到Julian/2026日期，未收。"
+              },
+              {
+                "reason": "泛泛提及",
+                "detail": "MFM谈Julian建牧场的期数没有证明他本人受访，不据提及新增。"
+              }
+            ],
+            "limit": "广泛检索未发现可核实的后续Brains单集；公开独立受访数量比Alex少。本批如实补缺，不以同名、提及、再上传或手册章节凑访谈数。"
+          },
+          "alexExternal": {
+            "officialFeedCoverage": [
+              {
+                "key": "modern-wisdom",
+                "title": "Modern Wisdom",
+                "feedUrl": "https://feeds.megaphone.fm/modernwisdom",
+                "feedItemCount": 1173,
+                "matchingTitleCount": 15,
+                "matches": [
+                  {
+                    "title": "33 Brutal Truths To Stop Wasting Your Potential - Alex Hormozi - #1117",
+                    "date": "Mon, 29 Jun 2026 05:00:00 -0000",
+                    "url": null,
+                    "episode": "1117"
+                  },
+                  {
+                    "title": "The Best Moments of Modern Wisdom (2025) - #1036",
+                    "date": "Mon, 22 Dec 2025 06:00:00 -0000",
+                    "url": null,
+                    "episode": "1036"
+                  },
+                  {
+                    "title": "41 Harsh Truths Nobody Wants To Admit - Alex Hormozi - #952 ",
+                    "date": "Mon, 09 Jun 2025 05:00:00 -0000",
+                    "url": null,
+                    "episode": "952"
+                  },
+                  {
+                    "title": "11 Lessons From 900 Episodes - Alex Hormozi, Mark Manson & Winston Churchill - #900",
+                    "date": "Sat, 08 Feb 2025 06:00:00 -0000",
+                    "url": null,
+                    "episode": "900"
+                  },
+                  {
+                    "title": "The Best Moments Of Modern Wisdom (2024) - #882",
+                    "date": "Sat, 28 Dec 2024 06:00:00 -0000",
+                    "url": null,
+                    "episode": "882"
+                  },
+                  {
+                    "title": "16 Lessons From 2024 - Chris Bumstead, Elon Musk & Alex Hormozi - #879 ",
+                    "date": "Thu, 19 Dec 2024 06:00:00 -0000",
+                    "url": null,
+                    "episode": "879"
+                  },
+                  {
+                    "title": "2.75M Q&A - Women’s Value, Loneliness & Bernie Sanders - #850",
+                    "date": "Sat, 12 Oct 2024 05:00:00 -0000",
+                    "url": null,
+                    "episode": "850"
+                  },
+                  {
+                    "title": "24 Controversial Truths About Success & Failure - Alex Hormozi - #830",
+                    "date": "Mon, 26 Aug 2024 05:00:00 -0000",
+                    "url": null,
+                    "episode": "830"
+                  },
+                  {
+                    "title": "21 Brutally Honest Lessons About Life - Alex Hormozi - #738",
+                    "date": "Mon, 29 Jan 2024 06:00:00 -0000",
+                    "url": null,
+                    "episode": "740"
+                  },
+                  {
+                    "title": "15 Lessons From 2023 - Jordan Peterson, Alex Hormozi & Elon Musk - #722",
+                    "date": "Thu, 21 Dec 2023 06:00:00 -0000",
+                    "url": null,
+                    "episode": "724"
+                  },
+                  {
+                    "title": "23 Controversial Truths About Life - Alex Hormozi - #670",
+                    "date": "Mon, 21 Aug 2023 05:00:00 -0000",
+                    "url": null,
+                    "episode": "670"
+                  },
+                  {
+                    "title": "800k Q&A - Diary Of A CEO, Alex Hormozi & Body Positivity - #616",
+                    "date": "Mon, 17 Apr 2023 06:00:00 -0000",
+                    "url": "https://sites.libsyn.com/115004/616-800k-qa",
+                    "episode": null
+                  },
+                  {
+                    "title": "19 Harsh Truths About Human Nature - Alex Hormozi - #610",
+                    "date": "Mon, 03 Apr 2023 06:00:00 -0000",
+                    "url": "https://sites.libsyn.com/115004/610-alex-hormozi",
+                    "episode": "610"
+                  },
+                  {
+                    "title": "16 Lessons From 600 Episodes - Andrew Schulz, Douglas Murray & Alex Hormozi - #600",
+                    "date": "Sat, 11 Mar 2023 06:00:00 -0000",
+                    "url": "https://sites.libsyn.com/115004/600-15-lessons-from-600-episodes",
+                    "episode": "600"
+                  },
+                  {
+                    "title": "Building A $100m Marriage - Alex & Leila Hormozi - #490",
+                    "date": "Thu, 23 Jun 2022 06:00:00 -0000",
+                    "url": "https://sites.libsyn.com/115004/490-alex-leila-hormozi",
+                    "episode": "490"
+                  }
+                ]
+              },
+              {
+                "key": "school-of-greatness",
+                "title": "The School of Greatness",
+                "feedUrl": "https://feeds.simplecast.com/AAvup9Zz",
+                "feedItemCount": 2013,
+                "matchingTitleCount": 18,
+                "matches": [
+                  {
+                    "title": "Money Loves Speed, but Wealth Loves Time | Sharran Srivatsaa",
+                    "date": "Wed, 2 Sep 2026 07:00:00 +0000",
+                    "url": "https://www.siriusxm.com",
+                    "episode": "1975"
+                  },
+                  {
+                    "title": "Asking for a Raise Beats Cutting Your Expenses | Lewis Howes",
+                    "date": "Fri, 23 May 2025 07:00:00 +0000",
+                    "url": "https://www.lewishowes.com/1775",
+                    "episode": "1775"
+                  },
+                  {
+                    "title": "Alex Hormozi: Saying No Took Him From $40M to $100M",
+                    "date": "Wed, 22 Jan 2025 08:00:00 +0000",
+                    "url": "https://www.siriusxm.com",
+                    "episode": "1723"
+                  },
+                  {
+                    "title": "Get Rich by Doing One Thing Extremely Well | Rory Vaden",
+                    "date": "Wed, 30 Oct 2024 07:00:00 +0000",
+                    "url": "https://www.siriusxm.com",
+                    "episode": "1687"
+                  },
+                  {
+                    "title": "Budgets Are for Intentional People, Not Broke or Wealthy Ones | George Kamel",
+                    "date": "Mon, 29 Jan 2024 08:00:00 +0000",
+                    "url": "http://www.lewishowes.com/1568",
+                    "episode": "1568"
+                  },
+                  {
+                    "title": "Money Doesn't Buy Happiness. It Helps You Avoid Pain | Alex Hormozi",
+                    "date": "Wed, 29 Nov 2023 08:00:00 +0000",
+                    "url": "http://www.lewishowes.com/1537",
+                    "episode": "1537"
+                  },
+                  {
+                    "title": "The Biggest Money Mistake Is Deferring Your Life | Bill Perkins",
+                    "date": "Mon, 13 Nov 2023 08:00:00 +0000",
+                    "url": "http://www.lewishowes.com/1529",
+                    "episode": "1529"
+                  },
+                  {
+                    "title": "Turn Your Side Hustle Into Real Income",
+                    "date": "Fri, 3 Nov 2023 07:00:00 +0000",
+                    "url": "http://www.lewishowes.com/1524",
+                    "episode": "1524"
+                  },
+                  {
+                    "title": "Everyone Wants You to Win, Just Not More Than Them | Alex Hormozi",
+                    "date": "Mon, 30 Oct 2023 07:00:00 +0000",
+                    "url": "http://www.lewishowes.com/1522",
+                    "episode": "1522"
+                  },
+                  {
+                    "title": "The Rich Habits That Build Real Wealth",
+                    "date": "Fri, 21 Apr 2023 07:00:00 +0000",
+                    "url": "https://www.siriusxm.com",
+                    "episode": "1426"
+                  },
+                  {
+                    "title": "More Millionaires Are Made in a Recession Than Any Other Time | Lewis Howes",
+                    "date": "Mon, 14 Nov 2022 08:00:00 +0000",
+                    "url": "http://www.lewishowes.com/1347",
+                    "episode": "1347"
+                  },
+                  {
+                    "title": "How to Stay Poor: The Backwards Path to Wealth | Alex Hormozi",
+                    "date": "Mon, 31 Oct 2022 07:00:00 +0000",
+                    "url": "http://www.lewishowes.com/1340",
+                    "episode": "1340"
+                  },
+                  {
+                    "title": "Dane Cook: The First 10 Years Were One Long Breakdown",
+                    "date": "Wed, 19 Oct 2022 07:00:00 +0000",
+                    "url": "http://www.lewishowes.com/1334",
+                    "episode": "1334"
+                  },
+                  {
+                    "title": "The Japanese Art Of Making Peace With Money | Ken Honda",
+                    "date": "Wed, 12 Oct 2022 07:00:00 +0000",
+                    "url": "http://www.lewishowes.com/1331",
+                    "episode": "1331"
+                  },
+                  {
+                    "title": "Distraction Is Keeping You Poor | Alex Hormozi",
+                    "date": "Mon, 26 Sep 2022 07:00:00 +0000",
+                    "url": "http://www.lewishowes.com/1324",
+                    "episode": "1324"
+                  },
+                  {
+                    "title": "The 4 Phases Of Change (Most People Get Stuck At Panic) | Jason Feifer",
+                    "date": "Wed, 24 Aug 2022 07:00:00 +0000",
+                    "url": "http://www.lewishowes.com/1310",
+                    "episode": "1310"
+                  },
+                  {
+                    "title": "The Single Biggest Differentiator Between Rich and Poor | Alex Hormozi",
+                    "date": "Fri, 22 Jul 2022 07:00:00 +0000",
+                    "url": "https://www.siriusxm.com",
+                    "episode": "1296"
+                  },
+                  {
+                    "title": "Quiet Your Ego and Forget About Legacy | Alex Hormozi",
+                    "date": "Fri, 10 Jun 2022 07:00:00 +0000",
+                    "url": "https://www.siriusxm.com",
+                    "episode": "1278"
+                  }
+                ]
+              },
+              {
+                "key": "ed-mylett",
+                "title": "THE ED MYLETT SHOW",
+                "feedUrl": "https://feeds.megaphone.fm/WWO2015297742",
+                "feedItemCount": 751,
+                "matchingTitleCount": 8,
+                "matches": [
+                  {
+                    "title": "Alex Hormozi on Fatherhood, Leadership & The Cost of Success",
+                    "date": "Tue, 15 Sep 2026 11:30:00 -0000",
+                    "url": null,
+                    "episode": null
+                  },
+                  {
+                    "title": "STOP Trying To Change Others! People Change Only If They Want To - Ed Mylett",
+                    "date": "Sat, 18 Apr 2026 08:00:00 -0000",
+                    "url": null,
+                    "episode": null
+                  },
+                  {
+                    "title": "The Ultimate Persuasion Technique To Make More Sales | Ed Mylett",
+                    "date": "Sat, 22 Nov 2025 09:00:00 -0000",
+                    "url": null,
+                    "episode": null
+                  },
+                  {
+                    "title": " Do You Have What It Takes To Be A GREAT Entrepreneur? Feat. Joe DeSena",
+                    "date": "Sat, 29 Jun 2024 08:00:00 -0000",
+                    "url": null,
+                    "episode": null
+                  },
+                  {
+                    "title": "Maximizing Returns: The Power of Real Leverage In Your Life",
+                    "date": "Sat, 25 May 2024 08:00:00 -0000",
+                    "url": null,
+                    "episode": null
+                  },
+                  {
+                    "title": "2023 UNLEASHED: The Top 12 Most Life Changing Lessons",
+                    "date": "Tue, 26 Dec 2023 09:00:00 -0000",
+                    "url": "https://www.stitcher.com",
+                    "episode": null
+                  },
+                  {
+                    "title": "$100M Business Strategies w/ Alex Hormozi",
+                    "date": "Tue, 10 Oct 2023 08:00:00 -0000",
+                    "url": "https://www.stitcher.com",
+                    "episode": null
+                  },
+                  {
+                    "title": "Unlocking Secrets to Business Growth w/ Alex Hormozi",
+                    "date": "Tue, 09 Aug 2022 10:00:00 -0000",
+                    "url": "https://www.stitcher.com",
+                    "episode": null
+                  }
+                ]
+              },
+              {
+                "key": "impact-theory",
+                "title": "Tom Bilyeu's Impact Theory",
+                "feedUrl": "https://rss.pdrl.fm/02d1c6/rss.art19.com/tom-bilyeus-impact-theory",
+                "feedItemCount": 1077,
+                "matchingTitleCount": 8,
+                "matches": [
+                  {
+                    "title": "Bitcoin's Boom, AI, Trump's ERS, Ceasefire, Conspiracy Theories and Your Questions | Tom Bilyeu Show",
+                    "date": "Fri, 17 Jan 2025 09:00:00 -0000",
+                    "url": null,
+                    "episode": "1565"
+                  },
+                  {
+                    "title": "Alex Hormozi on Why Smart People Stay Poor and How to Build Wealth in 2025! - PT 2",
+                    "date": "Thu, 16 Jan 2025 09:00:00 -0000",
+                    "url": null,
+                    "episode": "1564"
+                  },
+                  {
+                    "title": "Alex Hormozi on Why Smart People Stay Poor and How to Build Wealth in 2025! - PT 1",
+                    "date": "Tue, 14 Jan 2025 09:00:00 -0000",
+                    "url": null,
+                    "episode": "1562"
+                  },
+                  {
+                    "title": "Turning $0 Into $100 Million: How To Make So Much Money You Question It's Meaning | Alex Hormozi PT 2",
+                    "date": "Wed, 17 Jan 2024 09:00:00 -0000",
+                    "url": null,
+                    "episode": "1208"
+                  },
+                  {
+                    "title": "Turning $0 Into $100 Million: How To Make So Much Money You Question It's Meaning | Alex Hormozi PT 1",
+                    "date": "Tue, 16 Jan 2024 09:00:00 -0000",
+                    "url": null,
+                    "episode": "1207"
+                  },
+                  {
+                    "title": "Debunking Success: Alcohol, Laziness & Social Media Addiction Isn't Holding You Back | Alex Hormozi PT 2",
+                    "date": "Wed, 06 Sep 2023 08:00:00 -0000",
+                    "url": null,
+                    "episode": "1113"
+                  },
+                  {
+                    "title": "Debunking Success: Alcohol, Laziness & Social Media Addiction Isn't Holding You Back | Alex Hormozi PT 1",
+                    "date": "Tue, 05 Sep 2023 08:00:00 -0000",
+                    "url": null,
+                    "episode": "1112"
+                  },
+                  {
+                    "title": "Alex Hormozi | Do You Have What It Takes To GET RICH In 3 Years? (Copy These Millionaire Habits)",
+                    "date": "Tue, 20 Sep 2022 12:30:00 -0000",
+                    "url": "https://www.spreaker.com/user/15257048/alex-hormozi-yt-postforpod",
+                    "episode": "931"
+                  }
+                ]
+              },
+              {
+                "key": "learning-leader",
+                "title": "The Learning Leader Show With Ryan Hawk",
+                "feedUrl": "https://rss.libsyn.com/shows/65162/destinations/259291.xml",
+                "feedItemCount": 715,
+                "matchingTitleCount": 1,
+                "matches": [
+                  {
+                    "title": "540: Alex Hormozi - Creating Confidence, The Art of Selling, Marrying Well, Letting Go of The Need For Approval, Building a Profitable Business, & Never Skipping Dessert",
+                    "date": "Sun, 13 Aug 2023 23:00:00 +0000",
+                    "url": "https://learningleadershow.libsyn.com/540-alex-hormozi-creating-confidence-the-art-of-selling-marrying-well-letting-go-of-the-need-for-approval-building-a-profitable-business-never-skipping-dessert",
+                    "episode": null
+                  }
+                ]
+              },
+              {
+                "key": "my-first-million",
+                "title": "My First Million",
+                "feedUrl": "https://feeds.megaphone.fm/HS2300184645",
+                "feedItemCount": 921,
+                "matchingTitleCount": 12,
+                "matches": [
+                  {
+                    "title": "How Alex Hormozi Gets Other People To Build His $100M+ Empire",
+                    "date": "Fri, 14 Nov 2025 12:34:00 -0000",
+                    "url": null,
+                    "episode": null
+                  },
+                  {
+                    "title": "5 Live Callers Get Startup Advice from Hormozi & Shaan",
+                    "date": "Fri, 08 Aug 2025 14:42:00 -0000",
+                    "url": null,
+                    "episode": null
+                  },
+                  {
+                    "title": "Hormozi Teaches Me Everything He Knows in 90 Minutes",
+                    "date": "Wed, 06 Aug 2025 22:01:00 -0000",
+                    "url": null,
+                    "episode": null
+                  },
+                  {
+                    "title": "What It’s Like to Spend 24hrs with a Billionaire Who Plays Full Out",
+                    "date": "Thu, 24 Jul 2025 13:13:00 -0000",
+                    "url": null,
+                    "episode": null
+                  },
+                  {
+                    "title": "Leila Hormozi: From Minimum Wage Employee to $100M Net Worth By 29",
+                    "date": "Fri, 15 Nov 2024 14:28:00 -0000",
+                    "url": null,
+                    "episode": null
+                  },
+                  {
+                    "title": "Alex Hormozi: I Lost Everything Twice… Then Made $26M In 18 Months | Alex Hormozi Interview",
+                    "date": "Thu, 15 Aug 2024 14:25:00 -0000",
+                    "url": null,
+                    "episode": null
+                  },
+                  {
+                    "title": "Alex Hormozi:  Why He's Trying To Make More Money & How He's Doing It",
+                    "date": "Tue, 06 Jun 2023 10:00:00 -0000",
+                    "url": null,
+                    "episode": "462"
+                  },
+                  {
+                    "title": "Top 5 Interviews of 2022",
+                    "date": "Sat, 31 Dec 2022 18:41:00 -0000",
+                    "url": null,
+                    "episode": "402"
+                  },
+                  {
+                    "title": "From Sleeping on Gym Floors to $100M with Alex Hormozi",
+                    "date": "Thu, 10 Feb 2022 15:51:00 -0000",
+                    "url": null,
+                    "episode": "271"
+                  },
+                  {
+                    "title": "Billy of the Week: Alex Hormozi",
+                    "date": "Mon, 31 Jan 2022 15:30:00 -0000",
+                    "url": null,
+                    "episode": "265"
+                  },
+                  {
+                    "title": "MFM Goes to Jail - Plus Startup Cities, Prospera, Julian Shapiro Building a Ranch, Testing Out Big Purchases, and More",
+                    "date": "Tue, 26 Oct 2021 10:58:00 -0000",
+                    "url": null,
+                    "episode": "230"
+                  },
+                  {
+                    "title": "#211 with Julian Shapiro - The 3 Cheat Codes Startups Use to Print Cash",
+                    "date": "Fri, 20 Aug 2021 10:00:00 -0000",
+                    "url": null,
+                    "episode": null
+                  }
+                ]
+              },
+              {
+                "key": "indie-hackers",
+                "title": "Indie Hackers",
+                "feedUrl": "https://feeds.transistor.fm/the-indie-hackers-podcast",
+                "feedItemCount": 290,
+                "matchingTitleCount": 4,
+                "matches": [
+                  {
+                    "title": "#251 – The Best Ways to Make Money in Tech with Julian Shapiro of Julian.capital",
+                    "date": "Wed, 27 Apr 2022 12:31:46 -0700",
+                    "url": "https://share.transistor.fm/s/7d64c3ae",
+                    "episode": null
+                  },
+                  {
+                    "title": "#225 – Growth Tactics, Audience Building, and Brains with Julian Shapiro of Demand Curve",
+                    "date": "Wed, 08 Sep 2021 09:32:43 -0700",
+                    "url": "https://share.transistor.fm/s/0e3c990d",
+                    "episode": null
+                  },
+                  {
+                    "title": "#079 – Things Every Founder Should Know About Growth with Julian Shapiro of Bell Curve",
+                    "date": "Thu, 24 Jan 2019 16:00:00 -0800",
+                    "url": "https://share.transistor.fm/s/d0af98df",
+                    "episode": null
+                  },
+                  {
+                    "title": "#017 – How to Grow Your Business with Julian Shapiro of Bell Curve",
+                    "date": "Thu, 08 Jun 2017 01:00:00 -0700",
+                    "url": "https://share.transistor.fm/s/b47bf9de",
+                    "episode": null
+                  }
+                ]
+              },
+              {
+                "key": "diary-of-ceo",
+                "title": "The Diary Of A CEO with Steven Bartlett",
+                "feedUrl": "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn",
+                "feedItemCount": 911,
+                "matchingTitleCount": 5,
+                "matches": [
+                  {
+                    "title": "Why Are You Still Letting Fear Control Your Future? | Alex Hormozi",
+                    "date": "Mon, 20 Jul 2026 05:00:00 -0000",
+                    "url": null,
+                    "episode": null
+                  },
+                  {
+                    "title": "Money Making Experts: This 3-Step 'Offer' Formula Makes $20k Per Month! Alex Hormozi, Codie Sanchez, Daniel Priestley",
+                    "date": "Thu, 07 Aug 2025 05:48:00 -0000",
+                    "url": null,
+                    "episode": null
+                  },
+                  {
+                    "title": "The Man That Makes Millionaires: Turn $100 to $10k With This Step By Step Formula & Build An Audience From 0 Followers! Alex Hormozi",
+                    "date": "Thu, 13 Feb 2025 06:00:00 -0000",
+                    "url": null,
+                    "episode": null
+                  },
+                  {
+                    "title": "Moment 120: The ONE Skill, We Can All Learn, That 95% of Millionaires Have!: Alex Hormozi",
+                    "date": "Fri, 28 Jul 2023 05:00:00 -0000",
+                    "url": null,
+                    "episode": null
+                  },
+                  {
+                    "title": "The Man That Makes Millionaires: How To Turn $1,000 Into $100 Million!: Alex Hormozi",
+                    "date": "Mon, 03 Apr 2023 05:00:00 -0000",
+                    "url": null,
+                    "episode": null
+                  }
+                ]
+              },
+              {
+                "key": "how-i-invest",
+                "title": "How I Invest with David Weisburd",
+                "feedUrl": "https://feeds.podcastai.com/LaVYz9xBOj9Q4toB4HfKrC.xml",
+                "feedItemCount": 456,
+                "matchingTitleCount": 2,
+                "matches": [
+                  {
+                    "title": "E200: 21 Harsh Truths Nobody Will Ever Tell You - Alex Hormozi ",
+                    "date": "Fri, 15 Aug 2025 14:00:00 GMT",
+                    "url": "https://www.howiinvestpodcast.com",
+                    "episode": "200"
+                  },
+                  {
+                    "title": "E103: Alex Hormozi - Private Equity’s Next Billionaire?",
+                    "date": "Tue, 15 Oct 2024 20:30:00 GMT",
+                    "url": "https://www.howiinvestpodcast.com",
+                    "episode": "103"
+                  }
+                ]
+              },
+              {
+                "key": "real-af",
+                "title": "REAL AF with Andy Frisella",
+                "feedUrl": "https://rss.libsyn.com/shows/67940/destinations/278377.xml",
+                "feedItemCount": 1398,
+                "matchingTitleCount": 3,
+                "matches": [
+                  {
+                    "title": "526. Q&AF Ft. Alex Hormozi: Compromises In Business, Learning Skills Vs. Hiring Professionals & Dealing With Yes Men",
+                    "date": "Mon, 05 Jun 2023 09:00:00 +0000",
+                    "url": "https://andyfrisella.com/blogs/realaf-podcast",
+                    "episode": null
+                  },
+                  {
+                    "title": "485. Part 2 - The Process Of Building An Empire Ft. Alex Hormozi",
+                    "date": "Fri, 10 Mar 2023 10:30:00 +0000",
+                    "url": "https://andyfrisella.com/blogs/realaf-podcast",
+                    "episode": null
+                  },
+                  {
+                    "title": "485. Part 1 - The Process Of Building An Empire Ft. Alex Hormozi",
+                    "date": "Fri, 10 Mar 2023 10:00:00 +0000",
+                    "url": "https://andyfrisella.com/blogs/realaf-podcast",
+                    "episode": null
+                  }
+                ]
+              },
+              {
+                "key": "iced-coffee",
+                "title": "The Iced Coffee Hour",
+                "feedUrl": "https://rss.pdrl.fm/4c73a3/feeds.megaphone.fm/IMP2294070354",
+                "feedItemCount": 367,
+                "matchingTitleCount": 7,
+                "matches": [
+                  {
+                    "title": "Alex Hormozi: The #1 Strategy That Will Print MILLIONAIRES In 2025",
+                    "date": "Sun, 06 Apr 2025 21:52:00 -0000",
+                    "url": null,
+                    "episode": null
+                  },
+                  {
+                    "title": "“This Keeps 99% Single!” Chris Williamson on The Dating Crisis, Building Wealth, and Becoming The 1%",
+                    "date": "Sun, 28 Jan 2024 23:45:28 -0000",
+                    "url": "https://podcasters.spotify.com/pod/show/jack-selby4/episodes/This-Keeps-99-Single--Chris-Williamson-on-The-Dating-Crisis--Building-Wealth--and-Becoming-The-1-e2f2384",
+                    "episode": null
+                  },
+                  {
+                    "title": "Alex Hormozi’s Guide To Get INSANELY Rich in 2024",
+                    "date": "Mon, 04 Dec 2023 20:00:00 -0000",
+                    "url": "https://podcasters.spotify.com/pod/show/jack-selby4/episodes/Alex-Hormozis-Guide-To-Get-INSANELY-Rich-in-2024-e2cq3ud",
+                    "episode": null
+                  },
+                  {
+                    "title": "The Ultimate Relationship Masterclass: Alex Hormozi vs Tom Bilyeu",
+                    "date": "Sun, 26 Feb 2023 23:29:55 -0000",
+                    "url": "https://podcasters.spotify.com/pod/show/jack-selby4/episodes/The-Ultimate-Relationship-Masterclass-Alex-Hormozi-vs-Tom-Bilyeu-e1vif3i",
+                    "episode": null
+                  },
+                  {
+                    "title": "Meet The $100,000,000 Power Couple Who Sold Everything | Hormozi",
+                    "date": "Mon, 28 Nov 2022 20:36:42 -0000",
+                    "url": "https://podcasters.spotify.com/pod/show/jack-selby4/episodes/Meet-The-100-000-000-Power-Couple-Who-Sold-Everything--Hormozi-e1rdedb",
+                    "episode": null
+                  },
+                  {
+                    "title": "Confronting The $100,000,000 Man | Why He’s Giving It All Away",
+                    "date": "Mon, 07 Mar 2022 19:50:58 -0000",
+                    "url": "https://podcasters.spotify.com/pod/show/jack-selby4/episodes/Confronting-The-100-000-000-Man--Why-Hes-Giving-It-All-Away-e1fcf6b",
+                    "episode": null
+                  },
+                  {
+                    "title": "Meet The $100,000,000 Man Who Sold Everything | Alex Hormozi",
+                    "date": "Mon, 21 Feb 2022 00:11:32 -0000",
+                    "url": "https://podcasters.spotify.com/pod/show/jack-selby4/episodes/Meet-The-100-000-000-Man-Who-Sold-Everything--Alex-Hormozi-e1em0st",
+                    "episode": null
+                  }
+                ]
+              },
+              {
+                "key": "ali-deep-dive",
+                "title": "Deep Dive with Ali Abdaal",
+                "feedUrl": "https://feeds.transistor.fm/deep-dive-with-ali-abdaal",
+                "feedItemCount": 181,
+                "matchingTitleCount": 3,
+                "matches": [
+                  {
+                    "title": "Snippet 19: Alex Hormozi Explains How To Start Your First Business ",
+                    "date": "Tue, 04 Apr 2023 05:00:00 +0100",
+                    "url": "https://share.transistor.fm/s/d9a8fbbd",
+                    "episode": null
+                  },
+                  {
+                    "title": "7 Lessons I'm Taking Into 2023 - Season 4 Wrapped",
+                    "date": "Thu, 22 Dec 2022 05:00:00 +0000",
+                    "url": "https://share.transistor.fm/s/6090e384",
+                    "episode": null
+                  },
+                  {
+                    "title": "Alex Hormozi: How He Built A $150 Million Empire And His Best Business Advice",
+                    "date": "Thu, 13 Oct 2022 05:00:00 +0100",
+                    "url": "https://share.transistor.fm/s/b15d472b",
+                    "episode": null
+                  }
+                ]
+              },
+              {
+                "key": "game-changing-attorney",
+                "title": "The Game Changing Attorney Podcast with Michael Mogill",
+                "feedUrl": "https://feeds.megaphone.fm/gamechangingattorney",
+                "feedItemCount": 509,
+                "matchingTitleCount": 11,
+                "matches": [
+                  {
+                    "title": "362. The Secret Weapons for Outpacing Your Competition",
+                    "date": "Tue, 13 May 2025 04:00:00 -0000",
+                    "url": "https://crisp.co/podcast/episode-362-business-titans/",
+                    "episode": "362"
+                  },
+                  {
+                    "title": "300. Legends & Leaders: 300 Episodes of Game Changing Insights",
+                    "date": "Thu, 19 Sep 2024 04:00:00 -0000",
+                    "url": "https://crisp.co/podcast/episode-300-spectacular/",
+                    "episode": null
+                  },
+                  {
+                    "title": "287. Dan Martell — Buy Back Your Time: Mastering the Art of Delegation [Encore Edition]",
+                    "date": "Tue, 06 Aug 2024 04:00:00 -0000",
+                    "url": "https://crisp.co/podcast/episode-287-dan-martell/",
+                    "episode": null
+                  },
+                  {
+                    "title": "251. Alex Hormozi — The Power of Humility in Achieving Entrepreneurial Success [Encore Edition]",
+                    "date": "Tue, 02 Apr 2024 06:00:00 -0000",
+                    "url": "https://crisp.co/podcast/episode-251-alex-hormozi/",
+                    "episode": null
+                  },
+                  {
+                    "title": "233. AMMA – How to Find Meaning in the Journey",
+                    "date": "Tue, 30 Jan 2024 07:00:00 -0000",
+                    "url": "https://crisp.co/podcast/episode-233-amma",
+                    "episode": null
+                  },
+                  {
+                    "title": "224. Season 4 Finale: Part 1",
+                    "date": "Tue, 19 Dec 2023 07:00:00 -0000",
+                    "url": "https://crisp.co/podcast/episode-224-season-4-finale-part-1/",
+                    "episode": null
+                  },
+                  {
+                    "title": "200. Game Changing Stories: 200th Episode Spectacular",
+                    "date": "Thu, 21 Sep 2023 06:00:00 -0000",
+                    "url": "https://crisp.co/podcast/episode-200-spectacular",
+                    "episode": null
+                  },
+                  {
+                    "title": "187. Dan Martell — Buy Back Your Time: Get Unstuck, Reclaim Your Freedom, and Build Your Empire",
+                    "date": "Tue, 08 Aug 2023 06:00:00 -0000",
+                    "url": "https://crisp.co/podcast/episode-187-dan-martell/",
+                    "episode": null
+                  },
+                  {
+                    "title": "181. Best of Season 4: Q2",
+                    "date": "Tue, 18 Jul 2023 06:00:00 -0000",
+                    "url": "https://crisp.co/podcast/episode-181-best-of-season-4-q2/",
+                    "episode": null
+                  },
+                  {
+                    "title": "160. AMMA — Goals, Values, and Greatness",
+                    "date": "Tue, 02 May 2023 06:00:00 -0000",
+                    "url": "https://crisp.co/podcast/episode-160-amma/",
+                    "episode": null
+                  },
+                  {
+                    "title": "158. Alex Hormozi — The Power of Humility in Achieving Entrepreneurial Success",
+                    "date": "Tue, 25 Apr 2023 11:45:00 -0000",
+                    "url": "https://crisp.co/podcast/episode-158-alex-hormozi/",
+                    "episode": null
+                  }
+                ]
+              }
+            ],
+            "matchedItems": 97,
+            "newGuestProgrammes": 44,
+            "newOtherProgrammes": 1,
+            "knownExistingProgrammeUpdates": 37,
+            "originalVideoMetadata": {
+              "checked": 41,
+              "verified": 39,
+              "unavailable": [
+                {
+                  "url": "https://www.youtube.com/watch?v=vY2ruQ7uoOI",
+                  "status": 404
+                },
+                {
+                  "url": "https://www.youtube.com/watch?v=SBUaxy3RvmE",
+                  "status": 403
+                }
+              ],
+              "withheldPotentialDuplicate": [
+                {
+                  "url": "https://www.youtube.com/watch?v=UQhhFKEECmI",
+                  "possibleExistingId": "alex-crisp-158",
+                  "reason": "官方转播标月份与已有原节目时间不一致；未作为新增母访谈计数，转播版本保留并标可能重复。"
+                }
+              ]
+            },
+            "mergedGameVersions": 81,
+            "motherEvidence": [
+              {
+                "youtubeId": "ypBrmOzG6HM",
+                "id": "alex-learning-leader-540",
+                "relationship": "基线已保留相同 YouTube ID。",
+                "mergedGameVersions": 2
+              },
+              {
+                "youtubeId": "9XUCWQ8Ka_I",
+                "id": "alex-guest-video-9XUCWQ8Ka_I",
+                "relationship": "官方 The Game 简介直接链接该原始受访视频；已以原视频为母条目。",
+                "mergedGameVersions": 3
+              },
+              {
+                "youtubeId": "gBtZ0rFUVxQ",
+                "id": "alex-guest-video-gBtZ0rFUVxQ",
+                "relationship": "官方 The Game 简介直接链接该原始受访视频；已以原视频为母条目。",
+                "mergedGameVersions": 1
+              },
+              {
+                "youtubeId": "nZKhApFCWO8",
+                "id": "alex-iced-coffee-2023",
+                "relationship": "原始视频与原节目 RSS 标题完全对应。",
+                "mergedGameVersions": 2
+              },
+              {
+                "youtubeId": "Gk8EGWoGnEQ",
+                "id": "alex-mw-738",
+                "relationship": "The Game 明确标注 Modern Wisdom Jan 2024；完整 Modern Wisdom RSS 当月唯一 Alex 访谈为 #738。",
+                "mergedGameVersions": 2
+              },
+              {
+                "youtubeId": "sBekyi45org",
+                "id": "alex-guest-video-sBekyi45org",
+                "relationship": "官方 The Game 简介直接链接该原始受访视频；已以原视频为母条目。",
+                "mergedGameVersions": 2
+              },
+              {
+                "youtubeId": "WK-d4H7xtvQ",
+                "id": "alex-greatness-1537",
+                "relationship": "The Game 标注 Lewis Howes Nov 2023；完整 School of Greatness RSS 当月唯一 Alex 访谈为 #1537。",
+                "mergedGameVersions": 2
+              },
+              {
+                "youtubeId": "KepgJld9O2w",
+                "id": "alex-ed-mylett-2023",
+                "relationship": "The Game 明确标注 Ed Mylett Oct 2023；完整原节目RSS该月只有此场 Alex 受访。",
+                "mergedGameVersions": 2
+              },
+              {
+                "youtubeId": "YYKo-8JTOgk",
+                "id": "alex-guest-video-YYKo-8JTOgk",
+                "relationship": "官方 The Game 简介直接链接该原始受访视频；已以原视频为母条目。",
+                "mergedGameVersions": 2
+              },
+              {
+                "youtubeId": "OW59njIg6TQ",
+                "id": "alex-guest-video-OW59njIg6TQ",
+                "relationship": "官方 The Game 简介直接链接该原始受访视频；已以原视频为母条目。",
+                "mergedGameVersions": 2
+              },
+              {
+                "youtubeId": "eSAdKiDt9hI",
+                "id": "alex-guest-video-eSAdKiDt9hI",
+                "relationship": "官方 The Game 简介直接链接该原始受访视频；已以原视频为母条目。",
+                "mergedGameVersions": 2
+              },
+              {
+                "youtubeId": "lNn0u5t8uSY",
+                "id": "alex-guest-video-lNn0u5t8uSY",
+                "relationship": "官方 The Game 简介直接链接该原始受访视频；已以原视频为母条目。",
+                "mergedGameVersions": 2
+              },
+              {
+                "youtubeId": "xwimKNyNbLo",
+                "id": "alex-guest-video-xwimKNyNbLo",
+                "relationship": "官方 The Game 简介直接链接该原始受访视频；已以原视频为母条目。",
+                "mergedGameVersions": 2
+              },
+              {
+                "youtubeId": "R20SqiiGZQo",
+                "id": "alex-guest-video-R20SqiiGZQo",
+                "relationship": "官方 The Game 简介直接链接该原始受访视频；已以原视频为母条目。",
+                "mergedGameVersions": 2
+              },
+              {
+                "youtubeId": "SYfGyxxMhU4",
+                "id": "alex-realaf-485",
+                "relationship": "原视频标题明确 Ep 485 Full Length，发布日期与官方两段音频同为 2023-03-10。",
+                "mergedGameVersions": 3
+              },
+              {
+                "youtubeId": "JuNOFW-oVn8",
+                "id": "alex-mw-610",
+                "relationship": "The Game 明确标注 Modern Wisdom Apr 2023；原节目 #610 对应当月 Alex 受访。",
+                "mergedGameVersions": 2
+              },
+              {
+                "youtubeId": "-XE-OC2ZYB4",
+                "id": "alex-guest-video--XE-OC2ZYB4",
+                "relationship": "官方 The Game 简介直接链接该原始受访视频；已以原视频为母条目。",
+                "mergedGameVersions": 2
+              },
+              {
+                "youtubeId": "sdd4BST87ks",
+                "id": "alex-ali-deep-dive-2022",
+                "relationship": "原视频与原节目 RSS 标题完全对应。",
+                "mergedGameVersions": 2
+              },
+              {
+                "youtubeId": "2IoKsGLpGys",
+                "id": "alex-iced-coffee-sold-2022",
+                "relationship": "原始视频与原节目 RSS 标题完全对应。",
+                "mergedGameVersions": 1
+              },
+              {
+                "youtubeId": "MTAXjVgK-1o",
+                "id": "alex-greatness-1278",
+                "relationship": "The Game 标注 Lewis Howes June 2022；官方交叉链接明确 #1278 是该月 Alex 首访。",
+                "mergedGameVersions": 2
+              },
+              {
+                "youtubeId": "L4K3NXYNBCk",
+                "id": "alex-guest-video-L4K3NXYNBCk",
+                "relationship": "官方 The Game 简介直接链接该原始受访视频；已以原视频为母条目。",
+                "mergedGameVersions": 2
+              },
+              {
+                "youtubeId": "3L2jYsL1UUY",
+                "id": "alex-iced-coffee-giveaway-2022",
+                "relationship": "原视频与原节目 RSS 标题完全对应。",
+                "mergedGameVersions": 1
+              },
+              {
+                "youtubeId": "TFHztmuKDuU",
+                "id": "alex-guest-video-TFHztmuKDuU",
+                "relationship": "官方 The Game 简介直接链接该原始受访视频；已以原视频为母条目。",
+                "mergedGameVersions": 2
+              },
+              {
+                "youtubeId": "EMs0sxYdG2I",
+                "id": "alex-guest-video-EMs0sxYdG2I",
+                "relationship": "官方 The Game 简介直接链接该原始受访视频；已以原视频为母条目。",
+                "mergedGameVersions": 2
+              },
+              {
+                "youtubeId": "t3iPYrHhkEc",
+                "id": "alex-guest-video-t3iPYrHhkEc",
+                "relationship": "官方 The Game 简介直接链接该原始受访视频；已以原视频为母条目。",
+                "mergedGameVersions": 2
+              },
+              {
+                "youtubeId": "JPCJEtMXOu0",
+                "id": "alex-greatness-1340",
+                "relationship": "The Game 标注 Lewis Howes Oct 2022；完整原节目RSS对应 #1340。",
+                "mergedGameVersions": 2
+              },
+              {
+                "youtubeId": "JRPChBZ0Rjo",
+                "id": "alex-impact-theory-2022",
+                "relationship": "原视频标题 Millionaire Habits 与原节目标题相符，The Game 标注 Tom Bilyeu Sept 2022。",
+                "mergedGameVersions": 2
+              },
+              {
+                "youtubeId": "ukLdbcsBCWM",
+                "id": "alex-ed-mylett-2022",
+                "relationship": "The Game 标注 Ed Mylett Aug 2022；原节目RSS该月唯一 Alex 受访。",
+                "mergedGameVersions": 2
+              },
+              {
+                "youtubeId": "_w1fLxdiwNI",
+                "id": "alex-guest-video-_w1fLxdiwNI",
+                "relationship": "官方 The Game 简介直接链接该原始受访视频；已以原视频为母条目。",
+                "mergedGameVersions": 2
+              },
+              {
+                "youtubeId": "PN6ldK3C6es",
+                "id": "alex-guest-video-PN6ldK3C6es",
+                "relationship": "官方 The Game 简介直接链接该原始受访视频；已以原视频为母条目。",
+                "mergedGameVersions": 2
+              },
+              {
+                "youtubeId": "F_C_0C8rN68",
+                "id": "alex-guest-video-F_C_0C8rN68",
+                "relationship": "官方 The Game 简介直接链接该原始受访视频；已以原视频为母条目。",
+                "mergedGameVersions": 2
+              },
+              {
+                "youtubeId": "_D1C-C12e4E",
+                "id": "alex-guest-video-_D1C-C12e4E",
+                "relationship": "官方 The Game 简介直接链接该原始受访视频；已以原视频为母条目。",
+                "mergedGameVersions": 2
+              },
+              {
+                "youtubeId": "DGv_clk2cWE",
+                "id": "alex-guest-video-DGv_clk2cWE",
+                "relationship": "官方 The Game 简介直接链接该原始受访视频；已以原视频为母条目。",
+                "mergedGameVersions": 2
+              },
+              {
+                "youtubeId": "33LXr9R-htw",
+                "id": "alex-guest-video-33LXr9R-htw",
+                "relationship": "官方 The Game 简介直接链接该原始受访视频；已以原视频为母条目。",
+                "mergedGameVersions": 2
+              },
+              {
+                "youtubeId": "CQNBYufkRsY",
+                "id": "alex-guest-video-CQNBYufkRsY",
+                "relationship": "官方 The Game 简介直接链接该原始受访视频；已以原视频为母条目。",
+                "mergedGameVersions": 2
+              },
+              {
+                "youtubeId": "gIYvr6M0G2E",
+                "id": "alex-guest-video-gIYvr6M0G2E",
+                "relationship": "官方 The Game 简介直接链接该原始受访视频；已以原视频为母条目。",
+                "mergedGameVersions": 2
+              },
+              {
+                "youtubeId": "80tRGf_nL0g",
+                "id": "alex-guest-video-80tRGf_nL0g",
+                "relationship": "官方 The Game 简介直接链接该原始受访视频；已以原视频为母条目。",
+                "mergedGameVersions": 2
+              },
+              {
+                "youtubeId": "bLYy-mjfhFE",
+                "id": "alex-guest-video-bLYy-mjfhFE",
+                "relationship": "官方 The Game 简介直接链接该原始受访视频；已以原视频为母条目。",
+                "mergedGameVersions": 2
+              },
+              {
+                "id": "alex-impact-theory-2025",
+                "relationship": "同节目、相同 Why Smart People Stay Poor 题名及明确上下两部分，对应官方 2025-01 对谈。",
+                "mergedGameVersions": 2,
+                "gameEpisodeNumbers": [
+                  826,
+                  833
+                ]
+              },
+              {
+                "id": "alex-mfm-618",
+                "relationship": "The Game 原题与 MFM #618 的 Lost Everything Twice / $26M in 18 Months 完整题名相同。",
+                "mergedGameVersions": 1,
+                "gameEpisodeNumbers": [
+                  742
+                ]
+              },
+              {
+                "id": "alex-iced-coffee-giveaway-2022",
+                "relationship": "The Game 明确 Iced Coffee Hour March 2022；完整原节目 RSS 当月唯一 Alex 受访。",
+                "mergedGameVersions": 1,
+                "gameEpisodeNumbers": [
+                  509
+                ]
+              },
+              {
+                "id": "alex-iced-coffee-2025",
+                "relationship": "The Game 明确同名 Iced Coffee Hour Reshare 的 Part 1/2；完整原节目 RSS 2025 年仅一场 Alex 受访。",
+                "mergedGameVersions": 2,
+                "gameEpisodeNumbers": [
+                  869,
+                  871
+                ]
+              }
+            ],
+            "excludedContextAndCompilations": [
+              {
+                "show": "Modern Wisdom",
+                "title": "The Best Moments of Modern Wisdom (2025) - #1036",
+                "date": "2025-12-22",
+                "sourceGuid": "2b8e2254-bc22-11ef-be85-53468d3d1f53",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "Modern Wisdom",
+                "title": "11 Lessons From 900 Episodes - Alex Hormozi, Mark Manson & Winston Churchill - #900",
+                "date": "2025-02-08",
+                "sourceGuid": "2373b416-ab93-11ef-8836-efda74869e4f",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "Modern Wisdom",
+                "title": "The Best Moments Of Modern Wisdom (2024) - #882",
+                "date": "2024-12-28",
+                "sourceGuid": "e41735fc-ac49-11ee-9f02-ab72dcd01e9e",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "Modern Wisdom",
+                "title": "16 Lessons From 2024 - Chris Bumstead, Elon Musk & Alex Hormozi - #879 ",
+                "date": "2024-12-19",
+                "sourceGuid": "e3eb4348-ac49-11ee-9f02-2b36baee79f3",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "Modern Wisdom",
+                "title": "2.75M Q&A - Women’s Value, Loneliness & Bernie Sanders - #850",
+                "date": "2024-10-12",
+                "sourceGuid": "dec291e6-ac49-11ee-9f02-9ff212751e8d",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "Modern Wisdom",
+                "title": "15 Lessons From 2023 - Jordan Peterson, Alex Hormozi & Elon Musk - #722",
+                "date": "2023-12-21",
+                "sourceGuid": "d24cd4aa-0eb3-11ee-8da3-87e2cbd8b5a2",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "Modern Wisdom",
+                "title": "800k Q&A - Diary Of A CEO, Alex Hormozi & Body Positivity - #616",
+                "date": "2023-04-17",
+                "sourceGuid": "2e6fc9e1-9074-4c4a-a1c3-9dea2f31a5a1",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "Modern Wisdom",
+                "title": "16 Lessons From 600 Episodes - Andrew Schulz, Douglas Murray & Alex Hormozi - #600",
+                "date": "2023-03-11",
+                "sourceGuid": "288dcfcb-e1a8-4707-aadc-120a82791d19",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "The School of Greatness",
+                "title": "Money Loves Speed, but Wealth Loves Time | Sharran Srivatsaa",
+                "date": "2026-09-02",
+                "sourceGuid": "77eec91a-20d6-4800-9d95-fb5313f5518b",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "The School of Greatness",
+                "title": "Asking for a Raise Beats Cutting Your Expenses | Lewis Howes",
+                "date": "2025-05-23",
+                "sourceGuid": "c2884de1-1e54-43ee-82da-9da11e97bb9c",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "The School of Greatness",
+                "title": "Get Rich by Doing One Thing Extremely Well | Rory Vaden",
+                "date": "2024-10-30",
+                "sourceGuid": "55cba6ec-8b13-478b-a445-2a0a35a92d04",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "The School of Greatness",
+                "title": "Budgets Are for Intentional People, Not Broke or Wealthy Ones | George Kamel",
+                "date": "2024-01-29",
+                "sourceGuid": "56571008-30bb-47bf-a29c-464c317bb568",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "The School of Greatness",
+                "title": "The Biggest Money Mistake Is Deferring Your Life | Bill Perkins",
+                "date": "2023-11-13",
+                "sourceGuid": "4ee8f708-1b3c-43c0-82a2-cae7761de474",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "The School of Greatness",
+                "title": "Turn Your Side Hustle Into Real Income",
+                "date": "2023-11-03",
+                "sourceGuid": "d37a5106-cfd6-4a0b-b81e-86a7bcd99b66",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "The School of Greatness",
+                "title": "The Rich Habits That Build Real Wealth",
+                "date": "2023-04-21",
+                "sourceGuid": "b0fe5f10-8205-4d07-9283-d25240772bd0",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "The School of Greatness",
+                "title": "More Millionaires Are Made in a Recession Than Any Other Time | Lewis Howes",
+                "date": "2022-11-14",
+                "sourceGuid": "4d110546-82b1-4dea-a87d-ee602e606cd7",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "The School of Greatness",
+                "title": "Dane Cook: The First 10 Years Were One Long Breakdown",
+                "date": "2022-10-19",
+                "sourceGuid": "a5d1c142-04a2-4fa5-a2f7-0b277c31e927",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "The School of Greatness",
+                "title": "The Japanese Art Of Making Peace With Money | Ken Honda",
+                "date": "2022-10-12",
+                "sourceGuid": "1b1486e2-12ce-4401-b0b8-0864ee38ba88",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "The School of Greatness",
+                "title": "The 4 Phases Of Change (Most People Get Stuck At Panic) | Jason Feifer",
+                "date": "2022-08-24",
+                "sourceGuid": "56c56edb-b20b-4a14-9ac4-2811f16b52a0",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "THE ED MYLETT SHOW",
+                "title": "STOP Trying To Change Others! People Change Only If They Want To - Ed Mylett",
+                "date": "2026-04-18",
+                "sourceGuid": "4645c796-3a0c-11f1-a0b2-1bf7716e85b1",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "THE ED MYLETT SHOW",
+                "title": "The Ultimate Persuasion Technique To Make More Sales | Ed Mylett",
+                "date": "2025-11-22",
+                "sourceGuid": "1fb3da0e-c573-11f0-8705-df4f46d067d9",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "THE ED MYLETT SHOW",
+                "title": " Do You Have What It Takes To Be A GREAT Entrepreneur? Feat. Joe DeSena",
+                "date": "2024-06-29",
+                "sourceGuid": "af705e9e-35a3-11ef-8e99-ef81cbe240f6",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "THE ED MYLETT SHOW",
+                "title": "Maximizing Returns: The Power of Real Leverage In Your Life",
+                "date": "2024-05-25",
+                "sourceGuid": "272361d8-193a-11ef-b575-530c06b6ea09",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "THE ED MYLETT SHOW",
+                "title": "2023 UNLEASHED: The Top 12 Most Life Changing Lessons",
+                "date": "2023-12-26",
+                "sourceGuid": "5d774404-1e75-4d83-8600-c3fc856574db",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "Tom Bilyeu's Impact Theory",
+                "title": "Bitcoin's Boom, AI, Trump's ERS, Ceasefire, Conspiracy Theories and Your Questions | Tom Bilyeu Show",
+                "date": "2025-01-17",
+                "sourceGuid": "a12a17b0-714b-11ef-b3ed-9b4ef8290c23",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "My First Million",
+                "title": "What It’s Like to Spend 24hrs with a Billionaire Who Plays Full Out",
+                "date": "2025-07-24",
+                "sourceGuid": "5a05fafc-688a-11f0-8b81-6bd462e626fd",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "My First Million",
+                "title": "Leila Hormozi: From Minimum Wage Employee to $100M Net Worth By 29",
+                "date": "2024-11-15",
+                "sourceGuid": "b6489a66-a357-11ef-ba99-f349890552f4",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "My First Million",
+                "title": "Top 5 Interviews of 2022",
+                "date": "2022-12-31",
+                "sourceGuid": "1c2f5eac-893b-11ed-b360-c36162661588",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "My First Million",
+                "title": "Billy of the Week: Alex Hormozi",
+                "date": "2022-01-31",
+                "sourceGuid": "47901940-82b8-11ec-b7ec-1b4cfffbfc06",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "My First Million",
+                "title": "MFM Goes to Jail - Plus Startup Cities, Prospera, Julian Shapiro Building a Ranch, Testing Out Big Purchases, and More",
+                "date": "2021-10-26",
+                "sourceGuid": "be362ea6-35fe-11ec-9a32-171f3e5f55a1",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "The Diary Of A CEO with Steven Bartlett",
+                "title": "Money Making Experts: This 3-Step 'Offer' Formula Makes $20k Per Month! Alex Hormozi, Codie Sanchez, Daniel Priestley",
+                "date": "2025-08-07",
+                "sourceGuid": "06d3924c-72dd-11f0-89a3-c7902f6e0f79",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "The Iced Coffee Hour",
+                "title": "“This Keeps 99% Single!” Chris Williamson on The Dating Crisis, Building Wealth, and Becoming The 1%",
+                "date": "2024-01-28",
+                "sourceGuid": "e0dc8dba-cbf7-4f1f-8c83-69d52b5b20e6",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "The Iced Coffee Hour",
+                "title": "The Ultimate Relationship Masterclass: Alex Hormozi vs Tom Bilyeu",
+                "date": "2023-02-26",
+                "sourceGuid": "22a7cd63-2b65-42ac-b443-864ccd8a4a5d",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "Deep Dive with Ali Abdaal",
+                "title": "7 Lessons I'm Taking Into 2023 - Season 4 Wrapped",
+                "date": "2022-12-22",
+                "sourceGuid": "7fac14c9-cc64-4293-a77e-7f429f5f30b8",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "The Game Changing Attorney Podcast with Michael Mogill",
+                "title": "362. The Secret Weapons for Outpacing Your Competition",
+                "date": "2025-05-13",
+                "sourceGuid": "f5d8394e-2f60-11f0-a165-4727231c105e",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "The Game Changing Attorney Podcast with Michael Mogill",
+                "title": "300. Legends & Leaders: 300 Episodes of Game Changing Insights",
+                "date": "2024-09-19",
+                "sourceGuid": "fcc36a26-7624-11ef-9b37-f78734cd7805",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "The Game Changing Attorney Podcast with Michael Mogill",
+                "title": "287. Dan Martell — Buy Back Your Time: Mastering the Art of Delegation [Encore Edition]",
+                "date": "2024-08-06",
+                "sourceGuid": "bdc1b0ce-5371-11ef-8d03-0f06f679b03a",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "The Game Changing Attorney Podcast with Michael Mogill",
+                "title": "233. AMMA – How to Find Meaning in the Journey",
+                "date": "2024-01-30",
+                "sourceGuid": "2077bbc4-becf-11ee-a10e-b783f22247fb",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "The Game Changing Attorney Podcast with Michael Mogill",
+                "title": "224. Season 4 Finale: Part 1",
+                "date": "2023-12-19",
+                "sourceGuid": "666529e8-9df3-11ee-a357-5798ef0990e4",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "The Game Changing Attorney Podcast with Michael Mogill",
+                "title": "200. Game Changing Stories: 200th Episode Spectacular",
+                "date": "2023-09-21",
+                "sourceGuid": "debffaf2-57bd-11ee-9ca3-6ffb3d16be52",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "The Game Changing Attorney Podcast with Michael Mogill",
+                "title": "187. Dan Martell — Buy Back Your Time: Get Unstuck, Reclaim Your Freedom, and Build Your Empire",
+                "date": "2023-08-08",
+                "sourceGuid": "7bd4504e-3550-11ee-8670-ab2afe7b1281",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "The Game Changing Attorney Podcast with Michael Mogill",
+                "title": "181. Best of Season 4: Q2",
+                "date": "2023-07-18",
+                "sourceGuid": "f07336d4-24c7-11ee-93de-c7ca264c16f0",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              },
+              {
+                "show": "The Game Changing Attorney Podcast with Michael Mogill",
+                "title": "160. AMMA — Goals, Values, and Greatness",
+                "date": "2023-05-02",
+                "sourceGuid": "615f7a6e-e865-11ed-afcb-8b34dd8bff47",
+                "reason": "主讲者另有其人、主持人讨论/泛泛提及、年度合集或旧访谈混剪；不计独立受访场次。"
+              }
+            ],
+            "limits": [
+              "完整RSS覆盖当前保留的公开版本，不包含已删除音频。",
+              "原视频无可核发布日期时留空；版本日期分别保留。",
+              "原始访谈、主持问答、个人讲述与转播分段分开计数。"
+            ]
+          },
+          "notes": [
+            "无原文授权的完整访谈没有复制全文。",
+            "简介用于来源导航，不作为已播放全片或已有精读的证明。",
+            "相同母节目的视频链接用于内容归组；不同发布版本和分段不自动算独立访谈。"
+          ],
+          "corrections": {
+            "status": "complete",
+            "add": [
+              {
+                "id": "alex-game-654-3e17f5fc256b",
+                "person": "alex",
+                "title": "您需要听到的有争议的真相 - 第 1 部分（在现代智慧播客上）",
+                "originalTitle": "Controversial Truths You Need To Hear - Pt.1 (on the Modern Wisdom Podcast) | Ep 654",
+                "date": "2024-02-16",
+                "datePrecision": "day",
+                "dateKind": "feed-publication",
+                "source": "Acquisition.com · The Game 官方RSS",
+                "url": "https://pscrb.fm/rss/p/episode.flightcast.com/ahlq3wfavm1hck83l6ba6l7s.mp3",
+                "type": "clip",
+                "role": "participant",
+                "series": "The Game with Alex Hormozi",
+                "episodeNumber": 654,
+                "medium": "audio",
+                "format": "guest-interview-rebroadcast",
+                "formatLabel": "外部受访转播；母节目期号待核",
+                "formatConfidence": "mother-episode-unconfirmed",
+                "sourceGuid": "4121d1fb-f1cd-45fb-af2e-2a10239292e7",
+                "part": 1,
+                "isReplay": true,
+                "parentProgramme": "Modern Wisdom（具体期号待核）",
+                "relatedOriginalVideos": [
+                  "https://www.youtube.com/watch?v=Gk8EGWoGnEQ"
+                ],
+                "parentVideoId": "Gk8EGWoGnEQ",
+                "parentSource": "https://www.youtube.com/watch?v=Gk8EGWoGnEQ",
+                "contentGroupId": "youtube:Gk8EGWoGnEQ",
+                "possibleExistingId": "alex-mw-738",
+                "possibleRelationStatus": "unconfirmed",
+                "contentRelation": "rebroadcast",
+                "tags": [
+                  "成长",
+                  "公开受访片段",
+                  "同场关系待核"
+                ],
+                "summary": "The Game 官方发布的 Modern Wisdom 受访转播第1部分，讨论决策、个人成长、幸福感和应对困难。简介链接到真实母视频 Gk8EGWoGnEQ，但该视频是否对应 Modern Wisdom #738 尚未确认，因此保留为独立待核片段。",
+                "points": [
+                  "转播版本发布时间：2024-02-16",
+                  "官方简介链接母视频 Gk8EGWoGnEQ",
+                  "与 Modern Wisdom #738 的对应关系待核，不强行归并"
+                ],
+                "contentStatus": "brief",
+                "sourceMaterial": "official-description",
+                "translationStatus": "machine-assisted-zh",
+                "verifiedSources": [
+                  {
+                    "title": "The Game 官方RSS",
+                    "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml"
+                  },
+                  {
+                    "title": "官方转播音频",
+                    "url": "https://pscrb.fm/rss/p/episode.flightcast.com/ahlq3wfavm1hck83l6ba6l7s.mp3"
+                  },
+                  {
+                    "title": "简介给出的母视频（节目期号待核）",
+                    "url": "https://www.youtube.com/watch?v=Gk8EGWoGnEQ"
+                  }
+                ],
+                "sourceFeedUrl": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+                "audioUrl": "https://pscrb.fm/rss/p/episode.flightcast.com/ahlq3wfavm1hck83l6ba6l7s.mp3",
+                "durationSeconds": 4892,
+                "thumbnailUrl": "https://files.flightcast.com/v3-imports/images/zz5nwp81tktx53wb8fw6qq7j/ficvz2egxkrmdzycu0m5cgfz-cover.jpg",
+                "verificationNote": "本条核对官方RSS原题、发布日期、音频与母视频链接；尚未证实母视频对应原节目#738。role保守标participant；不得从parentVideoId生成本片段自身videoId。",
+                "longread": {
+                  "sections": [
+                    {
+                      "heading": "转播资料与归属说明",
+                      "kind": "source",
+                      "paragraphs": [
+                        "The Game 官方发布的 Modern Wisdom 受访转播第1部分，讨论决策、个人成长、幸福感和应对困难。简介链接到真实母视频 Gk8EGWoGnEQ，但该视频是否对应 Modern Wisdom #738 尚未确认，因此保留为独立待核片段。"
+                      ]
+                    }
+                  ],
+                  "references": [
+                    {
+                      "title": "The Game 官方RSS",
+                      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml"
+                    },
+                    {
+                      "title": "官方转播音频",
+                      "url": "https://pscrb.fm/rss/p/episode.flightcast.com/ahlq3wfavm1hck83l6ba6l7s.mp3"
+                    },
+                    {
+                      "title": "简介给出的母视频（节目期号待核）",
+                      "url": "https://www.youtube.com/watch?v=Gk8EGWoGnEQ"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "alex-game-657-8b7aac04fcd1",
+                "person": "alex",
+                "title": "你需要听到的有争议的真相第 2 部分（在现代智慧播客上）",
+                "originalTitle": "Controversial Truths You Need To Hear Pt.2 (on the Modern Wisdom Podcast) | Ep 657",
+                "date": "2024-02-23",
+                "datePrecision": "day",
+                "dateKind": "feed-publication",
+                "source": "Acquisition.com · The Game 官方RSS",
+                "url": "https://pscrb.fm/rss/p/episode.flightcast.com/tchijt83yf1ruibbca5a5gmr.mp3",
+                "type": "clip",
+                "role": "participant",
+                "series": "The Game with Alex Hormozi",
+                "episodeNumber": 657,
+                "medium": "audio",
+                "format": "guest-interview-rebroadcast",
+                "formatLabel": "外部受访转播；母节目期号待核",
+                "formatConfidence": "mother-episode-unconfirmed",
+                "sourceGuid": "cf469d4d-16ef-4112-9182-2e1444f953d0",
+                "part": 2,
+                "isReplay": true,
+                "parentProgramme": "Modern Wisdom（具体期号待核）",
+                "relatedOriginalVideos": [
+                  "https://www.youtube.com/watch?v=Gk8EGWoGnEQ"
+                ],
+                "parentVideoId": "Gk8EGWoGnEQ",
+                "parentSource": "https://www.youtube.com/watch?v=Gk8EGWoGnEQ",
+                "contentGroupId": "youtube:Gk8EGWoGnEQ",
+                "possibleExistingId": "alex-mw-738",
+                "possibleRelationStatus": "unconfirmed",
+                "contentRelation": "rebroadcast",
+                "tags": [
+                  "成长",
+                  "公开受访片段",
+                  "同场关系待核"
+                ],
+                "summary": "The Game 官方发布的 Modern Wisdom 受访转播第2部分，讨论生产力、失败、自我责任与学习。简介链接到真实母视频 Gk8EGWoGnEQ，但该视频是否对应 Modern Wisdom #738 尚未确认，因此保留为独立待核片段。",
+                "points": [
+                  "转播版本发布时间：2024-02-23",
+                  "官方简介链接母视频 Gk8EGWoGnEQ",
+                  "与 Modern Wisdom #738 的对应关系待核，不强行归并"
+                ],
+                "contentStatus": "brief",
+                "sourceMaterial": "official-description",
+                "translationStatus": "machine-assisted-zh",
+                "verifiedSources": [
+                  {
+                    "title": "The Game 官方RSS",
+                    "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml"
+                  },
+                  {
+                    "title": "官方转播音频",
+                    "url": "https://pscrb.fm/rss/p/episode.flightcast.com/tchijt83yf1ruibbca5a5gmr.mp3"
+                  },
+                  {
+                    "title": "简介给出的母视频（节目期号待核）",
+                    "url": "https://www.youtube.com/watch?v=Gk8EGWoGnEQ"
+                  }
+                ],
+                "sourceFeedUrl": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+                "audioUrl": "https://pscrb.fm/rss/p/episode.flightcast.com/tchijt83yf1ruibbca5a5gmr.mp3",
+                "durationSeconds": 5507,
+                "thumbnailUrl": "https://files.flightcast.com/v3-imports/images/zz5nwp81tktx53wb8fw6qq7j/oa8rqgj8shuxizrtict3l04a-cover.jpg",
+                "verificationNote": "本条核对官方RSS原题、发布日期、音频与母视频链接；尚未证实母视频对应原节目#738。role保守标participant；不得从parentVideoId生成本片段自身videoId。",
+                "longread": {
+                  "sections": [
+                    {
+                      "heading": "转播资料与归属说明",
+                      "kind": "source",
+                      "paragraphs": [
+                        "The Game 官方发布的 Modern Wisdom 受访转播第2部分，讨论生产力、失败、自我责任与学习。简介链接到真实母视频 Gk8EGWoGnEQ，但该视频是否对应 Modern Wisdom #738 尚未确认，因此保留为独立待核片段。"
+                      ]
+                    }
+                  ],
+                  "references": [
+                    {
+                      "title": "The Game 官方RSS",
+                      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml"
+                    },
+                    {
+                      "title": "官方转播音频",
+                      "url": "https://pscrb.fm/rss/p/episode.flightcast.com/tchijt83yf1ruibbca5a5gmr.mp3"
+                    },
+                    {
+                      "title": "简介给出的母视频（节目期号待核）",
+                      "url": "https://www.youtube.com/watch?v=Gk8EGWoGnEQ"
+                    }
+                  ]
+                }
+              }
+            ],
+            "removeVersionsFromUpdate": {
+              "id": "alex-mw-738",
+              "sourceGuids": [
+                "4121d1fb-f1cd-45fb-af2e-2a10239292e7",
+                "cf469d4d-16ef-4112-9182-2e1444f953d0"
+              ]
+            },
+            "removeRelationEvidenceFromUpdate": {
+              "id": "alex-mw-738",
+              "texts": [
+                "The Game 明确标注 Modern Wisdom Jan 2024；完整 Modern Wisdom RSS 当月唯一 Alex 访谈为 #738。"
+              ]
+            },
+            "sourceNote": "两段保留真实母视频链接，但对应Modern Wisdom #738尚未证实；恢复独立clip，避免强行同场归并。冻结原批文件未修改。"
+          }
+        }
+      },
+      {
+        "file": "research-20261117b-justin.json",
+        "status": "complete",
+        "sourceRecords": 1,
+        "coverage": {
+          "person": "justin",
+          "scope": "继续检索早年创业、社群与校园分享材料；沿用不收加密货币相关访谈的要求。现有72期经过正文审查的非加密课程保留。",
+          "sources": [
+            {
+              "title": "新榜大会现场发言",
+              "url": "https://newrank.cn/article/detail/3221"
+            }
+          ],
+          "excluded": [
+            {
+              "url": "https://www.bilibili.com/video/BV1oSp46AECR",
+              "reason": "邵艾伦对谈包含实质Crypto与相关商业讨论，整场不收。"
+            },
+            {
+              "url": "https://tech.ifeng.com/c/7ka5yrqzM1G",
+              "reason": "慈善专访后段涉及波场投资与区块链业务，整篇不收。"
+            },
+            {
+              "url": "https://gxtgw.zju.edu.cn/2017/0401/c29190a1189867/page.htm",
+              "reason": "仅有活动报道，缺乏足够原始发言以确认整场内容范围，未据此新增完整演讲。"
+            },
+            {
+              "url": "https://www.gaodun.com/caiwu/883298.html",
+              "reason": "与已收录90后主题演讲内容重叠，未据转载另算一场。"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=Ecda3m3-DJs",
+              "reason": "已收录课程009的转载，未另算一期。"
+            }
+          ],
+          "limitation": "留美三人行团队频道中的后期节目不一定由孙宇晨出镜，未把整个频道都计作他本人访谈。"
+        }
+      }
+    ]
   }
 }

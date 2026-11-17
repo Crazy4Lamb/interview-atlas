@@ -1,10 +1,10 @@
 window.ARCHIVE_COVERAGE = {
   "checkedAt": "2026-11-17",
-  "method": "以来源条目计数；同一原始链接归并，已识别的同场重传及分段标为来源版本。资料总数不等于独立访谈场次。原站AI中文精读署名转载，英文文稿和媒体未托管。",
+  "method": "官方节目目录、RSS及独立节目页逐项补查。同原始链接、媒体ID或明确节目期号的音视频及转录归并；主持、受访、口述、合辑、片段分别列示。数量按来源资料统计，不称为独立访谈场次。",
   "sources": [
     {
       "person": "纳瓦尔",
-      "note": "本次关联 37 条资料；核对入口包括以下公开来源。",
+      "note": "本次关联 266 条来源资料；按参与角色与资料形式分别统计。",
       "links": [
         {
           "title": "Naval · 官方播客",
@@ -30,7 +30,7 @@ window.ARCHIVE_COVERAGE = {
     },
     {
       "person": "孙宇晨",
-      "note": "本次关联 75 条资料；核对入口包括以下公开来源。",
+      "note": "本次关联 76 条来源资料；按参与角色与资料形式分别统计。",
       "links": [
         {
           "title": "澎湃新闻 · 朱凡",
@@ -52,7 +52,7 @@ window.ARCHIVE_COVERAGE = {
     },
     {
       "person": "Dan Koe",
-      "note": "本次关联 31 条资料；核对入口包括以下公开来源。",
+      "note": "本次关联 655 条来源资料；按参与角色与资料形式分别统计。",
       "links": [
         {
           "title": "Modern Wisdom · Chris Williamson",
@@ -78,7 +78,7 @@ window.ARCHIVE_COVERAGE = {
     },
     {
       "person": "Tim Ferriss",
-      "note": "本次关联 41 条资料；核对入口包括以下公开来源。",
+      "note": "本次关联 883 条来源资料；按参与角色与资料形式分别统计。",
       "links": [
         {
           "title": "TED · 官方视频",
@@ -104,7 +104,7 @@ window.ARCHIVE_COVERAGE = {
     },
     {
       "person": "Julian Shapiro",
-      "note": "本次关联 39 条资料；核对入口包括以下公开来源。",
+      "note": "本次关联 42 条来源资料；按参与角色与资料形式分别统计。",
       "links": [
         {
           "title": "Indie Hackers · Courtland Allen",
@@ -130,7 +130,7 @@ window.ARCHIVE_COVERAGE = {
     },
     {
       "person": "Alex Hormozi",
-      "note": "本次关联 29 条资料；核对入口包括以下公开来源。",
+      "note": "本次关联 1152 条来源资料；按参与角色与资料形式分别统计。",
       "links": [
         {
           "title": "Modern Wisdom · Chris Williamson",

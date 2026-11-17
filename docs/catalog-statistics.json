@@ -1,101 +1,110 @@
 {
   "checkedAt": "2026-11-17",
-  "previous": 292,
-  "total": 919,
-  "added": 627,
+  "previous": 919,
+  "total": 3740,
+  "added": 2821,
   "removed": 0,
   "contentStatus": {
     "deep": 10,
-    "reading": 136,
-    "brief": 189,
+    "reading": 163,
+    "brief": 2983,
     "reprint": 584
   },
   "perPerson": [
     {
       "id": "naval",
       "name": "纳瓦尔",
-      "total": 37,
+      "total": 266,
       "types": {
-        "collection": 5,
-        "interview": 13,
-        "host": 8,
-        "summary": 2,
-        "essay": 9
+        "collection": 16,
+        "interview": 37,
+        "host": 17,
+        "summary": 3,
+        "essay": 49,
+        "clip": 144
       },
       "deep": 2,
-      "reading": 28,
-      "brief": 7,
+      "reading": 43,
+      "brief": 221,
       "reprint": 0
     },
     {
       "id": "justin",
       "name": "孙宇晨",
-      "total": 75,
+      "total": 76,
       "types": {
         "interview": 2,
-        "talk": 1,
+        "talk": 2,
         "lesson": 72
       },
       "deep": 0,
-      "reading": 21,
+      "reading": 22,
       "brief": 54,
       "reprint": 0
     },
     {
       "id": "dan",
       "name": "Dan Koe",
-      "total": 31,
+      "total": 655,
       "types": {
-        "interview": 10,
+        "interview": 15,
         "summary": 1,
-        "essay": 20
+        "essay": 263,
+        "host": 64,
+        "talk": 312
       },
       "deep": 2,
       "reading": 17,
-      "brief": 12,
+      "brief": 636,
       "reprint": 0
     },
     {
       "id": "tim",
       "name": "Tim Ferriss",
-      "total": 41,
+      "total": 883,
       "types": {
-        "talk": 6,
-        "host": 4,
+        "talk": 64,
+        "host": 648,
         "essay": 19,
-        "interview": 11,
-        "summary": 1
+        "interview": 44,
+        "summary": 1,
+        "collection": 105,
+        "clip": 2
       },
       "deep": 3,
-      "reading": 24,
-      "brief": 14,
+      "reading": 35,
+      "brief": 845,
       "reprint": 0
     },
     {
       "id": "julian",
       "name": "Julian Shapiro",
-      "total": 39,
+      "total": 42,
       "types": {
-        "interview": 12,
+        "interview": 14,
         "host": 9,
-        "essay": 18
+        "essay": 18,
+        "clip": 1
       },
       "deep": 2,
-      "reading": 25,
-      "brief": 12,
+      "reading": 26,
+      "brief": 14,
       "reprint": 0
     },
     {
       "id": "alex",
       "name": "Alex Hormozi",
-      "total": 29,
+      "total": 1152,
       "types": {
-        "interview": 28,
-        "clip": 1
+        "interview": 72,
+        "clip": 32,
+        "host": 3,
+        "talk": 816,
+        "podcast": 229
       },
       "deep": 2,
       "reading": 15,
-      "brief": 12,
+      "brief": 1135,
       "reprint": 0
     },
     {
@@ -117,6 +126,1086 @@
       "reprint": 584
     }
   ],
-  "mergedDuplicates": [],
-  "notes": []
+  "mergedDuplicates": [
+    {
+      "existingId": "naval-r20261117b-tim-dixon-542",
+      "candidateId": "tim-show-542",
+      "person": "tim",
+      "url": "https://tim.blog/2021/10/28/chris-dixon-naval-ravikant/"
+    }
+  ],
+  "notes": [
+    {
+      "id": "naval-r20261117b-official-sell",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-curate-people",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-in-the-arena",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-deutsch-files-iv",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-deutsch-files-iii",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-deutsch-files-ii",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-david-deutsch-2",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-vitalik-2",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-infinity-2",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-matt-ridley-2",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-6ccebca29892",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-83430ef13f6d",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-c8e3cc68e793",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-5d8f84936243",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-42a1402779bd",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-99334b80ad9b",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-5fa993789bcb",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-9ce9f836716a",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-65a1d235c494",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-1960f90dae95",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-82701bb9995e",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-ccd305df5d61",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-4d232844ded4",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-5076a60e0696",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-884782add043",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-3de315157afb",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-93a6ef7dfe3b",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-661d9ad02133",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-ec25025838d1",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-cabe5c46ac54",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-3fa972cf1f6a",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-4d0f1c364897",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-2021240b8b86",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-230fa7fc63c7",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-8192f6124780",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-6dca01be47de",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-c3b5939242c8",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-b549f57fe4cf",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-5ca8bbb43342",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-c0d0ba818817",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-a7063d62d5ce",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-5e1b6add26f1",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-074ba02f9fb3",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-ranveer-446",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-scott-adams-2024",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-spartan-desires-2017",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-blockstack-investment-panel-2017",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-techcrunch-bitcoin-2013",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-high-growth-board",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-high-growth-funding",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-all-in-2025",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-noah-kagan-288",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-louis-kyle-2023",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-dan-go-32",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-cole-gordon-6",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-matt-gray-28",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-outliers-60-2018",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-the-box",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-american-fall",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-american-spring",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-towards-a-literate-nation",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-google-should-pull-an-android-on-facebook",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-there-is-no-angel-bubble-there-are-many-angel-bubbles",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-the-unbundling-of-the-venture-capital-industry",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-privacy-violations",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-the-ipad-is-important",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-y-combinator-vs-graduate-school",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-why-you-need-to-be-in-silicon-valley",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-extrapolating-computing",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-users-bring-you-traffic",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-tumblr-customer-service-blows-me-away",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-turns-out-that-yahoo-search-can8217t-find-the-pirate-bay-betw",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-perpetual-stimulation-machine",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-a-user-model-for-social-software",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-life-formulas-i",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-the-aging-entrepreneur",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-at-stirr-events-vcs-fly-business-class-but-entrepreneurs-fly-",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-introducing-venture-hacks",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-be-chaotic-neutral",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-why-we-may-think",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-web-20-meme-wars-begin",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-web-20-web-20-web-30",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-dare-microsoft-kill-google-updated",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-craigslist-takes-on-sand-hill-road",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-fix-the-search-interface-first",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-isnt-it-obvious-what-web-20-is",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-yes-the-bubble-is-back",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-how-microsoft-can-obliterate-google",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-vc-bundling",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-lawyers-or-insurance-salesmen",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-securitize-citizenship",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-unquantifiable-risk",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-do-animals-laugh",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-natural-beauty",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-hong-kong-is-civilized",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-american-culture",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-0e0a4f561d78",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-f5257670eac4",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-493f56711d52",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-e6b056215668",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-51f5532bdc8d",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-ab1377cf69f9",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-93c675fc3404",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-koecast-3bfed06a4407",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-letter-a-complete-knowledge-base-of-human-3-0",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-letter-human-3-0-a-map-to-reach-the-top-1",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-letter-you-dont-need-a-niche-you-need-a-point-of-view",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-letter-self-discipline-is-easy-actually",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-letter-you-have-about-36-months-to-make-it",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-letter-you-can-learn-anything-in-2-weeks",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-letter-these-3-decisions-will-determine-if-you-get-rich",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-letter-20-30-years-old-is-the-tutorial-phase-dont-fck-it-up",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-letter-how-to-think-like-a-genius-the-map-of-all-knowledge",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-letter-this-single-decision-will-determine-most-of-your-life",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-letter-the-death-of-thoughtful-creation-how-to-get-ahead-of-everyone-e",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-letter-be-a-loser-if-you-want-to-be-happy",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-letter-how-to-be-more-disagreeable-create-a-reality-distortion-field",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-letter-you-need-to-be-extreme-if-you-want-your-life-to-change",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-letter-how-to-become-the-main-character-of-your-life",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-letter-how-to-build-a-better-personal-brand-than-99-of-people",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-letter-how-smart-creators-will-make-money-in-2026-youre-early",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "dan-r20261117b-substack-be-a-loser-if-you-want-to-be-happy",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-happiness",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-angel-2",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-jorgenson-megasode",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-regulatory",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-hardware",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-simplest",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-good-products",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-get",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-density",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-fool",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-agency",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-enjoy",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-find",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-truly",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-indirect",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-do",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-arena",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-inspiration",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-caveman",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-infinite-resources",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-failure",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-social",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-feedback",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-compromise",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-decentralization",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-credibility",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-einstein",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-ideas",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-resources",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-far-away",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-program",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-existence",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-intelligent",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-aliens",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-mind-blowing",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-agi",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-species",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-exceptional",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-evolution",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-gravity",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-justified",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-theory",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-optimism",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-pessimism",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-extrapolate",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-ignorance",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-theories",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-advances",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-bold",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-predictions",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-error",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-expand",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-unseen",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-multiverse",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-light",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-probability",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-prove",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-substrate",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-discrete",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-conjectural",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-methods",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-settled",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-end",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-vary",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-explanations",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-understand",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-predict",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-people",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-knowledge",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-read",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-reach",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-nullius",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-think",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-science-2",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-truth",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-consensus",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-silent",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-peace-motion",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-peace",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-unacceptable",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-addiction",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-least",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-inefficient",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-smart",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-desire",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-skill",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-math",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-material",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-philosopher",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-finding-time",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-externalities",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-npv",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-surplus",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-price-discrimination",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-relationships",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-short",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-schelling-point",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-kelly-criterion",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-principal-agent",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-envy",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-ethics",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-working-ourselves",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-accountability",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-productize-yourself",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-rich-quick",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-finally-wealthy",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-reject-advice",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-eventually",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-stupid-games",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-competition-authenticity",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-redefining",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-meetings",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-work-hard",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-hourly-rate",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-judgment",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-laborer-tech",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-business-models",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-egalitarian-leverage",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-product-media",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-labor-capital",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-accountability-equity",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-accountability-leverage",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-skill-business",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-math-logic",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-love-read",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-build-sell",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-creative-technical",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-specific-knowledge",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-rational-optimists",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-intelligence-energy-integrity",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-long-term",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-possible-careers",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-product-scale",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-salary-freedom",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-renting-time",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-luck-destiny",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-money-luck",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-free-markets",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-ethical-wealth",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-seek-wealth",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-jorgenson-2025-wealth",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-jorgenson-2025-judgement",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-jorgenson-2025-happiness",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-jorgenson-2025-saving",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-jorgenson-2025-philosophy",
+      "issue": "Short body remains a source brief"
+    },
+    {
+      "id": "naval-r20261117b-official-reflect",
+      "issue": "Short body remains a source brief"
+    }
+  ]
 }
