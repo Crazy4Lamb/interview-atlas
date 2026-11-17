@@ -1,0 +1,82 @@
+[
+  {
+    "person": "naval",
+    "file": "assets/naval-thumb.jpg",
+    "width": 960,
+    "height": 1244,
+    "source": "https://commons.wikimedia.org/wiki/File:Naval_Ravikant_in_2011_(cropped)1.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/93/Naval_Ravikant_in_2011_%28cropped%291.jpg",
+    "credit": "kris krüg / Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "notes": "2011 photo. Already cropped on Commons; if CSS grayscale or crop used, indicate alteration and retain compatible licensing for image adaptation."
+  },
+  {
+    "person": "justin",
+    "file": "assets/justin-thumb.jpg",
+    "width": 960,
+    "height": 1172,
+    "source": "https://commons.wikimedia.org/wiki/File:Head_of_the_Grenadian_Delegation_to_the_12th_World_Trade_Organization_Ministerial_Conference_Justin_Sun.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/52/Head_of_the_Grenadian_Delegation_to_the_12th_World_Trade_Organization_Ministerial_Conference_Justin_Sun.jpg",
+    "credit": "© WTO / Jessica Genoud / Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "notes": "2022 WTO conference photo. Commons confirms CC BY-SA2.0. If CSS grayscale or crop used, indicate alteration and retain compatible licensing for image adaptation."
+  },
+  {
+    "person": "elon",
+    "file": "assets/elon-thumb.jpg",
+    "width": 960,
+    "height": 1399,
+    "source": "https://commons.wikimedia.org/wiki/File:SpaceX_CEO_Elon_Musk_visits_N%26NC_and_AFSPC_(190416-F-ZZ999-006)_(cropped).jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/58/SpaceX_CEO_Elon_Musk_visits_N%26NC_and_AFSPC_%28190416-F-ZZ999-006%29_%28cropped%29.jpg",
+    "credit": "NORAD and USNORTHCOM Public Affairs / Wikimedia Commons",
+    "license": "Public domain (US federal government work)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "notes": "2019 official visit photo."
+  },
+  {
+    "person": "dan",
+    "file": "assets/dan.jpg",
+    "width": 728,
+    "height": 729,
+    "source": "https://thedankoe.com/",
+    "original": "https://thedankoe.com/wp-content/uploads/2024/11/pfp23.jpg",
+    "credit": "Dan Koe / thedankoe.com",
+    "license": "Official-site portrait; no explicit open license found",
+    "notes": "Real black and white author photo from official site. Copyright retained by owner."
+  },
+  {
+    "person": "tim",
+    "file": "assets/tim.jpg",
+    "width": 1800,
+    "height": 1136,
+    "source": "https://tim.blog/about/",
+    "original": "https://tim.blog/wp-content/uploads/2022/07/timF_220411_126.jpg",
+    "credit": "Tim Ferriss / tim.blog",
+    "license": "Official-site photo; no explicit open license found",
+    "notes": "Official about-page photo, seated outdoors with dog. Face near x=46%, y=20%. Copyright retained by owner."
+  },
+  {
+    "person": "alex",
+    "file": "assets/alex.webp",
+    "width": 880,
+    "height": 1021,
+    "source": "https://www.acquisition.com/bio-alex",
+    "original": "https://www.acquisition.com/images/pages/about-alex-hormozi/alex-hormozi-portrait.webp",
+    "credit": "Alex Hormozi / Acquisition.com",
+    "license": "Official-site portrait; no explicit open license found",
+    "notes": "Transparent cutout portrait from official biography. Copyright retained by owner."
+  },
+  {
+    "person": "julian",
+    "file": "assets/julian.jpg",
+    "width": 5120,
+    "height": 2048,
+    "source": "https://www.julian.com/",
+    "original": "https://cdn.prod.website-files.com/54a5a40be53a05f34703dd18/6af8dc38e0a393d4e2644785_julian-hero-engraving.jpg",
+    "credit": "Julian Shapiro / julian.com",
+    "license": "Official-site illustration; no explicit open license found",
+    "notes": "Official author portrait rendered as engraving illustration, not a photograph; do not label as photo. Face near x=50%, y=15%. Copyright retained by owner."
+  }
+]

@@ -1,0 +1,657 @@
+{
+  "checkedAt": "2026-11-16",
+  "researchBatches": [
+    {
+      "verifiedAt": "2026-11-16",
+      "dataFile": "expanded-naval-dan-tim.json",
+      "scope": "本轮新增数据；不改原14条。计数为person主归属，participants为跨人物参与关系，不另外复制同一场。",
+      "totalAdded": 34,
+      "reading": 21,
+      "brief": 13,
+      "people": {
+        "naval": {
+          "added": 13,
+          "existingSeedCount": 2,
+          "totalPrimaryEntries": 15,
+          "addedByType": {
+            "interview": 12,
+            "collection": 1
+          },
+          "addedByRole": {
+            "guest": 12,
+            "host": 1
+          },
+          "reading": 11,
+          "brief": 2,
+          "officialArchives": [
+            {
+              "title": "Naval官方档案",
+              "url": "https://nav.al/archive",
+              "scope": "查看官方按年档案与The Beginning of Infinity系列入口；大量短篇是拆分章节，不逐篇当作独立访谈。"
+            },
+            {
+              "title": "The Tim Ferriss Show官方节目与转录",
+              "url": "https://tim.blog/2016/01/30/naval-ravikant-on-happiness-hacks/",
+              "scope": "核实2015旧访谈之外的#136、#473、#788；同场只有一条主记录，Tim作为主持列于participants/roles。"
+            },
+            {
+              "title": "The Knowledge Project",
+              "url": "https://fs.blog/knowledge-project-podcast/naval-ravikant/",
+              "scope": "核实The Angel Philosopher原始页面与2017官方年终档案。"
+            },
+            {
+              "title": "Unchained官方该期全文",
+              "url": "https://unchainedcrypto.com/naval-ravikant-on-how-crypto-is-squeezing-vcs-hindering-regulators-and-bringing-users-choice/",
+              "scope": "提供该期直接页面与转录，替换月归档地址。"
+            },
+            {
+              "title": "After On主办方",
+              "url": "https://foreveron.com/podcast/episode-044/",
+              "scope": "同场End Games上下两部分合并，未算两场。"
+            }
+          ],
+          "coverage": "本轮新增2016—2025年的12场访谈和1个官方系列合集；合并新前沿台上两部分、Venture Studio两部分、After On两部分。原有2015首访和2019致富系列保持不动。",
+          "limitations": [
+            "不是Naval全部公开露面或官方档案穷尽清单。",
+            "Blockstack与Venture Studio只取得可靠简介，保持brief。",
+            "Knowledge Project、Venture Studio和Infinity保留年份精度；Mochary保留年月。",
+            "新前沿和Blockstack使用所链接视频发布日，活动录制时间写入说明，不混为同一日期。",
+            "Infinity为collection、role为host，不进入单场嘉宾受访统计。"
+          ]
+        },
+        "dan": {
+          "added": 8,
+          "existingSeedCount": 2,
+          "totalPrimaryEntries": 10,
+          "addedByType": {
+            "interview": 8
+          },
+          "addedByRole": {
+            "guest": 8
+          },
+          "reading": 4,
+          "brief": 4,
+          "officialArchives": [
+            {
+              "title": "The Koe Cast官方索引",
+              "url": "https://podcasts.apple.com/us/podcast/the-koe-cast/id1566479559",
+              "scope": "用于识别本人单人内容与外部受访；未将数百条单人音频自动算作访谈。"
+            },
+            {
+              "title": "The Espresso Hour",
+              "url": "https://podcasts.apple.com/no/podcast/how-dan-koe-built-a-successful-one-person-business/id1600176185?i=1000566877928",
+              "scope": "核实第18期日期、时长与主题。"
+            },
+            {
+              "title": "The Danny Miranda Podcast",
+              "url": "https://www.youtube.com/watch?v=UjotvdhUTwY",
+              "scope": "核实#83、#216、#433三次不同时间的长访谈；单独推文片段不另计一次。"
+            },
+            {
+              "title": "The 505 Podcast官方全文",
+              "url": "https://the505podcast.beehiiv.com/podcast/s/the_505_podcast/183_this_is_boring_but_it_ll_10x_your_personal_brand_in_2026_ft_dan_koe",
+              "scope": "核实第183期两小时访谈，原始页面包含章节与完整转录。"
+            },
+            {
+              "title": "Greg Isenberg完整访谈",
+              "url": "https://www.youtube.com/watch?v=HhspudqFSvU",
+              "scope": "结合节目转录整理具体AI内容工作流。"
+            },
+            {
+              "title": "Open Residency",
+              "url": "https://www.openresidency.com/",
+              "scope": "核实2025-12-30节目及其2026主题；未按第三方文章的错误年份记录。"
+            }
+          ],
+          "coverage": "新增2021—2026年8场外部长访谈，与原有2场合计10条。包括三次Danny Miranda、Espresso Hour、505、Startup Ideas、Open Residency与Unblocked Creators。",
+          "limitations": [
+            "尚无可核实且穷尽所有受访经历的官方统一目录。",
+            "Espresso、Danny #83、Open Residency与Unblocked Creators未取得足够可靠完整笔记，均保持brief。",
+            "Danny #216和#433依据详细章节写导读，避免把章节中没有的结论补成嘉宾原话。",
+            "505标题中的增长倍数和Open Residency中的99%是节目标题表达，不当作统计结论。",
+            "未把讲述Dan观点的第三方节目、Koe Cast重发或短片自动算作外部访谈。"
+          ]
+        },
+        "tim": {
+          "added": 13,
+          "existingSeedCount": 2,
+          "totalPrimaryEntries": 15,
+          "addedByType": {
+            "interview": 10,
+            "talk": 3
+          },
+          "addedByRole": {
+            "guest": 10,
+            "speaker": 3
+          },
+          "reading": 6,
+          "brief": 7,
+          "officialArchives": [
+            {
+              "title": "Tim Ferriss官方About",
+              "url": "https://tim.blog/about/",
+              "scope": "作为客座长访谈、Google演讲与其他受访节目的入口索引；不使用本人主持的总节目数作为受访数。"
+            },
+            {
+              "title": "Huberman Lab官方页面和转录",
+              "url": "https://www.hubermanlab.com/episode/tim-ferriss-how-to-learn-better-and-create-your-best-future",
+              "scope": "2023-06-19长访谈，依据官方转录写学习与提问导读。"
+            },
+            {
+              "title": "Rich Roll官方目录",
+              "url": "https://richroll.com/podcast/tim-ferriss/",
+              "scope": "分别核实2017首次作客及2023 #770，不合并成一次。"
+            },
+            {
+              "title": "Peter Attia官方第1期",
+              "url": "https://peterattiamd.com/timferriss/",
+              "scope": "核实2018访谈；详细笔记有会员限制，仅用公开简介。"
+            },
+            {
+              "title": "Guy Raz授权转播与官方转录",
+              "url": "https://tim.blog/2020/12/22/guy-raz-interviews-tim-ferriss-how-i-built-this/",
+              "scope": "Tim为guest；NPR原访谈与Tim播客授权重发合并一场。"
+            },
+            {
+              "title": "MarieTV官方完整转录",
+              "url": "https://www.marieforleo.com/blog/tim-ferriss-tribe-of-mentors",
+              "scope": "依据写作习惯、模块章节与具体读者等实质内容写导读。"
+            },
+            {
+              "title": "Talks at Google官方频道",
+              "url": "https://www.youtube.com/watch?v=I7Foam6oKPI",
+              "scope": "核实Body、Chef、Monkey Mind三场，全部role:speaker；Monkey Mind的2020音频重发不另计。"
+            }
+          ],
+          "coverage": "新增2011—2023年的10场作为嘉宾的访谈及3场演讲；与原有2场TED演讲合计15条。未用Tim采访他人的节目凑受访数量，Naval同场主持身份只列participants。",
+          "limitations": [
+            "覆盖丰富的已核实代表节目，不是Tim本人全部客座访谈，也未声称覆盖2024—2026所有新访谈。",
+            "Attia详细笔记有会员限制；Pete Holmes官方简介极短，均保留brief。",
+            "Design Matters、Jocko、2017 Rich Roll、2011 Google与Chase Genius有可核实长节目，但本轮仍标brief，不用泛化文字补成精读。",
+            "Guy Raz日期为官方转播日；Jocko日期为所链接视频发布日；Chase Genius只保留年份。",
+            "心理健康、身体及研究话题仅整理访谈经历，不把个人自我试验写成读者医疗操作方案。"
+          ]
+        }
+      },
+      "editorialPolicy": [
+        "reading为原创中文资料导读，不是英文全文翻译或逐字访谈。",
+        "来源梳理与编辑分析以kind区分；例子与练习归本站编辑，不冒充嘉宾原话。",
+        "同场视频、音频、转录、上下集和重发优先合并。",
+        "日期只填可核实的精度，不用每月第一天补齐。",
+        "verifiedSources保留可追溯来源；网页访问或字幕可能随平台政策变化。"
+      ]
+    },
+    {
+      "reviewedAt": "2026-11-16",
+      "scope": "本轮为已有14条资料的增量扩充；按独立节目/活动去重，不声称收齐人物全部公开发言。",
+      "baselineDataset": "work/interview-atlas/dist/data.js",
+      "counts": {
+        "added": 36,
+        "elon": 24,
+        "justin": 12,
+        "reading": 12,
+        "brief": 24,
+        "allWithOnsiteBody": true
+      },
+      "people": {
+        "elon": {
+          "added": 24,
+          "reading": 8,
+          "brief": 16,
+          "years": "2013–2025",
+          "role": "以受访嘉宾为主；USC毕业致辞为speaker。",
+          "officialCoverage": [
+            {
+              "archive": "Lex Fridman 官方节目及章节/转录",
+              "coverage": "新增2019首次、2019第二次、2021第三次、2024 Neuralink团队篇；2023 #400沿用旧站，不重复新增。",
+              "url": "https://lexfridman.com/podcast/"
+            },
+            {
+              "archive": "TED官方演讲档案",
+              "coverage": "新增TED2013、TED2022现场、2022德州工厂对话；旧站TED2017不重复。两场2022录制分别为4月14日与4月6日。",
+              "url": "https://www.ted.com/speakers/elon_musk"
+            },
+            {
+              "archive": "PowerfulJRE官方视频与JRE官方Apple播客分发",
+              "coverage": "2018–2025七场独立节目：1169、1470、1609、2054、2223、2281、2404。只核到简介者全部保持brief。",
+              "url": "https://www.youtube.com/@joerogan"
+            },
+            {
+              "archive": "All-In官方完整视频",
+              "coverage": "2023和2024峰会；2025及之后活动尚未在本批充分核实，未凑数。",
+              "url": "https://www.youtube.com/@allin"
+            },
+            {
+              "archive": "Stanford STVP/eCorner",
+              "coverage": "2015-10-07完整一小时对话与官方转录；其中短片统一归于完整场次。",
+              "url": "https://stvp.stanford.edu/av/elon-musks-vision-future-entire-talk"
+            },
+            {
+              "archive": "Code、NYT Events、VivaTech、USC、Don Lemon",
+              "coverage": "Code2016与2021、DealBook2023、VivaTech2023与2024、USC2014完整短演讲、Don Lemon2024完整访谈。"
+            }
+          ],
+          "limitations": [
+            "未覆盖FT、WSJ、2025/2026全部峰会、产品活动或财报电话会；未将其缺席理解为不存在。",
+            "USC2014约六分钟，为完整短演讲而非长访谈；已标talk，不标clip。",
+            "JRE多数官方简介只有身份说明，没有把二级摘要改写成逐段精读。"
+          ]
+        },
+        "justin": {
+          "added": 12,
+          "reading": 4,
+          "brief": 8,
+          "years": "2019–2026",
+          "role": "圆桌、节目和书面问答为guest；独立主题演讲为speaker。",
+          "officialCoverage": [
+            {
+              "archive": "TOKEN2049官方会话/视频",
+              "coverage": "2019演讲、2022新加坡圆桌、2024迪拜圆桌、2025迪拜结算层演讲；视频和音频再发布不重复计数。"
+            },
+            {
+              "archive": "The Wolf Of All Streets",
+              "coverage": "2021 Scott Melker完整访谈，日级发布日期未采用推测，先保留年份。",
+              "url": "https://www.youtube.com/watch?v=X6W4rcw-Gns"
+            },
+            {
+              "archive": "孙宇晨官方访谈档案",
+              "coverage": "2023-09-25 TRON与亚洲市场约24分钟访谈，官方档案保留分钟级时间轴。",
+              "url": "https://www.hejustinsun.com/in-the-media---articles/interview-with-justin-sun-tron-crypto-in-asia-more"
+            },
+            {
+              "archive": "HackerNoon与TipRanks原始书面采访",
+              "coverage": "2023-01-25 Behind Web3问答和2022 NFT问答；保留HackerNoon利益关系披露、TipRanks采访早于FTX崩溃的说明。"
+            },
+            {
+              "archive": "Bitcoin.com News Interviews",
+              "coverage": "2026-10-27 TOKEN2049现场访谈，官方播客介绍及完整章节约23分钟。"
+            },
+            {
+              "archive": "PVARA官方视频及机构发布",
+              "coverage": "2026-01-10与Bilal Bin Saqib的长访谈；视频检索已确认日级日期。",
+              "url": "https://www.youtube.com/watch?v=g_K3v5k3_7I"
+            },
+            {
+              "archive": "Bad Crypto与The Scoop",
+              "coverage": "新增2020-05-25 #410完整访谈、2024-07-08网页/7月9日音频同场13分钟节目。"
+            }
+          ],
+          "limitations": [
+            "原有Bankless2024与CNBC2023-05-17不重复新增。",
+            "CoinDesk多个旧/tv/first-mover地址当前正文渲染成不相干的2024节目，未用标题残留凑入本批。",
+            "2026年个人媒体页还列出其他会场节目，但其独立主办方信息不足者未收入。",
+            "TipRanks原始问答只使用确定的2022年，不猜具体月日；Scott Melker同样使用年份。"
+          ]
+        }
+      },
+      "datePolicy": [
+        "优先使用所链接发布方显示的发布日期；只有年月或年份确定时保留该精度。",
+        "JRE #1609、#2054的官方YouTube在2024重传；依据官方播客原始分发日期记为2021-02-11和2023-10-31，绝不把重传算新节目。",
+        "#1169按所链接官方YouTube显示2018-09-06；其他分发地时区可能显示9月7日。",
+        "The Scoop网页日期2024-07-08，官方音频2024-07-09；同一场合并，采用网页日期。"
+      ],
+      "contentPolicy": [
+        "所有36条都有站内正文。reading是基于官方转录/详细章节的原创中文导读与明确标analysis的编辑分析，不是逐字稿或全量翻译。",
+        "12条reading正文约400–439汉字，另有提炼。brief保留较短资料介绍，不编造未核实的采访原话或逐段观点。",
+        "历史预测、项目计划、当事人自述与法律争议按当时语境表达；不将访谈标题等同于当前事实。",
+        "原文、视频和同场剪辑统一合并，未抄搬参考网站全文。"
+      ],
+      "rows": [
+        {
+          "id": "elon-lex-autopilot-2019",
+          "person": "elon",
+          "source": "Lex Fridman Podcast #18",
+          "date": "2019-04-12",
+          "status": "brief",
+          "bodyChinese": 173
+        },
+        {
+          "id": "elon-lex-neuralink-2019",
+          "person": "elon",
+          "source": "Lex Fridman Podcast #49",
+          "date": "2019-11-12",
+          "status": "reading",
+          "bodyChinese": 410
+        },
+        {
+          "id": "elon-lex-mars-2021",
+          "person": "elon",
+          "source": "Lex Fridman Podcast #252",
+          "date": "2021-12-28",
+          "status": "reading",
+          "bodyChinese": 413
+        },
+        {
+          "id": "elon-lex-neuralink-2024",
+          "person": "elon",
+          "source": "Lex Fridman Podcast #438",
+          "date": "2024-08-02",
+          "status": "reading",
+          "bodyChinese": 408
+        },
+        {
+          "id": "elon-ted-mind-2013",
+          "person": "elon",
+          "source": "TED · Chris Anderson 对谈",
+          "date": "2013-03-19",
+          "status": "reading",
+          "bodyChinese": 404
+        },
+        {
+          "id": "elon-ted-live-2022",
+          "person": "elon",
+          "source": "TED · Chris Anderson 对谈",
+          "date": "2022-04",
+          "status": "brief",
+          "bodyChinese": 192
+        },
+        {
+          "id": "elon-ted-gigafactory-2022",
+          "person": "elon",
+          "source": "TED · Chris Anderson 对谈",
+          "date": "2022-04",
+          "status": "brief",
+          "bodyChinese": 157
+        },
+        {
+          "id": "elon-allin-2023",
+          "person": "elon",
+          "source": "All-In Podcast · Summit 2023",
+          "date": "2023-09-12",
+          "status": "reading",
+          "bodyChinese": 425
+        },
+        {
+          "id": "elon-allin-2024",
+          "person": "elon",
+          "source": "All-In Podcast · Summit 2024",
+          "date": "2024-09-09",
+          "status": "reading",
+          "bodyChinese": 406
+        },
+        {
+          "id": "elon-stanford-2015",
+          "person": "elon",
+          "source": "Stanford Technology Ventures Program",
+          "date": "2015-10-07",
+          "status": "reading",
+          "bodyChinese": 423
+        },
+        {
+          "id": "elon-jre-1169",
+          "person": "elon",
+          "source": "The Joe Rogan Experience · PowerfulJRE",
+          "date": "2018-09-06",
+          "status": "brief",
+          "bodyChinese": 149
+        },
+        {
+          "id": "elon-jre-1470",
+          "person": "elon",
+          "source": "The Joe Rogan Experience · PowerfulJRE",
+          "date": "2020-05-07",
+          "status": "brief",
+          "bodyChinese": 149
+        },
+        {
+          "id": "elon-jre-1609",
+          "person": "elon",
+          "source": "The Joe Rogan Experience · PowerfulJRE",
+          "date": "2021-02-11",
+          "status": "brief",
+          "bodyChinese": 149
+        },
+        {
+          "id": "elon-jre-2054",
+          "person": "elon",
+          "source": "The Joe Rogan Experience · PowerfulJRE",
+          "date": "2023-10-31",
+          "status": "brief",
+          "bodyChinese": 149
+        },
+        {
+          "id": "elon-jre-2223",
+          "person": "elon",
+          "source": "The Joe Rogan Experience · PowerfulJRE",
+          "date": "2024-11-04",
+          "status": "brief",
+          "bodyChinese": 149
+        },
+        {
+          "id": "elon-jre-2281",
+          "person": "elon",
+          "source": "The Joe Rogan Experience · PowerfulJRE",
+          "date": "2025-02-28",
+          "status": "brief",
+          "bodyChinese": 149
+        },
+        {
+          "id": "elon-jre-2404",
+          "person": "elon",
+          "source": "The Joe Rogan Experience · PowerfulJRE",
+          "date": "2025-10-31",
+          "status": "brief",
+          "bodyChinese": 149
+        },
+        {
+          "id": "elon-usc-2014",
+          "person": "elon",
+          "source": "USC Marshall School of Business",
+          "date": "2014-05-16",
+          "status": "brief",
+          "bodyChinese": 187
+        },
+        {
+          "id": "elon-code-2016",
+          "person": "elon",
+          "source": "Code Conference · Kara Swisher / Walt Mossberg",
+          "date": "2016-06-02",
+          "status": "reading",
+          "bodyChinese": 402
+        },
+        {
+          "id": "elon-code-2021",
+          "person": "elon",
+          "source": "Code Conference · Kara Swisher",
+          "date": "2021-10-04",
+          "status": "brief",
+          "bodyChinese": 172
+        },
+        {
+          "id": "elon-dealbook-2023",
+          "person": "elon",
+          "source": "The New York Times Events · Andrew Ross Sorkin",
+          "date": "2023-11-30",
+          "status": "brief",
+          "bodyChinese": 198
+        },
+        {
+          "id": "elon-vivatech-2023",
+          "person": "elon",
+          "source": "Viva Technology · Maurice Lévy",
+          "date": "2023-06-16",
+          "status": "brief",
+          "bodyChinese": 170
+        },
+        {
+          "id": "elon-vivatech-2024",
+          "person": "elon",
+          "source": "Viva Technology · Maurice Lévy",
+          "date": "2024-05-23",
+          "status": "brief",
+          "bodyChinese": 174
+        },
+        {
+          "id": "elon-don-lemon-2024",
+          "person": "elon",
+          "source": "The Don Lemon Show",
+          "date": "2024-03-18",
+          "status": "brief",
+          "bodyChinese": 191
+        },
+        {
+          "id": "justin-token2049-2019",
+          "person": "justin",
+          "source": "TOKEN2049 · 官方演讲",
+          "date": "2019-03-28",
+          "status": "reading",
+          "bodyChinese": 439
+        },
+        {
+          "id": "justin-token2049-2022",
+          "person": "justin",
+          "source": "TOKEN2049 · Emma Cui 主持圆桌",
+          "date": "2022-10-08",
+          "status": "brief",
+          "bodyChinese": 175
+        },
+        {
+          "id": "justin-token2049-2024",
+          "person": "justin",
+          "source": "TOKEN2049 · Henri Arslanian 主持圆桌",
+          "date": "2024-04-29",
+          "status": "brief",
+          "bodyChinese": 175
+        },
+        {
+          "id": "justin-token2049-2025",
+          "person": "justin",
+          "source": "TOKEN2049 · 官方演讲",
+          "date": "2025-05-12",
+          "status": "brief",
+          "bodyChinese": 185
+        },
+        {
+          "id": "justin-wolf-2021",
+          "person": "justin",
+          "source": "The Wolf Of All Streets · Scott Melker",
+          "date": "2021",
+          "status": "brief",
+          "bodyChinese": 182
+        },
+        {
+          "id": "justin-asia-2023",
+          "person": "justin",
+          "source": "孙宇晨官方访谈档案",
+          "date": "2023-09-25",
+          "status": "brief",
+          "bodyChinese": 179
+        },
+        {
+          "id": "justin-hackernoon-2023",
+          "person": "justin",
+          "source": "HackerNoon · Ishan Pandey",
+          "date": "2023-01-25",
+          "status": "reading",
+          "bodyChinese": 426
+        },
+        {
+          "id": "justin-tipranks-nft-2022",
+          "person": "justin",
+          "source": "TipRanks · Reuben Jackson",
+          "date": "2022",
+          "status": "reading",
+          "bodyChinese": 416
+        },
+        {
+          "id": "justin-bitcoincom-ai-2026",
+          "person": "justin",
+          "source": "Bitcoin.com News Interviews · David Sencil",
+          "date": "2026-10-27",
+          "status": "reading",
+          "bodyChinese": 432
+        },
+        {
+          "id": "justin-pvara-2026",
+          "person": "justin",
+          "source": "PVARA · Bilal Bin Saqib",
+          "date": "2026-01-10",
+          "status": "brief",
+          "bodyChinese": 191
+        },
+        {
+          "id": "justin-badcrypto-2020",
+          "person": "justin",
+          "source": "The Bad Crypto Podcast #410",
+          "date": "2020-05-25",
+          "status": "brief",
+          "bodyChinese": 180
+        },
+        {
+          "id": "justin-scoop-2024",
+          "person": "justin",
+          "source": "The Scoop · Frank Chaparro",
+          "date": "2024-07-08",
+          "status": "brief",
+          "bodyChinese": 217
+        }
+      ]
+    },
+    {
+      "checkedAt": "2026-11-16",
+      "scope": "新增公开访谈与正式本人文章，排除原站已存在的Julian Indie Hackers #017/#079和Alex Modern Wisdom #670及其生产力片段。",
+      "counts": {
+        "julian": {
+          "newGuestAudioVideoInterviews": 9,
+          "newGuestTextInterviews": 1,
+          "newHostConversations": 9,
+          "newAuthorEssays": 3,
+          "reading": 11,
+          "brief": 11,
+          "total": 22
+        },
+        "alex": {
+          "newGuestAudioVideoInterviews": 10,
+          "newHostConversations": 0,
+          "newAuthorEssays": 0,
+          "reading": 10,
+          "brief": 0,
+          "total": 10
+        }
+      },
+      "rolePolicy": "role=guest为受访，host为Julian与Courtland共同主持的Brains，author为本人正式文章；角色必须单独统计。",
+      "coverage": {
+        "julian": [
+          "The Changelog #214 (2016)",
+          "Developer Tea 2018-11两部分合并",
+          "The Art of Product #61 (2018)",
+          "Mixergy (2019)",
+          "Growth Machine / The Content Lab #4 (2019)",
+          "My First Million #211 (2021)",
+          "Indie Hackers #225 (2021)与#251 (2022)",
+          "Lenny’s Podcast (2022)",
+          "Skio文字访谈（日期待核）",
+          "Brains公开目录的9场共同主持对谈（2021–2022）",
+          "Julian.com的写作选题、产品驱动获客、留存三篇正式指南（日期待核）"
+        ],
+        "alex": [
+          "Modern Wisdom #490 (2022), #610 (2023), #738 (2024), #830 (2024), #952 (2025), #1117 (2026)",
+          "The Diary Of A CEO (2023-04-03, 2025-02-13)",
+          "Impact Theory (2022-09-20)",
+          "The School of Greatness (2023-10-30)"
+        ]
+      },
+      "deduplication": [
+        "同一节目的视频、音频、转录合并，不分开计数。",
+        "Developer Tea 2018-11-14和2018-11-16是同一次访谈的两部分，合并成一条。",
+        "未纳入Alex The Game中对其他主办方访谈的分段复播。",
+        "未用Alex短视频或The Art of Product #100的多嘉宾更新片段凑完整采访。",
+        "My First Million #211按播客原始发布日期2021-08-20记录，视频2021-08-25是同集后发版本。"
+      ],
+      "limits": [
+        "Julian新增独立音视频受访9场，未达到每人10场音视频采访的目标；另有1篇长文字受访，共10条guest采访。没有把9场主持对谈或3篇文章用于补足音视频受访计数。",
+        "Brains官网页面残留Episode Releasing Soon文案，但Apple发布方目录确认9集已于2021–2022发布。各条仅有简短简介，因此全部brief，没有编造逐字内容。",
+        "Indie Hackers #251已在官方搜索索引核实名称与日期，但直接打开出现410；保留官方索引和第三方存在性补充记录，标brief。",
+        "Indie Hackers #225官方仅简介，标brief。",
+        "Julian Skio文字访谈与3篇本人指南未发现可靠原始发布日期，date留空。",
+        "Alex reading基于主办方详细章节/简介，未宣称逐字翻译；source段限定可核话题，具体应用、例子和练习为标明analysis的原创编辑解读。",
+        "第三方曾将Julie Zhuo 2025 Lenny访谈误挂Julian Shapiro名下，已排除；没有把它当作Julian新访谈。",
+        "TechCrunch访谈页面只适合极短摘述且存在版权摘要限制，本轮没有将其拼成站内长文。"
+      ],
+      "verification": {
+        "fields": "32条均含所需基本字段、role、contentStatus、verifiedSources、longread；reading正文约400–450中文字",
+        "excludesOriginalSeeds": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,972 @@
+window.ARCHIVE_COVERS = {
+  "tim-fear-setting": {
+    "file": "assets/covers/tim-fear-setting.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/5J6jAC6XxAI/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=5J6jAC6XxAI",
+    "credit": "封面来源：TED · 官方视频；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "353c6e918b3f669f59265ad0817ac69b7ace3ba5639fbef4396ad721bc596bea"
+  },
+  "dan-peak-creativity": {
+    "file": "assets/covers/dan-peak-creativity.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/xfi2O6xjr_w/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=xfi2O6xjr_w",
+    "credit": "封面来源：Modern Wisdom · Chris Williamson；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "20d461c4cfab726cbde6bba71a42693955c474abc4c287f11563509f7106a0fe"
+  },
+  "elon-lex-400": {
+    "file": "assets/covers/elon-lex-400.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/JN3KPFbWCy8/maxresdefault.jpg",
+    "pageUrl": "https://lexfridman.com/elon-musk-4/",
+    "credit": "封面来源：Lex Fridman Podcast；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "f297907ad7ce38afe65cd4e52177153b777f6df40a7cf8d58294dec7eecb1f68"
+  },
+  "naval-how-to-get-rich": {
+    "file": "assets/covers/naval-how-to-get-rich.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/1-TZqOsVCNM/maxresdefault.jpg",
+    "pageUrl": "https://nav.al/rich",
+    "credit": "封面来源：Naval · 官方播客；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "53c5d4415b0d7972e3893d5d9c84366d8071104c4a466a58de443c076f949037"
+  },
+  "elon-ted-future": {
+    "file": "assets/covers/elon-ted-future.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/zIwLWfaAg-8/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=zIwLWfaAg-8",
+    "credit": "封面来源：TED · Chris Anderson 对谈；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "7d25bf14f1f1f86c7cdb85c44dc2a0d6e58b2e02a3ed8f18380a18408b22ce79"
+  },
+  "dan-solo-business": {
+    "file": "assets/covers/dan-solo-business.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/g1GYGoMisE0/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=g1GYGoMisE0",
+    "credit": "封面来源：The Calum Johnson Show；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "83b4ade807cfd9a36779be3872f10e93c4cf255c9be87969e58efc82475c67d0"
+  },
+  "justin-bankless": {
+    "file": "assets/covers/justin-bankless.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/sQmC8ffh8C4/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=sQmC8ffh8C4",
+    "credit": "封面来源：Bankless；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "2adab3a462df54b95da35ec21faf176fdc924f5f0b244d7c1aa89949cef863c2"
+  },
+  "naval-startup-advice": {
+    "file": "assets/covers/naval-startup-advice.jpg",
+    "sourceUrl": "https://tim.blog/wp-content/uploads/2015/08/naval-ravikant-on-the-tim-ferriss-show.jpg",
+    "pageUrl": "https://tim.blog/2015/08/18/the-evolutionary-angel-naval-ravikant/",
+    "credit": "封面来源：The Tim Ferriss Show；版权归原权利方",
+    "kind": "official-og",
+    "width": 500,
+    "height": 334,
+    "sha256": "6f837ca0d5b921b224fe70a030d1fea2d252092eafd6f95910529cf2563aaf18"
+  },
+  "alex-life-principles": {
+    "file": "assets/covers/alex-life-principles.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/M4PzOjM5BJQ/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=M4PzOjM5BJQ",
+    "credit": "封面来源：Modern Wisdom · Chris Williamson；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "0207b4dc7856f50316a7391dd755dbcb5302ab8d703c8f75f72c755e037e8d77"
+  },
+  "alex-productivity": {
+    "file": "assets/covers/alex-productivity.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/TuwrtoA96S0/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=TuwrtoA96S0",
+    "credit": "封面来源：Chris Williamson · 访谈片段；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "0470da3ff7005b39b9b6cc1aca70b6ec599ad5c89e7952ade4534d10ab8aa2bf"
+  },
+  "justin-cnbc": {
+    "file": "assets/covers/justin-cnbc.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/DuJ-nSXVzQ4/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=DuJ-nSXVzQ4",
+    "credit": "封面来源：CNBC Crypto World；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "13d82890a4404c77b55477ee478a5909de8f9e7b68ed12dbed497c6f1a6c31c2"
+  },
+  "dan-unblocked-2026": {
+    "file": "assets/covers/dan-unblocked-2026.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/x3KW3_tlZoM/maxresdefault.jpg",
+    "pageUrl": "https://podcasts.apple.com/us/podcast/dan-koe-a-new-creator-economy-is-emerging-in-2026/id1812816833?i=1000746364325",
+    "credit": "封面来源：Unblocked Creators · Jesse James Carver；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "101b9eb4ceb3bc565d8e49983da2826f64f56ae45f87c51230578fcf9f0aa041"
+  },
+  "tim-learn-anything": {
+    "file": "assets/covers/tim-learn-anything.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/iPE2_iCCo0w/hqdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=iPE2_iCCo0w",
+    "credit": "封面来源：TED · EG 2008 演讲；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 480,
+    "height": 360,
+    "sha256": "10931922be6f501e14e3a1408de42a0be891e784a2683c83b56a586a688b2d97"
+  },
+  "dan-open-residency-20": {
+    "file": "assets/covers/dan-open-residency-20.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/EVDQ1MijHbk/maxresdefault.jpg",
+    "pageUrl": "https://podcasts.apple.com/kn/podcast/dan-koe-how-to-get-ahead-of-99-of-people-in-2026/id1791782856?i=1000743191620",
+    "credit": "封面来源：Open Residency；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "6b054ca9867314b25306600303bd75188dd9c42d91e26a34bfffbd82a6d6446d"
+  },
+  "justin-pvara-2026": {
+    "file": "assets/covers/justin-pvara-2026.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/g_K3v5k3_7I/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=g_K3v5k3_7I",
+    "credit": "封面来源：PVARA · Bilal Bin Saqib；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "d7d79b821f05658d4b2918cad29b65366a7a590dbd8df85b88cdd99ddac3d16e"
+  },
+  "elon-jre-2404": {
+    "file": "assets/covers/elon-jre-2404.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/O4wBUysNe2k/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=O4wBUysNe2k",
+    "credit": "封面来源：The Joe Rogan Experience · PowerfulJRE；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "87294c6579432c3bdfeac119eeeff8c19aedf61583ef451f1c08d9783532cf88"
+  },
+  "dan-505-183": {
+    "file": "assets/covers/dan-505-183.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/t1yl1OUoJko/maxresdefault.jpg",
+    "pageUrl": "https://the505podcast.beehiiv.com/podcast/s/the_505_podcast/183_this_is_boring_but_it_ll_10x_your_personal_brand_in_2026_ft_dan_koe",
+    "credit": "封面来源：The 505 Podcast；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "e9249a2d99144db4a9ab5f6a7753aa2f0ad764daf8547a91eb72ddaba5846067"
+  },
+  "dan-ai-content-engine": {
+    "file": "assets/covers/dan-ai-content-engine.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/HhspudqFSvU/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=HhspudqFSvU",
+    "credit": "封面来源：The Startup Ideas Podcast · Greg Isenberg；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "9065c85fdf37e1a9da2810ea215630981e2a5ad3f48db4153fcaf4963aba328d"
+  },
+  "justin-token2049-2025": {
+    "file": "assets/covers/justin-token2049-2025.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/vJXfs42lHuw/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=vJXfs42lHuw",
+    "credit": "封面来源：TOKEN2049 · 官方演讲；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "6e6f411198e7ea0a0dbc88544a362015603d392be1505aa5a4eaf06bcf80921a"
+  },
+  "elon-jre-2281": {
+    "file": "assets/covers/elon-jre-2281.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/sSOxPJD-VNo/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=sSOxPJD-VNo",
+    "credit": "封面来源：The Joe Rogan Experience · PowerfulJRE；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "ebd9a30a0c69de01ad37856425df309c4f7739359e653fee6d54d90db612fc5a"
+  },
+  "elon-jre-2223": {
+    "file": "assets/covers/elon-jre-2223.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/7qZl_5xHoBw/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=7qZl_5xHoBw",
+    "credit": "封面来源：The Joe Rogan Experience · PowerfulJRE；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "fa3b20c9e357e9f19b1775f7ff8b9345745a5295df5c2c4ccaa1a84a18b9d4eb"
+  },
+  "elon-allin-2024": {
+    "file": "assets/covers/elon-allin-2024.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/pSFvOUswFwA/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=pSFvOUswFwA",
+    "credit": "封面来源：All-In Podcast · Summit 2024；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "34d9aee33f5b1fd789ebf514c952c4ac87c5f7b511b93e19b26d814668d4abeb"
+  },
+  "elon-vivatech-2024": {
+    "file": "assets/covers/elon-vivatech-2024.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/rfEbmfdwPgE/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=rfEbmfdwPgE",
+    "credit": "封面来源：Viva Technology · Maurice Lévy；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "bb30bc8aa58441e9ac00a9c9a07720bed6508620da0fda3a1440b5a1b8f96c63"
+  },
+  "justin-token2049-2024": {
+    "file": "assets/covers/justin-token2049-2024.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/Q4m8fHkpfcg/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=Q4m8fHkpfcg",
+    "credit": "封面来源：TOKEN2049 · Henri Arslanian 主持圆桌；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "f6afc0024a9c602eac9f7591b08c5db3d0b9d3cc777ab35e6b5fbe3bc40a803f"
+  },
+  "elon-don-lemon-2024": {
+    "file": "assets/covers/elon-don-lemon-2024.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/hhsfjBpKiTw/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=hhsfjBpKiTw",
+    "credit": "封面来源：The Don Lemon Show；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "6dc9b8bf91ceb02a1873118a2b7edd904d8a4d663eccc983a389bf52aa1bed24"
+  },
+  "elon-dealbook-2023": {
+    "file": "assets/covers/elon-dealbook-2023.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/2BfMuHDfGJI/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=2BfMuHDfGJI",
+    "credit": "封面来源：The New York Times Events · Andrew Ross Sorkin；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "569624251fb4a042c6bb131f3cfd7d44070c1437daa9aee57c8b5407e317f949"
+  },
+  "dan-danny-433": {
+    "file": "assets/covers/dan-danny-433.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/UjotvdhUTwY/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=UjotvdhUTwY",
+    "credit": "封面来源：The Danny Miranda Podcast；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "d8c3b97733b5f5fb3439a4776cd29e9794e67a72e46f8d5f0e7c5fd34e7be2a8"
+  },
+  "elon-jre-2054": {
+    "file": "assets/covers/elon-jre-2054.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/tAJUwiAqW38/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=tAJUwiAqW38",
+    "credit": "封面来源：The Joe Rogan Experience · PowerfulJRE；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "9b69b2fa8aa2733151c5ded6598c6e62069d7c56495277984c9cf1477ca2dc03"
+  },
+  "alex-lewis-2023": {
+    "file": "assets/covers/alex-lewis-2023.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/rPV7Sn-POlM/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=rPV7Sn-POlM",
+    "credit": "封面来源：The School of Greatness · Lewis Howes；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "04cdb7cfd48d78038e8c5d9861ac9de638a53b8e076c5ea0eb9ea4509bfceeb0"
+  },
+  "justin-asia-2023": {
+    "file": "assets/covers/justin-asia-2023.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/umucB98EefQ/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=umucB98EefQ",
+    "credit": "封面来源：孙宇晨官方访谈档案；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "0092eab2caedbc7306ecd64dfad77a89c7a78e773e08ffa79576905eef45c555"
+  },
+  "elon-allin-2023": {
+    "file": "assets/covers/elon-allin-2023.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/tKqJ5-kkUGk/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=tKqJ5-kkUGk",
+    "credit": "封面来源：All-In Podcast · Summit 2023；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "170cb13f53a92bf8af71b4d83f6505ffdc931b9df685e502866785754c157bcd"
+  },
+  "tim-rich-roll-770": {
+    "file": "assets/covers/tim-rich-roll-770.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/B021ijTc0GY/maxresdefault.jpg",
+    "pageUrl": "https://richroll.com/podcast/tim-ferriss-770/",
+    "credit": "封面来源：The Rich Roll Podcast #770；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "0019101a08aa1dce92c41a95fac6955432d4720b35f7cd02aef55579c36ae729"
+  },
+  "alex-doac-2023": {
+    "file": "assets/covers/alex-doac-2023.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/x3e73Qn6NOo/maxresdefault.jpg",
+    "pageUrl": "https://podcasts.apple.com/gb/podcast/the-man-that-makes-millionaires-how-to-turn-%241-000/id1291423644?i=1000607058323",
+    "credit": "封面来源：The Diary Of A CEO · Steven Bartlett；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "48b5c62414c029a08161784d08b194572f28c74a478aaf541d0c3dd70f061f86"
+  },
+  "elon-vivatech-2023": {
+    "file": "assets/covers/elon-vivatech-2023.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/OyYQTr0kiUo/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=OyYQTr0kiUo",
+    "credit": "封面来源：Viva Technology · Maurice Lévy；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "e930108aa1789a25f52c5f7976c96736d4d335d851570e7ce40f4bac67d1b3a7"
+  },
+  "justin-token2049-2022": {
+    "file": "assets/covers/justin-token2049-2022.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/VwdtHCcSZoA/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=VwdtHCcSZoA",
+    "credit": "封面来源：TOKEN2049 · Emma Cui 主持圆桌；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "7bfc18374aacdfea58c8951f70413b809cbeb6897088f737149099afb1f2af30"
+  },
+  "tim-huberman-2023": {
+    "file": "assets/covers/tim-huberman-2023.jpg",
+    "sourceUrl": "https://cdn.prod.website-files.com/64751ad903a904b42aa4adc1/66ba3deb12749efe96e31187_650b23abfa25bf0cc0d04a1b_Episode-Card-129-Tim-Ferriss.jpeg",
+    "pageUrl": "https://www.hubermanlab.com/episode/tim-ferriss-how-to-learn-better-and-create-your-best-future",
+    "credit": "封面来源：Huberman Lab；版权归原权利方",
+    "kind": "official-og",
+    "width": 1920,
+    "height": 1080,
+    "sha256": "89a42951fde8e95ac3a167e16406a01a7bcc3fa60fce4bcff4dee05f690462ba"
+  },
+  "julian-lenny-2022": {
+    "file": "assets/covers/julian-lenny-2022.jpg",
+    "sourceUrl": "https://substackcdn.com/image/fetch/$s_!gIi1!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4c675b35-5b81-4fe6-a83d-fe30962c92b4_8192x8192.jpeg",
+    "pageUrl": "https://www.lennysnewsletter.com/p/building-a-product-led-acquisition",
+    "credit": "封面来源：Lenny’s Podcast · Lenny Rachitsky；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 600,
+    "sha256": "e5ca99a61cfaeb7df2e4ed712ca4be057d090048ea737af2b31e7a3a7b35e5f9"
+  },
+  "elon-lex-neuralink-2024": {
+    "file": "assets/covers/elon-lex-neuralink-2024.png",
+    "sourceUrl": "https://lexfridman.com/wordpress/wp-content/uploads/2024/08/thumb_elon_musk_and_neuralink_team.png",
+    "pageUrl": "https://lexfridman.com/elon-musk-and-neuralink-team/",
+    "credit": "封面来源：Lex Fridman Podcast #438；版权归原权利方",
+    "kind": "official-og",
+    "width": 1280,
+    "height": 720,
+    "sha256": "d52015620959cce5df8574878da7586df9ad1f4f5ac7abfff2ec7e7a4dcc8af8"
+  },
+  "dan-espresso-18": {
+    "file": "assets/covers/dan-espresso-18.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/__ShdbV9qFk/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=__ShdbV9qFk",
+    "credit": "封面来源：The Espresso Hour；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "66fb251df009e85c9616aa3cf3d75120e67c2748dd5f857a45899003c2c8b476"
+  },
+  "justin-hackernoon-2023": {
+    "file": "assets/covers/justin-hackernoon-2023.jpg",
+    "sourceUrl": "https://hackernoon.imgix.net/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-dk93o4x.jpeg",
+    "pageUrl": "https://hackernoon.com/decoding-the-future-of-web3-and-blockchain-with-justin-sun",
+    "credit": "封面来源：HackerNoon · Ishan Pandey；版权归原权利方",
+    "kind": "official-og",
+    "width": 1400,
+    "height": 787,
+    "sha256": "8f6d8eb54b78a723038c8c6c3215ca6c771e322c32964ba17752ecd915a602aa"
+  },
+  "julian-brains-writing-nonfiction": {
+    "file": "assets/covers/julian-brains-writing-nonfiction.jpg",
+    "sourceUrl": "https://cdn.prod.website-files.com/60764ca8f1793a2ce45175e2/624e4d40b1ec43f3a5562e5d_Slice.jpg",
+    "pageUrl": "https://www.brainspodcast.com/episode/writing-nonfiction",
+    "credit": "封面来源：Brains · Julian Shapiro / Courtland Allen共同主持；版权归原权利方",
+    "kind": "official-og",
+    "width": 1064,
+    "height": 592,
+    "sha256": "660f87ec4c8a73e16bb86167792951cd5f532ed02f108761699f73ac4bbabbf4"
+  },
+  "elon-code-2021": {
+    "file": "assets/covers/elon-code-2021.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/HZP67-DECVw/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=HZP67-DECVw",
+    "credit": "封面来源：Code Conference · Kara Swisher；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "2fd5d41f0152bb1ff39c101db79dc3a2eafd8f44679a8f5e2dbab9a6e14c830d"
+  },
+  "elon-ted-gigafactory-2022": {
+    "file": "assets/covers/elon-ted-gigafactory-2022.jpg",
+    "sourceUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/90787ae2-7599-4fb8-8298-e04cb473b9bf/ElonMuskExtendedInterview_2022-embed.jpg?u%5Br%5D=2&u%5Bs%5D=0.5&u%5Ba%5D=0.8&u%5Bt%5D=0.03&quality=80&w=1200",
+    "pageUrl": "https://www.ted.com/talks/elon_musk_a_future_worth_getting_excited_about",
+    "credit": "封面来源：TED · Chris Anderson 对谈；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 675,
+    "sha256": "e5a515033e8a32fb70f2ff3640e9af2f27c820276bd10f1acf01e5a7324e2f68"
+  },
+  "julian-brains-writing-movies": {
+    "file": "assets/covers/julian-brains-writing-movies.jpg",
+    "sourceUrl": "https://cdn.prod.website-files.com/60764ca8f1793a2ce45175e2/617f653280f5ad296a52c1b1_Slice.jpg",
+    "pageUrl": "https://www.brainspodcast.com/episode/writing-movies",
+    "credit": "封面来源：Brains · Julian Shapiro / Courtland Allen共同主持；版权归原权利方",
+    "kind": "official-og",
+    "width": 1114,
+    "height": 657,
+    "sha256": "cefe77a98be7fb82289b8855795cdff0f03d2b65ef1aefbddac01a4d4c2ba1ee"
+  },
+  "elon-ted-live-2022": {
+    "file": "assets/covers/elon-ted-live-2022.jpg",
+    "sourceUrl": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/6598fe1e-1dbe-4dd4-8075-c4745d3cbc39/ElonMusk_2022-embed.jpg?u%5Br%5D=2&u%5Bs%5D=0.5&u%5Ba%5D=0.8&u%5Bt%5D=0.03&quality=80&w=1200",
+    "pageUrl": "https://www.ted.com/talks/elon_musk_elon_musk_talks_twitter_tesla_and_how_his_brain_works_live_at_ted2022",
+    "credit": "封面来源：TED · Chris Anderson 对谈；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 675,
+    "sha256": "7e3090e48deb902a3440da5b36addef9b23641758bffaf2a657a390b0bad190b"
+  },
+  "julian-mfm-211": {
+    "file": "assets/covers/julian-mfm-211.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/sdKxzWniujU/maxresdefault.jpg",
+    "pageUrl": "https://www.mfmpod.com/211-with-julian-shapiro-the-3/",
+    "credit": "封面来源：My First Million · Shaan Puri；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "4f43e818c6ad7390199dc2c0a358a9f24d96d427da521c764f585429f211daa7"
+  },
+  "naval-mochary-founder-role": {
+    "file": "assets/covers/naval-mochary-founder-role.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/WJuQLzr6PJQ/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=WJuQLzr6PJQ",
+    "credit": "封面来源：Mochary Method · Matt Mochary；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "673d02951bb6b6a403a25a558ec02166808c4fdd42271a5c9341433655232f41"
+  },
+  "julian-brains-talking-money": {
+    "file": "assets/covers/julian-brains-talking-money.png",
+    "sourceUrl": "https://cdn.prod.website-files.com/60764ca8f1793a2ce45175e2/61453f8e4fdf0b3b30f2486d_Parr%20Pomp.png",
+    "pageUrl": "https://www.brainspodcast.com/episode/talking-money",
+    "credit": "封面来源：Brains · Julian Shapiro / Courtland Allen共同主持；版权归原权利方",
+    "kind": "official-og",
+    "width": 1031,
+    "height": 679,
+    "sha256": "bf2ac0d22b8977c2579f7dac0e1dd626b64977fb61028fddcc3e76452d0d8024"
+  },
+  "julian-brains-writing-books": {
+    "file": "assets/covers/julian-brains-writing-books.jpg",
+    "sourceUrl": "https://cdn.prod.website-files.com/60764ca8f1793a2ce45175e2/6076582c8549e8584958db0a_606cf4c61e784f790e42624b_Clear%20Manson.jpg",
+    "pageUrl": "https://www.brainspodcast.com/episode/writing-books",
+    "credit": "封面来源：Brains · Julian Shapiro / Courtland Allen共同主持；版权归原权利方",
+    "kind": "official-og",
+    "width": 1188,
+    "height": 644,
+    "sha256": "fd385a2c5f50d8893c68306fc7210b5a4e3499293e643c670fa5c0d901138bf8"
+  },
+  "julian-brains-internet-creators-2": {
+    "file": "assets/covers/julian-brains-internet-creators-2.png",
+    "sourceUrl": "https://cdn.prod.website-files.com/60764ca8f1793a2ce45175e2/6076578e773a3dd7c093132a_606cf4c61e784fcc9d426255_Parr%20Aella.png",
+    "pageUrl": "https://www.brainspodcast.com/episode/internet-creators-2",
+    "credit": "封面来源：Brains · Julian Shapiro / Courtland Allen共同主持；版权归原权利方",
+    "kind": "official-og",
+    "width": 1101,
+    "height": 683,
+    "sha256": "c38eed818cba13471cabd51eb102201d12a8e176596a5de3a88af1dfb7eaca66"
+  },
+  "julian-brains-armageddon": {
+    "file": "assets/covers/julian-brains-armageddon.png",
+    "sourceUrl": "https://cdn.prod.website-files.com/60764ca8f1793a2ce45175e2/60cc180eeef92c0713cfb79d_Dodd%20Boeree.png",
+    "pageUrl": "https://www.brainspodcast.com/episode/armageddon",
+    "credit": "封面来源：Brains · Julian Shapiro / Courtland Allen共同主持；版权归原权利方",
+    "kind": "official-og",
+    "width": 1031,
+    "height": 679,
+    "sha256": "a6e26ce487968da59970763c0380c1e330e9c80e2876503ef54e49f9917f930b"
+  },
+  "dan-danny-083": {
+    "file": "assets/covers/dan-danny-083.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/Ve3UikJp8NA/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=Ve3UikJp8NA",
+    "credit": "封面来源：The Danny Miranda Podcast；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "1b7f28fe778126f0abad4b84e1d2511da1a808a4888ef2455344642854737f07"
+  },
+  "julian-brains-storytelling": {
+    "file": "assets/covers/julian-brains-storytelling.jpg",
+    "sourceUrl": "https://cdn.prod.website-files.com/60764ca8f1793a2ce45175e2/60765668ce8254af3470bdcf_606cf4c61e784f64ef42623a_Silva%20Urban.jpg",
+    "pageUrl": "https://www.brainspodcast.com/episode/storytelling",
+    "credit": "封面来源：Brains · Julian Shapiro / Courtland Allen共同主持；版权归原权利方",
+    "kind": "official-og",
+    "width": 1064,
+    "height": 592,
+    "sha256": "683a3fe6d2a75c258ca8e4b75865eb39cd2d66fb54dcba07056d8608536d0ef8"
+  },
+  "julian-brains-podcasting": {
+    "file": "assets/covers/julian-brains-podcasting.png",
+    "sourceUrl": "https://cdn.prod.website-files.com/60764ca8f1793a2ce45175e2/60765732aece512a1dde59aa_606cf4c61e784f2d90426235_Calacanis%20Puri.png",
+    "pageUrl": "https://www.brainspodcast.com/episode/podcasting",
+    "credit": "封面来源：Brains · Julian Shapiro / Courtland Allen共同主持；版权归原权利方",
+    "kind": "official-og",
+    "width": 1156,
+    "height": 699,
+    "sha256": "b59ca37a975aaf3992c7828ae6aa5e38fa3e8fec8a577d27f324e50a5d69a785"
+  },
+  "julian-brains-internet-creators-1": {
+    "file": "assets/covers/julian-brains-internet-creators-1.png",
+    "sourceUrl": "https://cdn.prod.website-files.com/60764ca8f1793a2ce45175e2/60765614c74b9042840dec55_606cf4c61e784f18fc42623e_Botez%20Puri.png",
+    "pageUrl": "https://www.brainspodcast.com/episode/internet-creators-1",
+    "credit": "封面来源：Brains · Julian Shapiro / Courtland Allen共同主持；版权归原权利方",
+    "kind": "official-og",
+    "width": 1091,
+    "height": 609,
+    "sha256": "0e2c080cae782bcb8ac7ffb871db991cd0bc84c848d4252d0324cbfcf517d7f1"
+  },
+  "elon-jre-1609": {
+    "file": "assets/covers/elon-jre-1609.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/Gbb2rV7Vpnw/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=Gbb2rV7Vpnw",
+    "credit": "封面来源：The Joe Rogan Experience · PowerfulJRE；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "90b3f61a2de94add9859764c4a0635e3ccbc01efbe468c166fabb401b2e0dde1"
+  },
+  "justin-wolf-2021": {
+    "file": "assets/covers/justin-wolf-2021.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/X6W4rcw-Gns/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=X6W4rcw-Gns",
+    "credit": "封面来源：The Wolf Of All Streets · Scott Melker；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "b66e8d480eb4b46a411db1df72c9802fae10ad05f5a30a3aacb30d3feb7e3260"
+  },
+  "elon-lex-mars-2021": {
+    "file": "assets/covers/elon-lex-mars-2021.png",
+    "sourceUrl": "https://lexfridman.com/wordpress/wp-content/uploads/2021/12/thumb_elon_musk_3.png",
+    "pageUrl": "https://lexfridman.com/elon-musk-3/",
+    "credit": "封面来源：Lex Fridman Podcast #252；版权归原权利方",
+    "kind": "official-og",
+    "width": 1280,
+    "height": 720,
+    "sha256": "1c885081f2b8b0db0ba060173755e0fc7e5e965c164795d19c0528676d541b67"
+  },
+  "naval-beginning-infinity": {
+    "file": "assets/covers/naval-beginning-infinity.png",
+    "sourceUrl": "https://i0.wp.com/nav.al/wp-content/uploads/2019/12/Navatar.png?fit=1080%2C1080&ssl=1",
+    "pageUrl": "https://nav.al/infinity",
+    "credit": "封面来源：Naval · 与Babak Nivi对谈；版权归原权利方",
+    "kind": "official-og",
+    "width": 1080,
+    "height": 1080,
+    "sha256": "29fda8d7ed1ead7c5a03c4926fc60d123db6c3b56f051b78e2169e611a936925"
+  },
+  "naval-blockstack-stephenson-2019": {
+    "file": "assets/covers/naval-blockstack-stephenson-2019.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/0JDFd_BoN1k/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=0JDFd_BoN1k",
+    "credit": "封面来源：Stacks · Blockstack Summit；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "9afe968d6affd0ca43a88ddbcffabd4de54c50ed4e83a56715a5a6b45c955564"
+  },
+  "tim-guy-raz-489": {
+    "file": "assets/covers/tim-guy-raz-489.png",
+    "sourceUrl": "https://tim.blog/wp-content/uploads/2020/12/HIBT_TimFerriss_Final-Monica-Nguyen-vo-for-NPR-1024x576.png",
+    "pageUrl": "https://tim.blog/2020/12/22/guy-raz-interviews-tim-ferriss-how-i-built-this/",
+    "credit": "封面来源：How I Built This · The Tim Ferriss Show 转播；版权归原权利方",
+    "kind": "official-og",
+    "width": 1024,
+    "height": 576,
+    "sha256": "afddae30237b786fabda7e5dd20e73ae446575b47c7e585151b682b33df8e34e"
+  },
+  "naval-new-frontiers-2019": {
+    "file": "assets/covers/naval-new-frontiers-2019.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/kvGFldxwjhY/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=kvGFldxwjhY",
+    "credit": "封面来源：Edmund Hillary Fellowship；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "1acc279a83f980aa3b0de1e0e1548a12616e89b269d3edb9e1b5f2f1ce4d6b31"
+  },
+  "elon-jre-1470": {
+    "file": "assets/covers/elon-jre-1470.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/RcYjXbSJBN8/hqdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=RcYjXbSJBN8",
+    "credit": "封面来源：The Joe Rogan Experience · PowerfulJRE；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 480,
+    "height": 360,
+    "sha256": "8acf7e73869c45d81120c07b8759bc9b988288a297104bd171b8cdfa8b3ac091"
+  },
+  "elon-lex-autopilot-2019": {
+    "file": "assets/covers/elon-lex-autopilot-2019.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/dEv99vxKjVI/maxresdefault.jpg",
+    "pageUrl": "https://lexfridman.com/elon-musk/",
+    "credit": "封面来源：Lex Fridman Podcast #18；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "b6c6025fff4303767eefbe9add37838687ba2e53357c2659311156dc412fe9a4"
+  },
+  "justin-token2049-2019": {
+    "file": "assets/covers/justin-token2049-2019.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/jt8tXXKO6IQ/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=jt8tXXKO6IQ",
+    "credit": "封面来源：TOKEN2049 · 官方演讲；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "4ba26bec148e1c34d4fc6ff276a69b24de118491ed7e17b91ea73425a9e9e1f8"
+  },
+  "naval-jre-1309": {
+    "file": "assets/covers/naval-jre-1309.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/3qHkcs3kG44/hqdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=3qHkcs3kG44",
+    "credit": "封面来源：The Joe Rogan Experience；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 480,
+    "height": 360,
+    "sha256": "d21872b10cb6c42b20731f64e9ee6b7641ad225bb7d6d02c2b255714529bff67"
+  },
+  "julian-mixergy-2019": {
+    "file": "assets/covers/julian-mixergy-2019.jpg",
+    "sourceUrl": "https://mixergy.com/interviews/bell-curve-with-julian-shapiro/?get-twitter-card=true&v=14&time=1560501978",
+    "pageUrl": "https://mixergy.com/interviews/bell-curve-with-julian-shapiro/",
+    "credit": "封面来源：Mixergy · Andrew Warner；版权归原权利方",
+    "kind": "official-og",
+    "width": 600,
+    "height": 315,
+    "sha256": "de87d699173eeca9886d84080ce4e27ba26d482df79df1ccdba9e1b683293054"
+  },
+  "elon-jre-1169": {
+    "file": "assets/covers/elon-jre-1169.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/ycPr5-27vSI/hqdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=ycPr5-27vSI",
+    "credit": "封面来源：The Joe Rogan Experience · PowerfulJRE；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 480,
+    "height": 360,
+    "sha256": "75a797b5aa14be9fe51e936cec7f1fc7a364fb61defe579c6708005473248887"
+  },
+  "elon-lex-neuralink-2019": {
+    "file": "assets/covers/elon-lex-neuralink-2019.png",
+    "sourceUrl": "https://lexfridman.com/wordpress/wp-content/uploads/2019/11/thumb_elon_musk_2.png",
+    "pageUrl": "https://lexfridman.com/elon-musk-2/",
+    "credit": "封面来源：Lex Fridman Podcast #49；版权归原权利方",
+    "kind": "official-og",
+    "width": 1280,
+    "height": 720,
+    "sha256": "24d424615691311ae407e7916f1e4c198a5b7ecb71cf2e3f2a828c5356ea8051"
+  },
+  "naval-after-on-end-games": {
+    "file": "assets/covers/naval-after-on-end-games.jpg",
+    "sourceUrl": "https://i0.wp.com/foreveron.com/wp-content/uploads/2026/02/Aug2016Headshot.webp?fit=1200%2C1200&quality=80&ssl=1",
+    "pageUrl": "https://foreveron.com/podcast/episode-044/",
+    "credit": "封面来源：The After On Podcast · Rob Reid；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 1200,
+    "sha256": "91909f05ec9c52b2a1c7e924ff01ae403bc996b14c037960ad6385bcb742e69d"
+  },
+  "tim-attia-drive-01": {
+    "file": "assets/covers/tim-attia-drive-01.jpg",
+    "sourceUrl": "https://peterattiamd.com/wp-content/uploads/2018/06/TimFerrissShoot-186.jpg",
+    "pageUrl": "https://peterattiamd.com/timferriss/",
+    "credit": "封面来源：The Peter Attia Drive #01；版权归原权利方",
+    "kind": "official-og",
+    "width": 300,
+    "height": 300,
+    "sha256": "0dfea95577473bf8fde1d6f0987efdf331e5eeaba2b3e1553c8e9e5f75e147e0"
+  },
+  "tim-jocko-100": {
+    "file": "assets/covers/tim-jocko-100.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/7GNRn3GtJ3g/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=7GNRn3GtJ3g",
+    "credit": "封面来源：Jocko Podcast #100；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "06bb53c5a131a39c2f9ecea847e77d9b92890f9d07523dfd4f6f99bb5943947b"
+  },
+  "julian-art-product-61": {
+    "file": "assets/covers/julian-art-product-61.jpg",
+    "sourceUrl": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/6/6fccc249-743a-4298-a664-d8d863346db9/cover_medium.jpg?v=2",
+    "pageUrl": "https://artofproductpodcast.com/episode-61",
+    "credit": "封面来源：The Art of Product · Ben Orenstein；版权归原权利方",
+    "kind": "official-og",
+    "width": 1400,
+    "height": 1400,
+    "sha256": "972ae1e2f0f35459efec2e68b2ee29289655da6330a6024b3643c567152a00ff"
+  },
+  "naval-unchained-2017": {
+    "file": "assets/covers/naval-unchained-2017.jpg",
+    "sourceUrl": "https://unchainedcrypto.com/wp-content/uploads/2017/11/Naval-Ravikant-On-How-Crypto-Is-Squeezing-VCs-Hindering-Regulators-And-Bringing-Users-Choice.jpg",
+    "pageUrl": "https://unchainedcrypto.com/naval-ravikant-on-how-crypto-is-squeezing-vcs-hindering-regulators-and-bringing-users-choice/",
+    "credit": "封面来源：Unchained · Laura Shin；版权归原权利方",
+    "kind": "official-og",
+    "width": 1920,
+    "height": 1080,
+    "sha256": "70c08266f4b2cf5a8f3583d5f056660ffd94641394a95af7a6c3f700db3e4a35"
+  },
+  "tim-google-monkey-mind-2016": {
+    "file": "assets/covers/tim-google-monkey-mind-2016.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/I7Foam6oKPI/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=I7Foam6oKPI",
+    "credit": "封面来源：Talks at Google；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "4a0d7ae3747198041fe6720451c4dc10aeec50ab3b07bf135fe3ff8cb467dffc"
+  },
+  "naval-knowledge-project-18": {
+    "file": "assets/covers/naval-knowledge-project-18.png",
+    "sourceUrl": "https://fs.blog/wp-content/uploads/2022/09/knowledge-project-small.png",
+    "pageUrl": "https://fs.blog/knowledge-project-podcast/naval-ravikant/",
+    "credit": "封面来源：The Knowledge Project · Shane Parrish；版权归原权利方",
+    "kind": "official-og",
+    "width": 1501,
+    "height": 1501,
+    "sha256": "3bc969bb4a14808fb2bc9c00120fcb737352c32c7aae8c8185635fc8ec2fbe1c"
+  },
+  "elon-code-2016": {
+    "file": "assets/covers/elon-code-2016.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/wsixsRI-Sz4/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=wsixsRI-Sz4",
+    "credit": "封面来源：Code Conference · Kara Swisher / Walt Mossberg；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "ffb4bfb860c660bbef7e43506dd6ddc49ceafe1e5cb0a9a8212e35bc65118590"
+  },
+  "tim-marie-forleo-2017": {
+    "file": "assets/covers/tim-marie-forleo-2017.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/5f2ae8131d7fcdaffe1a4a96/624f5c2e59443620464a6a6c_MarieForleoBlog_TimFerriss.webp",
+    "pageUrl": "https://www.marieforleo.com/blog/tim-ferriss-tribe-of-mentors",
+    "credit": "封面来源：MarieTV · Marie Forleo；版权归原权利方",
+    "kind": "official-og",
+    "width": 1850,
+    "height": 1200,
+    "sha256": "30fe44497c4328a097fbe42acc138288a3197910a614f2bba9890893c77b7d7d"
+  },
+  "tim-chase-genius-2016": {
+    "file": "assets/covers/tim-chase-genius-2016.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/PtrL9qnLypk/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=PtrL9qnLypk",
+    "credit": "封面来源：Chase Jarvis LIVE · 30 Days of Genius；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "8f6048874e0f41ccb5c27f76167de90034a65b28910bc60ceaa04fc09c787b1f"
+  },
+  "tim-rich-roll-2017": {
+    "file": "assets/covers/tim-rich-roll-2017.jpg",
+    "sourceUrl": "https://richroll.com/wp-content/uploads/podcast/Ferriss334_1280x525.jpg",
+    "pageUrl": "https://richroll.com/podcast/tim-ferriss/",
+    "credit": "封面来源：The Rich Roll Podcast；版权归原权利方",
+    "kind": "official-og",
+    "width": 1280,
+    "height": 525,
+    "sha256": "57a4e3272c807f11d77c192d6a336bf2ac23b9ad5de352a93e9da4149f48c813"
+  },
+  "elon-ted-mind-2013": {
+    "file": "assets/covers/elon-ted-mind-2013.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/IgKWPdJWuBQ/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=IgKWPdJWuBQ",
+    "credit": "封面来源：TED · Chris Anderson 对谈；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "a38457510effcdb880d75fa66a41adc40970433ad4211c32eaf5e1a456e4ac64"
+  },
+  "naval-tim-136": {
+    "file": "assets/covers/naval-startup-advice.jpg",
+    "sourceUrl": "https://tim.blog/wp-content/uploads/2015/08/naval-ravikant-on-the-tim-ferriss-show.jpg",
+    "pageUrl": "https://tim.blog/2016/01/30/naval-ravikant-on-happiness-hacks/",
+    "credit": "封面来源：The Tim Ferriss Show；版权归原权利方",
+    "kind": "official-og",
+    "width": 500,
+    "height": 334,
+    "sha256": "6f837ca0d5b921b224fe70a030d1fea2d252092eafd6f95910529cf2563aaf18"
+  },
+  "tim-google-body-2011": {
+    "file": "assets/covers/tim-google-body-2011.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/hpv4h_B2n6k/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=hpv4h_B2n6k",
+    "credit": "封面来源：Talks at Google；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "16c4762c9ffc5d48f00b2f187d76ad0213b2b8ae549318c67225689e249f7bfa"
+  },
+  "elon-usc-2014": {
+    "file": "assets/covers/elon-usc-2014.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/e7Qh-vwpYH8/hqdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=e7Qh-vwpYH8",
+    "credit": "封面来源：USC Marshall School of Business；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 480,
+    "height": 360,
+    "sha256": "b37fa5d6ee71b43ee445ead2f0d48567dbfda1a3b69b608901d3a5b05285496e"
+  },
+  "tim-google-chef-2012": {
+    "file": "assets/covers/tim-google-chef-2012.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/gj3RskVvVLA/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=gj3RskVvVLA",
+    "credit": "封面来源：Talks at Google；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "b99210d490ff472a8f9ca8fe341bdf866c5c9aac5bbf49f3b10ed8192777ffdf"
+  },
+  "julian-essay-product-led-acquisition": {
+    "file": "assets/covers/julian-essay-product-led-acquisition.jpg",
+    "sourceUrl": "https://cdn.prod.website-files.com/54a5a40be53a05f34703dd18/5ba00cc0c492f668b38660c3_41884457_10160793896435573_4473141282675359744_o.jpg",
+    "pageUrl": "https://www.julian.com/guide/startup/product-led-acquisition",
+    "credit": "封面来源：Julian.com · 本人正式创业指南；版权归原权利方",
+    "kind": "author-art",
+    "width": 1638,
+    "height": 1638,
+    "sha256": "8dd1ccedc30b3c4550351f78050994737385c284cec0748d88598a80eab48270"
+  },
+  "julian-essay-retaining-users": {
+    "file": "assets/covers/julian-essay-product-led-acquisition.jpg",
+    "sourceUrl": "https://cdn.prod.website-files.com/54a5a40be53a05f34703dd18/5ba00cc0c492f668b38660c3_41884457_10160793896435573_4473141282675359744_o.jpg",
+    "pageUrl": "https://www.julian.com/guide/startup/retention",
+    "credit": "封面来源：Julian.com · 本人正式创业指南；版权归原权利方",
+    "kind": "author-art",
+    "width": 1638,
+    "height": 1638,
+    "sha256": "8dd1ccedc30b3c4550351f78050994737385c284cec0748d88598a80eab48270"
+  },
+  "julian-skio-growth-funnels": {
+    "file": "assets/covers/julian-skio-growth-funnels.png",
+    "sourceUrl": "https://framerusercontent.com/images/krQQ6UZPS3FJziwj3TVcKlRPQkw.png",
+    "pageUrl": "https://skio.com/interviews/designing-zero-to-one-growth-funnels-with-julian-shapiro",
+    "credit": "封面来源：Skio · 文字访谈；版权归原权利方",
+    "kind": "publisher-art",
+    "width": 1200,
+    "height": 630,
+    "sha256": "20a92c6f1e612b7303c06ac2a04d9642cbf70affa39273e3233c72b1bd10f599"
+  },
+  "julian-essay-writing-ideas": {
+    "file": "assets/covers/julian-essay-product-led-acquisition.jpg",
+    "sourceUrl": "https://cdn.prod.website-files.com/54a5a40be53a05f34703dd18/5ba00cc0c492f668b38660c3_41884457_10160793896435573_4473141282675359744_o.jpg",
+    "pageUrl": "https://www.julian.com/guide/write/ideas",
+    "credit": "封面来源：Julian.com · 本人正式写作指南；版权归原权利方",
+    "kind": "author-art",
+    "width": 1638,
+    "height": 1638,
+    "sha256": "8dd1ccedc30b3c4550351f78050994737385c284cec0748d88598a80eab48270"
+  },
+  "julian-changelog-214": {
+    "file": "assets/covers/julian-changelog-214.png",
+    "sourceUrl": "https://snap.fly.dev/podcast/214/img",
+    "pageUrl": "https://changelog.com/podcast/214",
+    "credit": "封面来源：The Changelog · Adam Stacoviak / Jerod Santo；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 630,
+    "sha256": "38fa5b9fc148835e84dcea05bae892369120fd62d3a385b45edd7ebe56132f3d"
+  },
+  "elon-stanford-2015": {
+    "file": "assets/covers/elon-stanford-2015.jpg",
+    "sourceUrl": "https://stvp.stanford.edu/sites/g/files/sbiybj34351/files/styles/card_1192x596/public/media/wordpress/910062438_1920x1080.jpg?h=d1cb525d&itok=kyFxBJwB",
+    "pageUrl": "https://stvp.stanford.edu/av/elon-musks-vision-future-entire-talk",
+    "credit": "封面来源：Stanford Technology Ventures Program；版权归原权利方",
+    "kind": "official-og",
+    "width": 1192,
+    "height": 596,
+    "sha256": "401e0f87ea6ca63b8db4af53d269448ba9af51165438738f7071010b774a737e"
+  },
+  "alex-mw-952": {
+    "file": "assets/covers/alex-mw-952.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/ky1oHHJ5Ne8/maxresdefault.jpg",
+    "pageUrl": "https://podcasts.apple.com/us/podcast/41-harsh-truths-nobody-wants-to-admit-alex-hormozi-952/id1347973549?i=1000712048515",
+    "credit": "封面来源：Modern Wisdom · Chris Williamson；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "36d3f686b909dc11175172eac99a59c61cd4477f22f48c54c36796203fa2abbb"
+  },
+  "alex-mw-1117": {
+    "file": "assets/covers/alex-mw-1117.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/-AdkwqkE20M/maxresdefault.jpg",
+    "pageUrl": "https://podcasts.apple.com/us/podcast/33-brutal-truths-to-stop-wasting-your-potential-alex/id1347973549?i=1000774646694",
+    "credit": "封面来源：Modern Wisdom · Chris Williamson；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "0c39c3c555464c8a68270f2c3932878015b00ee93f789bd415853b9233b56125"
+  },
+  "julian-growth-017": {
+    "file": "assets/covers/julian-growth-017.jpg",
+    "sourceUrl": "https://img.transistorcdn.com/otKRnD_yHOkjsupZT1IsZYCqg-WWcAUk7lWgjgBD4PE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzI2MzQ1OS8x/NTkwMjU3NjE3LWFy/dHdvcmsuanBn.jpg",
+    "pageUrl": "https://feeds.transistor.fm/the-indie-hackers-podcast",
+    "credit": "封面来源：Indie Hackers 官方播客 RSS；版权归原权利方",
+    "kind": "official-podcast-art",
+    "width": 1400,
+    "height": 1400,
+    "sha256": "915de91b49b4746a8db2d9b0c7fa28e7947fbb7c50c206a5cc54bc6b0e7dccfd"
+  },
+  "julian-growth-079": {
+    "file": "assets/covers/julian-growth-017.jpg",
+    "sourceUrl": "https://img.transistorcdn.com/p0fACo2Af-n_j0wlvxOlPDjmJT2uBKH9tEz2YlMSZko/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzI2MzUyMS8x/NTkwMjU3NzA1LWFy/dHdvcmsuanBn.jpg",
+    "pageUrl": "https://feeds.transistor.fm/the-indie-hackers-podcast",
+    "credit": "封面来源：Indie Hackers 官方播客 RSS；版权归原权利方",
+    "kind": "official-podcast-art",
+    "width": 1400,
+    "height": 1400,
+    "sha256": "915de91b49b4746a8db2d9b0c7fa28e7947fbb7c50c206a5cc54bc6b0e7dccfd"
+  },
+  "julian-ih-251": {
+    "file": "assets/covers/julian-growth-017.jpg",
+    "sourceUrl": "https://img.transistorcdn.com/-VcDLT5M8fK2l1-Ot5u5BopFPMdz3Iwga9VXQFvdens/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9zaG93/LzEwOTg1LzE1OTAy/NTc1OTMtYXJ0d29y/ay5qcGc.jpg",
+    "pageUrl": "https://feeds.transistor.fm/the-indie-hackers-podcast",
+    "credit": "封面来源：Indie Hackers 官方播客 RSS；版权归原权利方",
+    "kind": "official-podcast-art",
+    "width": 1400,
+    "height": 1400,
+    "sha256": "915de91b49b4746a8db2d9b0c7fa28e7947fbb7c50c206a5cc54bc6b0e7dccfd"
+  },
+  "julian-ih-225": {
+    "file": "assets/covers/julian-growth-017.jpg",
+    "sourceUrl": "https://img.transistorcdn.com/-VcDLT5M8fK2l1-Ot5u5BopFPMdz3Iwga9VXQFvdens/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9zaG93/LzEwOTg1LzE1OTAy/NTc1OTMtYXJ0d29y/ay5qcGc.jpg",
+    "pageUrl": "https://feeds.transistor.fm/the-indie-hackers-podcast",
+    "credit": "封面来源：Indie Hackers 官方播客 RSS；版权归原权利方",
+    "kind": "official-podcast-art",
+    "width": 1400,
+    "height": 1400,
+    "sha256": "915de91b49b4746a8db2d9b0c7fa28e7947fbb7c50c206a5cc54bc6b0e7dccfd"
+  }
+};

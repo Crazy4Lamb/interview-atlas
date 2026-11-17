@@ -1,0 +1,100 @@
+{
+  "checkedAt": "2026-11-16",
+  "previous": 14,
+  "total": 116,
+  "added": 102,
+  "contentStatus": {
+    "deep": 14,
+    "reading": 54,
+    "brief": 48
+  },
+  "perPerson": [
+    {
+      "id": "naval",
+      "name": "纳瓦尔",
+      "total": 15,
+      "types": {
+        "collection": 2,
+        "interview": 13
+      },
+      "deep": 2,
+      "reading": 11,
+      "brief": 2
+    },
+    {
+      "id": "justin",
+      "name": "孙宇晨",
+      "total": 14,
+      "types": {
+        "interview": 12,
+        "talk": 2
+      },
+      "deep": 2,
+      "reading": 4,
+      "brief": 8
+    },
+    {
+      "id": "dan",
+      "name": "Dan Koe",
+      "total": 10,
+      "types": {
+        "interview": 10
+      },
+      "deep": 2,
+      "reading": 4,
+      "brief": 4
+    },
+    {
+      "id": "tim",
+      "name": "Tim Ferriss",
+      "total": 19,
+      "types": {
+        "talk": 5,
+        "host": 4,
+        "interview": 10
+      },
+      "deep": 3,
+      "reading": 9,
+      "brief": 7
+    },
+    {
+      "id": "julian",
+      "name": "Julian Shapiro",
+      "total": 24,
+      "types": {
+        "interview": 12,
+        "host": 9,
+        "essay": 3
+      },
+      "deep": 2,
+      "reading": 11,
+      "brief": 11
+    },
+    {
+      "id": "alex",
+      "name": "Alex Hormozi",
+      "total": 12,
+      "types": {
+        "interview": 11,
+        "clip": 1
+      },
+      "deep": 2,
+      "reading": 10,
+      "brief": 0
+    },
+    {
+      "id": "elon",
+      "name": "马斯克",
+      "total": 26,
+      "types": {
+        "interview": 25,
+        "talk": 1
+      },
+      "deep": 2,
+      "reading": 8,
+      "brief": 16
+    }
+  ],
+  "mergedDuplicates": [],
+  "notes": []
+}
