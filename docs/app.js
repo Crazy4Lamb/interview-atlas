@@ -22,10 +22,10 @@
   const topicPatterns={财富:/财富|复利|收入|财务|金钱|投资/,创业:/创业|企业|融资|商业|公司|经营/,个人成长:/成长|学习|技能|职业|生活|决策|幸福|习惯/,内容创作:/写作|创作|内容|表达|故事|品牌/,增长:/增长|营销|销售|获客|落地页|转化|留存/,效率:/效率|生产力|专注|注意力|时间管理|习惯/,加密货币:/加密|比特币|以太坊|区块链|TRON|Web3|NFT/i,科技:/科技|人工智能|未来|太空|火星|Tesla|SpaceX|\bAI\b/i};
   const matchesTopic=(a,topic)=>a.tags.includes(topic)||topicPatterns[topic]?.test([a.title,...a.tags].join(' '));
   const editionOf=a=>a.contentStatus||'deep';
-  const editionLabel=a=>({deep:'中文精读',reading:'中文导读',brief:'资料简介'}[editionOf(a)]||'资料简介');
+  const editionLabel=a=>({deep:'中文精读',reading:'中文导读',brief:'资料简介',reprint:'转载精读'}[editionOf(a)]||'资料简介');
   const formatOf=(a,id=state.person)=>{const role=a.roles?.[id]||(id==='all'||id===a.person?a.role:null);return a.type==='interview'&&role==='host'?'host':a.type||'interview';};
   const matchesFormat=(a,key)=>state.person==='all'&&a.type==='interview'&&['host','interview'].includes(key)?Object.values(a.roles||{}).includes(key==='host'?'host':'guest'):formatOf(a)===key;
-  const formatLabel=a=>({interview:'嘉宾访谈',host:'主持对谈',talk:'公开演讲',clip:'访谈片段',essay:'原创文章',collection:'系列合集',summary:'文字总结',lesson:'音频课程'}[state.person==='all'&&a.type==='interview'&&['host','interview'].includes(state.format)?state.format:formatOf(a)]||'公开资料');
+  const formatLabel=a=>({interview:'嘉宾访谈',host:'主持对谈',talk:'公开演讲',clip:'访谈片段',essay:'原创文章',collection:'系列合集',summary:'文字总结',lesson:'音频课程',event:'活动与会议',related:'相关报道',version:'来源版本'}[state.person==='all'&&a.type==='interview'&&['host','interview'].includes(state.format)?state.format:formatOf(a)]||'公开资料');
   const cardPersonLabel=a=>{const ids=state.person!=='all'?[state.person]:a.type==='interview'&&['host','interview'].includes(state.format)?(a.participants||[a.person]).filter(id=>a.roles?.[id]===(state.format==='host'?'host':'guest')):[a.person];return ids.map(id=>profile(id).name+(a.roles?.[id]==='host'?' · 主持':'')).join(' / ');};
   const dateLabel = d => /^\d{4}-\d{2}-\d{2}$/.test(d)?d.slice(0,7).replace('-','.'):d || '日期待核';
   const safeUrl = url => {try{const u=new URL(url);return u.protocol==='https:'?u.href:'#';}catch{return '#';}};
@@ -63,7 +63,7 @@
     const result=getFiltered();
     $('articleGrid').innerHTML=result.slice(0,state.limit).map(a=>{
       const p=profile(a.person),isSaved=saved.has(a.id),index=articles.indexOf(a)+1;
-      return `<article class="article-card">${window.ArchiveCovers.card(a,index,formatLabel(a))}<div class="article-meta"><span class="article-person">${esc(cardPersonLabel(a))}</span><span class="dot">/</span><time datetime="${esc(a.date||'')}">${esc(dateLabel(a.date))}</time><span class="dot">/</span><span>${esc(a.source)}</span></div><button class="save-button ${isSaved?'saved':''}" data-save="${esc(a.id)}" aria-label="${isSaved?'取消收藏':'收藏'}：${esc(a.title)}" aria-pressed="${isSaved}">${icons.bookmark}</button><h3 class="article-title"><a href="#read/${encodeURIComponent(a.id)}">${esc(a.title)}</a></h3><p class="article-summary">${esc(a.summary)}</p><div class="article-bottom"><span class="content-badge">${editionLabel(a)}</span><span class="article-tags">${a.tags.map(t=>esc(t)).join(' · ')}</span><a class="read-button" href="#read/${encodeURIComponent(a.id)}">${editionOf(a)==='brief'?'查看简介':editionOf(a)==='deep'?'阅读精读':'阅读导读'} <span aria-hidden="true">→</span></a></div></article>`;
+      return `<article class="article-card">${window.ArchiveCovers.card(a,index,formatLabel(a))}<div class="article-meta"><span class="article-person">${esc(cardPersonLabel(a))}</span><span class="dot">/</span><time datetime="${esc(a.date||'')}">${esc(dateLabel(a.date))}</time><span class="dot">/</span><span>${esc(a.source)}</span></div><button class="save-button ${isSaved?'saved':''}" data-save="${esc(a.id)}" aria-label="${isSaved?'取消收藏':'收藏'}：${esc(a.title)}" aria-pressed="${isSaved}">${icons.bookmark}</button><h3 class="article-title"><a href="#read/${encodeURIComponent(a.id)}">${esc(a.title)}</a></h3><p class="article-summary">${esc(a.summary)}</p><div class="article-bottom"><span class="content-badge">${editionLabel(a)}</span><span class="article-tags">${a.tags.map(t=>esc(t)).join(' · ')}</span><a class="read-button" href="#read/${encodeURIComponent(a.id)}">${editionOf(a)==='brief'?'查看简介':editionOf(a)==='reprint'?'阅读精读':editionOf(a)==='deep'?'阅读精读':'阅读导读'} <span aria-hidden="true">→</span></a></div></article>`;
     }).join('');
     $('emptyState').hidden=result.length>0;
     $('loadMore').hidden=result.length<=state.limit;
@@ -79,8 +79,8 @@
     if(state.person!=='all'){
       const p=profile(state.person);
       const list=articles.filter(a=>belongsTo(a,p.id));
-      const counts=['interview','host','talk','clip','essay','collection','summary','lesson'].map(type=>({type,count:list.filter(a=>formatOf(a,p.id)===type).length})).filter(item=>item.count);
-      const names={interview:'嘉宾访谈',host:'主持对谈',talk:'公开演讲',clip:'片段',essay:'文章',collection:'合集',summary:'文字总结',lesson:'音频课程'};
+      const counts=['interview','host','talk','clip','essay','collection','summary','lesson','event','related','version'].map(type=>({type,count:list.filter(a=>formatOf(a,p.id)===type).length})).filter(item=>item.count);
+      const names={interview:'嘉宾访谈',host:'主持对谈',talk:'公开演讲',clip:'片段',essay:'文章',collection:'合集',summary:'文字总结',lesson:'音频课程',event:'活动会议',related:'相关报道',version:'来源版本'};
       const countText=counts.map(item=>names[item.type]+' '+item.count).join(' · ');
       $('profileBanner').innerHTML=`<h3>${esc(p.name)} <span class="original-title">${esc(p.en)}</span></h3><p>${esc(p.bio)}</p><span class="profile-counts">已收录 ${list.length} 条 · ${esc(countText)}</span>`;
     }

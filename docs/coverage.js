@@ -1,6 +1,6 @@
 window.ARCHIVE_COVERAGE = {
   "checkedAt": "2026-11-17",
-  "method": "按本人档案、公开节目页、文章及文字整理来源核对；同场音视频与转录归并；访谈、文章、课程及第三方总结分别记载。孙宇晨仅收录经过正文筛查的非加密主题资料。收录范围不代表全部历史资料。",
+  "method": "以来源条目计数；同一原始链接归并，已识别的同场重传及分段标为来源版本。资料总数不等于独立访谈场次。原站AI中文精读署名转载，英文文稿和媒体未托管。",
   "sources": [
     {
       "person": "纳瓦尔",
@@ -156,8 +156,12 @@ window.ARCHIVE_COVERAGE = {
     },
     {
       "person": "马斯克",
-      "note": "本次关联 44 条资料；核对入口包括以下公开来源。",
+      "note": "本次关联 671 条来源资料；参考站651条已逐项对照。原站586篇中文精读按转载要求署名呈现。",
       "links": [
+        {
+          "title": "马斯克全访谈 · 参考目录",
+          "url": "https://elon.qiaomu.ai/"
+        },
         {
           "title": "Lex Fridman Podcast",
           "url": "https://lexfridman.com/elon-musk-4/"

@@ -1,13 +1,14 @@
 {
   "checkedAt": "2026-11-17",
-  "previous": 116,
-  "total": 292,
-  "added": 190,
-  "removed": 14,
+  "previous": 292,
+  "total": 919,
+  "added": 627,
+  "removed": 0,
   "contentStatus": {
-    "deep": 12,
-    "reading": 140,
-    "brief": 140
+    "deep": 10,
+    "reading": 136,
+    "brief": 189,
+    "reprint": 584
   },
   "perPerson": [
     {
@@ -23,7 +24,8 @@
       },
       "deep": 2,
       "reading": 28,
-      "brief": 7
+      "brief": 7,
+      "reprint": 0
     },
     {
       "id": "justin",
@@ -36,7 +38,8 @@
       },
       "deep": 0,
       "reading": 21,
-      "brief": 54
+      "brief": 54,
+      "reprint": 0
     },
     {
       "id": "dan",
@@ -49,7 +52,8 @@
       },
       "deep": 2,
       "reading": 17,
-      "brief": 12
+      "brief": 12,
+      "reprint": 0
     },
     {
       "id": "tim",
@@ -64,7 +68,8 @@
       },
       "deep": 3,
       "reading": 24,
-      "brief": 14
+      "brief": 14,
+      "reprint": 0
     },
     {
       "id": "julian",
@@ -77,7 +82,8 @@
       },
       "deep": 2,
       "reading": 25,
-      "brief": 12
+      "brief": 12,
+      "reprint": 0
     },
     {
       "id": "alex",
@@ -89,20 +95,26 @@
       },
       "deep": 2,
       "reading": 15,
-      "brief": 12
+      "brief": 12,
+      "reprint": 0
     },
     {
       "id": "elon",
       "name": "马斯克",
-      "total": 44,
+      "total": 671,
       "types": {
-        "interview": 41,
+        "interview": 301,
         "essay": 2,
-        "talk": 1
+        "talk": 113,
+        "clip": 3,
+        "version": 43,
+        "event": 184,
+        "related": 25
       },
-      "deep": 2,
-      "reading": 13,
-      "brief": 29
+      "deep": 0,
+      "reading": 9,
+      "brief": 78,
+      "reprint": 584
     }
   ],
   "mergedDuplicates": [],

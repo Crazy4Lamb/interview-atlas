@@ -1,4 +1,3 @@
-// 中文精读、导读与已核实的资料简介。
 window.ARCHIVE_LONGREADS = {
   "naval-how-to-get-rich": {
     "sections": [
@@ -8638,6 +8637,14427 @@ window.ARCHIVE_LONGREADS = {
       {
         "title": "孙宇晨：创业是我的唯一归宿",
         "url": "https://finance.sina.com.cn/hy/20151205/212723942075.shtml"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-on-zip2-and-the-internet-1998": {
+    "takeaway": "1998年，加州。一个27岁的年轻人坐在几台显示器前面接受采访。记者问他，互联网的未来是什么。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "1998年，加州。一个27岁的年轻人坐在几台显示器前面接受采访。记者问他，互联网的未来是什么。",
+          "原站将本条归为访谈，时长约 5 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：1998年马斯克谈Zip2与互联网",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-on-zip2-and-the-internet-1998/"
+      },
+      {
+        "title": "原始媒体：PodiumVC",
+        "url": "https://www.youtube.com/watch?v=DUhM2-mAdEk"
+      }
+    ]
+  },
+  "elon-qm-from-1998-elon-musk-and-internet-startups-vs-microsoft": {
+    "takeaway": "1998年，CBS《Sunday Morning》的摄制组在加州拍下一间办公室。月租200美元，屋顶漏水，采访者说这是他见过最糟糕的地方。办公室的主人晚上就睡在里面，洗澡去街对面的基督教青年会（YMCA）。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "1998年，CBS《Sunday Morning》的摄制组在加州拍下一间办公室。月租200美元，屋顶漏水，采访者说这是他见过最糟糕的地方。办公室的主人晚上就睡在里面，洗澡去街对面的基督教青年会（YMCA）。",
+          "原站将本条归为访谈，时长约 8 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：1998年：马斯克与互联网初创公司对抗微软",
+        "url": "https://elon.qiaomu.ai/ep/from-1998-elon-musk-and-internet-startups-vs-microsoft/"
+      },
+      {
+        "title": "原始媒体：CBS Sunday Morning",
+        "url": "https://www.youtube.com/watch?v=KnXee-GN8AE"
+      }
+    ]
+  },
+  "elon-qm-1998-elon-musk-on-his-early-silicon-valley-days-future-of-the-in": {
+    "takeaway": "1995年夏天，一个二十四岁的年轻人账上几乎没有钱。他在硅谷租下一间办公室，屋顶漏水，他自己形容那是“你能想象到的最糟糕的地方”。他就睡在里面，洗澡去基督教青年会（YMCA）。这样过了三四个月。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "1995年夏天，一个二十四岁的年轻人账上几乎没有钱。他在硅谷租下一间办公室，屋顶漏水，他自己形容那是“你能想象到的最糟糕的地方”。他就睡在里面，洗澡去基督教青年会（YMCA）。这样过了三四个月。",
+          "原站将本条归为访谈，时长约 2 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：1998年马斯克谈硅谷早期岁月与互联网未来",
+        "url": "https://elon.qiaomu.ai/ep/1998-elon-musk-on-his-early-silicon-valley-days-future-of-the-in/"
+      },
+      {
+        "title": "原始媒体：CBS Sunday Morning",
+        "url": "https://www.youtube.com/watch?v=zfwK5BvZrY4"
+      }
+    ]
+  },
+  "elon-qm-watch-a-young-elon-musk-get-his-first-supercar-in-1999": {
+    "takeaway": "参考档案收录的访谈资料，发布渠道为 CNN，视频时长约 2 分钟。原始标题为《Watch a young Elon Musk get his first supercar in 1999》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的访谈资料，发布渠道为 CNN，视频时长约 2 分钟。原始标题为《Watch a young Elon Musk get his first supercar in 1999》。本条保留原始媒体与档案来源。",
+          "原站将本条归为访谈，时长约 2 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：1999年：年轻马斯克喜提首辆超跑",
+        "url": "https://elon.qiaomu.ai/ep/watch-a-young-elon-musk-get-his-first-supercar-in-1999/"
+      },
+      {
+        "title": "原始媒体：CNN",
+        "url": "https://www.youtube.com/watch?v=s9mczdODqzo"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-in-2001-i-m-a-little-tired-of-the-internet": {
+    "takeaway": "参考档案收录的访谈资料，发布渠道为 Muskflix，视频时长约 5 分钟。原始标题为《Elon Musk in 2001: I'm a little tired of the internet》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的访谈资料，发布渠道为 Muskflix，视频时长约 5 分钟。原始标题为《Elon Musk in 2001: I'm a little tired of the internet》。本条保留原始媒体与档案来源。",
+          "原站将本条归为访谈，时长约 5 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2001年马斯克：我有点厌倦互联网了",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-in-2001-i-m-a-little-tired-of-the-internet/"
+      },
+      {
+        "title": "原始媒体：Muskflix",
+        "url": "https://www.youtube.com/watch?v=l2mLcdb7cEU"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-introduces-himself-as-the-little-known-ceo-of-spacex-2": {
+    "takeaway": "参考档案收录的访谈资料，发布渠道为 History In Pictures (Facebook)，视频时长约 1 分钟。原始标题为《Elon Musk introduces himself as the little-known CEO of SpaceX (2002)》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的访谈资料，发布渠道为 History In Pictures (Facebook)，视频时长约 1 分钟。原始标题为《Elon Musk introduces himself as the little-known CEO of SpaceX (2002)》。本条保留原始媒体与档案来源。",
+          "原站将本条归为访谈，时长约 1 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2002年马斯克自介：SpaceX不为人知的CEO",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-introduces-himself-as-the-little-known-ceo-of-spacex-2/"
+      },
+      {
+        "title": "原始媒体：History In Pictures (Facebook)",
+        "url": "https://silicon-valley.tech/media/musk-2002.mp4"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-lecture-at-stanford-2003": {
+    "takeaway": "2003年，马斯克站在斯坦福的讲台上，讲了一件挺反常识的事。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2003年，马斯克站在斯坦福的讲台上，讲了一件挺反常识的事。",
+          "原站将本条归为大会演讲，时长约 47 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2003年马斯克斯坦福演讲",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-lecture-at-stanford-2003/"
+      },
+      {
+        "title": "原始媒体：Anatolii Zhukovskyi",
+        "url": "https://www.youtube.com/watch?v=Dwd3PijnirY"
+      }
+    ]
+  },
+  "elon-qm-unseen-2003-elon-musk-entrepreneurial-leadership-lecture": {
+    "takeaway": "2003年秋天，马斯克站在讲台上，说了一句让全场笑出来的话：在航天工业里发小财的最快办法，是先投一大笔钱进去。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2003年秋天，马斯克站在讲台上，说了一句让全场笑出来的话：在航天工业里发小财的最快办法，是先投一大笔钱进去。",
+          "原站将本条归为大会演讲，时长约 44 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：罕见：2003年马斯克创业领导力讲座",
+        "url": "https://elon.qiaomu.ai/ep/unseen-2003-elon-musk-entrepreneurial-leadership-lecture/"
+      },
+      {
+        "title": "原始媒体：Zoomed Out",
+        "url": "https://www.youtube.com/watch?v=PdQWwsaKhQI"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-s-2003-stanford-university-entrepreneurial-thought-lea": {
+    "takeaway": "2003年秋天，马斯克站在斯坦福的讲台上，台下是一群想创业的学生。他刚把PayPal卖了15亿美元，新公司SpaceX成立刚满一年，一枚火箭都还没发射过。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2003年秋天，马斯克站在斯坦福的讲台上，台下是一群想创业的学生。他刚把PayPal卖了15亿美元，新公司SpaceX成立刚满一年，一枚火箭都还没发射过。",
+          "原站将本条归为大会演讲，时长约 48 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2003年马斯克斯坦福创业思想领袖讲座",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-s-2003-stanford-university-entrepreneurial-thought-lea/"
+      },
+      {
+        "title": "原始媒体：shazmosushi",
+        "url": "https://www.youtube.com/watch?v=afZTrfvB2AQ"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-vision-for-the-future-interview-at-stanford-university": {
+    "takeaway": "2015年10月21日，是《回到未来2》里马丁和布朗博士飞抵的那个\"未来\"。斯坦福的 Future Fest 把对谈安排在这个月，主持人、DFJ 基金合伙人史蒂夫·尤尔韦松（Steve Jurvetson）拿这件事开场：电影里许诺的飞行汽车、悬浮滑板、视频通话、长得像 Google Gla",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2015年10月21日，是《回到未来2》里马丁和布朗博士飞抵的那个\"未来\"。斯坦福的 Future Fest 把对谈安排在这个月，主持人、DFJ 基金合伙人史蒂夫·尤尔韦松（Steve Jurvetson）拿这件事开场：电影里许诺的飞行汽车、悬浮滑板、视频通话、长得像 Google Gla",
+          "原站将本条归为访谈，时长约 57 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：斯坦福访谈：马斯克谈未来愿景",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-vision-for-the-future-interview-at-stanford-university/"
+      },
+      {
+        "title": "原始媒体：Elon Musk Full Videos",
+        "url": "https://www.youtube.com/watch?v=kWEmCP_T0BM"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-s-first-public-speech-talks-paypal-and-spacex-2003": {
+    "takeaway": "参考档案收录的访谈资料，发布渠道为 Elon Musk best videos，视频时长约 47 分钟。原始标题为《Elon Musk’s first public speech - talks Paypal and SpaceX 2003》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的访谈资料，发布渠道为 Elon Musk best videos，视频时长约 47 分钟。原始标题为《Elon Musk’s first public speech - talks Paypal and SpaceX 2003》。本条保留原始媒体与档案来源。",
+          "原站将本条归为访谈，时长约 47 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2003年马斯克首次公开演讲：谈PayPal与SpaceX",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-s-first-public-speech-talks-paypal-and-spacex-2003/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=n3yfa0MU01s"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-keynote-at-isdc-2005": {
+    "takeaway": "参考档案收录的发布会资料，发布渠道为 Muskflix，视频时长约 31 分钟。原始标题为《Elon Musk Keynote at ISDC 2005》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的发布会资料，发布渠道为 Muskflix，视频时长约 31 分钟。原始标题为《Elon Musk Keynote at ISDC 2005》。本条保留原始媒体与档案来源。",
+          "原站将本条归为发布会，时长约 31 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2005年马斯克ISDC主题演讲",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-keynote-at-isdc-2005/"
+      },
+      {
+        "title": "原始媒体：Muskflix",
+        "url": "https://www.youtube.com/watch?v=-Zdj8-KkWPs"
+      }
+    ]
+  },
+  "elon-qm-isdc-2005-friday-luncheon-with-elon-musk": {
+    "takeaway": "2005年6月，国际空间发展会议（ISDC）的周五午餐会上，马斯克在问答环节说了一句话。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2005年6月，国际空间发展会议（ISDC）的周五午餐会上，马斯克在问答环节说了一句话。",
+          "原站将本条归为访谈，时长约 37 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：ISDC 2005：与马斯克共进周五午餐",
+        "url": "https://elon.qiaomu.ai/ep/isdc-2005-friday-luncheon-with-elon-musk/"
+      },
+      {
+        "title": "原始媒体：Space Activist Archive",
+        "url": "https://www.youtube.com/watch?v=8vBqtKQx7jg"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-s-presentation-of-spacex-in-may-2005": {
+    "takeaway": "2005 年 5 月，洛杉矶，马斯克站在台前做一场关于 SpaceX 的分享。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2005 年 5 月，洛杉矶，马斯克站在台前做一场关于 SpaceX 的分享。",
+          "原站将本条归为发布会，时长约 26 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2005年5月马斯克展示SpaceX",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-s-presentation-of-spacex-in-may-2005/"
+      },
+      {
+        "title": "原始媒体：Unseen News",
+        "url": "https://www.youtube.com/watch?v=mO6Ppg9NXJI"
+      }
+    ]
+  },
+  "elon-qm-rare-old-elon-musk-video-from-2006-about-starting-spacex-back-wh": {
+    "takeaway": "2006年3月24日，太平洋中部一座叫奥梅莱克（Omelek）的小岛，一枚白色火箭升空大约25秒后，发动机起火，推力消失，火箭掉下来，撞在离发射台约200英尺的礁石上。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2006年3月24日，太平洋中部一座叫奥梅莱克（Omelek）的小岛，一枚白色火箭升空大约25秒后，发动机起火，推力消失，火箭掉下来，撞在离发射台约200英尺的礁石上。",
+          "原站将本条归为访谈，时长约 29 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2006年罕见旧视频：马斯克谈创办SpaceX",
+        "url": "https://elon.qiaomu.ai/ep/rare-old-elon-musk-video-from-2006-about-starting-spacex-back-wh/"
+      },
+      {
+        "title": "原始媒体：Elon Musk Videos - musk.video",
+        "url": "https://www.youtube.com/watch?v=PPI6lte8mJs"
+      }
+    ]
+  },
+  "elon-qm-near-space-report-with-elon-musk-chris-faranetta-and-tom-standag": {
+    "takeaway": "2006年3月，一枚细长的白色火箭从太平洋中间一座小岛上升空。不到一分钟，它就失控了，撞上离发射台大约200英尺的暗礁。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2006年3月，一枚细长的白色火箭从太平洋中间一座小岛上升空。不到一分钟，它就失控了，撞上离发射台大约200英尺的暗礁。",
+          "原站将本条归为访谈，时长约 27 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2006年FIRE：马斯克与克里斯·法拉内塔、汤姆·斯坦迪奇谈近太空",
+        "url": "https://elon.qiaomu.ai/ep/near-space-report-with-elon-musk-chris-faranetta-and-tom-standag/"
+      },
+      {
+        "title": "原始媒体：Future in Review",
+        "url": "https://www.youtube.com/watch?v=U3Y32ADCjLo"
+      }
+    ]
+  },
+  "elon-qm-a-chat-with-2007-entrepreneur-of-the-year-elon-musk-inc-magazine": {
+    "takeaway": "参考档案收录的访谈资料，发布渠道为 Inc.，视频时长约 8 分钟。原始标题为《A Chat with 2007 Entrepreneur of the Year, Elon Musk | Inc. Magazine》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的访谈资料，发布渠道为 Inc.，视频时长约 8 分钟。原始标题为《A Chat with 2007 Entrepreneur of the Year, Elon Musk | Inc. Magazine》。本条保留原始媒体与档案来源。",
+          "原站将本条归为访谈，时长约 8 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：《Inc.》对话2007年度企业家马斯克",
+        "url": "https://elon.qiaomu.ai/ep/a-chat-with-2007-entrepreneur-of-the-year-elon-musk-inc-magazine/"
+      },
+      {
+        "title": "原始媒体：Inc.",
+        "url": "https://www.youtube.com/watch?v=A8zXZTScECE"
+      }
+    ]
+  },
+  "elon-qm-lost-and-rare-elon-musk-interview-2007": {
+    "takeaway": "参考档案收录的访谈资料，发布渠道为 Muskflix，视频时长约 24 分钟。原始标题为《Lost and Rare Elon Musk Interview (2007)》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的访谈资料，发布渠道为 Muskflix，视频时长约 24 分钟。原始标题为《Lost and Rare Elon Musk Interview (2007)》。本条保留原始媒体与档案来源。",
+          "原站将本条归为访谈，时长约 24 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2007年马斯克失传罕见访谈",
+        "url": "https://elon.qiaomu.ai/ep/lost-and-rare-elon-musk-interview-2007/"
+      },
+      {
+        "title": "原始媒体：Muskflix",
+        "url": "https://www.youtube.com/watch?v=L53barLF3nE"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-spacex-2007-interview-part-1-appears-on-vimeo-dtube-me": {
+    "takeaway": "2007年3月20日，太平洋中部，赤道以北不远，一座叫奥梅莱克（Omelek）的珊瑚礁小岛。倒计时归零，一枚白色细长火箭离开发射台，一级发动机点火，穿过最大动压区，二级分离、点火，整流罩抛掉。速度爬到每秒2634米，高度停在300公里上下。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2007年3月20日，太平洋中部，赤道以北不远，一座叫奥梅莱克（Omelek）的珊瑚礁小岛。倒计时归零，一枚白色细长火箭离开发射台，一级发动机点火，穿过最大动压区，二级分离、点火，整流罩抛掉。速度爬到每秒2634米，高度停在300公里上下。",
+          "原站将本条归为访谈，时长约 10 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2007年马斯克谈SpaceX：访谈第一部分",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-spacex-2007-interview-part-1-appears-on-vimeo-dtube-me/"
+      },
+      {
+        "title": "原始媒体：Craig Deyzel",
+        "url": "https://www.youtube.com/watch?v=NytRWJ2OrbE"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-aiaa-houston-speech-improved-audio-2007": {
+    "takeaway": "2007年，马斯克站在休斯顿的讲台上，对着美国航空航天学会（AIAA）的听众讲了一个多小时。SpaceX成立刚满五年，员工三百来人，猎鹰1号（Falcon 1）飞了两次，两次都失败。他自己算过账，前后花掉的钱远超一亿美元，其中自掏腰包大约一个亿。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2007年，马斯克站在休斯顿的讲台上，对着美国航空航天学会（AIAA）的听众讲了一个多小时。SpaceX成立刚满五年，员工三百来人，猎鹰1号（Falcon 1）飞了两次，两次都失败。他自己算过账，前后花掉的钱远超一亿美元，其中自掏腰包大约一个亿。",
+          "原站将本条归为访谈，时长约 59 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2007年马斯克AIAA休斯顿演讲（音质优化）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-aiaa-houston-speech-improved-audio-2007/"
+      },
+      {
+        "title": "原始媒体：Romain Hedouin",
+        "url": "https://www.youtube.com/watch?v=XmKodBNV9RM"
+      }
+    ]
+  },
+  "elon-qm-the-rare-interview-of-elon-musk-in-2007-with-pbs-wired-science": {
+    "takeaway": "2007 年，一个 36 岁的男人坐在 PBS《Wired Science》的演播室里。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2007 年，一个 36 岁的男人坐在 PBS《Wired Science》的演播室里。",
+          "原站将本条归为访谈，时长约 23 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2007年PBS《Wired Science》罕见专访马斯克",
+        "url": "https://elon.qiaomu.ai/ep/the-rare-interview-of-elon-musk-in-2007-with-pbs-wired-science/"
+      },
+      {
+        "title": "原始媒体：Understanding Elon Musk",
+        "url": "https://www.youtube.com/watch?v=b0e8Ffh75qc"
+      }
+    ]
+  },
+  "elon-qm-young-elon-musk-interview-2007-full-version": {
+    "takeaway": "2007年，Wired Science 的演播室。主持人念了一长串名字：杰夫·贝索斯（Jeff Bezos）的蓝色起源（Blue Origin）、理查德·布兰森（Richard Branson）的维珍银河（Virgin Galactic）、保罗·艾伦、波音、洛克希德·马丁、欧洲航天局、中国",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2007年，Wired Science 的演播室。主持人念了一长串名字：杰夫·贝索斯（Jeff Bezos）的蓝色起源（Blue Origin）、理查德·布兰森（Richard Branson）的维珍银河（Virgin Galactic）、保罗·艾伦、波音、洛克希德·马丁、欧洲航天局、中国",
+          "原站将本条归为访谈，时长约 23 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2007年年轻马斯克访谈完整版",
+        "url": "https://elon.qiaomu.ai/ep/young-elon-musk-interview-2007-full-version/"
+      },
+      {
+        "title": "原始媒体：ElectricTonde",
+        "url": "https://www.youtube.com/watch?v=iaLhVwOf9Vk"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-2008": {
+    "takeaway": "2008年，底特律正在悬崖边上。通用和克莱斯勒的现金流以周为单位倒计时，国会山上吵成一团，救助方案和刺激计划轮番占据头条。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2008年，底特律正在悬崖边上。通用和克莱斯勒的现金流以周为单位倒计时，国会山上吵成一团，救助方案和刺激计划轮番占据头条。",
+          "原站将本条归为访谈，时长约 17 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2008年马斯克访谈",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-2008/"
+      },
+      {
+        "title": "原始媒体：Elon Musk Editor",
+        "url": "https://www.youtube.com/watch?v=5EhIcH6LK24"
+      }
+    ]
+  },
+  "elon-qm-tiecon-2008-interview-with-elon-musk": {
+    "takeaway": "2008 年 5 月，硅谷一场创业大会的台上，主持人介绍来宾时念了一串头衔：SpaceX、SolarCity、Tesla Motors，三家公司的董事长，同一个人。这人下个月才满 37 岁。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2008 年 5 月，硅谷一场创业大会的台上，主持人介绍来宾时念了一串头衔：SpaceX、SolarCity、Tesla Motors，三家公司的董事长，同一个人。这人下个月才满 37 岁。",
+          "原站将本条归为访谈，时长约 10 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：TiEcon 2008：专访马斯克",
+        "url": "https://elon.qiaomu.ai/ep/tiecon-2008-interview-with-elon-musk/"
+      },
+      {
+        "title": "原始媒体：TiEcon2008",
+        "url": "https://www.youtube.com/watch?v=5nMQ0-1jqFs"
+      }
+    ]
+  },
+  "elon-qm-young-elon-musk-pitches-the-tesla-roadster-in-a-hollywood-living": {
+    "takeaway": "2008年11月，底特律三大车企的CEO坐着各自的私人飞机飞到华盛顿要钱。听证会上有议员当面问他们：公司都快倒闭了，你们还坐专机来？场面相当难看。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2008年11月，底特律三大车企的CEO坐着各自的私人飞机飞到华盛顿要钱。听证会上有议员当面问他们：公司都快倒闭了，你们还坐专机来？场面相当难看。",
+          "原站将本条归为发布会，时长约 4 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2008年年轻马斯克在好莱坞客厅推介Tesla Roadster",
+        "url": "https://elon.qiaomu.ai/ep/young-elon-musk-pitches-the-tesla-roadster-in-a-hollywood-living/"
+      },
+      {
+        "title": "原始媒体：Elon Musk Clips",
+        "url": "https://www.youtube.com/watch?v=8krlXFd2_Pw"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-talks-about-his-firing-as-paypal-ceo-2008": {
+    "takeaway": "2000年秋天，马斯克从一趟长途旅行回到公司，发现自己的CEO位置没了。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2000年秋天，马斯克从一趟长途旅行回到公司，发现自己的CEO位置没了。",
+          "原站将本条归为访谈，时长约 25 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2008年马斯克谈被PayPal罢免CEO",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-talks-about-his-firing-as-paypal-ceo-2008/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=9e4AaXzagfc"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-s-darkest-year-the-2008-collapse-nobody-talks-about": {
+    "takeaway": "2008年12月24日，下午六点。一份融资协议在这一个小时里签完。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2008年12月24日，下午六点。一份融资协议在这一个小时里签完。",
+          "原站将本条归为访谈，时长约 21 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克最黑暗的一年：无人提及的2008崩盘",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-s-darkest-year-the-2008-collapse-nobody-talks-about/"
+      },
+      {
+        "title": "原始媒体：DocuFin",
+        "url": "https://www.youtube.com/watch?v=LWIlXeEtCyU"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-old-interview-back-in-2008-i-thought-i-was-a-nano-mana": {
+    "takeaway": "2008 年 8 月，SpaceX 的第三枚猎鹰一号（Falcon 1）火箭在级分离之后出了问题。新换的发动机推力瞬变时间比上一台长，飞行没能按预期走完。到那时为止，这家公司三次发射，三次没有入轨。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2008 年 8 月，SpaceX 的第三枚猎鹰一号（Falcon 1）火箭在级分离之后出了问题。新换的发动机推力瞬变时间比上一台长，飞行没能按预期走完。到那时为止，这家公司三次发射，三次没有入轨。",
+          "原站将本条归为访谈，时长约 25 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2008年旧访谈：马斯克自称纳米管理者",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-old-interview-back-in-2008-i-thought-i-was-a-nano-mana/"
+      },
+      {
+        "title": "原始媒体：The Source of All",
+        "url": "https://www.youtube.com/watch?v=TMx2PgsI6kI"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-2008-spacex-presentation-to-the-hollywood-hill-part-1": {
+    "takeaway": "2008年底，洛杉矶一场聚会上，马斯克被请上台讲两件事：SpaceX和Tesla。台下坐的多是编剧、导演、制片人，没几个人看过火箭发射直播。主持人开场就自嘲：我们这儿是好莱坞，不是硅谷，不太懂技术，但慢慢会跟上。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2008年底，洛杉矶一场聚会上，马斯克被请上台讲两件事：SpaceX和Tesla。台下坐的多是编剧、导演、制片人，没几个人看过火箭发射直播。主持人开场就自嘲：我们这儿是好莱坞，不是硅谷，不太懂技术，但慢慢会跟上。",
+          "原站将本条归为发布会，时长约 25 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2008年马斯克向The Hollywood Hill展示SpaceX（上）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-2008-spacex-presentation-to-the-hollywood-hill-part-1/"
+      },
+      {
+        "title": "原始媒体：The Hollywood Hill",
+        "url": "https://www.youtube.com/watch?v=ZuKUOBvIKE4"
+      }
+    ]
+  },
+  "elon-qm-conversation-with-elon-musk-tesla-motors-web-2-0-summit-08": {
+    "takeaway": "2008年11月，通用、福特、克莱斯勒的三位CEO坐着各自的私人飞机飞到华盛顿，在国会听证会上请求250亿美元紧急贷款。有议员问他们为什么不坐商业航班来，他们答不上来。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2008年11月，通用、福特、克莱斯勒的三位CEO坐着各自的私人飞机飞到华盛顿，在国会听证会上请求250亿美元紧急贷款。有议员问他们为什么不坐商业航班来，他们答不上来。",
+          "原站将本条归为大会演讲，时长约 30 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Web 2.0峰会08：对话Tesla Motors马斯克",
+        "url": "https://elon.qiaomu.ai/ep/conversation-with-elon-musk-tesla-motors-web-2-0-summit-08/"
+      },
+      {
+        "title": "原始媒体：O'Reilly",
+        "url": "https://www.youtube.com/watch?v=gVwmNaPsxLc"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-talks-extra-planetary-colonisation-2008": {
+    "takeaway": "2008年夏天，太平洋上的夸贾林环礁，一枚叫“猎鹰1号”（Falcon 1）的细长火箭已经立在发射台上。它此前飞过三次，后两次进了太空，都没能达到入轨速度。对一家火箭公司来说，这等于三次失败。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2008年夏天，太平洋上的夸贾林环礁，一枚叫“猎鹰1号”（Falcon 1）的细长火箭已经立在发射台上。它此前飞过三次，后两次进了太空，都没能达到入轨速度。对一家火箭公司来说，这等于三次失败。",
+          "原站将本条归为访谈，时长约 26 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2008年马斯克谈地外殖民",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-talks-extra-planetary-colonisation-2008/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=i7GajUrRiSA"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-2008-spacex-presentation-to-the-hollywood-hill-part-2": {
+    "takeaway": "2008年，NASA 想送一名宇航员上国际空间站，得向俄罗斯买一张联盟号（Soyuz）的船票，价格超过 7000 万美元。同一年，马斯克在一场小范围分享会上给出了 SpaceX 的账：假设火箭完全不回收、一次性用完，送一个人上轨道的成本大约是 1500 万美元。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2008年，NASA 想送一名宇航员上国际空间站，得向俄罗斯买一张联盟号（Soyuz）的船票，价格超过 7000 万美元。同一年，马斯克在一场小范围分享会上给出了 SpaceX 的账：假设火箭完全不回收、一次性用完，送一个人上轨道的成本大约是 1500 万美元。",
+          "原站将本条归为发布会，时长约 22 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2008年马斯克向The Hollywood Hill展示SpaceX（下）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-2008-spacex-presentation-to-the-hollywood-hill-part-2/"
+      },
+      {
+        "title": "原始媒体：The Hollywood Hill",
+        "url": "https://www.youtube.com/watch?v=jogLTBx8Y6Q"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-2008-spacex-presentation-to-the-hollywood-hill": {
+    "takeaway": "2008 年 12 月，底特律三大车企的高管坐着私人飞机到华盛顿，排队要钱。同一周，洛杉矶一个会场里，马斯克在讲他把一枚私人造的火箭送进地球轨道的事。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2008 年 12 月，底特律三大车企的高管坐着私人飞机到华盛顿，排队要钱。同一周，洛杉矶一个会场里，马斯克在讲他把一枚私人造的火箭送进地球轨道的事。",
+          "原站将本条归为发布会，时长约 34 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2008年马斯克向The Hollywood Hill展示SpaceX",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-2008-spacex-presentation-to-the-hollywood-hill/"
+      },
+      {
+        "title": "原始媒体：Understanding Elon Musk",
+        "url": "https://www.youtube.com/watch?v=zAiiwC7gBHE"
+      }
+    ]
+  },
+  "elon-qm-spacex-reaches-orbit-with-falcon-1-flight-4-full-webcast-and-elo": {
+    "takeaway": "参考档案收录的发布会资料，发布渠道为 Spacevidcast，视频时长约 43 分钟。原始标题为《SpaceX reaches orbit with Falcon 1, Flight 4 (full webcast and Elon Musk's statement)》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的发布会资料，发布渠道为 Spacevidcast，视频时长约 43 分钟。原始标题为《SpaceX reaches orbit with Falcon 1, Flight 4 (full webcast and Elon Musk's statement)》。本条保留原始媒体与档案来源。",
+          "原站将本条归为发布会，时长约 43 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：SpaceX Falcon 1第四次飞行入轨：全网直播与马斯克声明",
+        "url": "https://elon.qiaomu.ai/ep/spacex-reaches-orbit-with-falcon-1-flight-4-full-webcast-and-elo/"
+      },
+      {
+        "title": "原始媒体：Spacevidcast",
+        "url": "https://www.youtube.com/watch?v=8FQhtMrUQlE"
+      }
+    ]
+  },
+  "elon-qm-churchill-club-uber-entrepreneur-an-evening-with-elon-musk-in-20": {
+    "takeaway": "2009 年春天，旧金山湾区的这场对话开始前，主持人在停车场放了一辆特斯拉 Roadster，用橙色锥筒围起来，让来宾自己去看。那一年美国车市崩了，超市停车场堆满卖不掉的普锐斯，油价从每加仑 4 美元跌到 2 美元出头，通用和克莱斯勒正排队等国会打钱。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2009 年春天，旧金山湾区的这场对话开始前，主持人在停车场放了一辆特斯拉 Roadster，用橙色锥筒围起来，让来宾自己去看。那一年美国车市崩了，超市停车场堆满卖不掉的普锐斯，油价从每加仑 4 美元跌到 2 美元出头，通用和克莱斯勒正排队等国会打钱。",
+          "原站将本条归为访谈，时长约 93 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2009年丘吉尔俱乐部：超级创业者马斯克之夜",
+        "url": "https://elon.qiaomu.ai/ep/churchill-club-uber-entrepreneur-an-evening-with-elon-musk-in-20/"
+      },
+      {
+        "title": "原始媒体：Computer History Museum",
+        "url": "https://www.youtube.com/watch?v=7CxU98Lc25Y"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-on-the-valley-girl-show-2009-full-interview": {
+    "takeaway": "2009 年，一档叫《Valley Girl Show》的硅谷轻喜剧节目里，主持人 Jesse Draper 端着盘子走过来，盘子里是三只法式蜗牛。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2009 年，一档叫《Valley Girl Show》的硅谷轻喜剧节目里，主持人 Jesse Draper 端着盘子走过来，盘子里是三只法式蜗牛。",
+          "原站将本条归为访谈，时长约 10 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2009年《Valley Girl Show》马斯克完整访谈",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-on-the-valley-girl-show-2009-full-interview/"
+      },
+      {
+        "title": "原始媒体：Economic Archive",
+        "url": "https://www.youtube.com/watch?v=JkCVsw9gi9k"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-2009-interview-remastered": {
+    "takeaway": "2009年，特斯拉全年交付的车不到一千辆。马斯克坐在镜头前，被问到一个略显刁钻的问题：你自己怎么没上过太空？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2009年，特斯拉全年交付的车不到一千辆。马斯克坐在镜头前，被问到一个略显刁钻的问题：你自己怎么没上过太空？",
+          "原站将本条归为访谈，时长约 29 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2009年马斯克访谈重制版",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-2009-interview-remastered/"
+      },
+      {
+        "title": "原始媒体：Mentor Focus",
+        "url": "https://www.youtube.com/watch?v=Mqw2BMBDVbw"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-on-valley-girl-show-2009": {
+    "takeaway": "参考档案收录的访谈资料，发布渠道为 Muskflix，视频时长约 11 分钟。原始标题为《Elon Musk Interview on Valley Girl Show (2009)》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的访谈资料，发布渠道为 Muskflix，视频时长约 11 分钟。原始标题为《Elon Musk Interview on Valley Girl Show (2009)》。本条保留原始媒体与档案来源。",
+          "原站将本条归为访谈，时长约 11 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2009年《Valley Girl Show》专访马斯克",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-on-valley-girl-show-2009/"
+      },
+      {
+        "title": "原始媒体：Muskflix",
+        "url": "https://www.youtube.com/watch?v=NVXVJnmzs5w"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-speaks-on-car-battery-and-rocket-innovation-2009": {
+    "takeaway": "2009年4月，加州圣克拉拉，微软的会议室。丘吉尔俱乐部请来Elon Musk，主持人Michael Malone。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2009年4月，加州圣克拉拉，微软的会议室。丘吉尔俱乐部请来Elon Musk，主持人Michael Malone。",
+          "原站将本条归为访谈，时长约 93 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2009年马斯克谈汽车电池与火箭创新",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-speaks-on-car-battery-and-rocket-innovation-2009/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=TAZAzZ0-q2A"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-journey-from-paypal-to-spacex-2009-charlie-rose-interv": {
+    "takeaway": "2009 年，一辆电动车停在查理·罗斯的演播室里。它叫 Roadster，售价十万多美元，两个座位，0 到 100 公里加速比兰博基尼还快。罗斯把问题直接扔了过去：你造这台车，是因为有钱人缺玩具吗？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2009 年，一辆电动车停在查理·罗斯的演播室里。它叫 Roadster，售价十万多美元，两个座位，0 到 100 公里加速比兰博基尼还快。罗斯把问题直接扔了过去：你造这台车，是因为有钱人缺玩具吗？",
+          "原站将本条归为访谈，时长约 11 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2009年查理·罗斯访谈：马斯克从PayPal到SpaceX（第三部分）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-journey-from-paypal-to-spacex-2009-charlie-rose-interv/"
+      },
+      {
+        "title": "原始媒体：The TechVarta Show",
+        "url": "https://www.youtube.com/watch?v=TZ3UacvBet0"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-from-launching-private-rockets-to-the-next-electric-ca": {
+    "takeaway": "2008年12月，NASA把一份货运合同交给了一家只有七百多人的公司，最低16亿美元，全部执行完是31亿美元。合同的意思很直白：航天飞机退役之后，往返国际空间站的货物运输，主要交给这家公司。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2008年12月，NASA把一份货运合同交给了一家只有七百多人的公司，最低16亿美元，全部执行完是31亿美元。合同的意思很直白：航天飞机退役之后，往返国际空间站的货物运输，主要交给这家公司。",
+          "原站将本条归为访谈，时长约 51 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克：从发射私人火箭到下一代电动车——Future in Review 2009 #FIRE09",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-from-launching-private-rockets-to-the-next-electric-ca/"
+      },
+      {
+        "title": "原始媒体：Future in Review",
+        "url": "https://www.youtube.com/watch?v=XdJZVUMRoTg"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-keynote-at-isdc-2009": {
+    "takeaway": "2009年5月，国际空间发展大会（ISDC）的会场大屏幕上放着一枚火箭的动画。龙飞船（Dragon）点火、起飞、入轨，最后缓缓靠上国际空间站，对接、开舱，宇航员飘进去。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2009年5月，国际空间发展大会（ISDC）的会场大屏幕上放着一枚火箭的动画。龙飞船（Dragon）点火、起飞、入轨，最后缓缓靠上国际空间站，对接、开舱，宇航员飘进去。",
+          "原站将本条归为发布会，时长约 22 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在 ISDC 2009 的主题演讲",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-keynote-at-isdc-2009/"
+      },
+      {
+        "title": "原始媒体：Spacevidcast",
+        "url": "https://www.youtube.com/watch?v=bUYY3QT82B8"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-journey-from-paypal-to-spacex-2009-charlie-rose-interv-2": {
+    "takeaway": "一千磅的电池，能量只相当于两加仑半汽油。把这堆电池装进一辆车，它从静止跑到 60 英里只要 3.9 秒，在《Top Gear》测试赛道上跑赢了保时捷 GT3。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一千磅的电池，能量只相当于两加仑半汽油。把这堆电池装进一辆车，它从静止跑到 60 英里只要 3.9 秒，在《Top Gear》测试赛道上跑赢了保时捷 GT3。",
+          "原站将本条归为访谈，时长约 12 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克：从 PayPal 到 SpaceX｜2009 查理·罗斯访谈第 2 部分",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-journey-from-paypal-to-spacex-2009-charlie-rose-interv-2/"
+      },
+      {
+        "title": "原始媒体：The TechVarta Show",
+        "url": "https://www.youtube.com/watch?v=j_sWqKxytpA"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-in-2009-charlie-rose-interview": {
+    "takeaway": "二〇〇九年，一辆跑车的电池包重达一千磅，装下的能量只相当于两加仑半汽油。同一辆车却在《Top Gear》的测试赛道上，跑赢了保时捷911 GT3。马斯克坐在查理·罗斯对面，把这两件事放在一起讲，听众的第一反应通常是：这不合理。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "二〇〇九年，一辆跑车的电池包重达一千磅，装下的能量只相当于两加仑半汽油。同一辆车却在《Top Gear》的测试赛道上，跑赢了保时捷911 GT3。马斯克坐在查理·罗斯对面，把这两件事放在一起讲，听众的第一反应通常是：这不合理。",
+          "原站将本条归为访谈，时长约 29 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2009 年马斯克查理·罗斯访谈",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-in-2009-charlie-rose-interview/"
+      },
+      {
+        "title": "原始媒体：Remembrance of Things Past",
+        "url": "https://www.youtube.com/watch?v=ktkV0N0Oask"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-journey-from-paypal-to-spacex-2009-charlie-rose-interv-3": {
+    "takeaway": "把一枚火箭送上太空边缘，需要 9 个单位的能量。把它送上地球轨道，需要 625 个。中间隔着 69 倍。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "把一枚火箭送上太空边缘，需要 9 个单位的能量。把它送上地球轨道，需要 625 个。中间隔着 69 倍。",
+          "原站将本条归为访谈，时长约 7 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克：从 PayPal 到 SpaceX｜2009 查理·罗斯访谈第 1 部分",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-journey-from-paypal-to-spacex-2009-charlie-rose-interv-3/"
+      },
+      {
+        "title": "原始媒体：The TechVarta Show",
+        "url": "https://www.youtube.com/watch?v=xP7ftjA2wZ8"
+      }
+    ]
+  },
+  "elon-qm-an-interview-with-elon-musk-of-spacex-spacepod-2010-08-10": {
+    "takeaway": "2010年8月10日，SpaceX成立八年，猎鹰9号（Falcon 9）在两个月前刚刚完成首次飞行。马斯克坐在Skype镜头前接受Spacevidcast的采访，画面模糊，音频时不时掉线，主持人开场就先为此道了歉。就在这种条件下，主持人问了一个当时听起来像科幻的问题：2025年把人送上火星",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2010年8月10日，SpaceX成立八年，猎鹰9号（Falcon 9）在两个月前刚刚完成首次飞行。马斯克坐在Skype镜头前接受Spacevidcast的采访，画面模糊，音频时不时掉线，主持人开场就先为此道了歉。就在这种条件下，主持人问了一个当时听起来像科幻的问题：2025年把人送上火星",
+          "原站将本条归为访谈，时长约 10 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：专访 SpaceX 的马斯克——SpacePod 2010.08.10",
+        "url": "https://elon.qiaomu.ai/ep/an-interview-with-elon-musk-of-spacex-spacepod-2010-08-10/"
+      },
+      {
+        "title": "原始媒体：Spacevidcast",
+        "url": "https://www.youtube.com/watch?v=-xjgAH6tZBM"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-complete-factory-tour-2010": {
+    "takeaway": "2010年，加州霍桑。一栋旧厂房改造的办公楼里，SpaceX 只启用了三层中的第一层。每层能坐 300 人，大开间，没有隔断墙。马斯克的工位就在这片开阔区域里，销售副总裁的工位也在。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2010年，加州霍桑。一栋旧厂房改造的办公楼里，SpaceX 只启用了三层中的第一层。每层能坐 300 人，大开间，没有隔断墙。马斯克的工位就在这片开阔区域里，销售副总裁的工位也在。",
+          "原站将本条归为发布会，时长约 18 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 2010 年完整工厂参观",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-complete-factory-tour-2010/"
+      },
+      {
+        "title": "原始媒体：The Space Archive",
+        "url": "https://www.youtube.com/watch?v=0lJWmhpextE"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-tours-the-spacex-complex-2010": {
+    "takeaway": "2010年，加州霍桑，SpaceX的车间里，一年造出的火箭发动机数量，超过美国其他所有公司加起来的总和。马斯克说这句话时语气很平，像在念一个仓库盘点数字。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2010年，加州霍桑，SpaceX的车间里，一年造出的火箭发动机数量，超过美国其他所有公司加起来的总和。马斯克说这句话时语气很平，像在念一个仓库盘点数字。",
+          "原站将本条归为发布会，时长约 22 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克参观 SpaceX 园区（2010）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-tours-the-spacex-complex-2010/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=19PohMJwKRw"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-at-the-falcon-9-cots-1-post-mission-press-conference-2": {
+    "takeaway": "参考档案收录的媒体资料，发布渠道为 Elon Musk best videos，视频时长约 56 分钟。原始标题为《Elon Musk at the Falcon 9 COTS 1 Post Mission Press Conference 2010》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的媒体资料，发布渠道为 Elon Musk best videos，视频时长约 56 分钟。原始标题为《Elon Musk at the Falcon 9 COTS 1 Post Mission Press Conference 2010》。本条保留原始媒体与档案来源。",
+          "原站将本条归为媒体，时长约 56 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克亮相 Falcon 9 COTS 1 任务后新闻发布会 2010",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-at-the-falcon-9-cots-1-post-mission-press-conference-2/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=3wDJnO4GNhs"
+      }
+    ]
+  },
+  "elon-qm-a-candid-interview-with-tesla-ceo-elon-musk": {
+    "takeaway": "一个六岁的男孩从保姆眼皮底下溜了出去，独自穿过整座城市，只为了去城的另一头找表兄弟玩。他几乎还看不懂路牌。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一个六岁的男孩从保姆眼皮底下溜了出去，独自穿过整座城市，只为了去城的另一头找表兄弟玩。他几乎还看不懂路牌。",
+          "原站将本条归为访谈，时长约 19 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：特斯拉 CEO 马斯克坦率专访",
+        "url": "https://elon.qiaomu.ai/ep/a-candid-interview-with-tesla-ceo-elon-musk/"
+      },
+      {
+        "title": "原始媒体：Vator",
+        "url": "https://www.youtube.com/watch?v=B1h1aG0usIY"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-s-polarized-vc-experiences-2010-rare-video": {
+    "takeaway": "2008年圣诞节前两天，马斯克的钱快见底了。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2008年圣诞节前两天，马斯克的钱快见底了。",
+          "原站将本条归为访谈，时长约 43 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克谈两极化的风投经历｜2010 罕见视频",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-s-polarized-vc-experiences-2010-rare-video/"
+      },
+      {
+        "title": "原始媒体：The Musk World",
+        "url": "https://www.youtube.com/watch?v=CPINrvBBR1c"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-reveals-that-tesla-s-next-car-will-be-a-suv-2010": {
+    "takeaway": "2010年6月29日，特斯拉在纳斯达克上市，发行价17美元。这是1956年福特汽车之后，第一家登陆美国公开市场的本土车企。一家只卖过两千多辆电动跑车、每年都在亏钱的加州小公司，被推到了华尔街的聚光灯下。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2010年6月29日，特斯拉在纳斯达克上市，发行价17美元。这是1956年福特汽车之后，第一家登陆美国公开市场的本土车企。一家只卖过两千多辆电动跑车、每年都在亏钱的加州小公司，被推到了华尔街的聚光灯下。",
+          "原站将本条归为发布会，时长约 24 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克透露特斯拉下一款车将是 SUV（2010）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-reveals-that-tesla-s-next-car-will-be-a-suv-2010/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=IQmsOAx6r7s"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-discusses-president-obama-s-space-budget-2010-audio": {
+    "takeaway": "2010年4月，NPR《科学星期五》（Science Friday）的直播间里坐了三个人。美国大学教授霍华德·麦柯迪（Howard McCurdy），华盛顿智库阿特金斯战略的总裁比尔·阿特金斯（Bill Atkins），还有SpaceX的CEO埃隆·马斯克。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2010年4月，NPR《科学星期五》（Science Friday）的直播间里坐了三个人。美国大学教授霍华德·麦柯迪（Howard McCurdy），华盛顿智库阿特金斯战略的总裁比尔·阿特金斯（Bill Atkins），还有SpaceX的CEO埃隆·马斯克。",
+          "原站将本条归为访谈，时长约 24 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克谈奥巴马总统的太空预算 2010（音频）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-discusses-president-obama-s-space-budget-2010-audio/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=LiZIO6eq51s"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-candid-interview-on-his-life-and-tesla-2010": {
+    "takeaway": "参考档案收录的访谈资料，发布渠道为 Elon Musk best videos，视频时长约 31 分钟。原始标题为《Elon Musk candid interview on his life and Tesla 2010》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的访谈资料，发布渠道为 Elon Musk best videos，视频时长约 31 分钟。原始标题为《Elon Musk candid interview on his life and Tesla 2010》。本条保留原始媒体与档案来源。",
+          "原站将本条归为访谈，时长约 31 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克坦率谈人生与特斯拉 2010",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-candid-interview-on-his-life-and-tesla-2010/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=_LOPuClIrPo"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-participates-in-tesla-q3-2010-earnings-call-2010-audio": {
+    "takeaway": "2010年11月，特斯拉上市刚满四个月。股价从6月30日的23.80美元往下走。这家公司一个季度交付了151辆车，账上非限制现金9660万美元。首席财务官Deepak Ahuja在财报电话会上把话说得很直：接下来九个季度要花掉大约5亿美元，近期季度盈利算不上一个有意义的目标。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2010年11月，特斯拉上市刚满四个月。股价从6月30日的23.80美元往下走。这家公司一个季度交付了151辆车，账上非限制现金9660万美元。首席财务官Deepak Ahuja在财报电话会上把话说得很直：接下来九个季度要花掉大约5亿美元，近期季度盈利算不上一个有意义的目标。",
+          "原站将本条归为股东会，时长约 70 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克参与特斯拉 Q3 2010 财报电话会（音频）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-participates-in-tesla-q3-2010-earnings-call-2010-audio/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=a2AEsNsPQTY"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-rare-interview-2010-full-video": {
+    "takeaway": "六岁那年，马斯克被禁足在家。原因是大人不让他去城另一头找表兄弟玩。他从保姆手里溜了出去，一个人走过了整座比勒陀利亚。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "六岁那年，马斯克被禁足在家。原因是大人不让他去城另一头找表兄弟玩。他从保姆手里溜了出去，一个人走过了整座比勒陀利亚。",
+          "原站将本条归为访谈，时长约 31 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 2010 罕见访谈（完整视频）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-rare-interview-2010-full-video/"
+      },
+      {
+        "title": "原始媒体：Elon Musk Editor",
+        "url": "https://www.youtube.com/watch?v=c2X4LSZlDaY"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-lecture-about-making-life-multi-planetary-2010": {
+    "takeaway": "2010年秋天，耶鲁大学工程学院的报告厅里坐满了人。讲台上站着39岁的埃隆·马斯克，他刚被《时代》杂志选进当年的百大人物，头衔一长串：PayPal联合创始人、特斯拉CEO、SpaceX创始人。台下的人想听的，大概是他怎么连赢三次。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2010年秋天，耶鲁大学工程学院的报告厅里坐满了人。讲台上站着39岁的埃隆·马斯克，他刚被《时代》杂志选进当年的百大人物，头衔一长串：PayPal联合创始人、特斯拉CEO、SpaceX创始人。台下的人想听的，大概是他怎么连赢三次。",
+          "原站将本条归为大会演讲，时长约 55 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克讲座：让生命多行星化 2010",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-lecture-about-making-life-multi-planetary-2010/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=cbwkKpt9aRE"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-at-yale-university-2010-full-lecture": {
+    "takeaway": "2010年，马斯克在耶鲁大学做了一场讲座。他给出的数字是：让人类成为多行星物种，大概要花掉全球GDP的0.25%到0.5%。他顺手给了一个参照系，这笔钱比全世界花在医疗上的少得多，比花在口红上的多一点。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2010年，马斯克在耶鲁大学做了一场讲座。他给出的数字是：让人类成为多行星物种，大概要花掉全球GDP的0.25%到0.5%。他顺手给了一个参照系，这笔钱比全世界花在医疗上的少得多，比花在口红上的多一点。",
+          "原站将本条归为大会演讲，时长约 50 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在耶鲁大学 2010 完整讲座",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-at-yale-university-2010-full-lecture/"
+      },
+      {
+        "title": "原始媒体：Elon Musk Editor",
+        "url": "https://www.youtube.com/watch?v=eKq-0SFmeM4"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-participates-in-tesla-q3-2011-earnings-call-2011-audio": {
+    "takeaway": "2011年10月，特斯拉开了一场财报电话会。那时候 Model S 还没交付一辆，公司靠美国能源部的贷款过日子，Roadster 一年卖不了几千台。华尔街分析师打电话进来，问的问题都很实在：车到底能不能造出来，供应商靠不靠谱，钱还够不够烧。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2011年10月，特斯拉开了一场财报电话会。那时候 Model S 还没交付一辆，公司靠美国能源部的贷款过日子，Roadster 一年卖不了几千台。华尔街分析师打电话进来，问的问题都很实在：车到底能不能造出来，供应商靠不靠谱，钱还够不够烧。",
+          "原站将本条归为股东会，时长约 56 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克参与特斯拉 Q3 2011 财报电话会（音频）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-participates-in-tesla-q3-2011-earnings-call-2011-audio/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=27xJAHsWWXA"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-on-spacex-eventual-manned-missions-2011-audio": {
+    "takeaway": "参考档案收录的访谈资料，发布渠道为 Elon Musk best videos，视频时长约 28 分钟。原始标题为《Elon Musk on SpaceX eventual manned missions 2011 (AUDIO)》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的访谈资料，发布渠道为 Elon Musk best videos，视频时长约 28 分钟。原始标题为《Elon Musk on SpaceX eventual manned missions 2011 (AUDIO)》。本条保留原始媒体与档案来源。",
+          "原站将本条归为访谈，时长约 28 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克谈 SpaceX 未来载人任务 2011（音频）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-on-spacex-eventual-manned-missions-2011-audio/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=396CVvsjFAQ"
+      }
+    ]
+  },
+  "elon-qm-heinlein-prize-2011-part-5-q-a-with-elon-musk": {
+    "takeaway": "2009年，密歇根大学的一位航空航天教授在《航空周刊》（Aviation Week）上写了一篇评论。他说，过去十年里他带过的最好的十个学生，他一个一个都记得名字，其中五个在 SpaceX 上班。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2009年，密歇根大学的一位航空航天教授在《航空周刊》（Aviation Week）上写了一篇评论。他说，过去十年里他带过的最好的十个学生，他一个一个都记得名字，其中五个在 SpaceX 上班。",
+          "原站将本条归为访谈，时长约 8 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Heinlein Prize 2011 第 5 部分：马斯克问答",
+        "url": "https://elon.qiaomu.ai/ep/heinlein-prize-2011-part-5-q-a-with-elon-musk/"
+      },
+      {
+        "title": "原始媒体：HeinleinPrizeTrust",
+        "url": "https://www.youtube.com/watch?v=7Vq9UPA0t5o"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-talks-energy-and-transportation-at-ucla-2011": {
+    "takeaway": "参考档案收录的访谈资料，发布渠道为 Elon Musk best videos，视频时长约 80 分钟。原始标题为《Elon Musk talks energy and transportation at UCLA 2011》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的访谈资料，发布渠道为 Elon Musk best videos，视频时长约 80 分钟。原始标题为《Elon Musk talks energy and transportation at UCLA 2011》。本条保留原始媒体与档案来源。",
+          "原站将本条归为访谈，时长约 80 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在 UCLA 谈能源与交通 2011",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-talks-energy-and-transportation-at-ucla-2011/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=A3Hf6Lg0KsM"
+      }
+    ]
+  },
+  "elon-qm-spacex-next-falcon-heavy-press-conference": {
+    "takeaway": "航天圈有个流传了几十年的说法，叫\"神话数字\"（mythical number）：把一磅东西送上近地轨道，成本 1000 美元。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "航天圈有个流传了几十年的说法，叫\"神话数字\"（mythical number）：把一磅东西送上近地轨道，成本 1000 美元。",
+          "原站将本条归为发布会，时长约 38 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：SpaceX Next：Falcon Heavy 新闻发布会",
+        "url": "https://elon.qiaomu.ai/ep/spacex-next-falcon-heavy-press-conference/"
+      },
+      {
+        "title": "原始媒体：SpaceX",
+        "url": "https://www.youtube.com/watch?v=DtoADdSry6g"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-talks-rocket-science-at-the-aiaa-2011": {
+    "takeaway": "猎鹰9号发射一次，推进剂成本大约占整个任务成本的0.3%。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "猎鹰9号发射一次，推进剂成本大约占整个任务成本的0.3%。",
+          "原站将本条归为访谈，时长约 50 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在 AIAA 谈火箭科学 2011",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-talks-rocket-science-at-the-aiaa-2011/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=Fuat32WScqU"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-commits-to-develop-fully-reusable-rockets-2011": {
+    "takeaway": "一枚猎鹰9号火箭，造价5000到6000万美元。灌进去的燃料和液氧，加起来大约20万美元。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一枚猎鹰9号火箭，造价5000到6000万美元。灌进去的燃料和液氧，加起来大约20万美元。",
+          "原站将本条归为访谈，时长约 52 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克承诺研发完全可复用火箭 2011",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-commits-to-develop-fully-reusable-rockets-2011/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=I9FO6Ane1o0"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-q-a-at-aiaa": {
+    "takeaway": "2011年，美国航空航天学会（AIAA）的一场问答上，有人问马斯克，可复用火箭的进展到底怎么样了。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2011年，美国航空航天学会（AIAA）的一场问答上，有人问马斯克，可复用火箭的进展到底怎么样了。",
+          "原站将本条归为访谈，时长约 13 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在 AIAA 问答",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-q-a-at-aiaa/"
+      },
+      {
+        "title": "原始媒体：VideoFromSpace",
+        "url": "https://www.youtube.com/watch?v=JDmjYmoyIyk"
+      }
+    ]
+  },
+  "elon-qm-2011-oct-tesla-beta-event-elon-talk": {
+    "takeaway": "2011年10月，加州弗里蒙特。特斯拉把一批预订了 Model S 的人请进工厂，办了一场 Beta 活动。马斯克上台之后做的第一件事，是放一段撞墙视频。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2011年10月，加州弗里蒙特。特斯拉把一批预订了 Model S 的人请进工厂，办了一场 Beta 活动。马斯克上台之后做的第一件事，是放一段撞墙视频。",
+          "原站将本条归为访谈，时长约 16 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2011 年 10 月特斯拉 Beta 活动：马斯克演讲",
+        "url": "https://elon.qiaomu.ai/ep/2011-oct-tesla-beta-event-elon-talk/"
+      },
+      {
+        "title": "原始媒体：Greg Frazer",
+        "url": "https://www.youtube.com/watch?v=OOW6RFUXNuA"
+      }
+    ]
+  },
+  "elon-qm-clean-tech-summit-2011-ipo-spotlight-with-elon-musk": {
+    "takeaway": "2011 年，马斯克站在清洁技术峰会的台上，讲了一件很多人不知道的事。卖掉 PayPal 之后，他税后拿到大约 1.8 亿美元，然后把这笔钱全部投进了三家公司：SpaceX、Tesla、Solar City。投到最后，他得向朋友借钱付账单。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2011 年，马斯克站在清洁技术峰会的台上，讲了一件很多人不知道的事。卖掉 PayPal 之后，他税后拿到大约 1.8 亿美元，然后把这笔钱全部投进了三家公司：SpaceX、Tesla、Solar City。投到最后，他得向朋友借钱付账单。",
+          "原站将本条归为大会演讲，时长约 45 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Clean Tech Summit 2011：马斯克 IPO 焦点对话",
+        "url": "https://elon.qiaomu.ai/ep/clean-tech-summit-2011-ipo-spotlight-with-elon-musk/"
+      },
+      {
+        "title": "原始媒体：IBF - International Business Forum",
+        "url": "https://www.youtube.com/watch?v=hTBZGWEzR_E"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-talks-falcon-heavy-2011": {
+    "takeaway": "2011年4月5日，华盛顿下着雨。马斯克坐在Stimson Center的讲台上，主持人刚介绍完他一小时前做的发布。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2011年4月5日，华盛顿下着雨。马斯克坐在Stimson Center的讲台上，主持人刚介绍完他一小时前做的发布。",
+          "原站将本条归为访谈，时长约 61 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克谈 Falcon Heavy 2011",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-talks-falcon-heavy-2011/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=q2VdC3zefqU"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-keynote-address-aiaa-2011-part-2-4": {
+    "takeaway": "一枚火箭飞完一趟就整根扔掉，等于每飞一次就报废一架全新的波音747。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一枚火箭飞完一趟就整根扔掉，等于每飞一次就报废一架全新的波音747。",
+          "原站将本条归为发布会，时长约 11 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 AIAA 2011 主题演讲（第 2/4 部分）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-keynote-address-aiaa-2011-part-2-4/"
+      },
+      {
+        "title": "原始媒体：arnezami",
+        "url": "https://www.youtube.com/watch?v=rjzMs4nvfcc"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-q-a-at-ucla-2011": {
+    "takeaway": "2011年，SpaceX一枚火箭上，70%到80%的部件是公司从原材料开始自己造的。特斯拉Model S还没量产，工程完成度大约90%。马斯克坐在UCLA的讲台上，被一群学生和创业者追问。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2011年，SpaceX一枚火箭上，70%到80%的部件是公司从原材料开始自己造的。特斯拉Model S还没量产，工程完成度大约90%。马斯克坐在UCLA的讲台上，被一群学生和创业者追问。",
+          "原站将本条归为访谈，时长约 44 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在 UCLA 问答 2011",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-q-a-at-ucla-2011/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=v78rPW4fwDk"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-participates-in-tesla-q4-2011-earnings-call-2012-audio": {
+    "takeaway": "2012 年初，特斯拉开了一场财报电话会。会上马斯克说了一句话：特斯拉再也不需要融资了。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2012 年初，特斯拉开了一场财报电话会。会上马斯克说了一句话：特斯拉再也不需要融资了。",
+          "原站将本条归为股东会，时长约 54 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克参与特斯拉 Q4 2011 财报电话会 2012（音频）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-participates-in-tesla-q4-2011-earnings-call-2012-audio/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=yCPuG6Ek3Qk"
+      }
+    ]
+  },
+  "elon-qm-interview-with-elon-musk-29-september-2011": {
+    "takeaway": "2008年12月，马斯克在几天里经历了两个极端。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2008年12月，马斯克在几天里经历了两个极端。",
+          "原站将本条归为访谈，时长约 37 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克专访｜2011 年 9 月 29 日",
+        "url": "https://elon.qiaomu.ai/ep/interview-with-elon-musk-29-september-2011/"
+      },
+      {
+        "title": "原始媒体：The Motley Fool",
+        "url": "https://www.youtube.com/watch?v=bg06ojAR_lE"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-2012": {
+    "takeaway": "2012年，埃隆·马斯克（Elon Musk）站在加州大学圣迭戈分校的讲台上，对着一屋子听众说了几个数字。当时听着像疯话，现在回头看，准得吓人。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2012年，埃隆·马斯克（Elon Musk）站在加州大学圣迭戈分校的讲台上，对着一屋子听众说了几个数字。当时听着像疯话，现在回头看，准得吓人。",
+          "原站将本条归为访谈，时长约 41 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克访谈 2012",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-2012/"
+      },
+      {
+        "title": "原始媒体：Understanding Elon Musk",
+        "url": "https://www.youtube.com/watch?v=DtU6QjwvB_E"
+      }
+    ]
+  },
+  "elon-qm-svforum-s-2012-visionary-awards-elon-musk": {
+    "takeaway": "2012年，硅谷论坛（SVForum）把年度远见奖颁给马斯克。上台介绍他的人讲了将近十分钟，从南非讲到宾夕法尼亚，从Zip2讲到龙飞船对接空间站。马斯克上台，说了不到三分钟，把话筒还回去，请大家吃饭。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2012年，硅谷论坛（SVForum）把年度远见奖颁给马斯克。上台介绍他的人讲了将近十分钟，从南非讲到宾夕法尼亚，从Zip2讲到龙飞船对接空间站。马斯克上台，说了不到三分钟，把话筒还回去，请大家吃饭。",
+          "原站将本条归为大会演讲，时长约 11 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：SVForum 2012 远见奖：马斯克",
+        "url": "https://elon.qiaomu.ai/ep/svforum-s-2012-visionary-awards-elon-musk/"
+      },
+      {
+        "title": "原始媒体：Silicon Valley Forum",
+        "url": "https://www.youtube.com/watch?v=GVjWzIpdWp0"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-will-i-am-2012-rare-interview": {
+    "takeaway": "2012 年的一场对谈上，will.i.am 忽然说了一句话。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2012 年的一场对谈上，will.i.am 忽然说了一句话。",
+          "原站将本条归为访谈，时长约 22 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克与 will.i.am 2012 罕见访谈",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-will-i-am-2012-rare-interview/"
+      },
+      {
+        "title": "原始媒体：Elon Musk Editor",
+        "url": "https://www.youtube.com/watch?v=HUmtwJDhzzo"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-keynotes-tesla-motors-shareholder-meeting-2012": {
+    "takeaway": "2012 年 6 月，特斯拉股东大会。马斯克上台，先谢了股东，然后宣布一件事：两辆量产版 Model S 交付了。一辆给了 Steve Jurvetson，一辆给了他自己。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2012 年 6 月，特斯拉股东大会。马斯克上台，先谢了股东，然后宣布一件事：两辆量产版 Model S 交付了。一辆给了 Steve Jurvetson，一辆给了他自己。",
+          "原站将本条归为股东会，时长约 59 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在 Tesla Motors 2012 股东大会主题演讲",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-keynotes-tesla-motors-shareholder-meeting-2012/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=I35Fmw256UM"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-at-dragon-s-cots-demo-flight-2-3-briefing-2012": {
+    "takeaway": "2012 年 4 月 30 日，美国东部时间上午 11 点 22 分，一枚猎鹰 9 号火箭要从卡纳维拉尔角升空。它的货舱里装着一艘名叫龙飞船（Dragon）的太空船，目的地是 400 公里高的国际空间站。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2012 年 4 月 30 日，美国东部时间上午 11 点 22 分，一枚猎鹰 9 号火箭要从卡纳维拉尔角升空。它的货舱里装着一艘名叫龙飞船（Dragon）的太空船，目的地是 400 公里高的国际空间站。",
+          "原站将本条归为发布会，时长约 102 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克出席 Dragon COTS 演示飞行 2 和 3 简报会（2012）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-at-dragon-s-cots-demo-flight-2-3-briefing-2012/"
+      },
+      {
+        "title": "原始媒体：Everything Elon Musk",
+        "url": "https://www.youtube.com/watch?v=Imgt_4lVCMM"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-on-obamas-space-program-radio-interview-2012": {
+    "takeaway": "2010年4月15日，奥巴马在佛罗里达肯尼迪航天中心发表了一场关于 NASA 未来的演讲。演讲里有一句话，把登月派彻底惹毛了。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2010年4月15日，奥巴马在佛罗里达肯尼迪航天中心发表了一场关于 NASA 未来的演讲。演讲里有一句话，把登月派彻底惹毛了。",
+          "原站将本条归为访谈，时长约 47 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克谈奥巴马太空计划（2012 电台访谈）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-on-obamas-space-program-radio-interview-2012/"
+      },
+      {
+        "title": "原始媒体：Elon Musk Videos - musk.video",
+        "url": "https://www.youtube.com/watch?v=JPfYJxwrKyE"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-panel-bta-2012": {
+    "takeaway": "2012年5月，龙飞船（Dragon）第一次逼近国际空间站。飞船上的激光雷达开始扫描空间站，把回波在计算机里重建成一个模型，用来算出两个航天器之间的相对位置和运动。然后它卡住了。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2012年5月，龙飞船（Dragon）第一次逼近国际空间站。飞船上的激光雷达开始扫描空间站，把回波在计算机里重建成一个模型，用来算出两个航天器之间的相对位置和运动。然后它卡住了。",
+          "原站将本条归为大会演讲，时长约 49 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克参加 BTA 2012 座谈",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-panel-bta-2012/"
+      },
+      {
+        "title": "原始媒体：Popular Mechanics",
+        "url": "https://www.youtube.com/watch?v=J_af0ow1__E"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-and-kevin-rose-foundation": {
+    "takeaway": "1995年夏天，一个24岁的年轻人站在硅谷Netscape公司的大厅里，手里攥着简历，不知道该跟谁开口。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "1995年夏天，一个24岁的年轻人站在硅谷Netscape公司的大厅里，手里攥着简历，不知道该跟谁开口。",
+          "原站将本条归为访谈，时长约 27 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克对话凯文·罗斯（Foundation）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-and-kevin-rose-foundation/"
+      },
+      {
+        "title": "原始媒体：Kevin Rose",
+        "url": "https://www.youtube.com/watch?v=L-s_3b5fRd8"
+      }
+    ]
+  },
+  "elon-qm-model-s-customer-delivery-event": {
+    "takeaway": "2012年6月22日，加州弗里蒙特。特斯拉把第一批Model S交到了车主手里。在交车之前，这款车已经攒下超过10000份订单，而绝大多数下订的人，连方向盘都没摸过，甚至没坐进去过。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2012年6月22日，加州弗里蒙特。特斯拉把第一批Model S交到了车主手里。在交车之前，这款车已经攒下超过10000份订单，而绝大多数下订的人，连方向盘都没摸过，甚至没坐进去过。",
+          "原站将本条归为发布会，时长约 26 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Model S 客户交付活动",
+        "url": "https://elon.qiaomu.ai/ep/model-s-customer-delivery-event/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=SLio4A13Ric"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interviewed-on-the-gavin-newsom-show-2012": {
+    "takeaway": "2008年12月，圣诞节前的周日，马斯克坐在家里，第一次认真怀疑自己扛不下去。他在四年后接受加文·纽森（Gavin Newsom）采访时把这段讲得很平淡：他一直认为自己属于不会精神崩溃的那类人，可那个周日，他离崩溃非常近。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2008年12月，圣诞节前的周日，马斯克坐在家里，第一次认真怀疑自己扛不下去。他在四年后接受加文·纽森（Gavin Newsom）采访时把这段讲得很平淡：他一直认为自己属于不会精神崩溃的那类人，可那个周日，他离崩溃非常近。",
+          "原站将本条归为访谈，时长约 16 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克接受《加文·纽森秀》采访（2012）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interviewed-on-the-gavin-newsom-show-2012/"
+      },
+      {
+        "title": "原始媒体：All Elon Musk Videos",
+        "url": "https://www.youtube.com/watch?v=X610RbUj6Gg"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-demos-a-tesla-model-x-prototype-to-the-press-2012": {
+    "takeaway": "视频标题写着 2012 年，马斯克向媒体演示 Model X 原型车。点开逐字稿，从头到尾讲的是 Model 3：333 英里续航、双电机、7500 美元税收抵免、Project Highland、线控转向，中间还插着两句“别忘了点赞订阅”。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "视频标题写着 2012 年，马斯克向媒体演示 Model X 原型车。点开逐字稿，从头到尾讲的是 Model 3：333 英里续航、双电机、7500 美元税收抵免、Project Highland、线控转向，中间还插着两句“别忘了点赞订阅”。",
+          "原站将本条归为发布会，时长约 8 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克向媒体演示 Tesla Model X 原型车（2012）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-demos-a-tesla-model-x-prototype-to-the-press-2012/"
+      },
+      {
+        "title": "原始媒体：Elon Musk Tesla",
+        "url": "https://www.youtube.com/watch?v=XJKlgyRShao"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-university-commencement-address-2012-speech-to-student": {
+    "takeaway": "2012年5月，一艘名叫“龙”（Dragon）的白色飞船脱离国际空间站，坠入太平洋。它是人类历史上第一艘造访空间站的商业飞船。几周后，造它的人站上一所大学的毕业典礼讲台，开口第一件事，是感谢主持人没有在介绍词里给他加上“疯狂的人”这个头衔。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2012年5月，一艘名叫“龙”（Dragon）的白色飞船脱离国际空间站，坠入太平洋。它是人类历史上第一艘造访空间站的商业飞船。几周后，造它的人站上一所大学的毕业典礼讲台，开口第一件事，是感谢主持人没有在介绍词里给他加上“疯狂的人”这个头衔。",
+          "原站将本条归为大会演讲，时长约 14 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克大学毕业典礼演讲（2012）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-university-commencement-address-2012-speech-to-student/"
+      },
+      {
+        "title": "原始媒体：Dennis Paradis",
+        "url": "https://www.youtube.com/watch?v=XuvG_xYI3GQ"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-s-2012-speech-that-will-make-you-think-bigger": {
+    "takeaway": "2008年8月，马斯克（Elon Musk）站在发射场上，蹲下去捡自己火箭的碎片。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2008年8月，马斯克（Elon Musk）站在发射场上，蹲下去捡自己火箭的碎片。",
+          "原站将本条归为访谈，时长约 9 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克2012年演讲：让你把格局想得更大",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-s-2012-speech-that-will-make-you-think-bigger/"
+      },
+      {
+        "title": "原始媒体：Akai Tech",
+        "url": "https://www.youtube.com/watch?v=Y9bxgNMPwLk"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-usc-commencement-address-2012": {
+    "takeaway": "2012年，马斯克站在南加州大学（USC）的毕业典礼讲台上，开口第一句话是感谢主办方没在介绍词里写上\"那个疯子\"。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2012年，马斯克站在南加州大学（USC）的毕业典礼讲台上，开口第一句话是感谢主办方没在介绍词里写上\"那个疯子\"。",
+          "原站将本条归为大会演讲，时长约 21 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 USC 毕业典礼演讲（2012）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-usc-commencement-address-2012/"
+      },
+      {
+        "title": "原始媒体：Business In Action",
+        "url": "https://www.youtube.com/watch?v=lFRspJ77KHI"
+      }
+    ]
+  },
+  "elon-qm-tesla-model-x-reveal": {
+    "takeaway": "2012 年，特斯拉在洛杉矶的设计与工程工作室办了一场发布会，主角是一款叫 Model X 的车。这个时间点很微妙：Model S 一辆都还没交到用户手上，Roadster 卖了几年，公司刚走出最艰难的日子。马斯克就在此时把第三款车推上了台。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2012 年，特斯拉在洛杉矶的设计与工程工作室办了一场发布会，主角是一款叫 Model X 的车。这个时间点很微妙：Model S 一辆都还没交到用户手上，Roadster 卖了几年，公司刚走出最艰难的日子。马斯克就在此时把第三款车推上了台。",
+          "原站将本条归为发布会，时长约 25 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla Model X 发布会",
+        "url": "https://elon.qiaomu.ai/ep/tesla-model-x-reveal/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=mURbzh9t0_0"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-commencement-speech-at-caltech-cit-2012": {
+    "takeaway": "参考档案收录的大会演讲资料，发布渠道为 Elon Musk best videos，视频时长约 16 分钟。原始标题为《Elon Musk commencement speech at Caltech / CIT 2012》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的大会演讲资料，发布渠道为 Elon Musk best videos，视频时长约 16 分钟。原始标题为《Elon Musk commencement speech at Caltech / CIT 2012》。本条保留原始媒体与档案来源。",
+          "原站将本条归为大会演讲，时长约 16 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在 Caltech 的毕业典礼演讲（2012）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-commencement-speech-at-caltech-cit-2012/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=u688eJkLBRM"
+      }
+    ]
+  },
+  "elon-qm-tesla-motors-supercharger-event": {
+    "takeaway": "2012年9月24日，周一傍晚，洛杉矶霍桑。特斯拉的设计工作室里挤了几百人，车主、记者、员工，还有几位专程飞过来的供应商。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2012年9月24日，周一傍晚，洛杉矶霍桑。特斯拉的设计工作室里挤了几百人，车主、记者、员工，还有几位专程飞过来的供应商。",
+          "原站将本条归为发布会，时长约 10 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla Motors Supercharger 活动",
+        "url": "https://elon.qiaomu.ai/ep/tesla-motors-supercharger-event/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=wgk5-eB9oTY"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-keynotes-tesla-motors-shareholder-meeting-2012-2": {
+    "takeaway": "2012年5月22日凌晨，猎鹰9号火箭从卡纳维拉尔角升空。三天后，国际空间站的加拿大机械臂抓住了它送上来的那艘白色飞船。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2012年5月22日凌晨，猎鹰9号火箭从卡纳维拉尔角升空。三天后，国际空间站的加拿大机械臂抓住了它送上来的那艘白色飞船。",
+          "原站将本条归为股东会，时长约 56 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在 Tesla Motors 股东大会发表主题演讲（2012）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-keynotes-tesla-motors-shareholder-meeting-2012-2/"
+      },
+      {
+        "title": "原始媒体：bopi pije",
+        "url": "https://www.youtube.com/watch?v=yHGYHyyHJaI"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-2012-the-speech-that-will-make-you-think-bigger": {
+    "takeaway": "参考档案收录的访谈资料，发布渠道为 Swaroop Singh Rajput，视频时长约 25 分钟。原始标题为《Elon Musk 2012 : The Speech That Will Make You Think BIGGER》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的访谈资料，发布渠道为 Swaroop Singh Rajput，视频时长约 25 分钟。原始标题为《Elon Musk 2012 : The Speech That Will Make You Think BIGGER》。本条保留原始媒体与档案来源。",
+          "原站将本条归为访谈，时长约 25 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克2012演讲：让你把格局想得更大",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-2012-the-speech-that-will-make-you-think-bigger/"
+      },
+      {
+        "title": "原始媒体：Swaroop Singh Rajput",
+        "url": "https://www.youtube.com/watch?v=zKnFnbbmdJo"
+      }
+    ]
+  },
+  "elon-qm-2012-spacex-elon-musk-s-race-to-space": {
+    "takeaway": "2012年，能把一艘太空舱送入轨道、再完整带回地球的实体只有四个：美国、俄罗斯、中国，和埃隆·马斯克（Elon Musk）。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2012年，能把一艘太空舱送入轨道、再完整带回地球的实体只有四个：美国、俄罗斯、中国，和埃隆·马斯克（Elon Musk）。",
+          "原站将本条归为访谈，时长约 15 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2012：SpaceX——马斯克的太空竞赛",
+        "url": "https://elon.qiaomu.ai/ep/2012-spacex-elon-musk-s-race-to-space/"
+      },
+      {
+        "title": "原始媒体：60 Minutes",
+        "url": "https://www.youtube.com/watch?v=23GzpbNUyI4"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-q-a-from-june-2012": {
+    "takeaway": "2012年6月，加州弗里蒙特工厂。特斯拉把第一批十辆 Model S 交到普通车主手上。这些车从此不归公司管，也不由员工驾驶，直接开进私人车库，进入马斯克说的“自由游动”状态。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2012年6月，加州弗里蒙特工厂。特斯拉把第一批十辆 Model S 交到普通车主手上。这些车从此不归公司管，也不由员工驾驶，直接开进私人车库，进入马斯克说的“自由游动”状态。",
+          "原站将本条归为访谈，时长约 13 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克问答实录（2012年6月）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-q-a-from-june-2012/"
+      },
+      {
+        "title": "原始媒体：Muskflix",
+        "url": "https://www.youtube.com/watch?v=X_DuOlugI4U"
+      }
+    ]
+  },
+  "elon-qm-eng-tur-elon-musk-s-commencement-speech-at-caltech-on-june-15-20": {
+    "takeaway": "参考档案收录的大会演讲资料，发布渠道为 Turengish，视频时长约 12 分钟。原始标题为《(ENG - TUR) Elon Musk's Commencement Speech at Caltech on June 15, 2012》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的大会演讲资料，发布渠道为 Turengish，视频时长约 12 分钟。原始标题为《(ENG - TUR) Elon Musk's Commencement Speech at Caltech on June 15, 2012》。本条保留原始媒体与档案来源。",
+          "原站将本条归为大会演讲，时长约 12 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在 Caltech 的毕业典礼演讲（2012.6.15）",
+        "url": "https://elon.qiaomu.ai/ep/eng-tur-elon-musk-s-commencement-speech-at-caltech-on-june-15-20/"
+      },
+      {
+        "title": "原始媒体：Turengish",
+        "url": "https://www.youtube.com/watch?v=ZstY1c6HJM4"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-happy-with-25-test-drive-conversion-q1-2013-earnings-c": {
+    "takeaway": "2013年5月8日，特斯拉第一季度财报电话会进行到第四十分钟。摩根大通的Amy Carroll问了一个零售业最基础的问题：走进你们门店的人，最后有多少买了车？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2013年5月8日，特斯拉第一季度财报电话会进行到第四十分钟。摩根大通的Amy Carroll问了一个零售业最基础的问题：走进你们门店的人，最后有多少买了车？",
+          "原站将本条归为股东会，时长约 39 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克满意25%试驾转化率——Q1 2013 财报电话会",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-happy-with-25-test-drive-conversion-q1-2013-earnings-c/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=-Jxhdr7cFV0"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-lighthearted-interview-2013": {
+    "takeaway": "2013年，马斯克刚在硅谷讲完一场话，赶到可汗学院（Khan Academy）的时候迟到了。他没能好好吃顿饭，直接从特斯拉位于弗里蒙特的工厂过来。主持人随口问：工厂那边是不是出什么事了？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2013年，马斯克刚在硅谷讲完一场话，赶到可汗学院（Khan Academy）的时候迟到了。他没能好好吃顿饭，直接从特斯拉位于弗里蒙特的工厂过来。主持人随口问：工厂那边是不是出什么事了？",
+          "原站将本条归为大会演讲，时长约 49 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克轻松访谈（2013）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-lighthearted-interview-2013/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=-k4Su7QYc7U"
+      }
+    ]
+  },
+  "elon-qm-solarcity-elonmusk-ted-talk-solarcity-tesla-spacex-2013": {
+    "takeaway": "2013 年的 TED 讲台上，主持人问马斯克：什么样的疯狂梦想，会让你想去挑战整个汽车工业，造一台纯电动车？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2013 年的 TED 讲台上，主持人问马斯克：什么样的疯狂梦想，会让你想去挑战整个汽车工业，造一台纯电动车？",
+          "原站将本条归为大会演讲，时长约 23 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 TED 演讲：SolarCity、Tesla 与 SpaceX（2013）",
+        "url": "https://elon.qiaomu.ai/ep/solarcity-elonmusk-ted-talk-solarcity-tesla-spacex-2013/"
+      },
+      {
+        "title": "原始媒体：California Direct Deltaforce",
+        "url": "https://www.youtube.com/watch?v=2Vp5W1QZDnw"
+      }
+    ]
+  },
+  "elon-qm-2013-teslive-event": {
+    "takeaway": "2013年夏天，加州弗里蒙特工厂里坐满了几百个特斯拉车主。台上那个人给出的数字是：年化产量两万到两万五千辆。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2013年夏天，加州弗里蒙特工厂里坐满了几百个特斯拉车主。台上那个人给出的数字是：年化产量两万到两万五千辆。",
+          "原站将本条归为发布会，时长约 60 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2013 TESLIVE 活动",
+        "url": "https://elon.qiaomu.ai/ep/2013-teslive-event/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=8n-xsEjq7pk"
+      }
+    ]
+  },
+  "elon-qm-chm-revolutionaries-an-evening-with-elon-musk-in-2013": {
+    "takeaway": "一个六岁的男孩被禁足在家，然后又收到表哥生日派对的邀请。他决定必须去。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一个六岁的男孩被禁足在家，然后又收到表哥生日派对的邀请。他决定必须去。",
+          "原站将本条归为访谈，时长约 77 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：CHM Revolutionaries：与马斯克共度一晚（2013）",
+        "url": "https://elon.qiaomu.ai/ep/chm-revolutionaries-an-evening-with-elon-musk-in-2013/"
+      },
+      {
+        "title": "原始媒体：Computer History Museum",
+        "url": "https://www.youtube.com/watch?v=AHHwXUm3iIg"
+      }
+    ]
+  },
+  "elon-qm-dinner-program-to-infinity-and-beyond-jeff-skoll-talks-with-elon": {
+    "takeaway": "1995年，硅谷。一个级别不低的高管把一本厚厚的黄页电话簿摔在两个二十出头的年轻人面前，问他们：你们真的觉得，互联网能取代这个东西？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "1995年，硅谷。一个级别不低的高管把一本厚厚的黄页电话簿摔在两个二十出头的年轻人面前，问他们：你们真的觉得，互联网能取代这个东西？",
+          "原站将本条归为访谈，时长约 51 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：晚宴对谈：超越无限——杰夫·斯科尔对话马斯克与金巴尔·马斯克",
+        "url": "https://elon.qiaomu.ai/ep/dinner-program-to-infinity-and-beyond-jeff-skoll-talks-with-elon/"
+      },
+      {
+        "title": "原始媒体：Milken Institute",
+        "url": "https://www.youtube.com/watch?v=CgV2KzyWKx0"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-and-sir-richard-branson-talks-entrepreneurship-2013": {
+    "takeaway": "2008年12月24日，平安夜。Elon Musk 签完了特斯拉最后一轮融资的文件。那是融资窗口的最后一天，过了这天，公司就得关门。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2008年12月24日，平安夜。Elon Musk 签完了特斯拉最后一轮融资的文件。那是融资窗口的最后一天，过了这天，公司就得关门。",
+          "原站将本条归为访谈，时长约 58 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克与理查德·布兰森爵士谈创业（2013）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-and-sir-richard-branson-talks-entrepreneurship-2013/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=Hlt76gU54JA"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-q-a-following-commercial-orbital-spaceport-testimony-2": {
+    "takeaway": "一枚火箭能做多粗，答案写在公路的限宽和沿途电线的高度上。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一枚火箭能做多粗，答案写在公路的限宽和沿途电线的高度上。",
+          "原站将本条归为访谈，时长约 15 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克就商业轨道太空港作证后问答（2013）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-q-a-following-commercial-orbital-spaceport-testimony-2/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=Phtcrwnkajc"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-enda-kenny-shervin-pishevar-mark-little-web-summit-201": {
+    "takeaway": "2008年12月24日，圣诞夜，下午六点。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2008年12月24日，圣诞夜，下午六点。",
+          "原站将本条归为大会演讲，时长约 41 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克、恩达·肯尼、舍文·皮舍瓦尔与马克·利特尔——Web Summit 2013",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-enda-kenny-shervin-pishevar-mark-little-web-summit-201/"
+      },
+      {
+        "title": "原始媒体：Web Summit",
+        "url": "https://www.youtube.com/watch?v=QbuTBlHY900"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-keynotes-tesla-shareholder-meeting-2013": {
+    "takeaway": "《消费者报告》给特斯拉 Model S 打了99分。往前数六年，只有一款车拿过同样的分数，那是雷克萨斯。Model S 是第一款、也是唯一一款拿到99分的美国车。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "《消费者报告》给特斯拉 Model S 打了99分。往前数六年，只有一款车拿过同样的分数，那是雷克萨斯。Model S 是第一款、也是唯一一款拿到99分的美国车。",
+          "原站将本条归为股东会，时长约 86 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在 Tesla 股东大会发表主题演讲（2013）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-keynotes-tesla-shareholder-meeting-2013/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=Qq9rqcOxBjA"
+      }
+    ]
+  },
+  "elon-qm-teslive-2013-general-session-with-elon-musk-unedited": {
+    "takeaway": "参考档案收录的大会演讲资料，发布渠道为 Tesla Motors Club，视频时长约 147 分钟。原始标题为《TESLIVE 2013 General Session with Elon Musk (unedited)》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的大会演讲资料，发布渠道为 Tesla Motors Club，视频时长约 147 分钟。原始标题为《TESLIVE 2013 General Session with Elon Musk (unedited)》。本条保留原始媒体与档案来源。",
+          "原站将本条归为大会演讲，时长约 147 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：TESLIVE 2013 马斯克全体会议（未剪辑）",
+        "url": "https://elon.qiaomu.ai/ep/teslive-2013-general-session-with-elon-musk-unedited/"
+      },
+      {
+        "title": "原始媒体：Tesla Motors Club",
+        "url": "https://www.youtube.com/watch?v=U22dqdcSlLg"
+      }
+    ]
+  },
+  "elon-qm-d11-conference-elon-musk-full-interview": {
+    "takeaway": "2013 年，马斯克站在 D11 大会的舞台上，被主持人问了一个看起来很常规的问题：你为什么进入电动汽车行业？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2013 年，马斯克站在 D11 大会的舞台上，被主持人问了一个看起来很常规的问题：你为什么进入电动汽车行业？",
+          "原站将本条归为大会演讲，时长约 69 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：D11 大会：马斯克完整访谈",
+        "url": "https://elon.qiaomu.ai/ep/d11-conference-elon-musk-full-interview/"
+      },
+      {
+        "title": "原始媒体：investary0",
+        "url": "https://www.youtube.com/watch?v=UiPO4BUfov8"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-at-spacex-falcon-9-v1-1-post-launch-teleconference-201": {
+    "takeaway": "2013 年 9 月 29 日，加州范登堡空军基地。猎鹰 9 号 v1.1 首飞，把加拿大 MDA 公司研制的 CASSIOPE 卫星送入轨道。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2013 年 9 月 29 日，加州范登堡空军基地。猎鹰 9 号 v1.1 首飞，把加拿大 MDA 公司研制的 CASSIOPE 卫星送入轨道。",
+          "原站将本条归为媒体，时长约 31 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克出席 SpaceX Falcon 9 v1.1 发射后电话会（2013）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-at-spacex-falcon-9-v1-1-post-launch-teleconference-201/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=WPdUd5XqTeQ"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-talks-business-at-stanford-2013": {
+    "takeaway": "2008年12月24日下午6点，马斯克拿到了特斯拉的救命融资。再晚几个小时，这家公司就会在圣诞节后几天内破产。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2008年12月24日下午6点，马斯克拿到了特斯拉的救命融资。再晚几个小时，这家公司就会在圣诞节后几天内破产。",
+          "原站将本条归为访谈，时长约 45 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在斯坦福谈商业（2013）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-talks-business-at-stanford-2013/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=YEc0o9csDEw"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-laughs-at-bmw-i3-q2-2013-earnings-call-2013-audio": {
+    "takeaway": "2013年8月，特斯拉第二季度财报电话会开到第四十分钟。摩根士丹利的分析师亚当·乔纳斯（Adam Jonas）抛出最后一个问题：你怎么看宝马刚推出的 i3？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2013年8月，特斯拉第二季度财报电话会开到第四十分钟。摩根士丹利的分析师亚当·乔纳斯（Adam Jonas）抛出最后一个问题：你怎么看宝马刚推出的 i3？",
+          "原站将本条归为股东会，时长约 59 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克笑谈 BMW i3——Q2 2013 财报电话会",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-laughs-at-bmw-i3-q2-2013-earnings-call-2013-audio/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=_-BwUSdHGMs"
+      }
+    ]
+  },
+  "elon-qm-the-dublin-web-summit-2013-elon-musk-part-2": {
+    "takeaway": "2008 年 12 月 24 日下午 6 点，特斯拉的一轮融资在截止的最后一个小时签完。马斯克后来说，如果再晚几天，公司就没了。两个多月前，他的另一家公司刚把账上钱能支撑的最后一枚火箭送上天。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2008 年 12 月 24 日下午 6 点，特斯拉的一轮融资在截止的最后一个小时签完。马斯克后来说，如果再晚几天，公司就没了。两个多月前，他的另一家公司刚把账上钱能支撑的最后一枚火箭送上天。",
+          "原站将本条归为大会演讲，时长约 16 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：都柏林 Web Summit 2013：马斯克 Part 2",
+        "url": "https://elon.qiaomu.ai/ep/the-dublin-web-summit-2013-elon-musk-part-2/"
+      },
+      {
+        "title": "原始媒体：Silicon Republic",
+        "url": "https://www.youtube.com/watch?v=_FuaHO_EHmM"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-with-brother-kimbal-2013": {
+    "takeaway": "1995年某个下午，帕洛阿尔托一间租来的办公室里，一位资深高管把一本厚厚的黄页电话簿扔到两个年轻人身上，问他们：「你们真觉得互联网会取代这个东西吗？」",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "1995年某个下午，帕洛阿尔托一间租来的办公室里，一位资深高管把一本厚厚的黄页电话簿扔到两个年轻人身上，问他们：「你们真觉得互联网会取代这个东西吗？」",
+          "原站将本条归为访谈，时长约 46 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克与弟弟金巴尔对谈（2013）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-with-brother-kimbal-2013/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=cehV3vyT3s8"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-sees-leasing-as-the-future-for-ev-q3-2013-earnings-cal": {
+    "takeaway": "2013年11月5日下午，特斯拉第三季度财报电话会。一位分析师抛出一个尖锐的问题：北美交付量从二季度到三季度环比掉了650辆，是不是最早那批尝鲜的订单已经消化完了，需求见顶了？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2013年11月5日下午，特斯拉第三季度财报电话会。一位分析师抛出一个尖锐的问题：北美交付量从二季度到三季度环比掉了650辆，是不是最早那批尝鲜的订单已经消化完了，需求见顶了？",
+          "原站将本条归为股东会，时长约 50 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克认为租赁是电动车未来——Q3 2013 财报电话会",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-sees-leasing-as-the-future-for-ev-q3-2013-earnings-cal/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=i8W13_jkLds"
+      }
+    ]
+  },
+  "elon-qm-tesla-motors-club-conference-2013-general-session-featuring-elon": {
+    "takeaway": "参考档案收录的大会演讲资料，发布渠道为 Tesla Motors Club，视频时长约 134 分钟。原始标题为《Tesla Motors Club Conference 2013 - General Session featuring Elon Musk》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的大会演讲资料，发布渠道为 Tesla Motors Club，视频时长约 134 分钟。原始标题为《Tesla Motors Club Conference 2013 - General Session featuring Elon Musk》。本条保留原始媒体与档案来源。",
+          "原站将本条归为大会演讲，时长约 134 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla Motors Club 大会2013：马斯克全体会议",
+        "url": "https://elon.qiaomu.ai/ep/tesla-motors-club-conference-2013-general-session-featuring-elon/"
+      },
+      {
+        "title": "原始媒体：Tesla Motors Club",
+        "url": "https://www.youtube.com/watch?v=mEjy5IoP92g"
+      }
+    ]
+  },
+  "elon-qm-motor-trend-car-of-the-year-event": {
+    "takeaway": "2013 年 11 月，纽约。Motor Trend 把年度车奖杯交到了一辆没有发动机的车手上。这个奖从 1949 年办起，到那年整整六十四年，奖杯从没给过一辆不烧汽油、没有传统内燃机的车。更狠的是投票结果：11 位评委，全票。在场的老编辑说，他记不起这个奖历史上还有哪一次是全票，最接近的",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2013 年 11 月，纽约。Motor Trend 把年度车奖杯交到了一辆没有发动机的车手上。这个奖从 1949 年办起，到那年整整六十四年，奖杯从没给过一辆不烧汽油、没有传统内燃机的车。更狠的是投票结果：11 位评委，全票。在场的老编辑说，他记不起这个奖历史上还有哪一次是全票，最接近的",
+          "原站将本条归为发布会，时长约 20 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Motor Trend 年度车活动",
+        "url": "https://elon.qiaomu.ai/ep/motor-trend-car-of-the-year-event/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=qfxXmIFfV7I"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-dealbook-conference-interview-2013": {
+    "takeaway": "2013年，三辆特斯拉在几周内接连起火。华尔街在讨论召回，监管机构在等说法，媒体头条几乎一边倒地暗示电动车不安全。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2013年，三辆特斯拉在几周内接连起火。华尔街在讨论召回，监管机构在等说法，媒体头条几乎一边倒地暗示电动车不安全。",
+          "原站将本条归为大会演讲，时长约 24 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 DealBook 大会访谈（2013）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-dealbook-conference-interview-2013/"
+      },
+      {
+        "title": "原始媒体：investary0",
+        "url": "https://www.youtube.com/watch?v=rixp9hbQgbM"
+      }
+    ]
+  },
+  "elon-qm-soulpancake-elon-musk-interview-2013": {
+    "takeaway": "主持人问马斯克，你在南非当过兵吗？马斯克说，没有，我17岁就离开了，部分原因就是为了躲开征兵。紧接着他补了一句：花两年时间去压制黑人，实在说不上是时间的良好用法。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "主持人问马斯克，你在南非当过兵吗？马斯克说，没有，我17岁就离开了，部分原因就是为了躲开征兵。紧接着他补了一句：花两年时间去压制黑人，实在说不上是时间的良好用法。",
+          "原站将本条归为访谈，时长约 25 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：SoulPancake：马斯克访谈（2013）",
+        "url": "https://elon.qiaomu.ai/ep/soulpancake-elon-musk-interview-2013/"
+      },
+      {
+        "title": "原始媒体：Tristan Starr",
+        "url": "https://www.youtube.com/watch?v=tSk8-YoIS9M"
+      }
+    ]
+  },
+  "elon-qm-the-dublin-web-summit-2013-elon-musk-part-3": {
+    "takeaway": "一个国家该往哪儿投钱，通常由经济学家来回答。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一个国家该往哪儿投钱，通常由经济学家来回答。",
+          "原站将本条归为大会演讲，时长约 14 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：都柏林 Web Summit 2013：马斯克 Part 3",
+        "url": "https://elon.qiaomu.ai/ep/the-dublin-web-summit-2013-elon-musk-part-3/"
+      },
+      {
+        "title": "原始媒体：Silicon Republic",
+        "url": "https://www.youtube.com/watch?v=vD6FMfw-ZQE"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-inventing-the-future-interview-2013": {
+    "takeaway": "2013年，美国全年大约发生25万起汽油车起火，造成约400人死亡、1200人重伤。同一时期，特斯拉Model S起火3次，无人伤亡。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2013年，美国全年大约发生25万起汽油车起火，造成约400人死亡、1200人重伤。同一时期，特斯拉Model S起火3次，无人伤亡。",
+          "原站将本条归为访谈，时长约 48 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克：创造未来——访谈（2013）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-inventing-the-future-interview-2013/"
+      },
+      {
+        "title": "原始媒体：Muskflix",
+        "url": "https://www.youtube.com/watch?v=vXE3Sz2yTmM"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-on-tesla-finally-getting-profitable-q4-2013-earnings-c": {
+    "takeaway": "2013 年初，特斯拉开了一场财报电话会，复盘的是 2012 年第四季度和全年的成绩。视频标题里那个 2013，是开会的时间，财报所属的季度还停在 2012 年的尾巴上。整场会真正的主角，是刚过去的这一个多月，和接下来的三个月。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2013 年初，特斯拉开了一场财报电话会，复盘的是 2012 年第四季度和全年的成绩。视频标题里那个 2013，是开会的时间，财报所属的季度还停在 2012 年的尾巴上。整场会真正的主角，是刚过去的这一个多月，和接下来的三个月。",
+          "原站将本条归为股东会，时长约 46 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克谈 Tesla 终于盈利——Q4 2013 财报电话会",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-on-tesla-finally-getting-profitable-q4-2013-earnings-c/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=wSTDWkMOqqQ"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-in-2013-after-saving-tesla-spacex": {
+    "takeaway": "2008 年的某个晚上，马斯克要靠借钱才能付房租。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2008 年的某个晚上，马斯克要靠借钱才能付房租。",
+          "原站将本条归为访谈，时长约 63 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：拯救Tesla与SpaceX后，马斯克2013年受访",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-in-2013-after-saving-tesla-spacex/"
+      },
+      {
+        "title": "原始媒体：Elon Musk Full Videos",
+        "url": "https://www.youtube.com/watch?v=yzcel5l8Tbw"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interviewed-by-chris-anderson-march-2013": {
+    "takeaway": "2013年3月，克里斯·安德森（Chris Anderson）在台上问马斯克：当年是什么疯狂的念头，让你觉得自己能去挑战整个汽车工业？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2013年3月，克里斯·安德森（Chris Anderson）在台上问马斯克：当年是什么疯狂的念头，让你觉得自己能去挑战整个汽车工业？",
+          "原站将本条归为访谈，时长约 21 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2013年3月，克里斯·安德森专访马斯克",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interviewed-by-chris-anderson-march-2013/"
+      },
+      {
+        "title": "原始媒体：Xoofish",
+        "url": "https://www.youtube.com/watch?v=MOXv7iR1AJk"
+      }
+    ]
+  },
+  "elon-qm-house-appropriations-elon-musk-extended-q-a-march-8-2013": {
+    "takeaway": "猎鹰9号（Falcon 9）的直径是 13 英尺，约合 4 米。这个数字跟气动外形关系不大，也不是运力需求倒推出来的。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "猎鹰9号（Falcon 9）的直径是 13 英尺，约合 4 米。这个数字跟气动外形关系不大，也不是运力需求倒推出来的。",
+          "原站将本条归为访谈，时长约 15 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2013年3月8日，马斯克在美国众议院拨款委员会答问",
+        "url": "https://elon.qiaomu.ai/ep/house-appropriations-elon-musk-extended-q-a-march-8-2013/"
+      },
+      {
+        "title": "原始媒体：Texas Impact",
+        "url": "https://www.youtube.com/watch?v=3_iu75TFgX8"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-in-conversation-at-tesla-motors-18-march-2013": {
+    "takeaway": "2013年3月18日晚上，洛杉矶，特斯拉的一场发布派对。台上停着一辆 Model S，台下坐的多半是设计圈的人。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2013年3月18日晚上，洛杉矶，特斯拉的一场发布派对。台上停着一辆 Model S，台下坐的多半是设计圈的人。",
+          "原站将本条归为访谈，时长约 23 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2013年3月18日，马斯克在Tesla Motors对话",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-in-conversation-at-tesla-motors-18-march-2013/"
+      },
+      {
+        "title": "原始媒体：Zachary Urbina",
+        "url": "https://www.youtube.com/watch?v=IJauyGO5fiw"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interviewed-by-fareed-zakaria-cnn": {
+    "takeaway": "2013 年秋天，三辆特斯拉 Model S 在几周内先后起火，没有一个人受伤。同一时期，美国记录在案的汽油车火灾大约 25 万起，造成约 400 人死亡、约 1200 人重伤。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2013 年秋天，三辆特斯拉 Model S 在几周内先后起火，没有一个人受伤。同一时期，美国记录在案的汽油车火灾大约 25 万起，造成约 400 人死亡、约 1200 人重伤。",
+          "原站将本条归为访谈，时长约 13 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：法里德·扎卡利亚CNN专访马斯克",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interviewed-by-fareed-zakaria-cnn/"
+      },
+      {
+        "title": "原始媒体：archive.org · Greg Gulik",
+        "url": "https://archive.org/download/youtube-zet-X_7MG_Q/zet-X_7MG_Q.mp4"
+      }
+    ]
+  },
+  "elon-qm-2014-elon-musk-interview-tesla-will-sell-lots-of-cars-by-2020": {
+    "takeaway": "2014年，马斯克在一档电视访谈里被问到产能规划，他给了一个数字：到2020年，特斯拉每年至少能造50万辆车。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2014年，马斯克在一档电视访谈里被问到产能规划，他给了一个数字：到2020年，特斯拉每年至少能造50万辆车。",
+          "原站将本条归为访谈，时长约 7 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克2014年访谈：Tesla 2020年将迎来销量爆发",
+        "url": "https://elon.qiaomu.ai/ep/2014-elon-musk-interview-tesla-will-sell-lots-of-cars-by-2020/"
+      },
+      {
+        "title": "原始媒体：Top Cars ever",
+        "url": "https://www.youtube.com/watch?v=14GLY07Hsck"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-at-spacex-3-post-launch-teleconference-2014": {
+    "takeaway": "海况很差，浪高 15 到 20 英尺，回收船连靠都靠不上去。马斯克在电话会议里直说，他不认为这枚助推器能完好溅落。可紧接着他又说，今天是“快乐的一天”。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "海况很差，浪高 15 到 20 英尺，回收船连靠都靠不上去。马斯克在电话会议里直说，他不认为这枚助推器能完好溅落。可紧接着他又说，今天是“快乐的一天”。",
+          "原站将本条归为媒体，时长约 36 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2014年SpaceX 3发射后电话会议：马斯克发言",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-at-spacex-3-post-launch-teleconference-2014/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=38-Cuwh5-ZQ"
+      }
+    ]
+  },
+  "elon-qm-2014-annual-conference-discussion-with-elon-musk": {
+    "takeaway": "2014年4月，马斯克在上海。他刚到的那天，上海改了规则。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2014年4月，马斯克在上海。他刚到的那天，上海改了规则。",
+          "原站将本条归为大会演讲，时长约 27 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2014年会对话马斯克",
+        "url": "https://elon.qiaomu.ai/ep/2014-annual-conference-discussion-with-elon-musk/"
+      },
+      {
+        "title": "原始媒体：Export-Import Bank of the United States (EXIM)",
+        "url": "https://www.youtube.com/watch?v=5ImZXTRyszE"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-and-lenovo-ceo-talk-innovation-2014": {
+    "takeaway": "参考档案收录的访谈资料，发布渠道为 Everything Elon Musk，视频时长约 65 分钟。原始标题为《Elon Musk and Lenovo CEO talk innovation 2014》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的访谈资料，发布渠道为 Everything Elon Musk，视频时长约 65 分钟。原始标题为《Elon Musk and Lenovo CEO talk innovation 2014》。本条保留原始媒体与档案来源。",
+          "原站将本条归为访谈，时长约 65 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2014年马斯克与联想CEO谈创新",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-and-lenovo-ceo-talk-innovation-2014/"
+      },
+      {
+        "title": "原始媒体：Everything Elon Musk",
+        "url": "https://www.youtube.com/watch?v=7SC4Ci_r1Ow"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-usc-commencement-speech-usc-marshall-school-of-busines": {
+    "takeaway": "2014年5月，洛杉矶，南加州大学马歇尔商学院的毕业典礼。介绍人念完马斯克的履历：南非长大，沃顿商学院毕业，来加州创业，公司合并，卖掉，那家公司叫PayPal。现在他是Tesla和SpaceX两家公司的CEO。介绍人补了一句，他脑子里装着很多绝妙的想法。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2014年5月，洛杉矶，南加州大学马歇尔商学院的毕业典礼。介绍人念完马斯克的履历：南非长大，沃顿商学院毕业，来加州创业，公司合并，卖掉，那家公司叫PayPal。现在他是Tesla和SpaceX两家公司的CEO。介绍人补了一句，他脑子里装着很多绝妙的想法。",
+          "原站将本条归为大会演讲，时长约 8 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2014年马斯克南加州大学马歇尔商学院毕业演讲",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-usc-commencement-speech-usc-marshall-school-of-busines/"
+      },
+      {
+        "title": "原始媒体：Startup Motivation",
+        "url": "https://www.youtube.com/watch?v=Apcx5avG77c"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-at-california-public-utilities-conference-cpuc-2014": {
+    "takeaway": "一颗电池装到客户家的墙上，要等八个月才能接上电网。等电网的人终于来了，检查五分钟，说一句“是的，开着呢”，然后走了。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一颗电池装到客户家的墙上，要等八个月才能接上电网。等电网的人终于来了，检查五分钟，说一句“是的，开着呢”，然后走了。",
+          "原站将本条归为大会演讲，时长约 113 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2014年马斯克出席加州公共事业委员会（CPUC）大会",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-at-california-public-utilities-conference-cpuc-2014/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=EYUGHGsOL5w"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-tesla-spacex-gigafactory-leadership-solar-city-intervi": {
+    "takeaway": "2014年4月，马斯克落地上海那天，上海改了一条规则：进口电动车不再收牌照费。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2014年4月，马斯克落地上海那天，上海改了一条规则：进口电动车不再收牌照费。",
+          "原站将本条归为访谈，时长约 27 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2014马斯克访谈：Tesla、SpaceX、Gigafactory、领导力与SolarCity",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-tesla-spacex-gigafactory-leadership-solar-city-intervi/"
+      },
+      {
+        "title": "原始媒体：Elon Musk",
+        "url": "https://www.youtube.com/watch?v=EeVCZyD8oJ4"
+      }
+    ]
+  },
+  "elon-qm-tesla-unveils-dual-motor-and-autopilot": {
+    "takeaway": "2014 年 10 月，特斯拉办了一场发布会，主题只有一个字母：D。会前两周，全世界的车迷和媒体都在猜这个 D 代表什么，马斯克开场就拿这事开玩笑，说自己穿的裤子是魔术贴裤缝，随时能撕下来，至于 D 是什么，网上根本藏不住秘密。他说这几天的猜测让他学到了很多，包括一些他原以为物理上不可能的",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2014 年 10 月，特斯拉办了一场发布会，主题只有一个字母：D。会前两周，全世界的车迷和媒体都在猜这个 D 代表什么，马斯克开场就拿这事开玩笑，说自己穿的裤子是魔术贴裤缝，随时能撕下来，至于 D 是什么，网上根本藏不住秘密。他说这几天的猜测让他学到了很多，包括一些他原以为物理上不可能的",
+          "原站将本条归为发布会，时长约 14 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla发布双电机与Autopilot",
+        "url": "https://elon.qiaomu.ai/ep/tesla-unveils-dual-motor-and-autopilot/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=FZ6lZJWL_Xk"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-jet-travel-solar-power-spacex-and-the-hyperloop-full-i": {
+    "takeaway": "一枚猎鹰9号（Falcon 9）火箭的造价大约6000万美元。它加满推进剂，花20万美元。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一枚猎鹰9号（Falcon 9）火箭的造价大约6000万美元。它加满推进剂，花20万美元。",
+          "原站将本条归为访谈，时长约 11 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2014马斯克完整访谈：私人飞机、太阳能、SpaceX与Hyperloop",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-jet-travel-solar-power-spacex-and-the-hyperloop-full-i/"
+      },
+      {
+        "title": "原始媒体：Entertainment & Music",
+        "url": "https://www.youtube.com/watch?v=GrECBv7lcSo"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interviewed-at-norwegian-oil-and-gas-summit-2014": {
+    "takeaway": "一个造电动车的人，站在挪威石油天然气大会的主讲台上，主持人开场第一个问题就是：你到底来这儿干什么？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一个造电动车的人，站在挪威石油天然气大会的主讲台上，主持人开场第一个问题就是：你到底来这儿干什么？",
+          "原站将本条归为大会演讲，时长约 27 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2014年挪威油气峰会专访马斯克",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interviewed-at-norwegian-oil-and-gas-summit-2014/"
+      },
+      {
+        "title": "原始媒体：All Elon Musk Videos",
+        "url": "https://www.youtube.com/watch?v=QA5jKgco4go"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-q-a-with-tesla-fans-in-norway-2014": {
+    "takeaway": "2014年，特斯拉全年产量大约3万辆。同一年，全球新车销量接近1亿辆。3万辆除以1亿辆，占比0.03%，小数点后面还得再往后数一位才会出现第一个非零数字。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2014年，特斯拉全年产量大约3万辆。同一年，全球新车销量接近1亿辆。3万辆除以1亿辆，占比0.03%，小数点后面还得再往后数一位才会出现第一个非零数字。",
+          "原站将本条归为访谈，时长约 91 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2014年马斯克在挪威与Tesla粉丝问答",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-q-a-with-tesla-fans-in-norway-2014/"
+      },
+      {
+        "title": "原始媒体：Elon Musk Tesla",
+        "url": "https://www.youtube.com/watch?v=SBuf3p6Iqa8"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-explains-the-gigafactory-site-race-q1-2014-earnings-ca": {
+    "takeaway": "2014 年 5 月，特斯拉第一季度财报电话会。巴克莱的分析师第一个提问，想知道中国订单能给下半年贡献多少交付量。马斯克的回答让电话会静了一拍：中国不缺需求，特斯拉反倒得限制发往中国的车，否则世界其他地方就没车可卖了。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2014 年 5 月，特斯拉第一季度财报电话会。巴克莱的分析师第一个提问，想知道中国订单能给下半年贡献多少交付量。马斯克的回答让电话会静了一拍：中国不缺需求，特斯拉反倒得限制发往中国的车，否则世界其他地方就没车可卖了。",
+          "原站将本条归为股东会，时长约 55 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克解读Gigafactory选址争夺战：Q1 2014财报电话会（音频）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-explains-the-gigafactory-site-race-q1-2014-earnings-ca/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=U6-FRHs5ZLU"
+      }
+    ]
+  },
+  "elon-qm-unedited-interview-with-elon-musk-2014": {
+    "takeaway": "2014年，SpaceX 要为商业轨道发射找一个新场地。团队跑了好几个州，仅德州就看了好几处。最后落点在博卡奇卡（Boca Chica），墨西哥边境边上的一个小村子，常住人口几百人。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2014年，SpaceX 要为商业轨道发射找一个新场地。团队跑了好几个州，仅德州就看了好几处。最后落点在博卡奇卡（Boca Chica），墨西哥边境边上的一个小村子，常住人口几百人。",
+          "原站将本条归为大会演讲，时长约 8 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2014年马斯克未剪辑访谈",
+        "url": "https://elon.qiaomu.ai/ep/unedited-interview-with-elon-musk-2014/"
+      },
+      {
+        "title": "原始媒体：Muskflix",
+        "url": "https://www.youtube.com/watch?v=aZ0Rm14wec8"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-at-q-a-following-dragon-v2-unveiling-2014": {
+    "takeaway": "参考档案收录的发布会资料，发布渠道为 Elon Musk Tesla，视频时长约 50 分钟。原始标题为《Elon Musk at Q&A following Dragon V2 unveiling  (2014)》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的发布会资料，发布渠道为 Elon Musk Tesla，视频时长约 50 分钟。原始标题为《Elon Musk at Q&A following Dragon V2 unveiling  (2014)》。本条保留原始媒体与档案来源。",
+          "原站将本条归为发布会，时长约 50 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2014年Dragon V2亮相后问答：马斯克出席",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-at-q-a-following-dragon-v2-unveiling-2014/"
+      },
+      {
+        "title": "原始媒体：Elon Musk Tesla",
+        "url": "https://www.youtube.com/watch?v=afTamT1b_qo"
+      }
+    ]
+  },
+  "elon-qm-2014-elon-musk-interview-on-the-future-of-tesla-and-its-producti": {
+    "takeaway": "2014年，特斯拉全年交付了三万一千多辆车。就在这个量级上，马斯克对着镜头说，2020年要做到年产五十万辆。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2014年，特斯拉全年交付了三万一千多辆车。就在这个量级上，马斯克对着镜头说，2020年要做到年产五十万辆。",
+          "原站将本条归为访谈，时长约 7 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2014马斯克访谈：Tesla的未来与生产价值",
+        "url": "https://elon.qiaomu.ai/ep/2014-elon-musk-interview-on-the-future-of-tesla-and-its-producti/"
+      },
+      {
+        "title": "原始媒体：Celebrity Universe",
+        "url": "https://www.youtube.com/watch?v=arauCxOuDxU"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-at-the-energy-innovation-summit-2014": {
+    "takeaway": "2014年，华盛顿，ARPA-E能源创新峰会的台上坐着两个人：即将卸任的美国能源部长朱棣文（Steven Chu），诺贝尔物理学奖得主；和马斯克。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2014年，华盛顿，ARPA-E能源创新峰会的台上坐着两个人：即将卸任的美国能源部长朱棣文（Steven Chu），诺贝尔物理学奖得主；和马斯克。",
+          "原站将本条归为大会演讲，时长约 35 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2014年马斯克出席能源创新峰会",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-at-the-energy-innovation-summit-2014/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=brSnJxMv7zo"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-speaks-about-tesla-and-spacex-at-vanity-fair-s-new-est": {
+    "takeaway": "2014年10月，旧金山，《名利场》新权势峰会的台上，主持人开场就拿马斯克打趣：你是这份榜单的第一名，诺贝尔奖这两天也要陆续公布，要是三个都拿到，就是三连冠了。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2014年10月，旧金山，《名利场》新权势峰会的台上，主持人开场就拿马斯克打趣：你是这份榜单的第一名，诺贝尔奖这两天也要陆续公布，要是三个都拿到，就是三连冠了。",
+          "原站将本条归为大会演讲，时长约 36 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在《名利场》新权势峰会谈Tesla与SpaceX",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-speaks-about-tesla-and-spacex-at-vanity-fair-s-new-est/"
+      },
+      {
+        "title": "原始媒体：Vanity Fair",
+        "url": "https://www.youtube.com/watch?v=fPsHN1KyRQ8"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-compares-ai-efforts-to-summoning-the-demon-2014": {
+    "takeaway": "2014 年，麻省理工学院航空航天系办百年研讨，压轴请来的是马斯克。台下坐的多半是航空系的教授和学生，几个小时的对话从可重复使用火箭一路滑到火星殖民，最后一刻落到人工智能。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2014 年，麻省理工学院航空航天系办百年研讨，压轴请来的是马斯克。台下坐的多半是航空系的教授和学生，几个小时的对话从可重复使用火箭一路滑到火星殖民，最后一刻落到人工智能。",
+          "原站将本条归为发布会，时长约 76 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2014年马斯克将AI研发比作“召唤恶魔”",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-compares-ai-efforts-to-summoning-the-demon-2014/"
+      },
+      {
+        "title": "原始媒体：Business NL",
+        "url": "https://www.youtube.com/watch?v=fqZV1vetEwI"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-at-the-senate-hearing-on-national-security-space-launc": {
+    "takeaway": "2014年3月，华盛顿。参议院拨款委员会国防小组委员会开了一场听证会，主题是国家安全太空发射项目。四位证人里有一位是马斯克。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2014年3月，华盛顿。参议院拨款委员会国防小组委员会开了一场听证会，主题是国家安全太空发射项目。四位证人里有一位是马斯克。",
+          "原站将本条归为访谈，时长约 80 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2014年马斯克出席参议院国家安全太空发射项目听证会",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-at-the-senate-hearing-on-national-security-space-launc/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=gjyBKrlnLcY"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-1-on-1-interview-at-geek-park-2014": {
+    "takeaway": "参考档案收录的访谈资料，发布渠道为 Everything Elon Musk，视频时长约 46 分钟。原始标题为《Elon Musk 1 on 1 interview at Geek Park 2014》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的访谈资料，发布渠道为 Everything Elon Musk，视频时长约 46 分钟。原始标题为《Elon Musk 1 on 1 interview at Geek Park 2014》。本条保留原始媒体与档案来源。",
+          "原站将本条归为访谈，时长约 46 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2014年极客公园马斯克一对一访谈",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-1-on-1-interview-at-geek-park-2014/"
+      },
+      {
+        "title": "原始媒体：Everything Elon Musk",
+        "url": "https://www.youtube.com/watch?v=rKFxDYTfACg"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-talks-tesla-spacex-at-london-tesla-store-2014": {
+    "takeaway": "2013年，几台 Model S 在事故后起火。同一年，美国公路上大约有50万台汽油车起火。前者占据了全球科技媒体的头版，后者连地方新闻的版面都挤不进去。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2013年，几台 Model S 在事故后起火。同一年，美国公路上大约有50万台汽油车起火。前者占据了全球科技媒体的头版，后者连地方新闻的版面都挤不进去。",
+          "原站将本条归为访谈，时长约 14 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2014年伦敦Tesla门店：马斯克谈Tesla与SpaceX",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-talks-tesla-spacex-at-london-tesla-store-2014/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=uNRj1y4P8Tw"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-tesla-will-push-up-energy-metal-prices-chris-berry-int": {
+    "takeaway": "2014年1月，温哥华，加拿大投资者大会（Canadian Investor Conference）现场。剑桥能源（Cambridge House Live）的主持人瓦妮莎·科莱特（Vanessa Collette）把话筒递给了豪斯山合伙公司（House Mountain Partners",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2014年1月，温哥华，加拿大投资者大会（Canadian Investor Conference）现场。剑桥能源（Cambridge House Live）的主持人瓦妮莎·科莱特（Vanessa Collette）把话筒递给了豪斯山合伙公司（House Mountain Partners",
+          "原站将本条归为访谈，时长约 13 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克与Tesla将推高能源金属价格——克里斯·贝里访谈",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-tesla-will-push-up-energy-metal-prices-chris-berry-int/"
+      },
+      {
+        "title": "原始媒体：The Jay Martin Show",
+        "url": "https://www.youtube.com/watch?v=xNVT5Jo99c4"
+      }
+    ]
+  },
+  "elon-qm-spacex-dragon-v2-unveil-event": {
+    "takeaway": "2014 年 5 月 29 日，加州霍桑，SpaceX 总部。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2014 年 5 月 29 日，加州霍桑，SpaceX 总部。",
+          "原站将本条归为发布会，时长约 15 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：SpaceX Dragon V2亮相发布会",
+        "url": "https://elon.qiaomu.ai/ep/spacex-dragon-v2-unveil-event/"
+      },
+      {
+        "title": "原始媒体：SpaceX",
+        "url": "https://www.youtube.com/watch?v=yEQrmDoIRO8"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-faces-the-vegan-uprising-at-tesla-shareholder-meeting": {
+    "takeaway": "\"我们就在地球号救生艇上，水已经到膝盖了，而且还在涨。\"",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "\"我们就在地球号救生艇上，水已经到膝盖了，而且还在涨。\"",
+          "原站将本条归为股东会，时长约 78 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2015年Tesla股东会上马斯克遭遇素食主义者抗议",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-faces-the-vegan-uprising-at-tesla-shareholder-meeting/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=0r-RvPHwaj8"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-launches-tesla-model-x-2015": {
+    "takeaway": "2015年9月29日，加州弗里蒙特工厂。马斯克上台发布Model X，一辆0到60英里加速3.2秒的七座SUV。他开口讲的第一个数字，是6.5%。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2015年9月29日，加州弗里蒙特工厂。马斯克上台发布Model X，一辆0到60英里加速3.2秒的七座SUV。他开口讲的第一个数字，是6.5%。",
+          "原站将本条归为访谈，时长约 29 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2015年马斯克发布Tesla Model X",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-launches-tesla-model-x-2015/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=5qdl1yqyQ4Y"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-hints-that-tesla-could-compete-with-uber-q2-2015-earni": {
+    "takeaway": "2015年7月，特斯拉第二季度财报电话会。摩根士丹利的分析师Adam Jonas问马斯克一个问题。他说Uber的CEO Travis Kalanick最近跟人讲过，如果到2020年特斯拉的车能自动驾驶，他想把特斯拉的车全买下来。Jonas想知道：向共享出行公司卖车，对特斯拉算不算一门真生意",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2015年7月，特斯拉第二季度财报电话会。摩根士丹利的分析师Adam Jonas问马斯克一个问题。他说Uber的CEO Travis Kalanick最近跟人讲过，如果到2020年特斯拉的车能自动驾驶，他想把特斯拉的车全买下来。Jonas想知道：向共享出行公司卖车，对特斯拉算不算一门真生意",
+          "原站将本条归为股东会，时长约 73 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克暗示Tesla或与Uber竞争：Q2 2015财报电话会（音频）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-hints-that-tesla-could-compete-with-uber-q2-2015-earni/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=7UhMfMWNJlg"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-talks-tesla-on-australian-tv-2015": {
+    "takeaway": "2015年，特斯拉在很多人眼里已经站稳了脚跟。Model S卖了三年，公司市值一路上涨，马斯克本人身家超过150亿美元。可就在澳大利亚电视台的镜头前，主持人问他当年被人说“这事疯了”时怎么想，马斯克的回答让现场安静了几秒：他一开始就认为特斯拉会失败。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2015年，特斯拉在很多人眼里已经站稳了脚跟。Model S卖了三年，公司市值一路上涨，马斯克本人身家超过150亿美元。可就在澳大利亚电视台的镜头前，主持人问他当年被人说“这事疯了”时怎么想，马斯克的回答让现场安静了几秒：他一开始就认为特斯拉会失败。",
+          "原站将本条归为访谈，时长约 13 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2015年马斯克澳洲电视访谈谈Tesla",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-talks-tesla-on-australian-tv-2015/"
+      },
+      {
+        "title": "原始媒体：Elon Musk Tesla",
+        "url": "https://www.youtube.com/watch?v=Bl8edJUV188"
+      }
+    ]
+  },
+  "elon-qm-an-interview-with-elon-musk": {
+    "takeaway": "2015年1月，德州论坛报（The Texas Tribune）办了一场交通论坛，把马斯克请到了台上。主持人本来准备的话题是特斯拉在德州能不能直接卖车、SpaceX的火箭为什么又炸了、州政府给的招商补贴到底管不管用。结果访谈快结束时，马斯克自己扔了一颗炸弹：特斯拉要建一条Hyperloop",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2015年1月，德州论坛报（The Texas Tribune）办了一场交通论坛，把马斯克请到了台上。主持人本来准备的话题是特斯拉在德州能不能直接卖车、SpaceX的火箭为什么又炸了、州政府给的招商补贴到底管不管用。结果访谈快结束时，马斯克自己扔了一颗炸弹：特斯拉要建一条Hyperloop",
+          "原站将本条归为访谈，时长约 32 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克专访",
+        "url": "https://elon.qiaomu.ai/ep/an-interview-with-elon-musk/"
+      },
+      {
+        "title": "原始媒体：The Texas Tribune",
+        "url": "https://www.youtube.com/watch?v=E1QRlLCN4Gc"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-the-fantastic-future-quest-ashlee-vance-talks-at-googl": {
+    "takeaway": "2012 年，阿什利·万斯（Ashlee Vance）在旧金山一家餐厅等埃隆·马斯克（Elon Musk）。他点了一杯金汤力压惊，因为接下来这几个小时可能决定他未来两年的生活。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2012 年，阿什利·万斯（Ashlee Vance）在旧金山一家餐厅等埃隆·马斯克（Elon Musk）。他点了一杯金汤力压惊，因为接下来这几个小时可能决定他未来两年的生活。",
+          "原站将本条归为访谈，时长约 60 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克：奇幻未来探索——阿什利·万斯在Google演讲",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-the-fantastic-future-quest-ashlee-vance-talks-at-googl/"
+      },
+      {
+        "title": "原始媒体：Talks at Google",
+        "url": "https://www.youtube.com/watch?v=EEDDVbnYoP8"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-speaks-2015-automotive-news-world-congress-in-detroit": {
+    "takeaway": "2008年圣诞节前的那个周日，马斯克早上醒来，脑子里冒出一个他从未有过的念头。他一直以为自己不是那种会精神崩溃的人，可那一刻，他离崩溃只差一步。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2008年圣诞节前的那个周日，马斯克早上醒来，脑子里冒出一个他从未有过的念头。他一直以为自己不是那种会精神崩溃的人，可那一刻，他离崩溃只差一步。",
+          "原站将本条归为大会演讲，时长约 10 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2015年底特律汽车新闻世界大会上马斯克演讲",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-speaks-2015-automotive-news-world-congress-in-detroit/"
+      },
+      {
+        "title": "原始媒体：AmericaJR",
+        "url": "https://www.youtube.com/watch?v=Ea9LoOnMTiE"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-agu-2015-conference-san-francisco-audio-only": {
+    "takeaway": "地球的重力如果再强一点，化学火箭根本飞不起来。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "地球的重力如果再强一点，化学火箭根本飞不起来。",
+          "原站将本条归为大会演讲，时长约 46 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2015年AGU旧金山大会马斯克访谈（音频）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-agu-2015-conference-san-francisco-audio-only/"
+      },
+      {
+        "title": "原始媒体：Zomonion",
+        "url": "https://www.youtube.com/watch?v=FPxfIzI3T58"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-comments-and-gets-emotional-at-press-conference": {
+    "takeaway": "2020 年 5 月 30 日下午，SpaceX 霍桑总部，马斯克站在台上，句子说不完整。几小时前，两名 NASA 宇航员被送进轨道，美国本土九年来第一次靠自己把人送上天。记者问了一个关于飞行风险的问题，他张了张嘴，停住，眼眶红了。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2020 年 5 月 30 日下午，SpaceX 霍桑总部，马斯克站在台上，句子说不完整。几小时前，两名 NASA 宇航员被送进轨道，美国本土九年来第一次靠自己把人送上天。记者问了一个关于飞行风险的问题，他张了张嘴，停住，眼眶红了。",
+          "原站将本条归为媒体，时长约 10 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在发布会上动情发言",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-comments-and-gets-emotional-at-press-conference/"
+      },
+      {
+        "title": "原始媒体：ExpovistaTV",
+        "url": "https://www.youtube.com/watch?v=Gf0m7QMp_tk"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-the-tesla-powerwall-keynote": {
+    "takeaway": "马斯克先放了一张美国地图。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克先放了一张美国地图。",
+          "原站将本条归为发布会，时长约 18 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克Tesla Powerwall主题演讲",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-the-tesla-powerwall-keynote/"
+      },
+      {
+        "title": "原始媒体：FinanzTV",
+        "url": "https://www.youtube.com/watch?v=OIgzzAMgnSU"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-with-nvidia-ceo-jen-hsun-huang-at-gtc-2015": {
+    "takeaway": "参考档案收录的访谈资料，发布渠道为 hnmk guyh，视频时长约 37 分钟。原始标题为《Elon Musk interview with NVIDIA CEO Jen Hsun Huang at GTC 2015》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的访谈资料，发布渠道为 hnmk guyh，视频时长约 37 分钟。原始标题为《Elon Musk interview with NVIDIA CEO Jen Hsun Huang at GTC 2015》。本条保留原始媒体与档案来源。",
+          "原站将本条归为访谈，时长约 37 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2015 GTC：马斯克对话NVIDIA CEO黄仁勋",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-with-nvidia-ceo-jen-hsun-huang-at-gtc-2015/"
+      },
+      {
+        "title": "原始媒体：hnmk guyh",
+        "url": "https://www.youtube.com/watch?v=QuGGuq1FaMc"
+      }
+    ]
+  },
+  "elon-qm-nvidia-ceo-jensen-huang-interviews-elon-musk-2015": {
+    "takeaway": "2015年，英伟达的开发者大会上，黄仁勋把马斯克请上台。开场第一句话他就调侃：我从没见过谁走路这么慢。台下一片笑声。但接下来聊的内容，一点都不轻松。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2015年，英伟达的开发者大会上，黄仁勋把马斯克请上台。开场第一句话他就调侃：我从没见过谁走路这么慢。台下一片笑声。但接下来聊的内容，一点都不轻松。",
+          "原站将本条归为访谈，时长约 20 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2015年NVIDIA CEO黄仁勋专访马斯克",
+        "url": "https://elon.qiaomu.ai/ep/nvidia-ceo-jensen-huang-interviews-elon-musk-2015/"
+      },
+      {
+        "title": "原始媒体：Economic Archive",
+        "url": "https://www.youtube.com/watch?v=SXO6E6heklk"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-and-y-combinator-president-on-thinking-for-the-future": {
+    "takeaway": "主持人问马斯克想活多久。这位把“让人类成为多行星物种”当作毕生使命的人，回答得很干脆：一百个好年头就差不多了，也许稍微长一点也行。他补了一句，自己并不是长寿的狂热信徒。拉里·佩奇（Larry Page）在资助研究如何终结死亡的生意，马斯克对此态度很淡。他承认，让人在更长时间里保持好的生活质",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "主持人问马斯克想活多久。这位把“让人类成为多行星物种”当作毕生使命的人，回答得很干脆：一百个好年头就差不多了，也许稍微长一点也行。他补了一句，自己并不是长寿的狂热信徒。拉里·佩奇（Larry Page）在资助研究如何终结死亡的生意，马斯克对此态度很淡。他承认，让人在更长时间里保持好的生活质",
+          "原站将本条归为访谈，时长约 48 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克与Y Combinator总裁谈面向未来思考（完整对话）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-and-y-combinator-president-on-thinking-for-the-future/"
+      },
+      {
+        "title": "原始媒体：Vanity Fair",
+        "url": "https://www.youtube.com/watch?v=SqEo107j-uw"
+      }
+    ]
+  },
+  "elon-qm-gtc-2015-nvidia-ceo-jen-hsun-huang-interviews-tesla-motors-ceo-e": {
+    "takeaway": "2015 年 GTC 大会，黄仁勋把马斯克请上台，开口第一句话是玩笑：你是我今天最后一个环节，别把整场搞砸了。两人都说没有排练过。黄仁勋提到自己买过三辆特斯拉，每一代都更好，早上收到一次 OTA 推送，发现多出一堆自己没付钱的功能，那种感觉让他很受用。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2015 年 GTC 大会，黄仁勋把马斯克请上台，开口第一句话是玩笑：你是我今天最后一个环节，别把整场搞砸了。两人都说没有排练过。黄仁勋提到自己买过三辆特斯拉，每一代都更好，早上收到一次 OTA 推送，发现多出一堆自己没付钱的功能，那种感觉让他很受用。",
+          "原站将本条归为访谈，时长约 22 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：GTC 2015：英伟达CEO黄仁勋对话Tesla CEO马斯克（第9部分）",
+        "url": "https://elon.qiaomu.ai/ep/gtc-2015-nvidia-ceo-jen-hsun-huang-interviews-tesla-motors-ceo-e/"
+      },
+      {
+        "title": "原始媒体：NVIDIA",
+        "url": "https://www.youtube.com/watch?v=TDm6Snkle70"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-talks-energy-with-german-minister-of-economy-energy-20": {
+    "takeaway": "2015年，柏林。马斯克坐在德国经济与能源部长加布里尔（Sigmar Gabriel）旁边，开口没聊特斯拉，先聊难民。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2015年，柏林。马斯克坐在德国经济与能源部长加布里尔（Sigmar Gabriel）旁边，开口没聊特斯拉，先聊难民。",
+          "原站将本条归为访谈，时长约 52 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克与德国经济与能源部长谈能源（2015）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-talks-energy-with-german-minister-of-economy-energy-20/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=UUMI8UgLJ0E"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-agu-2015-conference-san-francisco": {
+    "takeaway": "2015 年 12 月，旧金山，美国地球物理联合会（AGU）秋季会议。台下坐着几千名研究地球、海洋、大气的科学家。马斯克上台，主持人先抛了一个方法论问题：面对一个别人都没解决过的问题，你从哪儿下手？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2015 年 12 月，旧金山，美国地球物理联合会（AGU）秋季会议。台下坐着几千名研究地球、海洋、大气的科学家。马斯克上台，主持人先抛了一个方法论问题：面对一个别人都没解决过的问题，你从哪儿下手？",
+          "原站将本条归为大会演讲，时长约 42 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克AGU 2015旧金山会议采访",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-agu-2015-conference-san-francisco/"
+      },
+      {
+        "title": "原始媒体：Maziyar Boustani",
+        "url": "https://www.youtube.com/watch?v=WwFa3nk1V0I"
+      }
+    ]
+  },
+  "elon-qm-issrdc-2015-a-conversation-with-elon-musk": {
+    "takeaway": "2015年6月28日，马斯克44岁生日。SpaceX的猎鹰9号火箭升空两分多钟后解体，Dragon飞船连同两吨多的物资一起坠入大西洋。任务代号CRS-7，是SpaceX向国际空间站运送补给的第七次商业货运任务。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2015年6月28日，马斯克44岁生日。SpaceX的猎鹰9号火箭升空两分多钟后解体，Dragon飞船连同两吨多的物资一起坠入大西洋。任务代号CRS-7，是SpaceX向国际空间站运送补给的第七次商业货运任务。",
+          "原站将本条归为访谈，时长约 53 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：ISSRDC 2015：与马斯克对话",
+        "url": "https://elon.qiaomu.ai/ep/issrdc-2015-a-conversation-with-elon-musk/"
+      },
+      {
+        "title": "原始媒体：ISS National Lab",
+        "url": "https://www.youtube.com/watch?v=ZmEg95wPiVU"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-visions-for-tesla-the-auto-industry-and-self-driving-t": {
+    "takeaway": "丹麦有个挺拧巴的反差。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "丹麦有个挺拧巴的反差。",
+          "原站将本条归为访谈，时长约 11 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克谈Tesla、汽车业与自动驾驶愿景（2015年丹麦采访）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-visions-for-tesla-the-auto-industry-and-self-driving-t/"
+      },
+      {
+        "title": "原始媒体：Dagbladet Børsen",
+        "url": "https://www.youtube.com/watch?v=bl5vLC3Xlgc"
+      }
+    ]
+  },
+  "elon-qm-nvidia-ceo-jen-hsun-huang-chats-with-tesla-s-elon-musk-gtc-2015": {
+    "takeaway": "2015年3月，圣何塞，英伟达GTC大会。黄仁勋坐在台上，对面是马斯克。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2015年3月，圣何塞，英伟达GTC大会。黄仁勋坐在台上，对面是马斯克。",
+          "原站将本条归为访谈，时长约 11 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：英伟达CEO黄仁勋在GTC 2015对话Tesla马斯克",
+        "url": "https://elon.qiaomu.ai/ep/nvidia-ceo-jen-hsun-huang-chats-with-tesla-s-elon-musk-gtc-2015/"
+      },
+      {
+        "title": "原始媒体：HotHardware",
+        "url": "https://www.youtube.com/watch?v=ixZF0WorsmE"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-is-ecstatic-at-post-vertical-landing-teleconference-20": {
+    "takeaway": "2015 年 12 月，猎鹰 9 号把 11 颗卫星送进轨道，一级火箭掉头飞回来，垂直落在卡纳维拉尔角的着陆区，落点几乎正中靶心。发射前马斯克被反复问过有多大把握，他的答案一直没变：六成，也许七成。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2015 年 12 月，猎鹰 9 号把 11 颗卫星送进轨道，一级火箭掉头飞回来，垂直落在卡纳维拉尔角的着陆区，落点几乎正中靶心。发射前马斯克被反复问过有多大把握，他的答案一直没变：六成，也许七成。",
+          "原站将本条归为大会演讲，时长约 22 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在垂直着陆后电话会上难掩兴奋（2015音频）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-is-ecstatic-at-post-vertical-landing-teleconference-20/"
+      },
+      {
+        "title": "原始媒体：Everything Elon Musk",
+        "url": "https://www.youtube.com/watch?v=ppi_HzqrOEU"
+      }
+    ]
+  },
+  "elon-qm-tesla-press-conference-6-2-autonomous-driving-musk-q-a-more": {
+    "takeaway": "2015 年，大多数人还相信一个常识：车是消耗品，出厂那天就是它状态最好的时候。之后每开一公里，都在贬值。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2015 年，大多数人还相信一个常识：车是消耗品，出厂那天就是它状态最好的时候。之后每开一公里，都在贬值。",
+          "原站将本条归为媒体，时长约 40 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla记者会：6.2、自动驾驶、马斯克问答等",
+        "url": "https://elon.qiaomu.ai/ep/tesla-press-conference-6-2-autonomous-driving-musk-q-a-more/"
+      },
+      {
+        "title": "原始媒体：Electrek.co",
+        "url": "https://www.youtube.com/watch?v=qXADb8gE9RU"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-with-billionaire-investment-legend-ron-baron": {
+    "takeaway": "参考档案收录的访谈资料，发布渠道为 Elon Musk best videos，视频时长约 51 分钟。原始标题为《Elon Musk interview with billionaire investment legend Ron Baron 2015》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的访谈资料，发布渠道为 Elon Musk best videos，视频时长约 51 分钟。原始标题为《Elon Musk interview with billionaire investment legend Ron Baron 2015》。本条保留原始媒体与档案来源。",
+          "原站将本条归为访谈，时长约 51 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克对话亿万富翁投资传奇罗恩·巴伦（2015）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-with-billionaire-investment-legend-ron-baron/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=qsIbGKosY1E"
+      }
+    ]
+  },
+  "elon-qm-2015-07-20-conference-call-with-elon-musk-about-spacex-crs7-falc": {
+    "takeaway": "火箭这行有个残酷的规矩：及格线永远是 100%。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "火箭这行有个残酷的规矩：及格线永远是 100%。",
+          "原站将本条归为大会演讲，时长约 52 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2015.07.20 马斯克电话会：SpaceX CRS7 Falcon 9爆炸",
+        "url": "https://elon.qiaomu.ai/ep/2015-07-20-conference-call-with-elon-musk-about-spacex-crs7-falc/"
+      },
+      {
+        "title": "原始媒体：ash8128",
+        "url": "https://www.youtube.com/watch?v=r-6RoLXW654"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview": {
+    "takeaway": "马斯克决定自己造火箭的时候，他一位最亲近的朋友做了一件事：把历史上火箭发射失败的片段剪成一条长视频，按着他从头看到尾。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克决定自己造火箭的时候，他一位最亲近的朋友做了一件事：把历史上火箭发射失败的片段剪成一条长视频，按着他从头看到尾。",
+          "原站将本条归为访谈，时长约 8 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克采访",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview/"
+      },
+      {
+        "title": "原始媒体：Max Tegmark",
+        "url": "https://www.youtube.com/watch?v=rBw0eoZTY-g"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-talks-climate-change-and-carbon-tax-at-the-sorbone-201": {
+    "takeaway": "如果让 100 位气候科学家投票，大概 3 个人认为最好的结果还能接受，剩下 97 个人认为最坏的情况正在路上。马斯克 2015 年在巴黎索邦大学说出这个比例时，礼堂里安静了几秒。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "如果让 100 位气候科学家投票，大概 3 个人认为最好的结果还能接受，剩下 97 个人认为最坏的情况正在路上。马斯克 2015 年在巴黎索邦大学说出这个比例时，礼堂里安静了几秒。",
+          "原站将本条归为访谈，时长约 55 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在索邦大学谈气候变化与碳税（2015）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-talks-climate-change-and-carbon-tax-at-the-sorbone-201/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=sUFwwlmxRsw"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-talks-autopilot-model-x-q3-2015-earnings-call-2015-aud": {
+    "takeaway": "2015年第三季度财报电话会上，摩根士丹利的分析师亚当·乔纳斯问了一个关于自动驾驶出租车的问题：特斯拉会不会把自动驾驶汽车卖给Uber这样的公司，还是干脆绕过中间商，自己搞按需出行的平台？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2015年第三季度财报电话会上，摩根士丹利的分析师亚当·乔纳斯问了一个关于自动驾驶出租车的问题：特斯拉会不会把自动驾驶汽车卖给Uber这样的公司，还是干脆绕过中间商，自己搞按需出行的平台？",
+          "原站将本条归为股东会，时长约 61 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克谈Autopilot与Model X：Q3 2015财报电话会（音频）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-talks-autopilot-model-x-q3-2015-earnings-call-2015-aud/"
+      },
+      {
+        "title": "原始媒体：Elon Musk best videos",
+        "url": "https://www.youtube.com/watch?v=u-uCZHK5Oik"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-great-speech-2015": {
+    "takeaway": "2015年6月的特斯拉股东大会，马斯克上台第一件事，是认错。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2015年6月的特斯拉股东大会，马斯克上台第一件事，是认错。",
+          "原站将本条归为访谈，时长约 64 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克2015精彩演讲",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-great-speech-2015/"
+      },
+      {
+        "title": "原始媒体：Dr Dre",
+        "url": "https://www.youtube.com/watch?v=u6IZRjP39do"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-s-rare-interview-from-2015": {
+    "takeaway": "2015年6月28日，猎鹰9号（Falcon 9）从佛罗里达升空，执行国际空间站货运任务。飞行两分十九秒后，火箭解体。龙飞船（Dragon）连同带去的物资一起没了。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2015年6月28日，猎鹰9号（Falcon 9）从佛罗里达升空，执行国际空间站货运任务。飞行两分十九秒后，火箭解体。龙飞船（Dragon）连同带去的物资一起没了。",
+          "原站将本条归为访谈，时长约 50 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克2015年罕见采访",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-s-rare-interview-from-2015/"
+      },
+      {
+        "title": "原始媒体：petrivoski",
+        "url": "https://www.youtube.com/watch?v=u9g0B5mqi7c"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-q-a-with-tesla-owners-at-the-2015-detroit-auto-show": {
+    "takeaway": "2015 年 1 月，底特律。北美车展的媒体日刚结束，特斯拉在展馆里连个展台都没有。密歇根州当时禁止车企绕过特许经销商直接卖车，特斯拉在这个号称\"美国汽车工业心脏\"的地方，连开一家门店的资格都拿不到。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2015 年 1 月，底特律。北美车展的媒体日刚结束，特斯拉在展馆里连个展台都没有。密歇根州当时禁止车企绕过特许经销商直接卖车，特斯拉在这个号称\"美国汽车工业心脏\"的地方，连开一家门店的资格都拿不到。",
+          "原站将本条归为访谈，时长约 15 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在2015底特律车展问答Tesla车主",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-q-a-with-tesla-owners-at-the-2015-detroit-auto-show/"
+      },
+      {
+        "title": "原始媒体：KmanAuto",
+        "url": "https://www.youtube.com/watch?v=wB_WqlOIlXc"
+      }
+    ]
+  },
+  "elon-qm-baidu-ceo-robin-li-interviews-bill-gates-and-elon-musk-at-the-bo": {
+    "takeaway": "2015 年 3 月 29 日，博鳌论坛。李彦宏坐在中间，左手边是比尔·盖茨，右手边是埃隆·马斯克。三个人凑在一起聊了一个小时。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2015 年 3 月 29 日，博鳌论坛。李彦宏坐在中间，左手边是比尔·盖茨，右手边是埃隆·马斯克。三个人凑在一起聊了一个小时。",
+          "原站将本条归为大会演讲，时长约 56 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：百度CEO李彦宏对话比尔·盖茨与马斯克（2015博鳌论坛）",
+        "url": "https://elon.qiaomu.ai/ep/baidu-ceo-robin-li-interviews-bill-gates-and-elon-musk-at-the-bo/"
+      },
+      {
+        "title": "原始媒体：Kaiser Kuo",
+        "url": "https://www.youtube.com/watch?v=NG0ZjUfOBUs"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-the-full-bbc-interview": {
+    "takeaway": "2016年，罗里·凯兰-琼斯（Rory Cellan-Jones）坐在一辆特斯拉里采访马斯克。采访过程中，记者反复追问一个有点扎人的问题：这车我买不起，我认识的人也都买不起，那它到底对普通人有什么意义？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2016年，罗里·凯兰-琼斯（Rory Cellan-Jones）坐在一辆特斯拉里采访马斯克。采访过程中，记者反复追问一个有点扎人的问题：这车我买不起，我认识的人也都买不起，那它到底对普通人有什么意义？",
+          "原站将本条归为访谈，时长约 18 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克BBC完整采访",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-the-full-bbc-interview/"
+      },
+      {
+        "title": "原始媒体：Rory Cellan-Jones",
+        "url": "https://www.youtube.com/watch?v=0871VJfvD1c"
+      }
+    ]
+  },
+  "elon-qm-first-look-elon-musk-solar-city-unveil-october-28-2016": {
+    "takeaway": "2016 年 10 月 28 日，洛杉矶环球影城的一条布景街道上，马斯克上台先解释了一件事：这次他没穿那件毛绒外套。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2016 年 10 月 28 日，洛杉矶环球影城的一条布景街道上，马斯克上台先解释了一件事：这次他没穿那件毛绒外套。",
+          "原站将本条归为发布会，时长约 15 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：抢先看！马斯克SolarCity发布会（2016.10.28）",
+        "url": "https://elon.qiaomu.ai/ep/first-look-elon-musk-solar-city-unveil-october-28-2016/"
+      },
+      {
+        "title": "原始媒体：influence media",
+        "url": "https://www.youtube.com/watch?v=26XP6uDk6-0"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-at-tesla-shareholders-meeting-2016-q-a-session-part-3": {
+    "takeaway": "2016年特斯拉股东大会的问答环节，一位工会代表站起来，当着满场股东的面念了一封写给董事会的信：内华达超级工厂存在劳工滥用和安全违规，靠劳务派遣公司招募移民和外州工人，已经有超过300名工人停工。他要求特斯拉接受独立第三方审计。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2016年特斯拉股东大会的问答环节，一位工会代表站起来，当着满场股东的面念了一封写给董事会的信：内华达超级工厂存在劳工滥用和安全违规，靠劳务派遣公司招募移民和外州工人，已经有超过300名工人停工。他要求特斯拉接受独立第三方审计。",
+          "原站将本条归为股东会，时长约 23 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在Tesla 2016股东大会问答环节（第3部分）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-at-tesla-shareholders-meeting-2016-q-a-session-part-3/"
+      },
+      {
+        "title": "原始媒体：Elon Musk",
+        "url": "https://www.youtube.com/watch?v=2TG_WLoGRiA"
+      }
+    ]
+  },
+  "elon-qm-tesla-unveils-powerwall-2-solar-roof": {
+    "takeaway": "2016 年 10 月那场发布会上，马斯克上台后先讲了一段电动车的旧账。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2016 年 10 月那场发布会上，马斯克上台后先讲了一段电动车的旧账。",
+          "原站将本条归为发布会，时长约 19 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla发布Powerwall 2与Solar Roof",
+        "url": "https://elon.qiaomu.ai/ep/tesla-unveils-powerwall-2-solar-roof/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=4sfwDyiPTdU"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-gigafactory-opening-speech-full-length": {
+    "takeaway": "要造五十万辆车，得先拥有全世界所有的电池工厂。这是2016年特斯拉算出来的一笔账，算完发现，这笔账根本算不通。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "要造五十万辆车，得先拥有全世界所有的电池工厂。这是2016年特斯拉算出来的一笔账，算完发现，这笔账根本算不通。",
+          "原站将本条归为访谈，时长约 29 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克Gigafactory开业演讲（完整版）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-gigafactory-opening-speech-full-length/"
+      },
+      {
+        "title": "原始媒体：Peer-Arne Böttcher",
+        "url": "https://www.youtube.com/watch?v=5FeSiuUait4"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-s-farewell-press-conference-with-president-trump": {
+    "takeaway": "这份文字稿的标题栏写着 2016 年。翻开内容，第一段就露馅了：DOGE、1 万亿美元的削减目标、椭圆形办公室新装的金色天花板。2016 年还没有 DOGE，特朗普也还没搬回白宫。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "这份文字稿的标题栏写着 2016 年。翻开内容，第一段就露馅了：DOGE、1 万亿美元的削减目标、椭圆形办公室新装的金色天花板。2016 年还没有 DOGE，特朗普也还没搬回白宫。",
+          "原站将本条归为政府活动，时长约 53 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克与特朗普总统告别记者会",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-s-farewell-press-conference-with-president-trump/"
+      },
+      {
+        "title": "原始媒体：Fox News",
+        "url": "https://www.youtube.com/watch?v=6wK3XzFZ_ac"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-speaks-at-the-hyperloop-pod-award-ceremony-2016": {
+    "takeaway": "2016年1月底，德州农工大学（Texas A&M）的会场里，大屏幕上滚着一个标签：#WhereIsElon。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2016年1月底，德州农工大学（Texas A&M）的会场里，大屏幕上滚着一个标签：#WhereIsElon。",
+          "原站将本条归为大会演讲，时长约 34 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在2016 Hyperloop Pod颁奖典礼演讲",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-speaks-at-the-hyperloop-pod-award-ceremony-2016/"
+      },
+      {
+        "title": "原始媒体：Everything Elon Musk",
+        "url": "https://www.youtube.com/watch?v=BaZbgNWNQ3M"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-unveils-new-solar-roof-powerwall-2-powerpack-2-tesla-s": {
+    "takeaway": "参考档案收录的发布会资料，发布渠道为 Francisco West，视频时长约 25 分钟。原始标题为《Elon Musk Unveils New Solar Roof, Powerwall 2 & Powerpack 2 Tesla & SolarCity (2016 10 28)》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的发布会资料，发布渠道为 Francisco West，视频时长约 25 分钟。原始标题为《Elon Musk Unveils New Solar Roof, Powerwall 2 & Powerpack 2 Tesla & SolarCity (2016 10 28)》。本条保留原始媒体与档案来源。",
+          "原站将本条归为发布会，时长约 25 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克发布新Solar Roof、Powerwall 2与Powerpack 2（Tesla与SolarCity）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-unveils-new-solar-roof-powerwall-2-powerpack-2-tesla-s/"
+      },
+      {
+        "title": "原始媒体：Francisco West",
+        "url": "https://www.youtube.com/watch?v=E2vwjbCt4Iw"
+      }
+    ]
+  },
+  "elon-qm-full-elon-musk-unveils-mars-colonisation-plan-q-a-2016-9-27": {
+    "takeaway": "2016年9月27日，墨西哥瓜达拉哈拉，国际宇航大会（IAC）。马斯克站在台上，身后屏幕摆着一张对比表：地球70亿人，火星0人。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2016年9月27日，墨西哥瓜达拉哈拉，国际宇航大会（IAC）。马斯克站在台上，身后屏幕摆着一张对比表：地球70亿人，火星0人。",
+          "原站将本条归为发布会，时长约 89 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：完整版：马斯克公布火星殖民计划+问答（2016.9.27）",
+        "url": "https://elon.qiaomu.ai/ep/full-elon-musk-unveils-mars-colonisation-plan-q-a-2016-9-27/"
+      },
+      {
+        "title": "原始媒体：the people of the future",
+        "url": "https://www.youtube.com/watch?v=GpNbQgJJbI4"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-video-elon-musk-at-the-future-transport-solutions-conf": {
+    "takeaway": "2016年4月，奥斯陆。马斯克上台后的第一件事是道谢，第二件事还是道谢。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2016年4月，奥斯陆。马斯克上台后的第一件事是道谢，第二件事还是道谢。",
+          "原站将本条归为大会演讲，时长约 34 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在2016奥斯陆“未来交通解决方案”大会演讲",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-video-elon-musk-at-the-future-transport-solutions-conf/"
+      },
+      {
+        "title": "原始媒体：Jelly VICTOR",
+        "url": "https://www.youtube.com/watch?v=JI2aK0KS2dg"
+      }
+    ]
+  },
+  "elon-qm-tesla-cybertruck-unveil": {
+    "takeaway": "2019 年 11 月，洛杉矶。马斯克站在台上，身后是一辆棱角分明到不像地球产物的车。他先请设计总监 Franz von Holzhausen 抡起大锤砸车门，再放了一段 9 毫米手枪射击车门的视频。轮到玻璃，Franz 拎起一个金属球砸过去，车窗当场裂成蛛网。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2019 年 11 月，洛杉矶。马斯克站在台上，身后是一辆棱角分明到不像地球产物的车。他先请设计总监 Franz von Holzhausen 抡起大锤砸车门，再放了一段 9 毫米手枪射击车门的视频。轮到玻璃，Franz 拎起一个金属球砸过去，车窗当场裂成蛛网。",
+          "原站将本条归为发布会，时长约 25 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla Cybertruck发布会",
+        "url": "https://elon.qiaomu.ai/ep/tesla-cybertruck-unveil/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=NcROXiN_cdE"
+      }
+    ]
+  },
+  "elon-qm-tesla-unveils-model-3": {
+    "takeaway": "2016年3月31日晚上，加州霍桑的特斯拉设计工作室，马斯克在台上说了一句话，现场直接炸了：Model 3 开放预订24小时，订单总数突破11.5万台。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2016年3月31日晚上，加州霍桑的特斯拉设计工作室，马斯克在台上说了一句话，现场直接炸了：Model 3 开放预订24小时，订单总数突破11.5万台。",
+          "原站将本条归为发布会，时长约 23 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla发布Model 3",
+        "url": "https://elon.qiaomu.ai/ep/tesla-unveils-model-3/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=Q4VGQPk2Dl8"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-top-sound-bites-on-spacex-nasa-ula-boeing-starship-201": {
+    "takeaway": "2006年3月，猎鹰1号（Falcon 1）第一次点火升空，没能进入轨道。马斯克后来在访谈里说起这次失败，语气平静得像在念一份财务报表：政府几乎没出钱，整个研发是私人掏的腰包；首飞虽然没成功，但拿到了一大批数据；客户为这次发射付了800万美元，其中发射本身约700万，剩下约100万美元是客",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2006年3月，猎鹰1号（Falcon 1）第一次点火升空，没能进入轨道。马斯克后来在访谈里说起这次失败，语气平静得像在念一份财务报表：政府几乎没出钱，整个研发是私人掏的腰包；首飞虽然没成功，但拿到了一大批数据；客户为这次发射付了800万美元，其中发射本身约700万，剩下约100万美元是客",
+          "原站将本条归为访谈，时长约 19 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克精彩语录：SpaceX、NASA、ULA、Boeing与Starship（2016-2019）| Every Launch: S4",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-top-sound-bites-on-spacex-nasa-ula-boeing-starship-201/"
+      },
+      {
+        "title": "原始媒体：belated tech",
+        "url": "https://www.youtube.com/watch?v=QoFdibFBpEs"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-unveils-spacex-s-mars-interplanetary-transport-system": {
+    "takeaway": "2016年9月27日，墨西哥瓜达拉哈拉，第67届国际宇航大会（IAC）。马斯克走上台，先给出一个数字：去火星的票价，要压到20万美元左右，大致相当于当时美国一套房子的中位价。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2016年9月27日，墨西哥瓜达拉哈拉，第67届国际宇航大会（IAC）。马斯克走上台，先给出一个数字：去火星的票价，要压到20万美元左右，大致相当于当时美国一套房子的中位价。",
+          "原站将本条归为发布会，时长约 96 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在IAC 2016公布SpaceX火星星际运输系统架构",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-unveils-spacex-s-mars-interplanetary-transport-system/"
+      },
+      {
+        "title": "原始媒体：Matthew Travis",
+        "url": "https://www.youtube.com/watch?v=SPblvFBnEDk"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-elon-musk-s-vision-for-the-future-entire-talk": {
+    "takeaway": "参考档案收录的访谈资料，发布渠道为 Stanford eCorner，视频时长约 61 分钟。原始标题为《Elon Musk: Elon Musk's Vision for the Future [Entire Talk]》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的访谈资料，发布渠道为 Stanford eCorner，视频时长约 61 分钟。原始标题为《Elon Musk: Elon Musk's Vision for the Future [Entire Talk]》。本条保留原始媒体与档案来源。",
+          "原站将本条归为访谈，时长约 61 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克：未来愿景完整演讲",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-elon-musk-s-vision-for-the-future-entire-talk/"
+      },
+      {
+        "title": "原始媒体：Stanford eCorner",
+        "url": "https://www.youtube.com/watch?v=SVk1hb0ZOrE"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-unveils-tesla-model-3-2016-hd-video": {
+    "takeaway": "2016年3月31日晚上，洛杉矶霍桑，特斯拉设计工作室。马斯克走上台，准备发布 Model 3。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2016年3月31日晚上，洛杉矶霍桑，特斯拉设计工作室。马斯克走上台，准备发布 Model 3。",
+          "原站将本条归为发布会，时长约 15 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2016高清视频：马斯克发布Tesla Model 3",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-unveils-tesla-model-3-2016-hd-video/"
+      },
+      {
+        "title": "原始媒体：AppleOEMParts",
+        "url": "https://www.youtube.com/watch?v=Tq4QRDw9t0g"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-video-elon-musk-at-gigafactory-press-conference-2016": {
+    "takeaway": "参考档案收录的媒体资料，发布渠道为 Jelly VICTOR，视频时长约 12 分钟。原始标题为《Elon Musk video -Elon Musk at Gigafactory press conference 2016》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的媒体资料，发布渠道为 Jelly VICTOR，视频时长约 12 分钟。原始标题为《Elon Musk video -Elon Musk at Gigafactory press conference 2016》。本条保留原始媒体与档案来源。",
+          "原站将本条归为媒体，时长约 12 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在2016 Gigafactory记者会",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-video-elon-musk-at-gigafactory-press-conference-2016/"
+      },
+      {
+        "title": "原始媒体：Jelly VICTOR",
+        "url": "https://www.youtube.com/watch?v=_U1gVJ8khbk"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-space-travel-brainscanning-and-biological-engineering": {
+    "takeaway": "2016年，有人问马斯克，把人送上火星要花多少钱。他给了一个数字：一万亿美元。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2016年，有人问马斯克，把人送上火星要花多少钱。他给了一个数字：一万亿美元。",
+          "原站将本条归为访谈，时长约 11 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克：太空旅行、大脑扫描与火星生物工程完整采访（2016）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-space-travel-brainscanning-and-biological-engineering/"
+      },
+      {
+        "title": "原始媒体：Celebrity Interviews",
+        "url": "https://www.youtube.com/watch?v=dfNC3PQIGPg"
+      }
+    ]
+  },
+  "elon-qm-tesla-s-solar-city-acquisition-conference-call-w-elon-musk-full": {
+    "takeaway": "2016年6月22日上午的电话会议，开场十分钟都在解释一件事：为什么这次的收购公告长得不像收购公告。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2016年6月22日上午的电话会议，开场十分钟都在解释一件事：为什么这次的收购公告长得不像收购公告。",
+          "原站将本条归为大会演讲，时长约 93 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla收购SolarCity电话会议完整版（马斯克参与）",
+        "url": "https://elon.qiaomu.ai/ep/tesla-s-solar-city-acquisition-conference-call-w-elon-musk-full/"
+      },
+      {
+        "title": "原始媒体：Electrek.co",
+        "url": "https://www.youtube.com/watch?v=dm3q5ABMP14"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-s-full-interview-with-code-conference": {
+    "takeaway": "一托盘现金正从大气层里往下掉，马上就要烧成灰、摔成碎片。你会去捡吗？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一托盘现金正从大气层里往下掉，马上就要烧成灰、摔成碎片。你会去捡吗？",
+          "原站将本条归为大会演讲，时长约 84 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克Code Conference完整采访",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-s-full-interview-with-code-conference/"
+      },
+      {
+        "title": "原始媒体：ChartInvest",
+        "url": "https://www.youtube.com/watch?v=eWtabW_j0kQ"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-building-the-machine-that-makes-the-machine-2016-share": {
+    "takeaway": "全世界最好的汽车工厂，造一辆车要 25 秒。听起来挺快。可一辆车加上前后缓冲大概是 5 米长，5 米走 25 秒，速度是每秒 0.2 米。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "全世界最好的汽车工厂，造一辆车要 25 秒。听起来挺快。可一辆车加上前后缓冲大概是 5 米长，5 米走 25 秒，速度是每秒 0.2 米。",
+          "原站将本条归为股东会，时长约 8 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克：打造“制造机器的机器”（2016股东大会）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-building-the-machine-that-makes-the-machine-2016-share/"
+      },
+      {
+        "title": "原始媒体：spirit123459",
+        "url": "https://www.youtube.com/watch?v=f9uveu-c5us"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-q-a-w-audience-at-shareholder-meeting-of-tesla-solarci": {
+    "takeaway": "参考档案收录的股东会资料，发布渠道为 Francisco West，视频时长约 17 分钟。原始标题为《Elon Musk Q&A w/ Audience at Shareholder Meeting of Tesla & SolarCity (2016 11 17) [Part 2》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的股东会资料，发布渠道为 Francisco West，视频时长约 17 分钟。原始标题为《Elon Musk Q&A w/ Audience at Shareholder Meeting of Tesla & SolarCity (2016 11 17) [Part 2》。本条保留原始媒体与档案来源。",
+          "原站将本条归为股东会，时长约 17 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla与SolarCity股东大会观众问答（2016.11.17）第2部分",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-q-a-w-audience-at-shareholder-meeting-of-tesla-solarci/"
+      },
+      {
+        "title": "原始媒体：Francisco West",
+        "url": "https://www.youtube.com/watch?v=h1mYtk8XM7I"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-q-a-with-fans-in-paris": {
+    "takeaway": "2016年2月，巴黎。马斯克上台做的第一件事是道谢，第二件事是报数字：特斯拉去年一共造了5万辆车。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2016年2月，巴黎。马斯克上台做的第一件事是道谢，第二件事是报数字：特斯拉去年一共造了5万辆车。",
+          "原站将本条归为访谈，时长约 35 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克巴黎粉丝问答",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-q-a-with-fans-in-paris/"
+      },
+      {
+        "title": "原始媒体：Historical and scientific documentaries",
+        "url": "https://www.youtube.com/watch?v=hPf5mE_GCnc"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-q-a-at-tesla-gigafactory-grand-opening": {
+    "takeaway": "2016年7月，内华达州斯帕克斯（Sparks）城外的沙漠里，一片白色厂房刚开出第一批产线。马斯克站在厂房中央，面对一群员工、记者和当地官员，开始回答问题。第一个问题很朴素：这里现在有多少人在干活？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2016年7月，内华达州斯帕克斯（Sparks）城外的沙漠里，一片白色厂房刚开出第一批产线。马斯克站在厂房中央，面对一群员工、记者和当地官员，开始回答问题。第一个问题很朴素：这里现在有多少人在干活？",
+          "原站将本条归为访谈，时长约 11 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在Tesla Gigafactory开业典礼问答",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-q-a-at-tesla-gigafactory-grand-opening/"
+      },
+      {
+        "title": "原始媒体：Scientific video with Elon Musk",
+        "url": "https://www.youtube.com/watch?v=lxiq8RG_KPw"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-gives-a-talk-at-the-sorbonne-paris-cop-21-q-a-session": {
+    "takeaway": "2015年12月，巴黎气候大会（COP 21）期间，马斯克出现在索邦大学的一间报告厅里。台下坐满了学生，问题一个接一个抛上来，有些尖锐，有些天真，有些带着明显的敌意。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2015年12月，巴黎气候大会（COP 21）期间，马斯克出现在索邦大学的一间报告厅里。台下坐满了学生，问题一个接一个抛上来，有些尖锐，有些天真，有些带着明显的敌意。",
+          "原站将本条归为访谈，时长约 38 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在巴黎索邦大学COP 21发表演讲并问答",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-gives-a-talk-at-the-sorbonne-paris-cop-21-q-a-session/"
+      },
+      {
+        "title": "原始媒体：cousinHub",
+        "url": "https://www.youtube.com/watch?v=p1_b3w22uLI"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-with-sam-altman-2016-9-15": {
+    "takeaway": "2016年9月，马斯克在台上说了一个数字：5厘米每秒。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2016年9月，马斯克在台上说了一个数字：5厘米每秒。",
+          "原站将本条归为访谈，时长约 20 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克对话萨姆·奥特曼（2016.9.15）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-with-sam-altman-2016-9-15/"
+      },
+      {
+        "title": "原始媒体：SameerKDV",
+        "url": "https://www.youtube.com/watch?v=q9icMJ48z6U"
+      }
+    ]
+  },
+  "elon-qm-16-elon-musk-at-the-future-transport-solutions-conference-in-osl": {
+    "takeaway": "2016年4月，马斯克站在奥斯陆的台上，说了一句让全场先笑、后安静的话：下次你在路上看到一辆汽油车，就在车顶上想象一个巨大的克朗符号。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2016年4月，马斯克站在奥斯陆的台上，说了一句让全场先笑、后安静的话：下次你在路上看到一辆汽油车，就在车顶上想象一个巨大的克朗符号。",
+          "原站将本条归为大会演讲，时长约 35 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在奥斯陆未来交通解决方案大会演讲（2016.4.21）",
+        "url": "https://elon.qiaomu.ai/ep/16-elon-musk-at-the-future-transport-solutions-conference-in-osl/"
+      },
+      {
+        "title": "原始媒体：Erasmo Cooley",
+        "url": "https://www.youtube.com/watch?v=qmJ-JhGJl8Y"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-gives-a-talk-at-the-sorbonne-paris-cop-21": {
+    "takeaway": "纽约被几公里厚的冰盖压着的时候，全球平均气温比今天低 5 摄氏度。纽约被海水淹没的时候，比今天高 5 摄氏度。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "纽约被几公里厚的冰盖压着的时候，全球平均气温比今天低 5 摄氏度。纽约被海水淹没的时候，比今天高 5 摄氏度。",
+          "原站将本条归为访谈，时长约 12 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在巴黎索邦大学COP 21发表演讲",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-gives-a-talk-at-the-sorbonne-paris-cop-21/"
+      },
+      {
+        "title": "原始媒体：cousinHub",
+        "url": "https://www.youtube.com/watch?v=v3AmtjqqVvo"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-opens-the-tesla-gigafactory-full-presentation-30-minut": {
+    "takeaway": "2014年，全世界所有锂电池工厂加起来，一年产出大约30吉瓦时（GWh）。手机、笔记本、电动车，所有用途统统算上。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2014年，全世界所有锂电池工厂加起来，一年产出大约30吉瓦时（GWh）。手机、笔记本、电动车，所有用途统统算上。",
+          "原站将本条归为发布会，时长约 30 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克揭幕Tesla Gigafactory：完整演讲30分钟（2016.7.29）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-opens-the-tesla-gigafactory-full-presentation-30-minut/"
+      },
+      {
+        "title": "原始媒体：Live Rock Music Concerts",
+        "url": "https://www.youtube.com/watch?v=w5mzI9Ls_Rs"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-talks-about-mars-carbon-tax-energy": {
+    "takeaway": "每年 5.3 万亿美元。这笔钱没有人真的掏出来过，账本上根本找不到这个科目，可它每天都在影响每一个人的生活。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "每年 5.3 万亿美元。这笔钱没有人真的掏出来过，账本上根本找不到这个科目，可它每天都在影响每一个人的生活。",
+          "原站将本条归为访谈，时长约 42 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克谈火星、碳税与能源",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-talks-about-mars-carbon-tax-energy/"
+      },
+      {
+        "title": "原始媒体：Atul",
+        "url": "https://www.youtube.com/watch?v=x9hWES4GUj8"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-q-a-at-special-shareholder-meeting-2016-11-17": {
+    "takeaway": "2016年11月17日，特斯拉特别股东大会。议程上最重的一项，是股东投票批准对Solar City的收购。非关联股东以压倒性多数投了赞成票。马斯克上台第一句是道谢，第二句是，你们的信任会得到回报。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2016年11月17日，特斯拉特别股东大会。议程上最重的一项，是股东投票批准对Solar City的收购。非关联股东以压倒性多数投了赞成票。马斯克上台第一句是道谢，第二句是，你们的信任会得到回报。",
+          "原站将本条归为股东会，时长约 19 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在2016特别股东大会问答",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-q-a-at-special-shareholder-meeting-2016-11-17/"
+      },
+      {
+        "title": "原始媒体：the people of the future",
+        "url": "https://www.youtube.com/watch?v=y82S_pGe9GQ"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-press-conference-tesla-s-software-update-v7-1-jan-2016": {
+    "takeaway": "2016 年 1 月，特斯拉推送了一次 OTA 更新。更新完成后，车主站在自家车道上，打开手机下拉菜单点一下按钮，车会自己打开车库门，缓缓开出来停到面前，再转身把身后的车库门关上。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2016 年 1 月，特斯拉推送了一次 OTA 更新。更新完成后，车主站在自家车道上，打开手机下拉菜单点一下按钮，车会自己打开车库门，缓缓开出来停到面前，再转身把身后的车库门关上。",
+          "原站将本条归为发布会，时长约 18 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克发布会：Tesla软件更新v7.1（2016年1月）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-press-conference-tesla-s-software-update-v7-1-jan-2016/"
+      },
+      {
+        "title": "原始媒体：Electrek.co",
+        "url": "https://www.youtube.com/watch?v=7CwcvJQWEPY"
+      }
+    ]
+  },
+  "elon-qm-tesla-hong-kong-special-event-elon-musk-jon-mcneill-jan-25-2016": {
+    "takeaway": "2016年1月25日，香港。特斯拉办了一场车主活动，马斯克专程飞过来。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2016年1月25日，香港。特斯拉办了一场车主活动，马斯克专程飞过来。",
+          "原站将本条归为访谈，时长约 22 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla香港特别活动：马斯克与乔恩·麦克尼尔（2016.1.25）",
+        "url": "https://elon.qiaomu.ai/ep/tesla-hong-kong-special-event-elon-musk-jon-mcneill-jan-25-2016/"
+      },
+      {
+        "title": "原始媒体：derektomhk",
+        "url": "https://www.youtube.com/watch?v=-mWs5Fa0DQ4"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-tesla-hong-kong-special-event-25th-january-2016": {
+    "takeaway": "2016年1月25日晚上，香港。马斯克站在台上，给出一组数字：全球每年生产的新车和卡车超过9000万辆，其中电动车占比不到0.2%。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2016年1月25日晚上，香港。马斯克站在台上，给出一组数字：全球每年生产的新车和卡车超过9000万辆，其中电动车占比不到0.2%。",
+          "原站将本条归为访谈，时长约 18 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克出席Tesla香港特别活动（2016.1.25）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-tesla-hong-kong-special-event-25th-january-2016/"
+      },
+      {
+        "title": "原始媒体：Mark Webb-Johnson",
+        "url": "https://www.youtube.com/watch?v=Z7KRZnsHLM0"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-unveils-plan-to-colonise-mars-2016-9-27": {
+    "takeaway": "地球上住着70亿人，火星上住着0个人。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "地球上住着70亿人，火星上住着0个人。",
+          "原站将本条归为发布会，时长约 64 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克公布火星殖民计划（2016.9.27）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-unveils-plan-to-colonise-mars-2016-9-27/"
+      },
+      {
+        "title": "原始媒体：the people of the future",
+        "url": "https://www.youtube.com/watch?v=2_o6aHfRW64"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-unveils-tesla-model-3-full-event-31-03-2016": {
+    "takeaway": "2016年3月31日晚上，马斯克讲完Model 3的配置，车开上台，然后他说了一件自己也是刚知道的事：过去24小时，Model 3的订单数已经超过11.5万辆。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2016年3月31日晚上，马斯克讲完Model 3的配置，车开上台，然后他说了一件自己也是刚知道的事：过去24小时，Model 3的订单数已经超过11.5万辆。",
+          "原站将本条归为发布会，时长约 20 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克发布Tesla Model 3：完整活动（2016.3.31）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-unveils-tesla-model-3-full-event-31-03-2016/"
+      },
+      {
+        "title": "原始媒体：Mr. rdm | Random Videos",
+        "url": "https://www.youtube.com/watch?v=y28WLB5glg4"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-unveils-tesla-model-3-april-2016-unveiling-full-event": {
+    "takeaway": "403ppm。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "403ppm。",
+          "原站将本条归为发布会，时长约 24 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克发布Tesla Model 3：2016年4月完整揭幕活动",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-unveils-tesla-model-3-april-2016-unveiling-full-event/"
+      },
+      {
+        "title": "原始媒体：Atom Flipper",
+        "url": "https://www.youtube.com/watch?v=P-nngkMYgjk"
+      }
+    ]
+  },
+  "elon-qm-tesla-motors-q2-2016-earnings-call-elon-musk-aug-3-2016-audio-fu": {
+    "takeaway": "「今年前六个月，我们待在生产地狱里。」（马斯克）",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "「今年前六个月，我们待在生产地狱里。」（马斯克）",
+          "原站将本条归为股东会，时长约 63 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla Motors Q2 2016财报电话会：马斯克（2016.8.3）完整音频",
+        "url": "https://elon.qiaomu.ai/ep/tesla-motors-q2-2016-earnings-call-elon-musk-aug-3-2016-audio-fu/"
+      },
+      {
+        "title": "原始媒体：Alisha Kyani",
+        "url": "https://www.youtube.com/watch?v=fu1nict5La4"
+      }
+    ]
+  },
+  "elon-qm-only-here-elon-musk-q-a-at-iac-conference-about-mars-colonizatio": {
+    "takeaway": "参考档案收录的大会演讲资料，发布渠道为 Elon Musk，视频时长约 31 分钟。原始标题为《ONLY Here! Elon Musk Q&A at IAC conference about Mars Colonization Plan | SpaceX News》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的大会演讲资料，发布渠道为 Elon Musk，视频时长约 31 分钟。原始标题为《ONLY Here! Elon Musk Q&A at IAC conference about Mars Colonization Plan | SpaceX News》。本条保留原始媒体与档案来源。",
+          "原站将本条归为大会演讲，时长约 31 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：独家：马斯克在IAC大会问答火星殖民计划 | SpaceX News",
+        "url": "https://elon.qiaomu.ai/ep/only-here-elon-musk-q-a-at-iac-conference-about-mars-colonizatio/"
+      },
+      {
+        "title": "原始媒体：Elon Musk",
+        "url": "https://www.youtube.com/watch?v=0vz1JOKyvbU"
+      }
+    ]
+  },
+  "elon-qm-tesla-gigafactory-grand-opening-elon-musk-29-2017-full": {
+    "takeaway": "2017年7月，内华达州的沙漠里，一栋还没盖完的厂房办了场开业典礼。马斯克站在台上说的第一件事，是台下这块地方只完工了14%，七分之一。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2017年7月，内华达州的沙漠里，一栋还没盖完的厂房办了场开业典礼。马斯克站在台上说的第一件事，是台下这块地方只完工了14%，七分之一。",
+          "原站将本条归为访谈，时长约 31 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla Gigafactory开业典礼：马斯克完整演讲（2017）",
+        "url": "https://elon.qiaomu.ai/ep/tesla-gigafactory-grand-opening-elon-musk-29-2017-full/"
+      },
+      {
+        "title": "原始媒体：Corrin Boes",
+        "url": "https://www.youtube.com/watch?v=1N5NcufQPjY"
+      }
+    ]
+  },
+  "elon-qm-tesla-shareholders-meeting-2017-elon-musk-2": {
+    "takeaway": "特斯拉 2017 年股东大会上，马斯克花了一大段时间，公开说造 Model X 的方式是“傲慢至极”。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "特斯拉 2017 年股东大会上，马斯克花了一大段时间，公开说造 Model X 的方式是“傲慢至极”。",
+          "原站将本条归为股东会，时长约 15 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla 2017股东大会：马斯克（第二部分）",
+        "url": "https://elon.qiaomu.ai/ep/tesla-shareholders-meeting-2017-elon-musk-2/"
+      },
+      {
+        "title": "原始媒体：Borneo Grid",
+        "url": "https://www.youtube.com/watch?v=1es9fEZ9CF8"
+      }
+    ]
+  },
+  "elon-qm-live-trump-elon-musk-hold-press-conference": {
+    "takeaway": "记者会开始前，在场的人盯着马斯克右眼下方那块淤青看。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "记者会开始前，在场的人盯着马斯克右眼下方那块淤青看。",
+          "原站将本条归为政府活动，时长约 49 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：直播：特朗普与马斯克举行新闻发布会",
+        "url": "https://elon.qiaomu.ai/ep/live-trump-elon-musk-hold-press-conference/"
+      },
+      {
+        "title": "原始媒体：ABC 7 Chicago",
+        "url": "https://www.youtube.com/watch?v=BPsaqkh6COU"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-keynote-interview-at-nga-2017-07-15-part-1-4": {
+    "takeaway": "参考档案收录的发布会资料，发布渠道为 Francisco West，视频时长约 24 分钟。原始标题为《Elon Musk Keynote/Interview at NGA 2017 07 15 [Part 1/4]》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的发布会资料，发布渠道为 Francisco West，视频时长约 24 分钟。原始标题为《Elon Musk Keynote/Interview at NGA 2017 07 15 [Part 1/4]》。本条保留原始媒体与档案来源。",
+          "原站将本条归为发布会，时长约 24 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在NGA 2017主题演讲/访谈（第1/4部分）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-keynote-interview-at-nga-2017-07-15-part-1-4/"
+      },
+      {
+        "title": "原始媒体：Francisco West",
+        "url": "https://www.youtube.com/watch?v=FuW8igW6aSI"
+      }
+    ]
+  },
+  "elon-qm-spacex-ses-10-post-launch-news-conference-with-elon-musk-360-vr": {
+    "takeaway": "2017 年 3 月 30 日傍晚，佛罗里达州卡纳维拉尔角。一枚猎鹰 9 号（Falcon 9）火箭把 SES-10 通信卫星送上地球同步转移轨道，一级助推器随后掉头飞回，稳稳落在海上无人船的甲板上。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2017 年 3 月 30 日傍晚，佛罗里达州卡纳维拉尔角。一枚猎鹰 9 号（Falcon 9）火箭把 SES-10 通信卫星送上地球同步转移轨道，一级助推器随后掉头飞回，稳稳落在海上无人船的甲板上。",
+          "原站将本条归为媒体，时长约 50 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：SpaceX SES 10发射后新闻发布会：马斯克（360 VR 4K）",
+        "url": "https://elon.qiaomu.ai/ep/spacex-ses-10-post-launch-news-conference-with-elon-musk-360-vr/"
+      },
+      {
+        "title": "原始媒体：Space News 360",
+        "url": "https://www.youtube.com/watch?v=I2gzOjVjqPc"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-2017-tedtalk-mars-solar-roof-artificial-inte": {
+    "takeaway": "2017年，马斯克坐在TED的舞台上，被问了一个不太客气的问题：你为什么要去挖洞？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2017年，马斯克坐在TED的舞台上，被问了一个不太客气的问题：你为什么要去挖洞？",
+          "原站将本条归为访谈，时长约 41 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克2017 TED访谈：火星、太阳能屋顶与人工智能",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-2017-tedtalk-mars-solar-roof-artificial-inte/"
+      },
+      {
+        "title": "原始媒体：Elon Musk 2017",
+        "url": "https://www.youtube.com/watch?v=PRgwK552_5Q"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-2017-interview-nga-conference": {
+    "takeaway": "2017 年，美国全国州长协会（NGA）的会场里坐着三十多位州长。马斯克上台干的第一件事是解领带。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2017 年，美国全国州长协会（NGA）的会场里坐着三十多位州长。马斯克上台干的第一件事是解领带。",
+          "原站将本条归为大会演讲，时长约 67 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克2017 NGA大会访谈",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-2017-interview-nga-conference/"
+      },
+      {
+        "title": "原始媒体：Gianna Maria Letizia Ciulla",
+        "url": "https://www.youtube.com/watch?v=X_6LER4acwY"
+      }
+    ]
+  },
+  "elon-qm-a-conversation-with-elon-musk-ceo-of-tesla-inc-at-world-governme": {
+    "takeaway": "2017年2月，迪拜世界政府峰会。台下坐着上百个国家的政府代表，主持人把马斯克和牛顿、爱因斯坦、莱特兄弟并列介绍了一遍。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2017年2月，迪拜世界政府峰会。台下坐着上百个国家的政府代表，主持人把马斯克和牛顿、爱因斯坦、莱特兄弟并列介绍了一遍。",
+          "原站将本条归为大会演讲，时长约 63 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：对话Tesla CEO马斯克：2017迪拜世界政府峰会",
+        "url": "https://elon.qiaomu.ai/ep/a-conversation-with-elon-musk-ceo-of-tesla-inc-at-world-governme/"
+      },
+      {
+        "title": "原始媒体：Khaleej Times",
+        "url": "https://www.youtube.com/watch?v=jBuLgBX2bKQ"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-2017-dubai-smmit": {
+    "takeaway": "2017年2月，迪拜，世界政府峰会（World Government Summit）。台下坐着139个国家的政府代表，台上是马斯克。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2017年2月，迪拜，世界政府峰会（World Government Summit）。台下坐着139个国家的政府代表，台上是马斯克。",
+          "原站将本条归为访谈，时长约 36 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克2017迪拜峰会访谈",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-2017-dubai-smmit/"
+      },
+      {
+        "title": "原始媒体：Pure Infotainment",
+        "url": "https://www.youtube.com/watch?v=lbkO2a2T6Cs"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-at-tesla-model-3-final-unveil-delivery-event-car-specs": {
+    "takeaway": "参考档案收录的发布会资料，发布渠道为 Francisco West，视频时长约 23 分钟。原始标题为《Elon Musk at Tesla Model 3 Final Unveil/Delivery Event Car Specs 2017 07 28 (Part 1 of 2)》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的发布会资料，发布渠道为 Francisco West，视频时长约 23 分钟。原始标题为《Elon Musk at Tesla Model 3 Final Unveil/Delivery Event Car Specs 2017 07 28 (Part 1 of 2)》。本条保留原始媒体与档案来源。",
+          "原站将本条归为发布会，时长约 23 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在Tesla Model 3最终发布/交付活动：车辆规格（2017.7.28，第1/2部分）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-at-tesla-model-3-final-unveil-delivery-event-car-specs/"
+      },
+      {
+        "title": "原始媒体：Francisco West",
+        "url": "https://www.youtube.com/watch?v=qTG4g6r5erM"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-keynote-tesla-launch-in-dubai-armani-hotel-burj-khalif": {
+    "takeaway": "2017 年 2 月，迪拜市中心，哈利法塔（Burj Khalifa）底部的 Armani Hotel。马斯克上台后先报了三个数字：2.27、2.4、1.2。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2017 年 2 月，迪拜市中心，哈利法塔（Burj Khalifa）底部的 Armani Hotel。马斯克上台后先报了三个数字：2.27、2.4、1.2。",
+          "原站将本条归为发布会，时长约 8 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克主题演讲：Tesla迪拜发布会在Armani Hotel Burj Khalifa",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-keynote-tesla-launch-in-dubai-armani-hotel-burj-khalif/"
+      },
+      {
+        "title": "原始媒体：Walied Albasheer",
+        "url": "https://www.youtube.com/watch?v=rfYU3qoVelw"
+      }
+    ]
+  },
+  "elon-qm-voices-from-l5-elon-musk-s-iac-talk": {
+    "takeaway": "2017年9月，澳大利亚阿德莱德，国际宇航大会（IAC）。马斯克站在台上，抛出一个听上去像段子的数字：把去火星的成本降低500万倍。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2017年9月，澳大利亚阿德莱德，国际宇航大会（IAC）。马斯克站在台上，抛出一个听上去像段子的数字：把去火星的成本降低500万倍。",
+          "原站将本条归为访谈，时长约 40 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：L5之声：马斯克的IAC演讲",
+        "url": "https://elon.qiaomu.ai/ep/voices-from-l5-elon-musk-s-iac-talk/"
+      },
+      {
+        "title": "原始媒体：Voices From L5",
+        "url": "https://www.youtube.com/watch?v=sth4TWhO3Mo"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-unveils-the-tesla-semi-truck-2017-11-16-part-1-of-3": {
+    "takeaway": "一辆车在画面里飞快地加速，另一辆车看起来像根本没动。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一辆车在画面里飞快地加速，另一辆车看起来像根本没动。",
+          "原站将本条归为发布会，时长约 8 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克发布Tesla Semi卡车（2017.11.16，第1/3部分）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-unveils-the-tesla-semi-truck-2017-11-16-part-1-of-3/"
+      },
+      {
+        "title": "原始媒体：Tuấn Kiệt",
+        "url": "https://www.youtube.com/watch?v=tVIbBSJm7w8"
+      }
+    ]
+  },
+  "elon-qm-the-boring-company-video-and-elon-musk-ted-talk-teslanomics-live": {
+    "takeaway": "卖油的开始替不烧油的车算销量。2017 年春天，几家大型石油公司先后发布预测，说到 2030 年，电动车会占到整个汽车市场的三成左右。数据是彭博社整理的，Ben Sullins 在他的直播节目 Teslanomics Live 里把这条摆在第一个讲。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "卖油的开始替不烧油的车算销量。2017 年春天，几家大型石油公司先后发布预测，说到 2030 年，电动车会占到整个汽车市场的三成左右。数据是彭博社整理的，Ben Sullins 在他的直播节目 Teslanomics Live 里把这条摆在第一个讲。",
+          "原站将本条归为大会演讲，时长约 53 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：The Boring Company视频与马斯克TED演讲 | Teslanomics直播",
+        "url": "https://elon.qiaomu.ai/ep/the-boring-company-video-and-elon-musk-ted-talk-teslanomics-live/"
+      },
+      {
+        "title": "原始媒体：Ben Sullins",
+        "url": "https://www.youtube.com/watch?v=teMUVxfaj1g"
+      }
+    ]
+  },
+  "elon-qm-interview-with-elon-musk-at-mit-s-symposium": {
+    "takeaway": "2017年，MIT航空航天系百年庆典的最后一场对话，主持人问马斯克：送人去火星，还需要发展哪两三项关键技术？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2017年，MIT航空航天系百年庆典的最后一场对话，主持人问马斯克：送人去火星，还需要发展哪两三项关键技术？",
+          "原站将本条归为大会演讲，时长约 83 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在MIT研讨会访谈",
+        "url": "https://elon.qiaomu.ai/ep/interview-with-elon-musk-at-mit-s-symposium/"
+      },
+      {
+        "title": "原始媒体：Elon Musk",
+        "url": "https://www.youtube.com/watch?v=vFrlko2bxtY"
+      }
+    ]
+  },
+  "elon-qm-full-speech-of-elon-musk-iac-2017": {
+    "takeaway": "2017 年 9 月，澳大利亚阿德莱德，国际宇航大会的最后一场。马斯克上台讲了四十多分钟，中途放了一段动画：一艘银色飞船从地球起飞，在轨道上加满燃料，飞向火星，最后垂直落在红色荒原上。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2017 年 9 月，澳大利亚阿德莱德，国际宇航大会的最后一场。马斯克上台讲了四十多分钟，中途放了一段动画：一艘银色飞船从地球起飞，在轨道上加满燃料，飞向火星，最后垂直落在红色荒原上。",
+          "原站将本条归为访谈，时长约 44 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克IAC 2017完整演讲",
+        "url": "https://elon.qiaomu.ai/ep/full-speech-of-elon-musk-iac-2017/"
+      },
+      {
+        "title": "原始媒体：SameerKDV",
+        "url": "https://www.youtube.com/watch?v=wM5D_SPBIv8"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-2017-gives-the-big-picture-at-governors-meeting": {
+    "takeaway": "用太阳能板给整个美国供电，需要多大面积？马斯克在 2017 年的一场州长会议上给出了答案：内华达、得州或犹他州的一块地，100 英里见方。存下这些电需要的电池，1 英里见方。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "用太阳能板给整个美国供电，需要多大面积？马斯克在 2017 年的一场州长会议上给出了答案：内华达、得州或犹他州的一块地，100 英里见方。存下这些电需要的电池，1 英里见方。",
+          "原站将本条归为访谈，时长约 68 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克2017州长会议纵论大局",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-2017-gives-the-big-picture-at-governors-meeting/"
+      },
+      {
+        "title": "原始媒体：archive.org · Maria Letizia",
+        "url": "https://archive.org/download/youtube-1erPKL1LJcE/1erPKL1LJcE.mp4"
+      }
+    ]
+  },
+  "elon-qm-space-x-bfr-elon-musk-s-full-speech-at-iac-2017-adelaide-austral": {
+    "takeaway": "一架只能坐几个人的单引擎涡桨飞机，售价 150 万到 200 万美元。从加州租一架波音 747 飞一趟澳大利亚再飞回来，50 万美元。而涡桨飞机根本飞不到澳大利亚。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一架只能坐几个人的单引擎涡桨飞机，售价 150 万到 200 万美元。从加州租一架波音 747 飞一趟澳大利亚再飞回来，50 万美元。而涡桨飞机根本飞不到澳大利亚。",
+          "原站将本条归为访谈，时长约 41 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：SpaceX BFR：马斯克在IAC 2017阿德莱德完整演讲",
+        "url": "https://elon.qiaomu.ai/ep/space-x-bfr-elon-musk-s-full-speech-at-iac-2017-adelaide-austral/"
+      },
+      {
+        "title": "原始媒体：freakabd1291",
+        "url": "https://www.youtube.com/watch?v=zDUNnfXvzcg"
+      }
+    ]
+  },
+  "elon-qm-tesla-model-3-elon-musk-speech-delivery-event-july-2017-4k": {
+    "takeaway": "2017年7月28日，加州弗里蒙特工厂外面搭起了台子。特斯拉要交付第一批Model 3，一共30辆，车主大半是自家员工。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2017年7月28日，加州弗里蒙特工厂外面搭起了台子。特斯拉要交付第一批Model 3，一共30辆，车主大半是自家员工。",
+          "原站将本条归为访谈，时长约 17 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla Model 3交付活动：马斯克演讲（2017年7月，4K）",
+        "url": "https://elon.qiaomu.ai/ep/tesla-model-3-elon-musk-speech-delivery-event-july-2017-4k/"
+      },
+      {
+        "title": "原始媒体：KmanAuto",
+        "url": "https://www.youtube.com/watch?v=ONSVPbRBEvc"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-full-interview-july-15-2017-nga-conference": {
+    "takeaway": "一个常年抱怨监管的人，站在三十多位美国州长面前，说有一件事必须提前监管。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一个常年抱怨监管的人，站在三十多位美国州长面前，说有一件事必须提前监管。",
+          "原站将本条归为大会演讲，时长约 60 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克完整访谈：2017.7.15 NGA大会",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-full-interview-july-15-2017-nga-conference/"
+      },
+      {
+        "title": "原始媒体：Caleb Brandalise",
+        "url": "https://www.youtube.com/watch?v=PeKqlDURpf8"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-new-iss-conference-july-19-2017": {
+    "takeaway": "2017 年 7 月 19 日，ISS R&D 大会（国际空间站研发会议）的台上，主持人问马斯克怎么看猎鹰重型（Falcon Heavy）首飞的风险。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2017 年 7 月 19 日，ISS R&D 大会（国际空间站研发会议）的台上，主持人问马斯克怎么看猎鹰重型（Falcon Heavy）首飞的风险。",
+          "原站将本条归为大会演讲，时长约 56 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克亮相ISS大会（2017.7.19）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-new-iss-conference-july-19-2017/"
+      },
+      {
+        "title": "原始媒体：saywhaaat",
+        "url": "https://www.youtube.com/watch?v=2bbnvc5hiEA"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-full-talk-iss-r-d-conference-july-19-2017-spacex-nasa": {
+    "takeaway": "2017年7月，马斯克出现在ISS研发大会（ISS R&D Conference）的台上，跟NASA空间站项目经理Kirk Shireman聊了一个小时。开场没多久，他就给台下所有人泼了一盆冷水，说的是Falcon Heavy。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2017年7月，马斯克出现在ISS研发大会（ISS R&D Conference）的台上，跟NASA空间站项目经理Kirk Shireman聊了一个小时。开场没多久，他就给台下所有人泼了一盆冷水，说的是Falcon Heavy。",
+          "原站将本条归为大会演讲，时长约 76 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 ISS 研发大会完整演讲：SpaceX、NASA、隧道、太阳能",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-full-talk-iss-r-d-conference-july-19-2017-spacex-nasa/"
+      },
+      {
+        "title": "原始媒体：Caleb Brandalise",
+        "url": "https://www.youtube.com/watch?v=Jv5LjA62Uw8"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-iss-r-d-conference-july-19-2017": {
+    "takeaway": "很长一段时间，我的密码是“I love NASA”。马斯克说这话时，台下笑成一片。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "很长一段时间，我的密码是“I love NASA”。马斯克说这话时，台下笑成一片。",
+          "原站将本条归为大会演讲，时长约 87 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在 ISS 研发大会（2017.7.19）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-iss-r-d-conference-july-19-2017/"
+      },
+      {
+        "title": "原始媒体：Space SPAN (Science Policy and News)",
+        "url": "https://www.youtube.com/watch?v=tzo0BtGf9oA"
+      }
+    ]
+  },
+  "elon-qm-new-september-2017-speech-from-elon-musk-on-spacex-developments": {
+    "takeaway": "2017年9月，澳大利亚阿德莱德，国际宇航大会。马斯克站在台上，身后是一张巨大的火箭渲染图。他没有先讲技术，先讲了一笔账。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2017年9月，澳大利亚阿德莱德，国际宇航大会。马斯克站在台上，身后是一张巨大的火箭渲染图。他没有先讲技术，先讲了一笔账。",
+          "原站将本条归为访谈，时长约 41 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 2017 年 9 月演讲：SpaceX 新进展",
+        "url": "https://elon.qiaomu.ai/ep/new-september-2017-speech-from-elon-musk-on-spacex-developments/"
+      },
+      {
+        "title": "原始媒体：TheRealMultimix",
+        "url": "https://www.youtube.com/watch?v=yM0kgcoChpM"
+      }
+    ]
+  },
+  "elon-qm-full-hd-new-tesla-roadster-unveiled-by-elon-musk-nov-16-2017": {
+    "takeaway": "2017 年 11 月 16 日晚上，洛杉矶霍桑的 Tesla 设计工作室。一辆白色重卡开上台，马斯克站在台下说了句奇怪的话：这车里还装着货，我们把货弄出来。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2017 年 11 月 16 日晚上，洛杉矶霍桑的 Tesla 设计工作室。一辆白色重卡开上台，马斯克站在台下说了句奇怪的话：这车里还装着货，我们把货弄出来。",
+          "原站将本条归为发布会，时长约 9 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：[Full HD] 马斯克发布全新 Tesla Roadster（2017.11.16）",
+        "url": "https://elon.qiaomu.ai/ep/full-hd-new-tesla-roadster-unveiled-by-elon-musk-nov-16-2017/"
+      },
+      {
+        "title": "原始媒体：NKvideos soedivKN",
+        "url": "https://www.youtube.com/watch?v=VIT3R9L4sgo"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-talks-about-tesla-model-3-model-y-roadster-semi-at-201": {
+    "takeaway": "特斯拉最大的长期竞争优势是什么？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "特斯拉最大的长期竞争优势是什么？",
+          "原站将本条归为股东会，时长约 50 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克谈 Tesla Model 3、Model Y、Roadster、Semi：2018 年度股东大会",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-talks-about-tesla-model-3-model-y-roadster-semi-at-201/"
+      },
+      {
+        "title": "原始媒体：DPCcars",
+        "url": "https://www.youtube.com/watch?v=-3WRQbCJRMI"
+      }
+    ]
+  },
+  "elon-qm-tesla-semi-roadster-unveil": {
+    "takeaway": "一台大小能塞进行李箱的电机，拖着八万两千磅的挂车，在6%的坡道上加速超车。这是 Tesla 在 Semi 交付会上放的实拍视频，速度表一直在往上走。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一台大小能塞进行李箱的电机，拖着八万两千磅的挂车，在6%的坡道上加速超车。这是 Tesla 在 Semi 交付会上放的实拍视频，速度表一直在往上走。",
+          "原站将本条归为发布会，时长约 35 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla Semi 与 Roadster 发布",
+        "url": "https://elon.qiaomu.ai/ep/tesla-semi-roadster-unveil/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=5RRmepp7i5g"
+      }
+    ]
+  },
+  "elon-qm-former-facebook-exec-chamath-palihapitiya-on-social-media-bitcoi": {
+    "takeaway": "查马斯·帕里哈皮蒂亚（Chamath Palihapitiya）家里没有屏幕时间这回事。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "查马斯·帕里哈皮蒂亚（Chamath Palihapitiya）家里没有屏幕时间这回事。",
+          "原站将本条归为访谈，时长约 45 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：前 Facebook 高管查马斯·帕里哈皮蒂亚谈社交媒体、比特币与马斯克（完整版）| CNBC",
+        "url": "https://elon.qiaomu.ai/ep/former-facebook-exec-chamath-palihapitiya-on-social-media-bitcoi/"
+      },
+      {
+        "title": "原始媒体：CNBC",
+        "url": "https://www.youtube.com/watch?v=5zyRpq2ODrE"
+      }
+    ]
+  },
+  "elon-qm-the-boring-company-information-session": {
+    "takeaway": "2018 年一个晚上，洛杉矶塞普尔维达山口（Sepulveda Pass）的一座犹太教堂里坐满了人。拉比 Ken Chason 的开场白很实在：各位今晚能坐到这儿，本身就是个小奇迹。要去这座教堂，只有两条路可选，405 号高速和塞普尔维达大道，或者两条都走。晚高峰走这两条路，堵是标配。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2018 年一个晚上，洛杉矶塞普尔维达山口（Sepulveda Pass）的一座犹太教堂里坐满了人。拉比 Ken Chason 的开场白很实在：各位今晚能坐到这儿，本身就是个小奇迹。要去这座教堂，只有两条路可选，405 号高速和塞普尔维达大道，或者两条都走。晚高峰走这两条路，堵是标配。",
+          "原站将本条归为访谈，时长约 72 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：The Boring Company 信息说明会",
+        "url": "https://elon.qiaomu.ai/ep/the-boring-company-information-session/"
+      },
+      {
+        "title": "原始媒体：The Boring Company",
+        "url": "https://www.youtube.com/watch?v=AwX9G38vdCE"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-press-conference-talk-after-falcon-heavy-test-launch": {
+    "takeaway": "2018年2月6日，佛罗里达，肯尼迪航天中心39A发射台。猎鹰重型（Falcon Heavy）首飞，两枚侧助推器在相隔不到几秒的时间里先后触地，稳稳站住。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2018年2月6日，佛罗里达，肯尼迪航天中心39A发射台。猎鹰重型（Falcon Heavy）首飞，两枚侧助推器在相隔不到几秒的时间里先后触地，稳稳站住。",
+          "原站将本条归为媒体，时长约 32 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 Falcon Heavy 试射后新闻发布会",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-press-conference-talk-after-falcon-heavy-test-launch/"
+      },
+      {
+        "title": "原始媒体：Julian Danzer (HAL9001)",
+        "url": "https://www.youtube.com/watch?v=EJDGxXxX4_g"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-spacex-interplanetary-transport-system-presentation-fu": {
+    "takeaway": "屏幕上出现一张维恩图，两个圆圈几乎不相交。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "屏幕上出现一张维恩图，两个圆圈几乎不相交。",
+          "原站将本条归为发布会，时长约 65 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克：SpaceX 星际运输系统演示 | 完整活动 HD",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-spacex-interplanetary-transport-system-presentation-fu/"
+      },
+      {
+        "title": "原始媒体：Official Events",
+        "url": "https://www.youtube.com/watch?v=HOVsqmfLXhE"
+      }
+    ]
+  },
+  "elon-qm-talking-tech-with-elon-musk": {
+    "takeaway": "89%。这是马斯克给自己在特斯拉的时间分配估出的比例。工厂、设计会议、工程会议、生产会议，占掉了绝大部分。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "89%。这是马斯克给自己在特斯拉的时间分配估出的比例。工厂、设计会议、工程会议、生产会议，占掉了绝大部分。",
+          "原站将本条归为访谈，时长约 18 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：与马斯克聊科技",
+        "url": "https://elon.qiaomu.ai/ep/talking-tech-with-elon-musk/"
+      },
+      {
+        "title": "原始媒体：Marques Brownlee",
+        "url": "https://www.youtube.com/watch?v=MevKTPN4ozw"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-unveils-the-tesla-semi-truck-roadster-2-full-video": {
+    "takeaway": "风阻系数0.36。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "风阻系数0.36。",
+          "原站将本条归为发布会，时长约 34 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克发布 Tesla Semi 卡车与 Roadster 2 [完整视频]",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-unveils-the-tesla-semi-truck-roadster-2-full-video/"
+      },
+      {
+        "title": "原始媒体：RalliHeart Infra.Trans.Logistics",
+        "url": "https://www.youtube.com/watch?v=Txs8p7UgLpk"
+      }
+    ]
+  },
+  "elon-qm-surprising-revelations-from-elon-musk-interview-humans-underrate": {
+    "takeaway": "2018 年 4 月，马斯克在推特上写了一句让不少人意外的话：「是的，特斯拉的过度自动化是一个错误。更准确地说，是我的错误。人类被低估了。」",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2018 年 4 月，马斯克在推特上写了一句让不少人意外的话：「是的，特斯拉的过度自动化是一个错误。更准确地说，是我的错误。人类被低估了。」",
+          "原站将本条归为大会演讲，时长约 26 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克专访惊人爆料：人类被低估了？[直播]",
+        "url": "https://elon.qiaomu.ai/ep/surprising-revelations-from-elon-musk-interview-humans-underrate/"
+      },
+      {
+        "title": "原始媒体：Ben Sullins",
+        "url": "https://www.youtube.com/watch?v=XXCDYAozAA0"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-talks-ai-artificial-intelligence": {
+    "takeaway": "2018年，亚利桑那州一场对谈上，州长道格·杜西（Doug Ducey）把问题顶了回去。他说自己整个任期都在努力削减监管，结果听到马斯克建议“在搞清楚AI是什么之前先设监管机构”，他很意外。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2018年，亚利桑那州一场对谈上，州长道格·杜西（Doug Ducey）把问题顶了回去。他说自己整个任期都在努力削减监管，结果听到马斯克建议“在搞清楚AI是什么之前先设监管机构”，他很意外。",
+          "原站将本条归为访谈，时长约 23 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克谈 AI（人工智能）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-talks-ai-artificial-intelligence/"
+      },
+      {
+        "title": "原始媒体：Entiversal",
+        "url": "https://www.youtube.com/watch?v=eJwYM_QrkkQ"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-spacex-bfr-presentation-full-event-hd": {
+    "takeaway": "一架小型单发涡桨飞机，售价 150 万到 200 万美元。从加州包一架 747 飞澳大利亚往返，50 万美元。而那架小飞机根本飞不到澳大利亚。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一架小型单发涡桨飞机，售价 150 万到 200 万美元。从加州包一架 747 飞澳大利亚往返，50 万美元。而那架小飞机根本飞不到澳大利亚。",
+          "原站将本条归为发布会，时长约 43 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克：SpaceX BFR 演示 | 完整活动 HD",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-spacex-bfr-presentation-full-event-hd/"
+      },
+      {
+        "title": "原始媒体：Official Events",
+        "url": "https://www.youtube.com/watch?v=etYdq5mufLo"
+      }
+    ]
+  },
+  "elon-qm-tesla-ceo-elon-musk-offers-rare-look-inside-model-3-factory": {
+    "takeaway": "2018 年 4 月的加州弗里蒙特，特斯拉工厂的一块白板上写着一个数字：2071。这是过去七天 Model 3 的产量。马斯克（Elon Musk）站在白板旁边，CBS 记者问他，对这个数字满意吗。他说，暂时满意。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2018 年 4 月的加州弗里蒙特，特斯拉工厂的一块白板上写着一个数字：2071。这是过去七天 Model 3 的产量。马斯克（Elon Musk）站在白板旁边，CBS 记者问他，对这个数字满意吗。他说，暂时满意。",
+          "原站将本条归为访谈，时长约 7 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla CEO 马斯克罕见带看 Model 3 工厂",
+        "url": "https://elon.qiaomu.ai/ep/tesla-ceo-elon-musk-offers-rare-look-inside-model-3-factory/"
+      },
+      {
+        "title": "原始媒体：CBS Mornings",
+        "url": "https://www.youtube.com/watch?v=lOz7cPJQd8E"
+      }
+    ]
+  },
+  "elon-qm-crazy-things-can-come-true-elon-musk-discusses-falcon-heavy-laun": {
+    "takeaway": "2018年2月6日下午，佛罗里达肯尼迪航天中心39A发射台，猎鹰重型（Falcon Heavy）第一次飞。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2018年2月6日下午，佛罗里达肯尼迪航天中心39A发射台，猎鹰重型（Falcon Heavy）第一次飞。",
+          "原站将本条归为媒体，时长约 31 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：“疯狂的事也能成真”：马斯克谈 Falcon Heavy 发射（完整发布会）",
+        "url": "https://elon.qiaomu.ai/ep/crazy-things-can-come-true-elon-musk-discusses-falcon-heavy-laun/"
+      },
+      {
+        "title": "原始媒体：Global News",
+        "url": "https://www.youtube.com/watch?v=sytrrdOPYzA"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-in-falcon-heavy-post-launch-press-conference-full-inte": {
+    "takeaway": "2018年2月6日下午，佛罗里达肯尼迪航天中心39A发射台。一枚27台发动机的火箭升空，两分半钟后两个侧助推器脱离、掉头、点火减速，在相隔几公里的两片着陆场上几乎同时竖起支架站住。控制室里有人喊出声来。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2018年2月6日下午，佛罗里达肯尼迪航天中心39A发射台。一枚27台发动机的火箭升空，两分半钟后两个侧助推器脱离、掉头、点火减速，在相隔几公里的两片着陆场上几乎同时竖起支架站住。控制室里有人喊出声来。",
+          "原站将本条归为媒体，时长约 45 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克出席 Falcon Heavy 发射后发布会：完整采访",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-in-falcon-heavy-post-launch-press-conference-full-inte/"
+      },
+      {
+        "title": "原始媒体：Inside Story",
+        "url": "https://www.youtube.com/watch?v=zQkAlaZIs1s"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-tesla-shareholder-meeting-june-2018": {
+    "takeaway": "2018年6月，特斯拉股东大会。马斯克上台，先讲了一个数字：所有生产线都已经证明，每天能造500辆，也就是每周3500辆。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2018年6月，特斯拉股东大会。马斯克上台，先讲了一个数字：所有生产线都已经证明，每天能造500辆，也就是每周3500辆。",
+          "原站将本条归为股东会，时长约 32 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 Tesla 股东大会（2018年6月）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-tesla-shareholder-meeting-june-2018/"
+      },
+      {
+        "title": "原始媒体：Official Events",
+        "url": "https://www.youtube.com/watch?v=Ep0Ns5EeGu4"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-tesla-shareholder-q-a-june-2018": {
+    "takeaway": "2018年6月，特斯拉刚爬出 Model 3 的产能地狱。股东大会的问答环节，一位长期股东站起来，先说了句 I hate to say this，然后说：我对特斯拉时间表的信任，被 Model 3 的爬坡一点点磨掉了。我该继续给你们的日期打折吗？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2018年6月，特斯拉刚爬出 Model 3 的产能地狱。股东大会的问答环节，一位长期股东站起来，先说了句 I hate to say this，然后说：我对特斯拉时间表的信任，被 Model 3 的爬坡一点点磨掉了。我该继续给你们的日期打折吗？",
+          "原站将本条归为股东会，时长约 31 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 Tesla 股东问答（2018年6月）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-tesla-shareholder-q-a-june-2018/"
+      },
+      {
+        "title": "原始媒体：Official Events",
+        "url": "https://www.youtube.com/watch?v=f2zSuomAizg"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-boring-company-chicago-to-o-hare-press-conference-june": {
+    "takeaway": "从芝加哥市中心到奥黑尔国际机场（O'Hare），今天最快的公共交通是蓝线地铁，四十多分钟。开车走肯尼迪高速，遇上早晚高峰就没谱了。2018 年 6 月 14 日，市长拉姆·伊曼纽尔（Rahm Emanuel）在发布会上给出的新数字是 12 分钟。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "从芝加哥市中心到奥黑尔国际机场（O'Hare），今天最快的公共交通是蓝线地铁，四十多分钟。开车走肯尼迪高速，遇上早晚高峰就没谱了。2018 年 6 月 14 日，市长拉姆·伊曼纽尔（Rahm Emanuel）在发布会上给出的新数字是 12 分钟。",
+          "原站将本条归为媒体，时长约 31 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 The Boring Company：芝加哥至奥黑尔新闻发布会（2018年6月14日）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-boring-company-chicago-to-o-hare-press-conference-june/"
+      },
+      {
+        "title": "原始媒体：State of Opportunity",
+        "url": "https://www.youtube.com/watch?v=Thm45AzxwIU"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-tesla-update-and-q-a-aug-1st-2018": {
+    "takeaway": "参考档案收录的发布会资料，发布渠道为 The Artificial Intelligence Channel，视频时长约 85 分钟。原始标题为《Elon Musk - Tesla Update and Q&A (Aug 1st, 2018)》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的发布会资料，发布渠道为 The Artificial Intelligence Channel，视频时长约 85 分钟。原始标题为《Elon Musk - Tesla Update and Q&A (Aug 1st, 2018)》。本条保留原始媒体与档案来源。",
+          "原站将本条归为发布会，时长约 85 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克：Tesla 最新进展与问答（2018年8月1日）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-tesla-update-and-q-a-aug-1st-2018/"
+      },
+      {
+        "title": "原始媒体：The Artificial Intelligence Channel",
+        "url": "https://www.youtube.com/watch?v=866ObwK1m2E"
+      }
+    ]
+  },
+  "elon-qm-tesla-ceo-elon-musk-the-60-minutes-interview": {
+    "takeaway": "参考档案收录的访谈资料，发布渠道为 top news usa，视频时长约 16 分钟。原始标题为《Tesla CEO Elon Musk The 60 Minutes Interview》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的访谈资料，发布渠道为 top news usa，视频时长约 16 分钟。原始标题为《Tesla CEO Elon Musk The 60 Minutes Interview》。本条保留原始媒体与档案来源。",
+          "原站将本条归为访谈，时长约 16 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla CEO 马斯克接受《60分钟》专访",
+        "url": "https://elon.qiaomu.ai/ep/tesla-ceo-elon-musk-the-60-minutes-interview/"
+      },
+      {
+        "title": "原始媒体：top news usa",
+        "url": "https://www.youtube.com/watch?v=-NdFD67YyD4"
+      }
+    ]
+  },
+  "elon-qm-billionaires-jack-ma-and-elon-musk-debate-at-world-artificial-in": {
+    "takeaway": "2019年，上海世界人工智能大会。台上坐着两个人，一个刚从火星梦里抽身，一个是刚从地球工地上回来。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2019年，上海世界人工智能大会。台上坐着两个人，一个刚从火星梦里抽身，一个是刚从地球工地上回来。",
+          "原站将本条归为大会演讲，时长约 48 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马云与马斯克在上海世界人工智能大会激辩",
+        "url": "https://elon.qiaomu.ai/ep/billionaires-jack-ma-and-elon-musk-debate-at-world-artificial-in/"
+      },
+      {
+        "title": "原始媒体：RepsUp100",
+        "url": "https://www.youtube.com/watch?v=2kAOuMor0jY"
+      }
+    ]
+  },
+  "elon-qm-neuralink-elon-musk-executive-team-presentation-full-talk-livest": {
+    "takeaway": "2019 年 7 月，Neuralink 第一次对外公开。马斯克上台没先讲愿景，先放了一段内部视频，然后说：这段不是素材库里的，就是公司自己拍的，你想知道在 Neuralink 上班是什么气氛，看这个。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2019 年 7 月，Neuralink 第一次对外公开。马斯克上台没先讲愿景，先放了一段内部视频，然后说：这段不是素材库里的，就是公司自己拍的，你想知道在 Neuralink 上班是什么气氛，看这个。",
+          "原站将本条归为发布会，时长约 102 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Neuralink：马斯克与高管团队演示 | 完整演讲直播",
+        "url": "https://elon.qiaomu.ai/ep/neuralink-elon-musk-executive-team-presentation-full-talk-livest/"
+      },
+      {
+        "title": "原始媒体：Elon Musk News",
+        "url": "https://www.youtube.com/watch?v=3RrkMF_x1qY"
+      }
+    ]
+  },
+  "elon-qm-tim-interviews-elon-musk-joe-s-advanced-summon-woes-and-q3-news": {
+    "takeaway": "一辆车停在一个几乎空无一人的停车场里，车主站在五十米外，掏出手机，按下了\"来找我\"。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一辆车停在一个几乎空无一人的停车场里，车主站在五十米外，掏出手机，按下了\"来找我\"。",
+          "原站将本条归为播客，时长约 108 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tim 专访马斯克、Joe 的智能召唤烦恼与 Q3 新闻 - 第54期",
+        "url": "https://elon.qiaomu.ai/ep/tim-interviews-elon-musk-joe-s-advanced-summon-woes-and-q3-news/"
+      },
+      {
+        "title": "原始媒体：Our Ludicrous Future",
+        "url": "https://www.youtube.com/watch?v=4MuesCbzZHs"
+      }
+    ]
+  },
+  "elon-qm-jack-ma-talk-with-elon-musk-about-ai-in-2019-waic": {
+    "takeaway": "2019 年 8 月 29 日，上海世界人工智能大会。马云和马斯克在台上对谈了四十多分钟，两个人几乎没有一个观点对得上。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2019 年 8 月 29 日，上海世界人工智能大会。马云和马斯克在台上对谈了四十多分钟，两个人几乎没有一个观点对得上。",
+          "原站将本条归为访谈，时长约 15 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马云对话马斯克：2019 WAIC 谈 AI",
+        "url": "https://elon.qiaomu.ai/ep/jack-ma-talk-with-elon-musk-about-ai-in-2019-waic/"
+      },
+      {
+        "title": "原始媒体：Freco Wang",
+        "url": "https://www.youtube.com/watch?v=J828JiyRurk"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-nasa-spacex-dm1-post-launch-press-conference": {
+    "takeaway": "2019年3月2日凌晨，佛罗里达，肯尼迪航天中心39A发射台。龙飞船2号（Crew Dragon，也称Dragon 2）刚刚入轨，NASA的发布会现场，主持人把话筒递给埃隆·马斯克。他开口的第一句跟庆祝无关。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2019年3月2日凌晨，佛罗里达，肯尼迪航天中心39A发射台。龙飞船2号（Crew Dragon，也称Dragon 2）刚刚入轨，NASA的发布会现场，主持人把话筒递给埃隆·马斯克。他开口的第一句跟庆祝无关。",
+          "原站将本条归为媒体，时长约 40 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克与 NASA/SpaceX DM1 发射后新闻发布会",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-nasa-spacex-dm1-post-launch-press-conference/"
+      },
+      {
+        "title": "原始媒体：Official Events",
+        "url": "https://www.youtube.com/watch?v=RbTJvJ6pM2s"
+      }
+    ]
+  },
+  "elon-qm-model-y-unveil": {
+    "takeaway": "2008年2月，特斯拉整个公司只造出过一辆车。序列号1，车主是马斯克本人。那辆车经常抛锚。为了造出第二辆，他们又花了三个月。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2008年2月，特斯拉整个公司只造出过一辆车。序列号1，车主是马斯克本人。那辆车经常抛锚。为了造出第二辆，他们又花了三个月。",
+          "原站将本条归为发布会，时长约 36 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Model Y 发布",
+        "url": "https://elon.qiaomu.ai/ep/model-y-unveil/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=Tb_Wn6K0uVs"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-s-full-interview-with-ark-invest-2019-audio-tesla-auto": {
+    "takeaway": "2019 年，ARK Invest 的三个人坐在弗里蒙特（Fremont）工厂里，问马斯克一个略带挑战意味的问题。分析师 Tasha Keeney 把他 2013 年说过的话翻了出来：自动驾驶最后 10% 极其困难，必须始终留一个人在环里。她想知道是什么让他改变了主意。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2019 年，ARK Invest 的三个人坐在弗里蒙特（Fremont）工厂里，问马斯克一个略带挑战意味的问题。分析师 Tasha Keeney 把他 2013 年说过的话翻了出来：自动驾驶最后 10% 极其困难，必须始终留一个人在环里。她想知道是什么让他改变了主意。",
+          "原站将本条归为访谈，时长约 28 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 Ark Invest 2019 完整专访音频：Tesla、自动驾驶与比特币",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-s-full-interview-with-ark-invest-2019-audio-tesla-auto/"
+      },
+      {
+        "title": "原始媒体：Billionaires Note",
+        "url": "https://www.youtube.com/watch?v=TrIeiSB_fB8"
+      }
+    ]
+  },
+  "elon-qm-tesla-autonomy-day": {
+    "takeaway": "2019 年 4 月 22 日，特斯拉在帕洛阿尔托总部办了一场\"自动驾驶日\"。马斯克上台时迟到了，先道歉，然后说这是公司第一次办这种活动，希望以后能办得勤一点，让外界跟上进展。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2019 年 4 月 22 日，特斯拉在帕洛阿尔托总部办了一场\"自动驾驶日\"。马斯克上台时迟到了，先道歉，然后说这是公司第一次办这种活动，希望以后能办得勤一点，让外界跟上进展。",
+          "原站将本条归为发布会，时长约 232 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla 自动驾驶日",
+        "url": "https://elon.qiaomu.ai/ep/tesla-autonomy-day/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=Ucp0TTmvqOE"
+      }
+    ]
+  },
+  "elon-qm-tesla-annual-shareholders-meeting": {
+    "takeaway": "参考档案收录的股东会资料，发布渠道为 Tesla，视频时长约 114 分钟。原始标题为《Tesla Annual Shareholders Meeting》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的股东会资料，发布渠道为 Tesla，视频时长约 114 分钟。原始标题为《Tesla Annual Shareholders Meeting》。本条保留原始媒体与档案来源。",
+          "原站将本条归为股东会，时长约 114 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla 年度股东大会",
+        "url": "https://elon.qiaomu.ai/ep/tesla-annual-shareholders-meeting/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=Va5i42D13cI"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-in-conversation-with-todd-howard-e3-coliseum-2019-pane": {
+    "takeaway": "2019 年的 E3 游戏展，马斯克和 Bethesda（贝塞斯达）的设计总监托德·霍华德（Todd Howard）坐到了同一张台上。台下坐着几万名游戏开发者，马斯克开口讲的却是自己十岁那年写的一个游戏。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2019 年的 E3 游戏展，马斯克和 Bethesda（贝塞斯达）的设计总监托德·霍华德（Todd Howard）坐到了同一张台上。台下坐着几万名游戏开发者，马斯克开口讲的却是自己十岁那年写的一个游戏。",
+          "原站将本条归为大会演讲，时长约 45 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克对话托德·霍华德 | E3 Coliseum 2019 座谈",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-in-conversation-with-todd-howard-e3-coliseum-2019-pane/"
+      },
+      {
+        "title": "原始媒体：gameslice",
+        "url": "https://www.youtube.com/watch?v=WVW50KRaBd8"
+      }
+    ]
+  },
+  "elon-qm-nasa-administrator-bridenstine-chats-with-elon-musk-of-spacex": {
+    "takeaway": "2001年，一个刚满30岁的互联网富豪飞到莫斯科，坐在谈判桌前，打算买下两枚俄罗斯退役的洲际弹道导弹。他不是要打仗。他想在火星上种一盆植物。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2001年，一个刚满30岁的互联网富豪飞到莫斯科，坐在谈判桌前，打算买下两枚俄罗斯退役的洲际弹道导弹。他不是要打仗。他想在火星上种一盆植物。",
+          "原站将本条归为访谈，时长约 17 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：NASA 局长布里登斯廷对话 SpaceX 马斯克",
+        "url": "https://elon.qiaomu.ai/ep/nasa-administrator-bridenstine-chats-with-elon-musk-of-spacex/"
+      },
+      {
+        "title": "原始媒体：NASA",
+        "url": "https://www.youtube.com/watch?v=X2t4l_yMStE"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-gives-timeline-for-fully-autonomous-cars": {
+    "takeaway": "2019年，马斯克坐在ARK Invest的播客话筒前，说了一句让整个自动驾驶行业竖起耳朵的话：大概到明年年底，一个人就可以在车里放心睡着，醒来时已经到达目的地。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2019年，马斯克坐在ARK Invest的播客话筒前，说了一句让整个自动驾驶行业竖起耳朵的话：大概到明年年底，一个人就可以在车里放心睡着，醒来时已经到达目的地。",
+          "原站将本条归为访谈，时长约 8 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克给出全自动驾驶汽车时间表",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-gives-timeline-for-fully-autonomous-cars/"
+      },
+      {
+        "title": "原始媒体：Yahoo Finance",
+        "url": "https://www.youtube.com/watch?v=h6zK5YwH4hk"
+      }
+    ]
+  },
+  "elon-qm-watch-elon-musk-s-original-neuralink-presentation": {
+    "takeaway": "2019 年 7 月 16 日，旧金山的加州科学院。马斯克上台后先花了半分钟澄清一件事：刚才那段开场视频不是素材库里的空镜，是 Neuralink 办公室的日常。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2019 年 7 月 16 日，旧金山的加州科学院。马斯克上台后先花了半分钟澄清一件事：刚才那段开场视频不是素材库里的空镜，是 Neuralink 办公室的日常。",
+          "原站将本条归为发布会，时长约 18 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：观看马斯克最初的 Neuralink 演示",
+        "url": "https://elon.qiaomu.ai/ep/watch-elon-musk-s-original-neuralink-presentation/"
+      },
+      {
+        "title": "原始媒体：CNET",
+        "url": "https://www.youtube.com/watch?v=lA77zsJ31nA"
+      }
+    ]
+  },
+  "elon-qm-the-boring-company-event-webcast": {
+    "takeaway": "世界上最快的隧道掘进机，比一只蜗牛慢14倍。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "世界上最快的隧道掘进机，比一只蜗牛慢14倍。",
+          "原站将本条归为访谈，时长约 28 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：The Boring Company 活动直播",
+        "url": "https://elon.qiaomu.ai/ep/the-boring-company-event-webcast/"
+      },
+      {
+        "title": "原始媒体：The Boring Company",
+        "url": "https://www.youtube.com/watch?v=nSIzsMlwMUY"
+      }
+    ]
+  },
+  "elon-qm-starship-update": {
+    "takeaway": "2019 年 9 月 28 日，德克萨斯州最南端的博卡奇卡（Boca Chica），风大得让人站不稳。马斯克站在台上说，希望你们能听清我在讲什么。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2019 年 9 月 28 日，德克萨斯州最南端的博卡奇卡（Boca Chica），风大得让人站不稳。马斯克站在台上说，希望你们能听清我在讲什么。",
+          "原站将本条归为发布会，时长约 86 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Starship 进展更新",
+        "url": "https://elon.qiaomu.ai/ep/starship-update/"
+      },
+      {
+        "title": "原始媒体：SpaceX",
+        "url": "https://www.youtube.com/watch?v=sOpMrVnjYeY"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-20th-feb-2019-interview": {
+    "takeaway": "2019年2月，马斯克对激光雷达（lidar）的评价只有一句话：依赖它是不明智的。当时整个自动驾驶行业把激光雷达当成安全冗余的标配，Waymo 的车顶顶着它，Cruise 的车顶也顶着它。马斯克说，那条路走不到终点。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2019年2月，马斯克对激光雷达（lidar）的评价只有一句话：依赖它是不明智的。当时整个自动驾驶行业把激光雷达当成安全冗余的标配，Waymo 的车顶顶着它，Cruise 的车顶也顶着它。马斯克说，那条路走不到终点。",
+          "原站将本条归为访谈，时长约 18 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 2019 年 2 月 20 日访谈",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-20th-feb-2019-interview/"
+      },
+      {
+        "title": "原始媒体：lolo",
+        "url": "https://www.youtube.com/watch?v=cf5PYoAUQY0"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-from-april-12-2019-with-lex-fridman-on-ai": {
+    "takeaway": "2019年4月12日，马斯克在特斯拉工厂里和MIT研究员莱克斯·弗里德曼（Lex Fridman）聊了两个小时。弗里德曼研究自动驾驶里的人机交互，他的团队跟了特斯拉车主三年，标注了上万次方向盘接管的数据。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2019年4月12日，马斯克在特斯拉工厂里和MIT研究员莱克斯·弗里德曼（Lex Fridman）聊了两个小时。弗里德曼研究自动驾驶里的人机交互，他的团队跟了特斯拉车主三年，标注了上万次方向盘接管的数据。",
+          "原站将本条归为播客，时长约 27 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 2019 年 4 月 12 日谈 AI：对话莱克斯·弗里德曼",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-from-april-12-2019-with-lex-fridman-on-ai/"
+      },
+      {
+        "title": "原始媒体：Billionaires Note",
+        "url": "https://www.youtube.com/watch?v=AfTOlnHY__4"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-and-nasa-chief-give-an-update-on-spacex-s-astronaut-sp": {
+    "takeaway": "参考档案收录的发布会资料，发布渠道为 CNBC Television，视频时长约 60 分钟。原始标题为《Elon Musk and NASA chief give an update on SpaceX's astronaut spacecraft – 10/10/2019》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的发布会资料，发布渠道为 CNBC Television，视频时长约 60 分钟。原始标题为《Elon Musk and NASA chief give an update on SpaceX's astronaut spacecraft – 10/10/2019》。本条保留原始媒体与档案来源。",
+          "原站将本条归为发布会，时长约 60 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克与 NASA 局长更新 SpaceX 载人飞船进展（2019.10.10）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-and-nasa-chief-give-an-update-on-spacex-s-astronaut-sp/"
+      },
+      {
+        "title": "原始媒体：CNBC Television",
+        "url": "https://www.youtube.com/watch?v=DaJ0n0j-UB8"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-2020-interview": {
+    "takeaway": "2020年的一场访谈里，主持人问马斯克一个听起来很朴素的问题：一枚火箭从佛罗里达升空，八分钟后最贵的那一截被扔掉，然后它自己点火、自己调整姿态、垂直落在大西洋上的一艘无人驳船上，落点误差要控制在一米以内。为什么不干脆让它飞回发射场，省得在海上折腾？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2020年的一场访谈里，主持人问马斯克一个听起来很朴素的问题：一枚火箭从佛罗里达升空，八分钟后最贵的那一截被扔掉，然后它自己点火、自己调整姿态、垂直落在大西洋上的一艘无人驳船上，落点误差要控制在一米以内。为什么不干脆让它飞回发射场，省得在海上折腾？",
+          "原站将本条归为访谈，时长约 9 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 2020 年访谈",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-2020-interview/"
+      },
+      {
+        "title": "原始媒体：WEERA",
+        "url": "https://www.youtube.com/watch?v=7JF7OnshcuI"
+      }
+    ]
+  },
+  "elon-qm-special-interview-with-elon-musk": {
+    "takeaway": "马斯克谈自动驾驶，最爱用的比喻是一匹马。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克谈自动驾驶，最爱用的比喻是一匹马。",
+          "原站将本条归为访谈，时长约 30 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克特别访谈",
+        "url": "https://elon.qiaomu.ai/ep/special-interview-with-elon-musk/"
+      },
+      {
+        "title": "原始媒体：mlmlynar",
+        "url": "https://www.youtube.com/watch?v=7U4rSpWKxSg"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-chat-at-mars-society-convention-2020": {
+    "takeaway": "如果从明天起，所有从地球飞往火星的飞船都停飞了，而且没人知道什么时候能恢复，火星上那座城市还能活下去吗？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "如果从明天起，所有从地球飞往火星的飞船都停飞了，而且没人知道什么时候能恢复，火星上那座城市还能活下去吗？",
+          "原站将本条归为访谈，时长约 21 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克亮相 2020 火星学会大会对谈",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-chat-at-mars-society-convention-2020/"
+      },
+      {
+        "title": "原始媒体：ExpovistaTV",
+        "url": "https://www.youtube.com/watch?v=DTigUc0kMNs"
+      }
+    ]
+  },
+  "elon-qm-what-lex-fridman-learned-from-meeting-elon-musk-joe-rogan": {
+    "takeaway": "2016 年前后，做自动驾驶的团队几乎都会在车顶装一个旋转的激光雷达（lidar）。那东西像个桶，几万美元一台，是当时公认的必要配置。没了它，测距就只能靠摄像头去猜，而猜错的代价是撞车。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2016 年前后，做自动驾驶的团队几乎都会在车顶装一个旋转的激光雷达（lidar）。那东西像个桶，几万美元一台，是当时公认的必要配置。没了它，测距就只能靠摄像头去猜，而猜错的代价是撞车。",
+          "原站将本条归为播客，时长约 14 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：莱克斯·弗里德曼谈与马斯克会面的收获 | 乔·罗根",
+        "url": "https://elon.qiaomu.ai/ep/what-lex-fridman-learned-from-meeting-elon-musk-joe-rogan/"
+      },
+      {
+        "title": "原始媒体：JRE Clips",
+        "url": "https://www.youtube.com/watch?v=DTohHXHxe7U"
+      }
+    ]
+  },
+  "elon-qm-neuralink-progress-update-summer-2020": {
+    "takeaway": "参考档案收录的发布会资料，发布渠道为 Neuralink，视频时长约 74 分钟。原始标题为《Neuralink Progress Update, Summer 2020》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的发布会资料，发布渠道为 Neuralink，视频时长约 74 分钟。原始标题为《Neuralink Progress Update, Summer 2020》。本条保留原始媒体与档案来源。",
+          "原站将本条归为发布会，时长约 74 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Neuralink 进展更新：2020 夏季",
+        "url": "https://elon.qiaomu.ai/ep/neuralink-progress-update-summer-2020/"
+      },
+      {
+        "title": "原始媒体：Neuralink",
+        "url": "https://www.youtube.com/watch?v=DVvmgjBL74w"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-at-nasa-spacex-conference": {
+    "takeaway": "2020年5月30日下午，猎鹰9号从肯尼迪航天中心39A发射台升空，把两名NASA宇航员送进轨道。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2020年5月30日下午，猎鹰9号从肯尼迪航天中心39A发射台升空，把两名NASA宇航员送进轨道。",
+          "原站将本条归为大会演讲，时长约 14 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克亮相 NASA / SpaceX 会议",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-at-nasa-spacex-conference/"
+      },
+      {
+        "title": "原始媒体：Space Snack",
+        "url": "https://www.youtube.com/watch?v=Ed0EW2278gg"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-founder-chief-engineer-spacex-satellite-2020-opening-d": {
+    "takeaway": "2020年5月，SpaceX准备把两名NASA宇航员送上国际空间站。航天飞机退役之后，美国第一次要用自己的火箭、自己的飞船，从本土把人重新送回轨道。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2020年5月，SpaceX准备把两名NASA宇航员送上国际空间站。航天飞机退役之后，美国第一次要用自己的火箭、自己的飞船，从本土把人重新送回轨道。",
+          "原站将本条归为发布会，时长约 47 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：SpaceX 创始人兼首席工程师马斯克：SATELLITE 2020 开幕主旨演讲",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-founder-chief-engineer-spacex-satellite-2020-opening-d/"
+      },
+      {
+        "title": "原始媒体：Via Satellite",
+        "url": "https://www.youtube.com/watch?v=HPV8Xp3pEpI"
+      }
+    ]
+  },
+  "elon-qm-watch-elon-musk-at-2020-mars-society-event-livestream": {
+    "takeaway": "马斯克在那场直播里给了一个数字，我反复看了几遍。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克在那场直播里给了一个数字，我反复看了几遍。",
+          "原站将本条归为发布会，时长约 57 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：观看：马斯克出席 2020 火星学会活动直播",
+        "url": "https://elon.qiaomu.ai/ep/watch-elon-musk-at-2020-mars-society-event-livestream/"
+      },
+      {
+        "title": "原始媒体：CNET Highlights",
+        "url": "https://www.youtube.com/watch?v=Opnk-cPOM50"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-full-interview-european-conference-on-batteries-2020": {
+    "takeaway": "特斯拉续航最长的车能跑 600 多公里，很快会有接近 700 公里的版本，实验室里还放着 1000 公里的方案。电池可以用 15 年，快充也不是难题。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "特斯拉续航最长的车能跑 600 多公里，很快会有接近 700 公里的版本，实验室里还放着 1000 公里的方案。电池可以用 15 年，快充也不是难题。",
+          "原站将本条归为大会演讲，时长约 21 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克完整访谈 | 2020 欧洲电池会议",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-full-interview-european-conference-on-batteries-2020/"
+      },
+      {
+        "title": "原始媒体：Tesla [SR] Plus",
+        "url": "https://www.youtube.com/watch?v=Pv-k0_uyfhk"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-at-mars-society-2020-cut": {
+    "takeaway": "全球所有一次性火箭的运力加在一起，大约500到600吨。这是马斯克在2020年火星学会（Mars Society）线上访谈里给出的数字。而他要建一座能自己活下去的火星城市，按他的倒推，需要往火星表面送100万吨物资，折算下来得先往近地轨道送500万吨。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "全球所有一次性火箭的运力加在一起，大约500到600吨。这是马斯克在2020年火星学会（Mars Society）线上访谈里给出的数字。而他要建一座能自己活下去的火星城市，按他的倒推，需要往火星表面送100万吨物资，折算下来得先往近地轨道送500万吨。",
+          "原站将本条归为访谈，时长约 41 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 2020 火星学会访谈 | 剪辑版",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-at-mars-society-2020-cut/"
+      },
+      {
+        "title": "原始媒体：About Elon Musk",
+        "url": "https://www.youtube.com/watch?v=Vq9Ad5w3WEY"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-in-germany-axel-springer-award-2020": {
+    "takeaway": "六年时间，一家公司的市值从230亿美元涨到5360亿美元。另一家，从860亿跌到770亿。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "六年时间，一家公司的市值从230亿美元涨到5360亿美元。另一家，从860亿跌到770亿。",
+          "原站将本条归为大会演讲，时长约 29 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克德国访谈：2020 阿克塞尔·施普林格奖",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-in-germany-axel-springer-award-2020/"
+      },
+      {
+        "title": "原始媒体：Big Picture",
+        "url": "https://www.youtube.com/watch?v=YJskXTuJ3Oc"
+      }
+    ]
+  },
+  "elon-qm-2020-tesla-battery-day-presentation-by-elon-musk-drew-baglino": {
+    "takeaway": "2014年，特斯拉在内华达沙漠动工建第一座超级工厂，设计年产能150吉瓦时（GWh）。这个数字当时被当成天文数字，\"Gigafactory\"这个词就是为它造的。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2014年，特斯拉在内华达沙漠动工建第一座超级工厂，设计年产能150吉瓦时（GWh）。这个数字当时被当成天文数字，\"Gigafactory\"这个词就是为它造的。",
+          "原站将本条归为发布会，时长约 99 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2020 Tesla Battery Day：马斯克与德鲁·巴格利诺演讲",
+        "url": "https://elon.qiaomu.ai/ep/2020-tesla-battery-day-presentation-by-elon-musk-drew-baglino/"
+      },
+      {
+        "title": "原始媒体：AfricaNEV",
+        "url": "https://www.youtube.com/watch?v=ceqoAdtkot0"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-satellite-2020-tesla-spacex": {
+    "takeaway": "2020 年，联盟号飞船还在飞。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2020 年，联盟号飞船还在飞。",
+          "原站将本条归为访谈，时长约 45 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克访谈：Satellite 2020，Tesla 与 SpaceX",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-satellite-2020-tesla-spacex/"
+      },
+      {
+        "title": "原始媒体：Eagel Viral",
+        "url": "https://www.youtube.com/watch?v=hvWag0XvinE"
+      }
+    ]
+  },
+  "elon-qm-nasa-spacex-launch-nasa-representatives-elon-musk-host-post-laun": {
+    "takeaway": "2020年5月30日，佛罗里达州肯尼迪航天中心。鲍勃·本肯（Bob Behnken）和道格·赫尔利（Doug Hurley）被绑在一枚猎鹰9号火箭顶端的龙飞船里，等待点火。距上一次美国宇航员从本土飞向太空，已经过去九年。航天飞机2011年退役之后，美国只能花大价钱买俄罗斯联盟号的船票。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2020年5月30日，佛罗里达州肯尼迪航天中心。鲍勃·本肯（Bob Behnken）和道格·赫尔利（Doug Hurley）被绑在一枚猎鹰9号火箭顶端的龙飞船里，等待点火。距上一次美国宇航员从本土飞向太空，已经过去九年。航天飞机2011年退役之后，美国只能花大价钱买俄罗斯联盟号的船票。",
+          "原站将本条归为媒体，时长约 41 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：NASA 与 SpaceX 发射后发布会：NASA 代表、马斯克主持",
+        "url": "https://elon.qiaomu.ai/ep/nasa-spacex-launch-nasa-representatives-elon-musk-host-post-laun/"
+      },
+      {
+        "title": "原始媒体：Global News",
+        "url": "https://www.youtube.com/watch?v=iA4JSg37GwI"
+      }
+    ]
+  },
+  "elon-qm-watch-elon-musk-s-entire-live-neuralink-demonstration": {
+    "takeaway": "参考档案收录的发布会资料，发布渠道为 CNET，视频时长约 73 分钟。原始标题为《Watch Elon Musk's ENTIRE live Neuralink demonstration》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的发布会资料，发布渠道为 CNET，视频时长约 73 分钟。原始标题为《Watch Elon Musk's ENTIRE live Neuralink demonstration》。本条保留原始媒体与档案来源。",
+          "原站将本条归为发布会，时长约 73 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：观看：马斯克 Neuralink 完整现场演示",
+        "url": "https://elon.qiaomu.ai/ep/watch-elon-musk-s-entire-live-neuralink-demonstration/"
+      },
+      {
+        "title": "原始媒体：CNET",
+        "url": "https://www.youtube.com/watch?v=iOWFXqT5MZ4"
+      }
+    ]
+  },
+  "elon-qm-tesla-battery-day": {
+    "takeaway": "2020 年 9 月，特斯拉在弗里蒙特工厂的停车场办了一场发布会。观众不下车，坐在自己的车里看台上，鼓掌用按喇叭代替。马斯克站上台后说的第一句实话是：对着一片停车场讲话，很难判断现场反应，但这是当时唯一能办的形式。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2020 年 9 月，特斯拉在弗里蒙特工厂的停车场办了一场发布会。观众不下车，坐在自己的车里看台上，鼓掌用按喇叭代替。马斯克站上台后说的第一句实话是：对着一片停车场讲话，很难判断现场反应，但这是当时唯一能办的形式。",
+          "原站将本条归为发布会，时长约 132 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla Battery Day",
+        "url": "https://elon.qiaomu.ai/ep/tesla-battery-day/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=l6T9xIeZTds"
+      }
+    ]
+  },
+  "elon-qm-replay-elon-musk-s-tesla-battery-day-reveal-event": {
+    "takeaway": "2020 年 9 月 22 日晚上，特斯拉在加州弗里蒙特工厂外面搭了块露天大屏，观众全坐在车里看。马斯克上台第一句是自嘲，说这是特斯拉汽车影院，别人都坐在车里，他读不了观众的表情。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2020 年 9 月 22 日晚上，特斯拉在加州弗里蒙特工厂外面搭了块露天大屏，观众全坐在车里看。马斯克上台第一句是自嘲，说这是特斯拉汽车影院，别人都坐在车里，他读不了观众的表情。",
+          "原站将本条归为发布会，时长约 93 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：回放：马斯克 Tesla Battery Day 发布活动",
+        "url": "https://elon.qiaomu.ai/ep/replay-elon-musk-s-tesla-battery-day-reveal-event/"
+      },
+      {
+        "title": "原始媒体：CNET Highlights",
+        "url": "https://www.youtube.com/watch?v=pwBiBpzIBdU"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-neuralink-ai-autopilot-and-the-pale-blue-dot-lex-fridm": {
+    "takeaway": "太阳大约还能撑五亿年。等这个数字走完，它会膨胀，海洋被蒸干，地球不再适合任何生命存活。也就是说，如果意识的演化过程再多花 10% 的时间，它根本不会出现。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "太阳大约还能撑五亿年。等这个数字走完，它会膨胀，海洋被蒸干，地球不再适合任何生命存活。也就是说，如果意识的演化过程再多花 10% 的时间，它根本不会出现。",
+          "原站将本条归为播客，时长约 36 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克：Neuralink、AI、Autopilot 与暗淡蓝点 | 莱克斯·弗里德曼播客 #49",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-neuralink-ai-autopilot-and-the-pale-blue-dot-lex-fridm/"
+      },
+      {
+        "title": "原始媒体：Lex Fridman",
+        "url": "https://www.youtube.com/watch?v=smK9dgdTl40"
+      }
+    ]
+  },
+  "elon-qm-raw-elon-musk-interview-from-air-warfare-symposium-2020": {
+    "takeaway": "2020年2月，佛罗里达州奥兰多。空军空战研讨会（Air Warfare Symposium）的收官对话，台上坐着约翰·汤普森中将（Lt. Gen. John Thompson）和埃隆·马斯克（Elon Musk）。汤普森管着全球大约6000名空军人员，手里每年超过70亿美元的预算，用于卫",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2020年2月，佛罗里达州奥兰多。空军空战研讨会（Air Warfare Symposium）的收官对话，台上坐着约翰·汤普森中将（Lt. Gen. John Thompson）和埃隆·马斯克（Elon Musk）。汤普森管着全球大约6000名空军人员，手里每年超过70亿美元的预算，用于卫",
+          "原站将本条归为大会演讲，时长约 55 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：原声：马斯克 2020 空战研讨会访谈",
+        "url": "https://elon.qiaomu.ai/ep/raw-elon-musk-interview-from-air-warfare-symposium-2020/"
+      },
+      {
+        "title": "原始媒体：The Space Archive",
+        "url": "https://www.youtube.com/watch?v=sp8smJFaKYE"
+      }
+    ]
+  },
+  "elon-qm-watch-elon-musk-s-neuralink-presentation-full-working-demo": {
+    "takeaway": "2020年8月，Neuralink发布会的第一个画面是一块硬币大小的芯片，最后一个画面是三只猪。中间两个多小时，马斯克把\"来投简历\"这句话说了至少五遍。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2020年8月，Neuralink发布会的第一个画面是一块硬币大小的芯片，最后一个画面是三只猪。中间两个多小时，马斯克把\"来投简历\"这句话说了至少五遍。",
+          "原站将本条归为发布会，时长约 72 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：观看：马斯克 Neuralink 演示（完整可运行 Demo）",
+        "url": "https://elon.qiaomu.ai/ep/watch-elon-musk-s-neuralink-presentation-full-working-demo/"
+      },
+      {
+        "title": "原始媒体：CNET Highlights",
+        "url": "https://www.youtube.com/watch?v=sr8hzF3j2fo"
+      }
+    ]
+  },
+  "elon-qm-award-for-elon-musk-in-berlin-his-interview-from-01-12-2020": {
+    "takeaway": "2020 年 12 月 1 日，柏林。Axel Springer 出版社的颁奖礼上，主持人 Mathias Döpfner 讲了一个六年前的故事。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2020 年 12 月 1 日，柏林。Axel Springer 出版社的颁奖礼上，主持人 Mathias Döpfner 讲了一个六年前的故事。",
+          "原站将本条归为大会演讲，时长约 44 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克柏林获奖：2020 年 12 月 1 日访谈",
+        "url": "https://elon.qiaomu.ai/ep/award-for-elon-musk-in-berlin-his-interview-from-01-12-2020/"
+      },
+      {
+        "title": "原始媒体：YOOU & Your Future Digital Life",
+        "url": "https://www.youtube.com/watch?v=8KGDyBPFzj0"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-satellite-2020-conference-washington-dc-march-9-2020": {
+    "takeaway": "2020 年 3 月 9 日，华盛顿特区，Satellite 2020 大会开场。马斯克迟到了，理由是堵车。他后来补了一句更真实的理由：他刚从德州博卡奇卡（Boca Chica）的星舰（Starship）工地赶过来，在那儿跟团队一起干活。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2020 年 3 月 9 日，华盛顿特区，Satellite 2020 大会开场。马斯克迟到了，理由是堵车。他后来补了一句更真实的理由：他刚从德州博卡奇卡（Boca Chica）的星舰（Starship）工地赶过来，在那儿跟团队一起干活。",
+          "原站将本条归为大会演讲，时长约 47 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克出席 Satellite 2020 大会：华盛顿特区，2020 年 3 月 9 日",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-satellite-2020-conference-washington-dc-march-9-2020/"
+      },
+      {
+        "title": "原始媒体：Space SPAN (Science Policy and News)",
+        "url": "https://www.youtube.com/watch?v=XwoYqtr4qm4"
+      }
+    ]
+  },
+  "elon-qm-intro-and-presentation-for-elon-musk-axel-springer-award-decembe": {
+    "takeaway": "“第一规则：不要恐慌。”",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "“第一规则：不要恐慌。”",
+          "原站将本条归为发布会，时长约 12 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 @Axel Springer 奖 2020 年 12 月：介绍与演讲",
+        "url": "https://elon.qiaomu.ai/ep/intro-and-presentation-for-elon-musk-axel-springer-award-decembe/"
+      },
+      {
+        "title": "原始媒体：Sven Richter",
+        "url": "https://www.youtube.com/watch?v=0l3-y_kgBho"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-in-germany-axel-springer-award-december-2020": {
+    "takeaway": "2014 年，柏林，阿克塞尔·施普林格（Axel Springer）的颁奖现场。马斯克在台上领金方向盘奖的终身成就奖，台下第一排坐着德国某家大车企的 CEO。主持人凑过去问了一句：这家伙对你们危险吗，看着挺认真的。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2014 年，柏林，阿克塞尔·施普林格（Axel Springer）的颁奖现场。马斯克在台上领金方向盘奖的终身成就奖，台下第一排坐着德国某家大车企的 CEO。主持人凑过去问了一句：这家伙对你们危险吗，看着挺认真的。",
+          "原站将本条归为大会演讲，时长约 28 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克德国访谈：阿克塞尔·施普林格奖（2020 年 12 月）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-in-germany-axel-springer-award-december-2020/"
+      },
+      {
+        "title": "原始媒体：Frunkla",
+        "url": "https://www.youtube.com/watch?v=5ZptVhSsG6g"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-s-neuralink-update-december-2020": {
+    "takeaway": "120 人对 6 万人。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "120 人对 6 万人。",
+          "原站将本条归为发布会，时长约 13 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 Neuralink 进展更新：2020 年 12 月",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-s-neuralink-update-december-2020/"
+      },
+      {
+        "title": "原始媒体：Neura Pod",
+        "url": "https://www.youtube.com/watch?v=UdWdhPp-1yE"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-on-december-01-2020": {
+    "takeaway": "2014年，牛津，金方向盘颁奖典礼。马斯克上台领终身成就奖。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2014年，牛津，金方向盘颁奖典礼。马斯克上台领终身成就奖。",
+          "原站将本条归为访谈，时长约 30 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克访谈：2020 年 12 月 1 日",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-on-december-01-2020/"
+      },
+      {
+        "title": "原始媒体：SHOCK WAVE",
+        "url": "https://www.youtube.com/watch?v=YjYtvPugzT0"
+      }
+    ]
+  },
+  "elon-qm-watch-elon-musk-at-2021-tesla-shareholder-meeting-full-presentat": {
+    "takeaway": "2021 年 10 月，特斯拉股东大会在得州奥斯汀的超级工厂里开。马斯克上台先感谢团队，第二件事是翻旧账。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2021 年 10 月，特斯拉股东大会在得州奥斯汀的超级工厂里开。马斯克上台先感谢团队，第二件事是翻旧账。",
+          "原站将本条归为股东会，时长约 18 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：观看：马斯克在 2021 Tesla 股东大会完整演讲",
+        "url": "https://elon.qiaomu.ai/ep/watch-elon-musk-at-2021-tesla-shareholder-meeting-full-presentat/"
+      },
+      {
+        "title": "原始媒体：CNET Highlights",
+        "url": "https://www.youtube.com/watch?v=5axNR8R7XI8"
+      }
+    ]
+  },
+  "elon-qm-starbase-launchpad-tour-with-elon-musk-part-3-summer-2021": {
+    "takeaway": "马斯克站在 Starbase 发射场的地面上，仰头看刚立起来的超重型助推器（Super Heavy）。这是他过去大半年第一次回到现场，上一次来这里时，助推器还没立起来。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克站在 Starbase 发射场的地面上，仰头看刚立起来的超重型助推器（Super Heavy）。这是他过去大半年第一次回到现场，上一次来这里时，助推器还没立起来。",
+          "原站将本条归为发布会，时长约 21 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克带逛 Starbase 发射台 [第 3 部分 // 2021 夏季]",
+        "url": "https://elon.qiaomu.ai/ep/starbase-launchpad-tour-with-elon-musk-part-3-summer-2021/"
+      },
+      {
+        "title": "原始媒体：Everyday Astronaut",
+        "url": "https://www.youtube.com/watch?v=9Zlnbs-NBUI"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-on-clubhouse-live-stream-high-quality-audio-full-versi": {
+    "takeaway": "火星上的城市先实现自我维持，还是第三次世界大战先爆发？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "火星上的城市先实现自我维持，还是第三次世界大战先爆发？",
+          "原站将本条归为访谈，时长约 96 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 Clubhouse 直播（高质量音频）完整版",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-on-clubhouse-live-stream-high-quality-audio-full-versi/"
+      },
+      {
+        "title": "原始媒体：Tesla Dosage",
+        "url": "https://www.youtube.com/watch?v=Cba53J1jyPM"
+      }
+    ]
+  },
+  "elon-qm-watch-elon-musk-in-post-launch-spacex-crew-2-press-conference": {
+    "takeaway": "2021年4月23日凌晨5点49分，肯尼迪航天中心39A发射台，猎鹰9号火箭点火升空，载着四名宇航员飞向国际空间站。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2021年4月23日凌晨5点49分，肯尼迪航天中心39A发射台，猎鹰9号火箭点火升空，载着四名宇航员飞向国际空间站。",
+          "原站将本条归为媒体，时长约 37 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：观看：马斯克出席 SpaceX Crew-2 发射后新闻发布会",
+        "url": "https://elon.qiaomu.ai/ep/watch-elon-musk-in-post-launch-spacex-crew-2-press-conference/"
+      },
+      {
+        "title": "原始媒体：CNET Highlights",
+        "url": "https://www.youtube.com/watch?v=JCFandSVdzI"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-speaks-on-mars-spacex-crew-2-and-starship-lunar-artemi": {
+    "takeaway": "SpaceX 第三次把 NASA 宇航员送上太空的那个早上，马斯克没怎么睡。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "SpaceX 第三次把 NASA 宇航员送上太空的那个早上，马斯克没怎么睡。",
+          "原站将本条归为媒体，时长约 20 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克谈火星、SpaceX Crew-2 与 Starship 月球任务（Artemis）——发射后发布会",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-speaks-on-mars-spacex-crew-2-and-starship-lunar-artemi/"
+      },
+      {
+        "title": "原始媒体：Be a Martian",
+        "url": "https://www.youtube.com/watch?v=K7FOfhQatvI"
+      }
+    ]
+  },
+  "elon-qm-live-tesla-s-elon-musk-gives-update-on-starlink-communication-de": {
+    "takeaway": "一枚能把 110 吨货物送上近地轨道的火箭，单次发射的边际成本是 200 万美元。把这两个数除一下，每公斤入轨不到 20 美元。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一枚能把 110 吨货物送上近地轨道的火箭，单次发射的边际成本是 200 万美元。把这两个数除一下，每公斤入轨不到 20 美元。",
+          "原站将本条归为发布会，时长约 9 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：直播：马斯克在 2021 世界移动通信大会谈 Starlink 通信设备更新",
+        "url": "https://elon.qiaomu.ai/ep/live-tesla-s-elon-musk-gives-update-on-starlink-communication-de/"
+      },
+      {
+        "title": "原始媒体：Reuters",
+        "url": "https://www.youtube.com/watch?v=KZZ-45LJ95E"
+      }
+    ]
+  },
+  "elon-qm-new-elon-musk-interview-with-code-conference-2021-with-timestamp": {
+    "takeaway": "Code Conference 2021 的台上，主持人卡拉·斯威舍（Kara Swisher）问马斯克，美国政府对加密货币应该做点什么。他的回答是三个字：什么都别做（do nothing），让它飞。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "Code Conference 2021 的台上，主持人卡拉·斯威舍（Kara Swisher）问马斯克，美国政府对加密货币应该做点什么。他的回答是三个字：什么都别做（do nothing），让它飞。",
+          "原站将本条归为大会演讲，时长约 65 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 Code Conference 2021 新访谈——带时间戳",
+        "url": "https://elon.qiaomu.ai/ep/new-elon-musk-interview-with-code-conference-2021-with-timestamp/"
+      },
+      {
+        "title": "原始媒体：Elon Musk Hub",
+        "url": "https://www.youtube.com/watch?v=NqhgkCAOkjk"
+      }
+    ]
+  },
+  "elon-qm-clubhouse-elon-musk-robinhood-ceo-interview": {
+    "takeaway": "2021 年 2 月的一个周末，Clubhouse 上一个房间涌进了几千人。坐在话筒前的是罗宾汉（Robinhood）的 CEO 弗拉德·特内夫（Vlad Tenev），向他提问的人是马斯克。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2021 年 2 月的一个周末，Clubhouse 上一个房间涌进了几千人。坐在话筒前的是罗宾汉（Robinhood）的 CEO 弗拉德·特内夫（Vlad Tenev），向他提问的人是马斯克。",
+          "原站将本条归为访谈，时长约 8 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Clubhouse：马斯克与 Robinhood CEO 访谈",
+        "url": "https://elon.qiaomu.ai/ep/clubhouse-elon-musk-robinhood-ceo-interview/"
+      },
+      {
+        "title": "原始媒体：Canadian Real Estate Channel",
+        "url": "https://www.youtube.com/watch?v=OW28nGtNb6A"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-clubhouse-interview": {
+    "takeaway": "2021 年 2 月的一个周日晚上，Clubhouse 的一个语音房间里挤进了 6000 多人。他们在等一个从没在这个 App 上说过话的人。房间里有人在赌他会不会抽大麻，有人在猜他会不会当场宣布什么大消息。等到马斯克（Elon Musk）开口，他先讲的不是特斯拉，不是狗狗币，是火星。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2021 年 2 月的一个周日晚上，Clubhouse 的一个语音房间里挤进了 6000 多人。他们在等一个从没在这个 App 上说过话的人。房间里有人在赌他会不会抽大麻，有人在猜他会不会当场宣布什么大消息。等到马斯克（Elon Musk）开口，他先讲的不是特斯拉，不是狗狗币，是火星。",
+          "原站将本条归为访谈，时长约 101 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 Clubhouse 访谈",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-clubhouse-interview/"
+      },
+      {
+        "title": "原始媒体：Subtle Asian Investors",
+        "url": "https://www.youtube.com/watch?v=PQm-llvTiFE"
+      }
+    ]
+  },
+  "elon-qm-watch-elon-musk-discuss-starlink-internet-at-mwc-2021-livestream": {
+    "takeaway": "2021年6月29日，巴塞罗那，MWC 2021 主舞台。主持人贾斯汀·斯普林汉姆（Justin Springham）开场先补了一句生日祝福，马斯克前一天刚满50岁。寒暄完，话题直接落到星链（Starlink）上。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2021年6月29日，巴塞罗那，MWC 2021 主舞台。主持人贾斯汀·斯普林汉姆（Justin Springham）开场先补了一句生日祝福，马斯克前一天刚满50岁。寒暄完，话题直接落到星链（Starlink）上。",
+          "原站将本条归为发布会，时长约 33 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：直播回看：马斯克在 MWC 2021 谈 Starlink 互联网",
+        "url": "https://elon.qiaomu.ai/ep/watch-elon-musk-discuss-starlink-internet-at-mwc-2021-livestream/"
+      },
+      {
+        "title": "原始媒体：CNET Highlights",
+        "url": "https://www.youtube.com/watch?v=RcnVTgrgThE"
+      }
+    ]
+  },
+  "elon-qm-axelspringer-award-talk-with-elon-musk": {
+    "takeaway": "到柏林郊外的格林海德（Grünheide）之前，多数人以为那里原本是一片原始森林。特斯拉要在那儿建超级工厂，砍树的消息传出去后，德国媒体吵了好几个月。参观完工地，主持人 Christoph Keiser 当面向马斯克求证这件事，马斯克的回答把在场的人都逗笑了。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "到柏林郊外的格林海德（Grünheide）之前，多数人以为那里原本是一片原始森林。特斯拉要在那儿建超级工厂，砍树的消息传出去后，德国媒体吵了好几个月。参观完工地，主持人 Christoph Keiser 当面向马斯克求证这件事，马斯克的回答把在场的人都逗笑了。",
+          "原站将本条归为大会演讲，时长约 37 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 Axel Springer 奖对谈",
+        "url": "https://elon.qiaomu.ai/ep/axelspringer-award-talk-with-elon-musk/"
+      },
+      {
+        "title": "原始媒体：Elon Musk SpaceKing",
+        "url": "https://www.youtube.com/watch?v=USTtoPsU_pc"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-handling-failure-speed-of-innovation-work-cu": {
+    "takeaway": "2021年，马斯克站在一千多名空军和太空军人员面前，扔下一句话：美国如果不搞激进创新，军事上会变成世界第二。停了一拍，他补了四个字，基本数学。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2021年，马斯克站在一千多名空军和太空军人员面前，扔下一句话：美国如果不搞激进创新，军事上会变成世界第二。停了一拍，他补了四个字，基本数学。",
+          "原站将本条归为访谈，时长约 14 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克访谈：失败、创新速度、工作文化与爵士乐",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-handling-failure-speed-of-innovation-work-cu/"
+      },
+      {
+        "title": "原始媒体：Musk Watch",
+        "url": "https://www.youtube.com/watch?v=Xg0Exup-uxM"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-1-on-1-with-sandy-munro": {
+    "takeaway": "桑迪·芒罗（Sandy Munro）拆过几乎所有在售的电动车。2021 年他开着一台 Model 3 跑了几千英里，在镜头前说了一句很重的话：这套座椅是地球上最好的，没有之一。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "桑迪·芒罗（Sandy Munro）拆过几乎所有在售的电动车。2021 年他开着一台 Model 3 跑了几千英里，在镜头前说了一句很重的话：这套座椅是地球上最好的，没有之一。",
+          "原站将本条归为访谈，时长约 49 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克与桑迪·芒罗一对一访谈",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-1-on-1-with-sandy-munro/"
+      },
+      {
+        "title": "原始媒体：Munro Live",
+        "url": "https://www.youtube.com/watch?v=YAtLTLiqNwg"
+      }
+    ]
+  },
+  "elon-qm-robinhood-ceo-grilled-by-elon-musk-over-gamestop-controversy-ful": {
+    "takeaway": "2021年1月28日，太平洋时间凌晨3点30分。Vlad Tenev 在睡觉。他的运营团队收到一份文件，发件方是美国国家证券清算公司（NSCC）。文件里写着一个数字：30亿美元。距离美股开盘还有六个半小时。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2021年1月28日，太平洋时间凌晨3点30分。Vlad Tenev 在睡觉。他的运营团队收到一份文件，发件方是美国国家证券清算公司（NSCC）。文件里写着一个数字：30亿美元。距离美股开盘还有六个半小时。",
+          "原站将本条归为访谈，时长约 25 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克拷问 Robinhood CEO：GameStop 争议全记录（Clubhouse 完整访谈）",
+        "url": "https://elon.qiaomu.ai/ep/robinhood-ceo-grilled-by-elon-musk-over-gamestop-controversy-ful/"
+      },
+      {
+        "title": "原始媒体：New Money",
+        "url": "https://www.youtube.com/watch?v=aicDIMtVld8"
+      }
+    ]
+  },
+  "elon-qm-tesla-inc-2021-annual-meeting-of-stockholders": {
+    "takeaway": "参考档案收录的股东会资料，发布渠道为 Tesla，视频时长约 94 分钟。原始标题为《Tesla, Inc. 2021 Annual Meeting of Stockholders》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的股东会资料，发布渠道为 Tesla，视频时长约 94 分钟。原始标题为《Tesla, Inc. 2021 Annual Meeting of Stockholders》。本条保留原始媒体与档案来源。",
+          "原站将本条归为股东会，时长约 94 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla 2021 年度股东大会",
+        "url": "https://elon.qiaomu.ai/ep/tesla-inc-2021-annual-meeting-of-stockholders/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=bH51-loeLgM"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-talks-about-colonizing-the-galaxy": {
+    "takeaway": "马斯克给火星文明划了一条线。这条线跟人数无关，跟房价无关，跟火星上有没有咖啡馆也无关。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克给火星文明划了一条线。这条线跟人数无关，跟房价无关，跟火星上有没有咖啡馆也无关。",
+          "原站将本条归为播客，时长约 12 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克谈殖民银河系",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-talks-about-colonizing-the-galaxy/"
+      },
+      {
+        "title": "原始媒体：PowerfulJRE",
+        "url": "https://www.youtube.com/watch?v=cDQa40B9Lxo"
+      }
+    ]
+  },
+  "elon-qm-new-elon-musk-interview-mwc-2021-elon-musk-redefines-the-way-we": {
+    "takeaway": "2021 年 6 月底，MWC 巴塞罗那现场的大屏幕上出现马斯克。主持人 Justin Springham 先补了一句迟到的生日祝福，他前一天刚满 50 岁。寒暄结束，话题直接切到星链。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2021 年 6 月底，MWC 巴塞罗那现场的大屏幕上出现马斯克。主持人 Justin Springham 先补了一句迟到的生日祝福，他前一天刚满 50 岁。寒暄结束，话题直接切到星链。",
+          "原站将本条归为大会演讲，时长约 32 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 MWC 2021 访谈：重新定义连接方式",
+        "url": "https://elon.qiaomu.ai/ep/new-elon-musk-interview-mwc-2021-elon-musk-redefines-the-way-we/"
+      },
+      {
+        "title": "原始媒体：Elon Musk Viral Videos",
+        "url": "https://www.youtube.com/watch?v=gBg2XiE9eSk"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-talks-starlink-growth-5-10-billion-investment-mwc-2021": {
+    "takeaway": "2021 年 6 月，Starlink 的活跃用户数跨过了一个「具有战略意义的数字」：69,420。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2021 年 6 月，Starlink 的活跃用户数跨过了一个「具有战略意义的数字」：69,420。",
+          "原站将本条归为发布会，时长约 16 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克谈 Starlink 增长：50 亿至 100 亿美元投资（MWC 2021 演讲）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-talks-starlink-growth-5-10-billion-investment-mwc-2021/"
+      },
+      {
+        "title": "原始媒体：CNET Highlights",
+        "url": "https://www.youtube.com/watch?v=gSJrf45IBIA"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-full-interview-clubhouse": {
+    "takeaway": "2021 年初，马斯克出现在 Clubhouse 的一个语音房间里。原定晚上 10 点开始，结果房间人数爆掉，服务器被压垮，无数人被挤到溢出房间。这场对话从火星一路聊到狗狗币，从 Neuralink 聊到特斯拉为什么不用激光雷达，中间还临时把 Robinhood 的 CEO 拉进来，追问 ",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2021 年初，马斯克出现在 Clubhouse 的一个语音房间里。原定晚上 10 点开始，结果房间人数爆掉，服务器被压垮，无数人被挤到溢出房间。这场对话从火星一路聊到狗狗币，从 Neuralink 聊到特斯拉为什么不用激光雷达，中间还临时把 Robinhood 的 CEO 拉进来，追问 ",
+          "原站将本条归为访谈，时长约 98 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 Clubhouse 完整访谈",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-full-interview-clubhouse/"
+      },
+      {
+        "title": "原始媒体：Disruptive Innovations",
+        "url": "https://www.youtube.com/watch?v=gXMmqaOnwTI"
+      }
+    ]
+  },
+  "elon-qm-rare-interview-with-billionaire-elon-musk-on-his-plans-to-coloni": {
+    "takeaway": "2008年12月24日下午6点，特斯拉的融资窗口只剩最后一个小时。马斯克把手里剩下的钱全部投了进去。多年后他坐在镜头前讲这件事，语气平得像在说别人的账：那一轮如果没关上，特斯拉破产，他个人会带着一身债走出来。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2008年12月24日下午6点，特斯拉的融资窗口只剩最后一个小时。马斯克把手里剩下的钱全部投了进去。多年后他坐在镜头前讲这件事，语气平得像在说别人的账：那一轮如果没关上，特斯拉破产，他个人会带着一身债走出来。",
+          "原站将本条归为访谈，时长约 13 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克罕见访谈：殖民火星计划｜60 Minutes Australia",
+        "url": "https://elon.qiaomu.ai/ep/rare-interview-with-billionaire-elon-musk-on-his-plans-to-coloni/"
+      },
+      {
+        "title": "原始媒体：60 Minutes Australia",
+        "url": "https://www.youtube.com/watch?v=ippYts_JvUk"
+      }
+    ]
+  },
+  "elon-qm-tesla-ai-day-2021": {
+    "takeaway": "一辆半挂车在高速上行驶，特斯拉车身上的 8 个摄像头里，它可能同时出现在其中 5 个画面中。每个摄像头只能拍到它的一部分，车头、车厢中段、车尾、侧面，或者后视镜里的一角。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一辆半挂车在高速上行驶，特斯拉车身上的 8 个摄像头里，它可能同时出现在其中 5 个画面中。每个摄像头只能拍到它的一部分，车头、车厢中段、车尾、侧面，或者后视镜里的一角。",
+          "原站将本条归为发布会，时长约 183 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla AI Day 2021 全程回顾",
+        "url": "https://elon.qiaomu.ai/ep/tesla-ai-day-2021/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=j0z4FweCy4M"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-2021-clubhouse-cut-version-with-video": {
+    "takeaway": "自给自足的火星城市，和第三次世界大战，哪个会先来？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "自给自足的火星城市，和第三次世界大战，哪个会先来？",
+          "原站将本条归为访谈，时长约 34 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 2021 Clubhouse 访谈（带视频剪辑版）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-2021-clubhouse-cut-version-with-video/"
+      },
+      {
+        "title": "原始媒体：About Elon Musk",
+        "url": "https://www.youtube.com/watch?v=j7AKFqkBus4"
+      }
+    ]
+  },
+  "elon-qm-disagreement-with-elon-musk-about-existential-risks-of-agi-micha": {
+    "takeaway": "2017 年，马斯克在美国全国州长协会的会议上讲了一句话，后来被反复引用：",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2017 年，马斯克在美国全国州长协会的会议上讲了一句话，后来被反复引用：",
+          "原站将本条归为播客，时长约 16 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：不认同马斯克：AGI 生存风险｜迈克尔·利特曼对话莱克斯·弗里德曼",
+        "url": "https://elon.qiaomu.ai/ep/disagreement-with-elon-musk-about-existential-risks-of-agi-micha/"
+      },
+      {
+        "title": "原始媒体：Lex Clips",
+        "url": "https://www.youtube.com/watch?v=kHb2_z06vwU"
+      }
+    ]
+  },
+  "elon-qm-model-s-plaid-delivery-event": {
+    "takeaway": "一辆能坐五个成年人的四门轿车，从静止踩到 60 英里（约 96 公里）不到两秒。同一辆车，在美国国家公路交通安全管理局（NHTSA）的碰撞数据里，乘员受伤概率是所有被测车型中最低的。快和安全，直觉上互相打架的两件事，2021 年 6 月的这个晚上，被压在了同一个底盘上。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一辆能坐五个成年人的四门轿车，从静止踩到 60 英里（约 96 公里）不到两秒。同一辆车，在美国国家公路交通安全管理局（NHTSA）的碰撞数据里，乘员受伤概率是所有被测车型中最低的。快和安全，直觉上互相打架的两件事，2021 年 6 月的这个晚上，被压在了同一个底盘上。",
+          "原站将本条归为发布会，时长约 28 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Model S Plaid 交付活动",
+        "url": "https://elon.qiaomu.ai/ep/model-s-plaid-delivery-event/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=kUmkbzQ-BS0"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-2021-interview-space-starship-mars-climate-change-ai-t": {
+    "takeaway": "2000年，巴西弗洛里亚诺波利斯（Florianópolis），一场生日聚会。彼得·迪亚曼迪斯（Peter Diamandis）劝一个29岁的年轻人别去开火箭公司，理由很实在：你会把钱全赔光。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2000年，巴西弗洛里亚诺波利斯（Florianópolis），一场生日聚会。彼得·迪亚曼迪斯（Peter Diamandis）劝一个29岁的年轻人别去开火箭公司，理由很实在：你会把钱全赔光。",
+          "原站将本条归为访谈，时长约 62 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 2021 访谈：太空、Starship、火星、AI 与隧道｜Carbon XPRIZE",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-2021-interview-space-starship-mars-climate-change-ai-t/"
+      },
+      {
+        "title": "原始媒体：Investing Rationally",
+        "url": "https://www.youtube.com/watch?v=tcoOvT9gKRc"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-2021-wsj-interview-tesla-neuralink-starship-china-gove": {
+    "takeaway": "2021 年 WSJ CEO 峰会上，主持人抛出一个假设：如果拜登明天给马斯克打电话，说「我最近很少提特斯拉，你需要这项基建法案给你什么」，你怎么回答。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2021 年 WSJ CEO 峰会上，主持人抛出一个假设：如果拜登明天给马斯克打电话，说「我最近很少提特斯拉，你需要这项基建法案给你什么」，你怎么回答。",
+          "原站将本条归为访谈，时长约 37 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 2021 WSJ 访谈：Tesla、Neuralink、Starship、中国与政府角色",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-2021-wsj-interview-tesla-neuralink-starship-china-gove/"
+      },
+      {
+        "title": "原始媒体：Elon Musk Addict",
+        "url": "https://www.youtube.com/watch?v=uYIdbF9ljMc"
+      }
+    ]
+  },
+  "elon-qm-we-simulated-the-world-for-full-self-driving-elon-musk-interview": {
+    "takeaway": "一辆私家车，一周 168 小时里，平均只有 10 个小时在跑。剩下的 158 小时，它停在车位上，一边贬值，一边占地方。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一辆私家车，一周 168 小时里，平均只有 10 个小时在跑。剩下的 158 小时，它停在车位上，一边贬值，一边占地方。",
+          "原站将本条归为大会演讲，时长约 12 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：我们为 FSD 模拟了整个世界：马斯克 2021 访谈",
+        "url": "https://elon.qiaomu.ai/ep/we-simulated-the-world-for-full-self-driving-elon-musk-interview/"
+      },
+      {
+        "title": "原始媒体：Doge Multiverse - Billionaire Wisdom Money Glitch",
+        "url": "https://www.youtube.com/watch?v=wyDaGBjzJDY"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-s-neuralink-update-january-2021": {
+    "takeaway": "参考档案收录的发布会资料，发布渠道为 Neura Pod，视频时长约 9 分钟。原始标题为《Elon Musk's Neuralink Update - January 2021》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的发布会资料，发布渠道为 Neura Pod，视频时长约 9 分钟。原始标题为《Elon Musk's Neuralink Update - January 2021》。本条保留原始媒体与档案来源。",
+          "原站将本条归为发布会，时长约 9 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 Neuralink 进展更新（2021 年 1 月）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-s-neuralink-update-january-2021/"
+      },
+      {
+        "title": "原始媒体：Neura Pod",
+        "url": "https://www.youtube.com/watch?v=Niyn2Ju-ah4"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-clubhouse-interview-with-chapters-1-31-2021": {
+    "takeaway": "2021 年 1 月 31 日晚上十点，Clubhouse 上一个房间涌进了五千人。这个语音社交 App 当时还在内测，服务器被挤得摇摇欲坠，后来据说这是它历史上最大的一个房间。房间里坐着的人包括天使投资人 Jason Calacanis、Reddit 联合创始人 Alexis Ohani",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2021 年 1 月 31 日晚上十点，Clubhouse 上一个房间涌进了五千人。这个语音社交 App 当时还在内测，服务器被挤得摇摇欲坠，后来据说这是它历史上最大的一个房间。房间里坐着的人包括天使投资人 Jason Calacanis、Reddit 联合创始人 Alexis Ohani",
+          "原站将本条归为访谈，时长约 93 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 Clubhouse 访谈（2021.1.31 带章节）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-clubhouse-interview-with-chapters-1-31-2021/"
+      },
+      {
+        "title": "原始媒体：Frankie D",
+        "url": "https://www.youtube.com/watch?v=UUP0AZwfU1w"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-full-interview-23rd-april-2021": {
+    "takeaway": "2000 年，彼得·戴曼迪斯（Peter Diamandis）找到马斯克，想拉他出钱赞助第一届 XPRIZE。马斯克反过来劝他别搞火箭公司，理由是“你会把所有的钱都赔光”。戴曼迪斯自己也觉得这话在理，当时估计成功率顶多一成。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2000 年，彼得·戴曼迪斯（Peter Diamandis）找到马斯克，想拉他出钱赞助第一届 XPRIZE。马斯克反过来劝他别搞火箭公司，理由是“你会把所有的钱都赔光”。戴曼迪斯自己也觉得这话在理，当时估计成功率顶多一成。",
+          "原站将本条归为访谈，时长约 61 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克完整访谈（2021 年 4 月 23 日）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-full-interview-23rd-april-2021/"
+      },
+      {
+        "title": "原始媒体：Elon Musk Thinks",
+        "url": "https://www.youtube.com/watch?v=rlblkliGZss"
+      }
+    ]
+  },
+  "elon-qm-2022-elon-musk-explains-updates-to-starship-and-starbase": {
+    "takeaway": "每送一吨有用的东西到火星表面，现在的价格大约是 10 亿美元。马斯克想把这件事的成本压到 10 万美元以下。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "每送一吨有用的东西到火星表面，现在的价格大约是 10 亿美元。马斯克想把这件事的成本压到 10 万美元以下。",
+          "原站将本条归为发布会，时长约 45 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 2022 解读 Starship 与 Starbase 最新进展",
+        "url": "https://elon.qiaomu.ai/ep/2022-elon-musk-explains-updates-to-starship-and-starbase/"
+      },
+      {
+        "title": "原始媒体：Everyday Astronaut",
+        "url": "https://www.youtube.com/watch?v=3Ux6B3bvO0w"
+      }
+    ]
+  },
+  "elon-qm-2022-annual-shareholder-meeting-tesla": {
+    "takeaway": "2012 年 8 月的某一天，特斯拉造出了它的第 2500 辆 Roadster。Model S 才刚交付，大概两百来辆。加起来，不到 3000 台车。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2012 年 8 月的某一天，特斯拉造出了它的第 2500 辆 Roadster。Model S 才刚交付，大概两百来辆。加起来，不到 3000 台车。",
+          "原站将本条归为股东会，时长约 73 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla 2022 年度股东大会",
+        "url": "https://elon.qiaomu.ai/ep/2022-annual-shareholder-meeting-tesla/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=49e7LrxS3FQ"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-addresses-twitter-employees-q-a-amidst-twitter-acquisi": {
+    "takeaway": "如果要问马斯克，五年后怎么判断收购 Twitter 这件事成没成，他给的答案简单到有点粗暴：日活用户超过 10 亿。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "如果要问马斯克，五年后怎么判断收购 Twitter 这件事成没成，他给的答案简单到有点粗暴：日活用户超过 10 亿。",
+          "原站将本条归为访谈，时长约 48 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 2022 收购期间答 Twitter 员工问",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-addresses-twitter-employees-q-a-amidst-twitter-acquisi/"
+      },
+      {
+        "title": "原始媒体：Elon Musk Full Videos",
+        "url": "https://www.youtube.com/watch?v=9E31W10u2Ww"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-on-the-early-days-of-tesla-interview-part-1": {
+    "takeaway": "参考档案收录的访谈资料，发布渠道为 Tesla Owners Silicon Valley，视频时长约 67 分钟。原始标题为《Elon Musk on the Early Days of Tesla: Interview Part 1》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的访谈资料，发布渠道为 Tesla Owners Silicon Valley，视频时长约 67 分钟。原始标题为《Elon Musk on the Early Days of Tesla: Interview Part 1》。本条保留原始媒体与档案来源。",
+          "原站将本条归为访谈，时长约 67 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克谈 Tesla 早期岁月：访谈上集",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-on-the-early-days-of-tesla-interview-part-1/"
+      },
+      {
+        "title": "原始媒体：Tesla Owners Silicon Valley",
+        "url": "https://www.youtube.com/watch?v=AeeeEDSekG8"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-spacex-mars-tesla-autopilot-self-driving-robotics-and": {
+    "takeaway": "2020年5月30日，佛罗里达肯尼迪航天中心。猎鹰9号点火升空，把两名NASA宇航员送进轨道。这是人类历史上第一次由商业公司完成载人航天。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2020年5月30日，佛罗里达肯尼迪航天中心。猎鹰9号点火升空，把两名NASA宇航员送进轨道。这是人类历史上第一次由商业公司完成载人航天。",
+          "原站将本条归为播客，时长约 152 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克：SpaceX、火星、Tesla Autopilot、自动驾驶、机器人与 AI｜Lex Fridman 播客 #252",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-spacex-mars-tesla-autopilot-self-driving-robotics-and/"
+      },
+      {
+        "title": "原始媒体：Lex Fridman",
+        "url": "https://www.youtube.com/watch?v=DxREm3s1scA"
+      }
+    ]
+  },
+  "elon-qm-full-elon-interview-axel-springer-award-visual-notes-on-each-of": {
+    "takeaway": "“如果一切顺利，人类大概六年内第一次踏上火星。运气好的话，四年。”",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "“如果一切顺利，人类大概六年内第一次踏上火星。运气好的话，四年。”",
+          "原站将本条归为大会演讲，时长约 30 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 Axel Springer 奖完整访谈：逐答视觉笔记",
+        "url": "https://elon.qiaomu.ai/ep/full-elon-interview-axel-springer-award-visual-notes-on-each-of/"
+      },
+      {
+        "title": "原始媒体：Create Infinite Wealth",
+        "url": "https://www.youtube.com/watch?v=M9rVFq7YNfQ"
+      }
+    ]
+  },
+  "elon-qm-watch-elon-musk-s-ai-day-with-optimus-reveal-live": {
+    "takeaway": "去年特斯拉 AI Day 上那台“机器人”，里面是个穿紧身衣的真人。今年马斯克自己把这件事翻出来当笑话讲：去年那是个穿机器人套装的人，今年我们走了很长的路。他没夸张。新机器人上台时，没有任何缆绳、支架、机械备份，自己走出来的。马斯克说，这是它第一次脱离束缚运行，“我们只是不想让它脸着地”。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "去年特斯拉 AI Day 上那台“机器人”，里面是个穿紧身衣的真人。今年马斯克自己把这件事翻出来当笑话讲：去年那是个穿机器人套装的人，今年我们走了很长的路。他没夸张。新机器人上台时，没有任何缆绳、支架、机械备份，自己走出来的。马斯克说，这是它第一次脱离束缚运行，“我们只是不想让它脸着地”。",
+          "原站将本条归为发布会，时长约 188 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：直播：马斯克 AI Day 揭晓 Optimus",
+        "url": "https://elon.qiaomu.ai/ep/watch-elon-musk-s-ai-day-with-optimus-reveal-live/"
+      },
+      {
+        "title": "原始媒体：CNET Highlights",
+        "url": "https://www.youtube.com/watch?v=NgfRSPTUYQk"
+      }
+    ]
+  },
+  "elon-qm-tesla-ai-day-2022": {
+    "takeaway": "去年这个时候，舞台上那台\"机器人\"，紧身衣里裹着的是个真人，被灯光打着跳舞。今年同一个舞台，一台没有缆绳、没有外部支撑的机器人自己站了起来，挥了挥手，做了几个蹲起，然后被工作人员推着下了台。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "去年这个时候，舞台上那台\"机器人\"，紧身衣里裹着的是个真人，被灯光打着跳舞。今年同一个舞台，一台没有缆绳、没有外部支撑的机器人自己站了起来，挥了挥手，做了几个蹲起，然后被工作人员推着下了台。",
+          "原站将本条归为发布会，时长约 203 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla AI Day 2022 全程回顾",
+        "url": "https://elon.qiaomu.ai/ep/tesla-ai-day-2022/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=ODSJsviD_SU"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-on-the-rainn-wilson-show-rare-interview-hbworld": {
+    "takeaway": "如果人类明天彻底治愈癌症，平均寿命能延长多少？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "如果人类明天彻底治愈癌症，平均寿命能延长多少？",
+          "原站将本条归为访谈，时长约 25 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克做客《雷恩·威尔逊秀》罕见访谈｜HBWorld",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-on-the-rainn-wilson-show-rare-interview-hbworld/"
+      },
+      {
+        "title": "原始媒体：HBM",
+        "url": "https://www.youtube.com/watch?v=UQnUJBPU5hc"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-reveals-a-humanoid-robot-at-tesla-ai-day-2022": {
+    "takeaway": "2021 年的特斯拉 AI Day 上，一个穿紧身衣的真人套着银色外壳在台上扭动，扮成机器人。这段画面被嘲笑了整整一年，成了\"特斯拉画饼\"的经典素材。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2021 年的特斯拉 AI Day 上，一个穿紧身衣的真人套着银色外壳在台上扭动，扮成机器人。这段画面被嘲笑了整整一年，成了\"特斯拉画饼\"的经典素材。",
+          "原站将本条归为发布会，时长约 12 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在 Tesla AI Day 2022 发布人形机器人",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-reveals-a-humanoid-robot-at-tesla-ai-day-2022/"
+      },
+      {
+        "title": "原始媒体：The Verge",
+        "url": "https://www.youtube.com/watch?v=UXHoWNfjJYM"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-ted-talk-free-speech-fsd-optimus-massive-scale-ep-147": {
+    "takeaway": "2014 年，马斯克在特斯拉的财报电话会上说，到 2020 年，特斯拉一年能交付 50 万辆车。整个华尔街都在摇头。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2014 年，马斯克在特斯拉的财报电话会上说，到 2020 年，特斯拉一年能交付 50 万辆车。整个华尔街都在摇头。",
+          "原站将本条归为播客，时长约 48 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 TED 访谈：言论自由、FSD、Optimus 与规模化｜Ep 147",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-ted-talk-free-speech-fsd-optimus-massive-scale-ep-147/"
+      },
+      {
+        "title": "原始媒体：Investing Against the Grain",
+        "url": "https://www.youtube.com/watch?v=ViQoHeyvG_8"
+      }
+    ]
+  },
+  "elon-qm-go-up-spacex-s-starship-catching-robotic-launch-tower-with-elon": {
+    "takeaway": "在德克萨斯州博卡奇卡，有一座 120 米高的塔，塔顶伸出两条巨大的机械臂。它要接住的东西，是一枚从天上掉下来、重达 250 吨、下落速度还超过音速一半的助推器。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "在德克萨斯州博卡奇卡，有一座 120 米高的塔，塔顶伸出两条巨大的机械臂。它要接住的东西，是一枚从天上掉下来、重达 250 吨、下落速度还超过音速一半的助推器。",
+          "原站将本条归为访谈，时长约 33 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：跟马斯克爬上 SpaceX 抓取 Starship 的机械发射塔",
+        "url": "https://elon.qiaomu.ai/ep/go-up-spacex-s-starship-catching-robotic-launch-tower-with-elon/"
+      },
+      {
+        "title": "原始媒体：Everyday Astronaut",
+        "url": "https://www.youtube.com/watch?v=XP5k3ZzPf_0"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-and-tesla-engineers-answer-audience-questions-at-tesla": {
+    "takeaway": "AI Day 2022 的答问环节进行到一半，马斯克说了一句不太像发布会结尾的话。有人问 Optimus 的手为什么用腱驱动，特斯拉工程师讲完线缆强度、零件数量和抗背隙之后，马斯克补了一句：",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "AI Day 2022 的答问环节进行到一半，马斯克说了一句不太像发布会结尾的话。有人问 Optimus 的手为什么用腱驱动，特斯拉工程师讲完线缆强度、零件数量和抗背隙之后，马斯克补了一句：",
+          "原站将本条归为发布会，时长约 55 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克与 Tesla 工程师在 AI Day 2022 答观众问",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-and-tesla-engineers-answer-audience-questions-at-tesla/"
+      },
+      {
+        "title": "原始媒体：CNET Highlights",
+        "url": "https://www.youtube.com/watch?v=Y4tS0iVkFbg"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-a-future-worth-getting-excited-about-tesla-texas-gigaf": {
+    "takeaway": "2022 年 4 月，得克萨斯州超级工厂（Gigafactory Texas）正式开业的前一天，TED 的克里斯·安德森（Chris Anderson）坐在马斯克对面，问了一个关于预测的问题。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2022 年 4 月，得克萨斯州超级工厂（Gigafactory Texas）正式开业的前一天，TED 的克里斯·安德森（Chris Anderson）坐在马斯克对面，问了一个关于预测的问题。",
+          "原站将本条归为大会演讲，时长约 66 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克：值得期待的未来｜Tesla 得州超级工厂访谈｜TED",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-a-future-worth-getting-excited-about-tesla-texas-gigaf/"
+      },
+      {
+        "title": "原始媒体：TED",
+        "url": "https://www.youtube.com/watch?v=YRvf00NooN8"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-with-the-babylon-bee-short-version": {
+    "takeaway": "2021年，马斯克交的税超过110亿美元。他自己在一次访谈里说，这大概是历史上任何个人交过的最大一笔税。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2021年，马斯克交的税超过110亿美元。他自己在一次访谈里说，这大概是历史上任何个人交过的最大一笔税。",
+          "原站将本条归为播客，时长约 9 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克接受 The Babylon Bee 访谈（短版）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-with-the-babylon-bee-short-version/"
+      },
+      {
+        "title": "原始媒体：Create Infinite Wealth",
+        "url": "https://www.youtube.com/watch?v=aYMXcrPRl0A"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-talks-twitter-tesla-and-how-his-brain-works-live-at-te": {
+    "takeaway": "2014 年，特斯拉那年卖了 6 万辆车。马斯克说，2020 年我们要做到一年 50 万辆。2020 年，特斯拉交付了 499550 辆，差一点就是分毫不差。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2014 年，特斯拉那年卖了 6 万辆车。马斯克说，2020 年我们要做到一年 50 万辆。2020 年，特斯拉交付了 499550 辆，差一点就是分毫不差。",
+          "原站将本条归为访谈，时长约 55 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在 TED2022 现场谈 Twitter、Tesla 与大脑运作",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-talks-twitter-tesla-and-how-his-brain-works-live-at-te/"
+      },
+      {
+        "title": "原始媒体：TED",
+        "url": "https://www.youtube.com/watch?v=cdZZpaB2kDM"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-answers-all-your-questions-at-tesla-s-2022-shareholder": {
+    "takeaway": "2022 年 8 月，特斯拉股东会在德州超级工厂开。第一个被投票顶上来的问题听起来很无趣：公司未来几年打算怎么用现金，加资本开支、回购、分红，还是去收购？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2022 年 8 月，特斯拉股东会在德州超级工厂开。第一个被投票顶上来的问题听起来很无趣：公司未来几年打算怎么用现金，加资本开支、回购、分红，还是去收购？",
+          "原站将本条归为股东会，时长约 38 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在 Tesla 2022 股东大会上回答所有问题",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-answers-all-your-questions-at-tesla-s-2022-shareholder/"
+      },
+      {
+        "title": "原始媒体：CNET Highlights",
+        "url": "https://www.youtube.com/watch?v=dqOUCjHOtAQ"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-on-life-the-universe-and-everything-interview-part-2": {
+    "takeaway": "2008年10月，马斯克飞了一趟德国，去戴姆勒（Daimler）总部谈合作。那时候特斯拉快没钱了，他自己说得很直白：我们需要某种形式的合作，不然就完蛋了。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2008年10月，马斯克飞了一趟德国，去戴姆勒（Daimler）总部谈合作。那时候特斯拉快没钱了，他自己说得很直白：我们需要某种形式的合作，不然就完蛋了。",
+          "原站将本条归为访谈，时长约 63 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克谈生命、宇宙及一切：访谈第2部分",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-on-life-the-universe-and-everything-interview-part-2/"
+      },
+      {
+        "title": "原始媒体：Tesla Owners Silicon Valley",
+        "url": "https://www.youtube.com/watch?v=iHmSrK238vI"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-on-wsj-segment-3": {
+    "takeaway": "参考档案收录的访谈资料，发布渠道为 Elon_Musk_fan，视频时长约 11 分钟。原始标题为《Elon Musk interview on WSJ Segment 3》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的访谈资料，发布渠道为 Elon_Musk_fan，视频时长约 11 分钟。原始标题为《Elon Musk interview on WSJ Segment 3》。本条保留原始媒体与档案来源。",
+          "原站将本条归为访谈，时长约 11 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克接受 WSJ 采访（第3段）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-on-wsj-segment-3/"
+      },
+      {
+        "title": "原始媒体：Elon_Musk_fan",
+        "url": "https://www.youtube.com/watch?v=m0nF27_lpII"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-ons-2022-norway-interview": {
+    "takeaway": "2022 年，挪威斯塔万格（Stavanger），ONS 能源大会。主持人用一长串头衔介绍台上的人：SpaceX 创始人、CEO 兼首席工程师，特斯拉 CEO 兼产品架构师，天使投资人，颠覆者。介绍完毕，主持人补了一句：这位先生对“信任”这个主题说过一些很有意思的话，他形容自己痴迷于真相，",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2022 年，挪威斯塔万格（Stavanger），ONS 能源大会。主持人用一长串头衔介绍台上的人：SpaceX 创始人、CEO 兼首席工程师，特斯拉 CEO 兼产品架构师，天使投资人，颠覆者。介绍完毕，主持人补了一句：这位先生对“信任”这个主题说过一些很有意思的话，他形容自己痴迷于真相，",
+          "原站将本条归为访谈，时长约 25 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 ONS 2022 挪威访谈",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-ons-2022-norway-interview/"
+      },
+      {
+        "title": "原始媒体：Clovercake",
+        "url": "https://www.youtube.com/watch?v=mWCfqBb0YTE"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-ron-baron-talk-about-tesla": {
+    "takeaway": "一辆车，一周开 10 到 12 个小时。剩下的 150 多个小时，它停在车位上，占着一块地，慢慢贬值。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一辆车，一周开 10 到 12 个小时。剩下的 150 多个小时，它停在车位上，占着一块地，慢慢贬值。",
+          "原站将本条归为访谈，时长约 12 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克与罗恩·巴伦谈 Tesla",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-ron-baron-talk-about-tesla/"
+      },
+      {
+        "title": "原始媒体：Tesla Economist",
+        "url": "https://www.youtube.com/watch?v=n178ajdi5x8"
+      }
+    ]
+  },
+  "elon-qm-elon-s-interview-at-wsj-ceo-summit": {
+    "takeaway": "2022 年的 WSJ CEO 峰会，马斯克没去现场。他坐在德州超级工厂里，摄像头对着他，背后就是产线，机器还在运转。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2022 年的 WSJ CEO 峰会，马斯克没去现场。他坐在德州超级工厂里，摄像头对着他，背后就是产线，机器还在运转。",
+          "原站将本条归为大会演讲，时长约 9 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在 WSJ CEO 峰会接受采访",
+        "url": "https://elon.qiaomu.ai/ep/elon-s-interview-at-wsj-ceo-summit/"
+      },
+      {
+        "title": "原始媒体：Tesla Economist",
+        "url": "https://www.youtube.com/watch?v=nURQQeLn760"
+      }
+    ]
+  },
+  "elon-qm-watch-elon-musk-at-2022-tesla-shareholder-meeting-full-presentat": {
+    "takeaway": "2012年8月，特斯拉累计造了不到3000辆车。2500辆Roadster，再加上几百辆Model S。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2012年8月，特斯拉累计造了不到3000辆车。2500辆Roadster，再加上几百辆Model S。",
+          "原站将本条归为股东会，时长约 36 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：观看马斯克在 2022 Tesla 股东大会完整演讲",
+        "url": "https://elon.qiaomu.ai/ep/watch-elon-musk-at-2022-tesla-shareholder-meeting-full-presentat/"
+      },
+      {
+        "title": "原始媒体：CNET Highlights",
+        "url": "https://www.youtube.com/watch?v=pnXy8c0GOpE"
+      }
+    ]
+  },
+  "elon-qm-web-summit-2022-chris-anderson-ted-about-social-media-ideas-and": {
+    "takeaway": "克里斯·安德森（Chris Anderson）在 Web Summit 2022 的舞台上被问到，TED 是怎么在新的媒介环境里保持存在感的。他的回答里藏了一个数字：TED 从来没有在营销上花过一分钱。从 1984 年创办到现在，几十亿的播放量、两万多名志愿译者、遍布全球的 TEDx 组织",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "克里斯·安德森（Chris Anderson）在 Web Summit 2022 的舞台上被问到，TED 是怎么在新的媒介环境里保持存在感的。他的回答里藏了一个数字：TED 从来没有在营销上花过一分钱。从 1984 年创办到现在，几十亿的播放量、两万多名志愿译者、遍布全球的 TEDx 组织",
+          "原站将本条归为大会演讲，时长约 14 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Web Summit 2022：克里斯·安德森（TED）谈社交媒体、创意与马斯克",
+        "url": "https://elon.qiaomu.ai/ep/web-summit-2022-chris-anderson-ted-about-social-media-ideas-and/"
+      },
+      {
+        "title": "原始媒体：seremot",
+        "url": "https://www.youtube.com/watch?v=rHW6YD9RHlc"
+      }
+    ]
+  },
+  "elon-qm-watch-tesla-s-2022-shareholder-meeting-with-elon-musk-live": {
+    "takeaway": "马斯克在大屏幕上放了一条曲线。蓝线从2012年的接近零起步，前几年贴着地面爬，最近两年突然竖起来，陡得不像话。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克在大屏幕上放了一条曲线。蓝线从2012年的接近零起步，前几年贴着地面爬，最近两年突然竖起来，陡得不像话。",
+          "原站将本条归为股东会，时长约 138 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：直播：Tesla 2022 股东大会，马斯克出席",
+        "url": "https://elon.qiaomu.ai/ep/watch-tesla-s-2022-shareholder-meeting-with-elon-musk-live/"
+      },
+      {
+        "title": "原始媒体：CNET Highlights",
+        "url": "https://www.youtube.com/watch?v=s_2BU8vqbos"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-unfiltered-interview-part-3-bonus-material": {
+    "takeaway": "一辆二手的特斯拉 Roadster 正飘在地球和火星之间的轨道上，驾驶座坐着一个穿宇航服的假人，仪表盘上还粘着一个更小的假人，尺寸跟火柴盒差不多。这两件事都不是公关公司策划的。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一辆二手的特斯拉 Roadster 正飘在地球和火星之间的轨道上，驾驶座坐着一个穿宇航服的假人，仪表盘上还粘着一个更小的假人，尺寸跟火柴盒差不多。这两件事都不是公关公司策划的。",
+          "原站将本条归为访谈，时长约 71 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克无滤镜访谈第3部分（花絮）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-unfiltered-interview-part-3-bonus-material/"
+      },
+      {
+        "title": "原始媒体：Tesla Owners Silicon Valley",
+        "url": "https://www.youtube.com/watch?v=u5w_VkAx6tc"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-speaks-at-qef": {
+    "takeaway": "凌晨三点，屏幕那头的人穿着一件黑T恤，背景是模糊的房间。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "凌晨三点，屏幕那头的人穿着一件黑T恤，背景是模糊的房间。",
+          "原站将本条归为访谈，时长约 20 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在 QEF 发表演讲",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-speaks-at-qef/"
+      },
+      {
+        "title": "原始媒体：Qatar Economic Forum",
+        "url": "https://www.youtube.com/watch?v=uTBeGjg4pek"
+      }
+    ]
+  },
+  "elon-qm-live-elon-musk-gives-an-update-on-spacex-starship-program": {
+    "takeaway": "一艘星舰，一天发射三次，飞满一年，送上轨道的总质量，大约等于人类从1957年斯普特尼克号上天到今天，所有火箭送进太空的东西加在一起。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一艘星舰，一天发射三次，飞满一年，送上轨道的总质量，大约等于人类从1957年斯普特尼克号上天到今天，所有火箭送进太空的东西加在一起。",
+          "原站将本条归为发布会，时长约 81 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：直播：马斯克更新 SpaceX Starship 计划",
+        "url": "https://elon.qiaomu.ai/ep/live-elon-musk-gives-an-update-on-spacex-starship-program/"
+      },
+      {
+        "title": "原始媒体：Reuters",
+        "url": "https://www.youtube.com/watch?v=ulhQ5UZwmCE"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-gives-jay-leno-a-tour-of-spacex-watch-the-full-ep-wed": {
+    "takeaway": "一枚猎鹰重型火箭的发射报价是 9700 万美元。点火，升空，把载荷送进轨道，任务完成，硬件全部报废。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一枚猎鹰重型火箭的发射报价是 9700 万美元。点火，升空，把载荷送进轨道，任务完成，硬件全部报废。",
+          "原站将本条归为发布会，时长约 10 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克带杰·雷诺参观 SpaceX｜完整节目周三晚10点 ET",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-gives-jay-leno-a-tour-of-spacex-watch-the-full-ep-wed/"
+      },
+      {
+        "title": "原始媒体：CNBC Ambition",
+        "url": "https://www.youtube.com/watch?v=wluBlr1j4qk"
+      }
+    ]
+  },
+  "elon-qm-watch-elon-musk-s-cyber-rodeo-event-live": {
+    "takeaway": "2022 年 4 月 7 日，得州奥斯汀郊外一栋刚封顶的巨型厂房里挤进几千人。马斯克上台，开口先讲这栋楼有多大。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2022 年 4 月 7 日，得州奥斯汀郊外一栋刚封顶的巨型厂房里挤进几千人。马斯克上台，开口先讲这栋楼有多大。",
+          "原站将本条归为访谈，时长约 69 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：直播：马斯克 Cyber Rodeo 活动",
+        "url": "https://elon.qiaomu.ai/ep/watch-elon-musk-s-cyber-rodeo-event-live/"
+      },
+      {
+        "title": "原始媒体：CNET Highlights",
+        "url": "https://www.youtube.com/watch?v=y2QSBdFfnRI"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-answers-all-your-questions-at-neuralink-s-2022-show-an": {
+    "takeaway": "控制一台电脑，需要多少带宽？Neuralink 给出的数字是每秒 10 比特。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "控制一台电脑，需要多少带宽？Neuralink 给出的数字是每秒 10 比特。",
+          "原站将本条归为访谈，时长约 53 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在 Neuralink 2022 Show and Tell 活动回答所有问题",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-answers-all-your-questions-at-neuralink-s-2022-show-an/"
+      },
+      {
+        "title": "原始媒体：CNET Highlights",
+        "url": "https://www.youtube.com/watch?v=zVVLMZXPSek"
+      }
+    ]
+  },
+  "elon-qm-full-call-twitter-all-hands-with-elon-musk-6-16-22": {
+    "takeaway": "2022 年 6 月 16 日，马斯克出现在 Twitter 的全员大会上。这是他宣布收购之后第一次面对全体员工，会议开了整整一小时。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2022 年 6 月 16 日，马斯克出现在 Twitter 的全员大会上。这是他宣布收购之后第一次面对全体员工，会议开了整整一小时。",
+          "原站将本条归为访谈，时长约 48 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：完整通话：马斯克 Twitter 全员大会 6/16/22",
+        "url": "https://elon.qiaomu.ai/ep/full-call-twitter-all-hands-with-elon-musk-6-16-22/"
+      },
+      {
+        "title": "原始媒体：archive.org · Project Veritas",
+        "url": "https://archive.org/download/youtube-FLvTcRrzy20/FLvTcRrzy20.mp4"
+      }
+    ]
+  },
+  "elon-qm-bloomberg-surveillance-early-edition-full-06-21-22-elon-musk-int": {
+    "takeaway": "2022年6月21日，纽约时间凌晨三点，马斯克出现在卡塔尔经济论坛（Qatar Economic Forum）的视频连线里。多哈现场坐了三百多人，房间挤爆，彭博（Bloomberg）的镜头切过去时，他那边是深夜。彭博新闻总编辑约翰·米克尔思韦特（John Micklethwait）坐在台上",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2022年6月21日，纽约时间凌晨三点，马斯克出现在卡塔尔经济论坛（Qatar Economic Forum）的视频连线里。多哈现场坐了三百多人，房间挤爆，彭博（Bloomberg）的镜头切过去时，他那边是深夜。彭博新闻总编辑约翰·米克尔思韦特（John Micklethwait）坐在台上",
+          "原站将本条归为访谈，时长约 93 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Bloomberg Surveillance: Early Edition 完整版（06/21/22）马斯克访谈",
+        "url": "https://elon.qiaomu.ai/ep/bloomberg-surveillance-early-edition-full-06-21-22-elon-musk-int/"
+      },
+      {
+        "title": "原始媒体：Bloomberg Television",
+        "url": "https://www.youtube.com/watch?v=Hfl9WZQ3F0c"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-is-interviewed-at-qatar-economic-forum-on-the-21-06-20": {
+    "takeaway": "纽约凌晨三点，马斯克出现在卡塔尔经济论坛的大屏幕上。主持人开场先给他分了身：现在媒体要应付至少三个马斯克，推特的潜在买家、特斯拉和 SpaceX 的掌门人、一个正在成形的政治力量。这还没算上那些推文和争议。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "纽约凌晨三点，马斯克出现在卡塔尔经济论坛的大屏幕上。主持人开场先给他分了身：现在媒体要应付至少三个马斯克，推特的潜在买家、特斯拉和 SpaceX 的掌门人、一个正在成形的政治力量。这还没算上那些推文和争议。",
+          "原站将本条归为大会演讲，时长约 20 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在卡塔尔经济论坛接受采访（2022.06.21）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-is-interviewed-at-qatar-economic-forum-on-the-21-06-20/"
+      },
+      {
+        "title": "原始媒体：Michael Perrie",
+        "url": "https://www.youtube.com/watch?v=g4CVLP5yC2g"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-s-neuralink-update-september-2022": {
+    "takeaway": "2022 年 10 月 31 日，万圣节。马斯克把 Neuralink 当年最重要的一场公开活动定在了这天，名字叫 show and tell，展示与讲述。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2022 年 10 月 31 日，万圣节。马斯克把 Neuralink 当年最重要的一场公开活动定在了这天，名字叫 show and tell，展示与讲述。",
+          "原站将本条归为发布会，时长约 11 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 Neuralink 更新：2022年9月",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-s-neuralink-update-september-2022/"
+      },
+      {
+        "title": "原始媒体：Neura Pod",
+        "url": "https://www.youtube.com/watch?v=Hc-ZJ-auPOA"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-shows-jay-leno-his-spacex-rockets-jay-leno-s-garage-fu": {
+    "takeaway": "每次聊到火星，总有人问同一个问题：地球上还有这么多烂摊子，为什么要把钱和人往另一个星球送？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "每次聊到火星，总有人问同一个问题：地球上还有这么多烂摊子，为什么要把钱和人往另一个星球送？",
+          "原站将本条归为访谈，时长约 44 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克向杰·雷诺展示 SpaceX 火箭｜Jay Leno's Garage 完整集",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-shows-jay-leno-his-spacex-rockets-jay-leno-s-garage-fu/"
+      },
+      {
+        "title": "原始媒体：archive.org · CNBC Prime",
+        "url": "https://archive.org/download/youtube-goT5gW57Chc/goT5gW57Chc.mp4"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interviewed-by-ron-baron-4-november-2022": {
+    "takeaway": "2022年11月4日，罗恩·巴伦（Ron Baron）在台上问了马斯克一个问题：你51岁了，每天干16个小时，一周七天，满世界飞，开不完的会，还总有人在网上骂你。你图什么？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2022年11月4日，罗恩·巴伦（Ron Baron）在台上问了马斯克一个问题：你51岁了，每天干16个小时，一周七天，满世界飞，开不完的会，还总有人在网上骂你。你图什么？",
+          "原站将本条归为访谈，时长约 59 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：罗恩·巴伦采访马斯克（2022年11月4日）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interviewed-by-ron-baron-4-november-2022/"
+      },
+      {
+        "title": "原始媒体：Best of Elon",
+        "url": "https://www.youtube.com/watch?v=NiMvQSWr-v4"
+      }
+    ]
+  },
+  "elon-qm-full-interview-elon-musk-ft-tucker-truthgpt-to-story-behind-open": {
+    "takeaway": "2023 年 4 月，马斯克坐在塔克·卡尔森（Tucker Carlson）对面，说自己要造一个新的人工智能，目标是最大程度地追求真相，名字叫 TruthGPT。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2023 年 4 月，马斯克坐在塔克·卡尔森（Tucker Carlson）对面，说自己要造一个新的人工智能，目标是最大程度地追求真相，名字叫 TruthGPT。",
+          "原站将本条归为访谈，时长约 87 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：完整访谈：马斯克对话塔克·卡尔森，谈 TruthGPT、OpenAI 幕后、Twitter 银行危机与外星人",
+        "url": "https://elon.qiaomu.ai/ep/full-interview-elon-musk-ft-tucker-truthgpt-to-story-behind-open/"
+      },
+      {
+        "title": "原始媒体：Project Shadow US News",
+        "url": "https://www.youtube.com/watch?v=273I2TEQoOw"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-bbc-interview-full-from-4-11-spaces-with-james-clayton": {
+    "takeaway": "2023年4月11日，BBC记者詹姆斯·克莱顿（James Clayton）给马斯克发了一封邮件，他自己都觉得不会有人回。几个小时后，他坐在了推特旧金山总部，对面是马斯克本人，三台摄像机、一堆补光灯，同时在线收听这场对话的有二十多万人，后来涨到三百多万。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2023年4月11日，BBC记者詹姆斯·克莱顿（James Clayton）给马斯克发了一封邮件，他自己都觉得不会有人回。几个小时后，他坐在了推特旧金山总部，对面是马斯克本人，三台摄像机、一堆补光灯，同时在线收听这场对话的有二十多万人，后来涨到三百多万。",
+          "原站将本条归为X Spaces，时长约 87 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 BBC 完整访谈：4/11 Spaces 对话詹姆斯·克莱顿",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-bbc-interview-full-from-4-11-spaces-with-james-clayton/"
+      },
+      {
+        "title": "原始媒体：ChaoticSandmanProductions",
+        "url": "https://www.youtube.com/watch?v=3B6G_M1AY0Q"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-full-interview-with-tucker-carlson-aliens-ai-truthgpt": {
+    "takeaway": "如果有一天，人类发现自己失去了对某个超级 AI 的控制。管理员密码不管用了，命令发出去没有反应，也没法让它慢下来。怎么办？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "如果有一天，人类发现自己失去了对某个超级 AI 的控制。管理员密码不管用了，命令发出去没有反应，也没法让它慢下来。怎么办？",
+          "原站将本条归为访谈，时长约 51 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克完整访谈塔克·卡尔森：外星人、AI、TruthGPT、Twitter、OpenAI",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-full-interview-with-tucker-carlson-aliens-ai-truthgpt/"
+      },
+      {
+        "title": "原始媒体：Zeus Finn",
+        "url": "https://www.youtube.com/watch?v=4O0nWLOav_w"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-keynote-speech-wrap-up": {
+    "takeaway": "2023 年，奥斯汀市中心的 JW 万豪酒店，爱迪生电气协会（EEI）年会现场。马斯克站在台上，对着一屋子电力公司的老板和高管说了一句话：不管你们觉得未来需要多少电，实际需要的都还要更多。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2023 年，奥斯汀市中心的 JW 万豪酒店，爱迪生电气协会（EEI）年会现场。马斯克站在台上，对着一屋子电力公司的老板和高管说了一句话：不管你们觉得未来需要多少电，实际需要的都还要更多。",
+          "原站将本条归为发布会，时长约 42 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克主题演讲总结",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-keynote-speech-wrap-up/"
+      },
+      {
+        "title": "原始媒体：Ellie in Space",
+        "url": "https://www.youtube.com/watch?v=5rQ-yYTqUpY"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-cnbc-full-interview": {
+    "takeaway": "2023 年 5 月，特斯拉股东大会结束后的那个下午，CNBC 在得州工厂里找到马斯克。他领着记者走过总装线，指着一排刚下线的车说，只要这条线不动，就说明上游哪里堵了。他在这里没有办公室，要么在车间里走，要么在这间会议室开会，抬头就能看见车走没走。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2023 年 5 月，特斯拉股东大会结束后的那个下午，CNBC 在得州工厂里找到马斯克。他领着记者走过总装线，指着一排刚下线的车说，只要这条线不动，就说明上游哪里堵了。他在这里没有办公室，要么在车间里走，要么在这间会议室开会，抬头就能看见车走没走。",
+          "原站将本条归为访谈，时长约 62 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 CNBC 完整访谈",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-cnbc-full-interview/"
+      },
+      {
+        "title": "原始媒体：Vrum Pha",
+        "url": "https://www.youtube.com/watch?v=7pja9glSvRI"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-rishi-sunak-interview-in-full": {
+    "takeaway": "2023年11月初，AI 安全峰会刚落幕，马斯克和苏纳克坐下来聊了一个小时。这场对谈后来被反复引用，最出圈的是马斯克那句话：将来会有一个时刻，没有任何工作是非做不可的。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2023年11月初，AI 安全峰会刚落幕，马斯克和苏纳克坐下来聊了一个小时。这场对谈后来被反复引用，最出圈的是马斯克那句话：将来会有一个时刻，没有任何工作是非做不可的。",
+          "原站将本条归为访谈，时长约 51 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克与苏纳克完整访谈",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-rishi-sunak-interview-in-full/"
+      },
+      {
+        "title": "原始媒体：10 Downing Street",
+        "url": "https://www.youtube.com/watch?v=AjdVlmBjRCA"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-touts-sustainable-energy-future-tesla-investor-day": {
+    "takeaway": "2023 年 3 月 1 日，特斯拉投资者日。马斯克上台讲的第一件事，跟车没关系。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2023 年 3 月 1 日，特斯拉投资者日。马斯克上台讲的第一件事，跟车没关系。",
+          "原站将本条归为股东会，时长约 8 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克畅谈可持续能源未来（Tesla Investor Day）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-touts-sustainable-energy-future-tesla-investor-day/"
+      },
+      {
+        "title": "原始媒体：CNET Highlights",
+        "url": "https://www.youtube.com/watch?v=C16i8nsIKJ8"
+      }
+    ]
+  },
+  "elon-qm-the-most-important-90-seconds-in-any-interview-ever-elon-musk-on": {
+    "takeaway": "2023 年，CNBC 的一段采访里，主持人问埃隆·马斯克（Elon Musk）：你发那条关于乔治·索罗斯（George Soros）的推文之前，有没有算过代价？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2023 年，CNBC 的一段采访里，主持人问埃隆·马斯克（Elon Musk）：你发那条关于乔治·索罗斯（George Soros）的推文之前，有没有算过代价？",
+          "原站将本条归为访谈，时长约 8 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：史上最重要的90秒访谈｜马斯克谈🔥",
+        "url": "https://elon.qiaomu.ai/ep/the-most-important-90-seconds-in-any-interview-ever-elon-musk-on/"
+      },
+      {
+        "title": "原始媒体：Benny Johnson",
+        "url": "https://www.youtube.com/watch?v=F1PlQ0lrVFA"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-on-full-self-driving-fsd-q-a-from-2023-tesla-annual-sh": {
+    "takeaway": "参考档案收录的股东会资料，发布渠道为 EV News Network，视频时长约 9 分钟。原始标题为《Elon Musk on Full Self-Driving (FSD) | Q&A from 2023 Tesla Annual Shareholder Meeting》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的股东会资料，发布渠道为 EV News Network，视频时长约 9 分钟。原始标题为《Elon Musk on Full Self-Driving (FSD) | Q&A from 2023 Tesla Annual Shareholder Meeting》。本条保留原始媒体与档案来源。",
+          "原站将本条归为股东会，时长约 9 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克谈 FSD｜2023 Tesla 年度股东大会问答",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-on-full-self-driving-fsd-q-a-from-2023-tesla-annual-sh/"
+      },
+      {
+        "title": "原始媒体：EV News Network",
+        "url": "https://www.youtube.com/watch?v=Gk5FRMv4zOM"
+      }
+    ]
+  },
+  "elon-qm-2023-investor-day-tesla": {
+    "takeaway": "全球一次能源消费里，80% 以上来自化石燃料。这些能量最终只有三分之一变成了有用的功或者热。剩下那些，在开采、精炼、运输、燃烧、怠速的过程中，散成了废热。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "全球一次能源消费里，80% 以上来自化石燃料。这些能量最终只有三分之一变成了有用的功或者热。剩下那些，在开采、精炼、运输、燃烧、怠速的过程中，散成了废热。",
+          "原站将本条归为股东会，时长约 227 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2023 Investor Day｜Tesla",
+        "url": "https://elon.qiaomu.ai/ep/2023-investor-day-tesla/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=Hl1zEzVUV7w"
+      }
+    ]
+  },
+  "elon-qm-working-for-elon-musk-ex-employees-reveal-his-management-strateg": {
+    "takeaway": "2022 年 11 月，马斯克接手推特大约三周，给全员发了一封信，要大家承诺进入“硬核”工作状态。几百名员工选择拿钱走人，没有签。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2022 年 11 月，马斯克接手推特大约三周，给全员发了一封信，要大家承诺进入“硬核”工作状态。几百名员工选择拿钱走人，没有签。",
+          "原站将本条归为发布会，时长约 7 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：为马斯克工作：前员工揭秘其管理策略｜WSJ",
+        "url": "https://elon.qiaomu.ai/ep/working-for-elon-musk-ex-employees-reveal-his-management-strateg/"
+      },
+      {
+        "title": "原始媒体：The Wall Street Journal",
+        "url": "https://www.youtube.com/watch?v=JEikQP8-es0"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-at-dealbook-2023-full-interview": {
+    "takeaway": "2023年11月底的 DealBook 峰会上，马斯克坐在安德鲁·罗斯·索尔金（Andrew Ross Sorkin）对面。开场没寒暄几句，索尔金就把最烫手的问题甩了出来：那条被指反犹的推文，到底怎么回事。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2023年11月底的 DealBook 峰会上，马斯克坐在安德鲁·罗斯·索尔金（Andrew Ross Sorkin）对面。开场没寒暄几句，索尔金就把最烫手的问题甩了出来：那条被指反犹的推文，到底怎么回事。",
+          "原站将本条归为访谈，时长约 86 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在 DealBook 2023 完整访谈",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-at-dealbook-2023-full-interview/"
+      },
+      {
+        "title": "原始媒体：Variety with Beatrice",
+        "url": "https://www.youtube.com/watch?v=JyyL2gWa4R8"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-full-interview-with-tucker-carlson-part-1-2": {
+    "takeaway": "拉里·佩奇管埃隆·马斯克叫\"物种歧视者\"（speciesist）。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "拉里·佩奇管埃隆·马斯克叫\"物种歧视者\"（speciesist）。",
+          "原站将本条归为访谈，时长约 64 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克完整访谈塔克·卡尔森（第1、2部分）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-full-interview-with-tucker-carlson-part-1-2/"
+      },
+      {
+        "title": "原始媒体：Based Media",
+        "url": "https://www.youtube.com/watch?v=L5zmj30M0uM"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-slaughters-cnbc-reporter-in-live-interview": {
+    "takeaway": "2023年5月，CNBC 演播室。主持人 David Faber 对着马斯克，用四种不同的问法，反复问了同一个问题：你为什么要公开说出来。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2023年5月，CNBC 演播室。主持人 David Faber 对着马斯克，用四种不同的问法，反复问了同一个问题：你为什么要公开说出来。",
+          "原站将本条归为访谈，时长约 10 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克直播采访中“碾压”CNBC记者",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-slaughters-cnbc-reporter-in-live-interview/"
+      },
+      {
+        "title": "原始媒体：Dr. Steve Turley",
+        "url": "https://www.youtube.com/watch?v=N3vYplvo4hk"
+      }
+    ]
+  },
+  "elon-qm-the-babylon-bee-talks-with-elon-musk-at-twitter-headquarters": {
+    "takeaway": "2023 年 5 月，旧金山市场街的 Twitter 总部。三个 Babylon Bee（巴比伦蜜蜂，美国一家讽刺新闻网站）的编辑走进会议室，递给马斯克一张纸。那是一张手写欠条，金额 440 亿美元，收款人写着他的名字。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2023 年 5 月，旧金山市场街的 Twitter 总部。三个 Babylon Bee（巴比伦蜜蜂，美国一家讽刺新闻网站）的编辑走进会议室，递给马斯克一张纸。那是一张手写欠条，金额 440 亿美元，收款人写着他的名字。",
+          "原站将本条归为播客，时长约 68 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：The Babylon Bee 在 Twitter 总部对话马斯克",
+        "url": "https://elon.qiaomu.ai/ep/the-babylon-bee-talks-with-elon-musk-at-twitter-headquarters/"
+      },
+      {
+        "title": "原始媒体：The Babylon Bee",
+        "url": "https://www.youtube.com/watch?v=NHaczOsMQ20"
+      }
+    ]
+  },
+  "elon-qm-watch-elon-musk-s-neuralink-show-and-tell-event-live": {
+    "takeaway": "打一行字，你从大脑传到机器上的信息量，大概每秒 10 比特。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "打一行字，你从大脑传到机器上的信息量，大概每秒 10 比特。",
+          "原站将本条归为访谈，时长约 219 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：直播：马斯克 Neuralink Show and Tell 发布会",
+        "url": "https://elon.qiaomu.ai/ep/watch-elon-musk-s-neuralink-show-and-tell-event-live/"
+      },
+      {
+        "title": "原始媒体：CNET Highlights",
+        "url": "https://www.youtube.com/watch?v=NhAU8p985-4"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-keynote-wrap-up-from-paris": {
+    "takeaway": "巴黎 VivaTech 的会场，用的是当年乔布斯发布新产品的那间屋子。主持人上台先铺垫了一句：埃隆今天很忙，估计来不了。台下刚发出一片失望的声音，马斯克就从侧幕走了出来，开口第一句是：我是个全息投影。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "巴黎 VivaTech 的会场，用的是当年乔布斯发布新产品的那间屋子。主持人上台先铺垫了一句：埃隆今天很忙，估计来不了。台下刚发出一片失望的声音，马斯克就从侧幕走了出来，开口第一句是：我是个全息投影。",
+          "原站将本条归为发布会，时长约 74 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克巴黎主题演讲精华回顾",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-keynote-wrap-up-from-paris/"
+      },
+      {
+        "title": "原始媒体：Ellie in Space",
+        "url": "https://www.youtube.com/watch?v=PU9ahOuPe8A"
+      }
+    ]
+  },
+  "elon-qm-bill-ackman-on-new-sparc-structure-potential-deal-with-elon-musk": {
+    "takeaway": "2023 年的华尔街，SPAC 已经成了脏词。几百家空白支票公司挂牌，多数找到的是平庸资产，散户接盘亏钱，SEC 收紧规则，投行排队等着被追责。就在这个节骨眼上，比尔·阿克曼（Bill Ackman）的新工具拿到了美国监管机构的批准，名字从 SPAC 改成了 SPARC，只差一个字母。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2023 年的华尔街，SPAC 已经成了脏词。几百家空白支票公司挂牌，多数找到的是平庸资产，散户接盘亏钱，SEC 收紧规则，投行排队等着被追责。就在这个节骨眼上，比尔·阿克曼（Bill Ackman）的新工具拿到了美国监管机构的批准，名字从 SPAC 改成了 SPARC，只差一个字母。",
+          "原站将本条归为访谈，时长约 8 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：比尔·阿克曼谈新 SPARC 结构与马斯克 X 的潜在交易",
+        "url": "https://elon.qiaomu.ai/ep/bill-ackman-on-new-sparc-structure-potential-deal-with-elon-musk/"
+      },
+      {
+        "title": "原始媒体：CNBC Television",
+        "url": "https://www.youtube.com/watch?v=R6ANfz6-9SQ"
+      }
+    ]
+  },
+  "elon-qm-full-discussion-about-the-ai-safety-with-elon-musk-benjamin-neta": {
+    "takeaway": "马斯克先做了一个铺垫。他说自己认识 AI 领域几乎所有人，想不出谁动机是坏的，大家都想造出帮助世界的技术。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克先做了一个铺垫。他说自己认识 AI 领域几乎所有人，想不出谁动机是坏的，大家都想造出帮助世界的技术。",
+          "原站将本条归为访谈，时长约 48 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克与内塔尼亚胡完整对话：AI 安全（2/2）",
+        "url": "https://elon.qiaomu.ai/ep/full-discussion-about-the-ai-safety-with-elon-musk-benjamin-neta/"
+      },
+      {
+        "title": "原始媒体：Bayon Mbayo",
+        "url": "https://www.youtube.com/watch?v=RfI5WwFOCs4"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-tells-bbc-about-painful-twitter-takeover-in-exclusive": {
+    "takeaway": "马斯克给出的数字是这样的：收入从 45 亿美元掉到 30 亿，支出从 45 亿涨到 60 亿，一进一出，负现金流 30 亿美元。账上现金 10 亿。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克给出的数字是这样的：收入从 45 亿美元掉到 30 亿，支出从 45 亿涨到 60 亿，一进一出，负现金流 30 亿美元。账上现金 10 亿。",
+          "原站将本条归为访谈，时长约 9 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 BBC 独家专访：收购 Twitter 很“痛苦”",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-tells-bbc-about-painful-twitter-takeover-in-exclusive/"
+      },
+      {
+        "title": "原始媒体：BBC News",
+        "url": "https://www.youtube.com/watch?v=SKSsnsAEcn8"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-talks-about-aliens-and-area-51-full-send-podcast": {
+    "takeaway": "马斯克上 Full Send 播客，主持人绕了一大圈，最后问了一个很多人好奇的问题：你到底见过外星人没有？他的回答很干脆，没有任何硬证据。五角大楼那些 UFO 视频？他说那什么都证明不了。但聊到后面，他给出了一个比\"外星人存在\"更让人不安的判断。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克上 Full Send 播客，主持人绕了一大圈，最后问了一个很多人好奇的问题：你到底见过外星人没有？他的回答很干脆，没有任何硬证据。五角大楼那些 UFO 视频？他说那什么都证明不了。但聊到后面，他给出了一个比\"外星人存在\"更让人不安的判断。",
+          "原站将本条归为播客，时长约 9 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克谈外星人与 51 区｜Full Send Podcast",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-talks-about-aliens-and-area-51-full-send-podcast/"
+      },
+      {
+        "title": "原始媒体：CC Knowledge",
+        "url": "https://www.youtube.com/watch?v=T6YGjsEX3Eg"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-answers-all-your-questions-investor-day-2023": {
+    "takeaway": "2023 年特斯拉投资者日的问答环节，主持人一上来就把规矩说清楚了：别问这个季度产量多少，请把问题对准长期价值创造。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2023 年特斯拉投资者日的问答环节，主持人一上来就把规矩说清楚了：别问这个季度产量多少，请把问题对准长期价值创造。",
+          "原站将本条归为股东会，时长约 41 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克回答所有提问（2023 投资者日）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-answers-all-your-questions-investor-day-2023/"
+      },
+      {
+        "title": "原始媒体：CNET Highlights",
+        "url": "https://www.youtube.com/watch?v=ZFzhO6fZ9vQ"
+      }
+    ]
+  },
+  "elon-qm-tech-talk-with-kara-swisher-mass-layoffs-chatgpt-elon-musk-s-leg": {
+    "takeaway": "参考档案收录的访谈资料，发布渠道为 Amanpour and Company，视频时长约 18 分钟。原始标题为《Tech Talk with Kara Swisher: Mass Layoffs, ChatGPT & Elon Musk’s Legal Drama | Amanpour and Company》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的访谈资料，发布渠道为 Amanpour and Company，视频时长约 18 分钟。原始标题为《Tech Talk with Kara Swisher: Mass Layoffs, ChatGPT & Elon Musk’s Legal Drama | Amanpour and Company》。本条保留原始媒体与档案来源。",
+          "原站将本条归为访谈，时长约 18 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：卡拉·斯威舍科技对话：大裁员、ChatGPT 与马斯克法律风波｜Amanpour and Company",
+        "url": "https://elon.qiaomu.ai/ep/tech-talk-with-kara-swisher-mass-layoffs-chatgpt-elon-musk-s-leg/"
+      },
+      {
+        "title": "原始媒体：Amanpour and Company",
+        "url": "https://www.youtube.com/watch?v=aYEDPQ-NQg8"
+      }
+    ]
+  },
+  "elon-qm-2023-annual-shareholder-meeting-tesla": {
+    "takeaway": "2023 年第一季度，欧洲最畅销的车型是 Model Y。不分燃油还是电动，所有车里排第一。美国市场卖得最好的非皮卡车型，也是它。马斯克在 2023 年股东大会上说，Model Y 大概率会成为今年全球销量第一的车型。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2023 年第一季度，欧洲最畅销的车型是 Model Y。不分燃油还是电动，所有车里排第一。美国市场卖得最好的非皮卡车型，也是它。马斯克在 2023 年股东大会上说，Model Y 大概率会成为今年全球销量第一的车型。",
+          "原站将本条归为股东会，时长约 110 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2023 特斯拉年度股东大会",
+        "url": "https://elon.qiaomu.ai/ep/2023-annual-shareholder-meeting-tesla/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=bZNL_8bUz6A"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-s-neuralink-show-and-tell-event": {
+    "takeaway": "六个月，把一块硬币大小的芯片放进人的大脑。这个时间表在 Neuralink 的\"Show and Tell\"发布会上被马斯克说得像一件已经排上日程的事，语气平淡得不像在宣布医疗史上的第一次。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "六个月，把一块硬币大小的芯片放进人的大脑。这个时间表在 Neuralink 的\"Show and Tell\"发布会上被马斯克说得像一件已经排上日程的事，语气平淡得不像在宣布医疗史上的第一次。",
+          "原站将本条归为访谈，时长约 15 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 Neuralink“Show and Tell”发布会",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-s-neuralink-show-and-tell-event/"
+      },
+      {
+        "title": "原始媒体：The Verge",
+        "url": "https://www.youtube.com/watch?v=btWKkjbX-uc"
+      }
+    ]
+  },
+  "elon-qm-watch-elon-musk-present-tesla-s-2023-investor-day-livestream": {
+    "takeaway": "165 万亿千瓦时。全球一年烧掉的、发出来的、消耗掉的一次能源总量。其中超过 80% 来自化石燃料。而这 80% 里，只有三分之一真正变成了有用的功或者热。剩下的全是尾气、废热、输配电损耗。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "165 万亿千瓦时。全球一年烧掉的、发出来的、消耗掉的一次能源总量。其中超过 80% 来自化石燃料。而这 80% 里，只有三分之一真正变成了有用的功或者热。剩下的全是尾气、废热、输配电损耗。",
+          "原站将本条归为股东会，时长约 215 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：直播：马斯克出席特斯拉 2023 投资者日",
+        "url": "https://elon.qiaomu.ai/ep/watch-elon-musk-present-tesla-s-2023-investor-day-livestream/"
+      },
+      {
+        "title": "原始媒体：CNET Highlights",
+        "url": "https://www.youtube.com/watch?v=f6nTLTl5Tms"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-full-interview-with-tucker-carlson-danger-of-ai": {
+    "takeaway": "拉里·佩奇（Larry Page）管埃隆·马斯克（Elon Musk）叫“物种主义者”。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "拉里·佩奇（Larry Page）管埃隆·马斯克（Elon Musk）叫“物种主义者”。",
+          "原站将本条归为访谈，时长约 44 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克接受塔克·卡尔森完整专访：AI 的危险",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-full-interview-with-tucker-carlson-danger-of-ai/"
+      },
+      {
+        "title": "原始媒体：MoonCAWAQ",
+        "url": "https://www.youtube.com/watch?v=fvchwUDS0-I"
+      }
+    ]
+  },
+  "elon-qm-bitesize-elon-musk-interviewed-by-james-clayton-for-bbc": {
+    "takeaway": "2022年10月底，马斯克（Elon Musk）完成对推特（Twitter）的收购。几个月后，他坐在 BBC 记者詹姆斯·克莱顿（James Clayton）对面，被问到的第一个问题有点私人：你是不是睡在办公室？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2022年10月底，马斯克（Elon Musk）完成对推特（Twitter）的收购。几个月后，他坐在 BBC 记者詹姆斯·克莱顿（James Clayton）对面，被问到的第一个问题有点私人：你是不是睡在办公室？",
+          "原站将本条归为访谈，时长约 25 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：詹姆斯·克莱顿 BBC 专访马斯克（精简版）",
+        "url": "https://elon.qiaomu.ai/ep/bitesize-elon-musk-interviewed-by-james-clayton-for-bbc/"
+      },
+      {
+        "title": "原始媒体：Alex Friedman",
+        "url": "https://www.youtube.com/watch?v=i1YKhuNDrR0"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-s-spacex-starship-update-at-iac-2023-starlink-launches": {
+    "takeaway": "马斯克在2023年国际宇航大会（IAC）上讲星舰，最值得停下来看的，是那套用机械臂接火箭的方案。他描述这件事的时候，语气里带着自己也觉得离谱的意思：在得克萨斯州的博卡奇卡，SpaceX 立了一座巨型塔架，塔上装着两条能开合的机械臂，发射时张开让火箭穿过去，助推器从太空回来、悬停在塔边的那几",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克在2023年国际宇航大会（IAC）上讲星舰，最值得停下来看的，是那套用机械臂接火箭的方案。他描述这件事的时候，语气里带着自己也觉得离谱的意思：在得克萨斯州的博卡奇卡，SpaceX 立了一座巨型塔架，塔上装着两条能开合的机械臂，发射时张开让火箭穿过去，助推器从太空回来、悬停在塔边的那几",
+          "原站将本条归为发布会，时长约 10 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在 IAC 2023 更新 SpaceX Starship：Starlink 发射、助推器回收与火星",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-s-spacex-starship-update-at-iac-2023-starlink-launches/"
+      },
+      {
+        "title": "原始媒体：VideoFromSpace",
+        "url": "https://www.youtube.com/watch?v=inCc4WMxoNw"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-at-the-2023-world-government-summit-in-dubai": {
+    "takeaway": "迪拜世界政府峰会的台上，坐着 150 多个国家的政府代表。主持人问马斯克：你花了四百四十亿美元买下 Twitter，为什么不干脆自己做一个新平台，说不定还更便宜？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "迪拜世界政府峰会的台上，坐着 150 多个国家的政府代表。主持人问马斯克：你花了四百四十亿美元买下 Twitter，为什么不干脆自己做一个新平台，说不定还更便宜？",
+          "原站将本条归为大会演讲，时长约 34 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克亮相 2023 迪拜世界政府峰会",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-at-the-2023-world-government-summit-in-dubai/"
+      },
+      {
+        "title": "原始媒体：Best of Elon",
+        "url": "https://www.youtube.com/watch?v=jmNrlNgXx_U"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-full-interview-with-bbc-and-twitter-space-new": {
+    "takeaway": "接手 Twitter 那天，账上躺着 10 亿美元现金，公司一年要亏 30 亿美元。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "接手 Twitter 那天，账上躺着 10 亿美元现金，公司一年要亏 30 亿美元。",
+          "原站将本条归为访谈，时长约 144 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 BBC 与 Twitter Space 完整专访（最新）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-full-interview-with-bbc-and-twitter-space-new/"
+      },
+      {
+        "title": "原始媒体：Based Media",
+        "url": "https://www.youtube.com/watch?v=k4nN5NmGW4w"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-with-fox-news-tucker-carlson": {
+    "takeaway": "2023 年，马斯克坐在塔克·卡尔森（Tucker Carlson）对面，讲了一段旧事。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2023 年，马斯克坐在塔克·卡尔森（Tucker Carlson）对面，讲了一段旧事。",
+          "原站将本条归为访谈，时长约 34 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克接受 Fox News 塔克·卡尔森专访",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-with-fox-news-tucker-carlson/"
+      },
+      {
+        "title": "原始媒体：Arangathorn ",
+        "url": "https://www.youtube.com/watch?v=ndVpTJPjpR0"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-s-vision-for-humanity-real-talk-with-zuby": {
+    "takeaway": "推特被收购之后，北美广告收入掉了一半以上，欧洲掉了四成。马斯克给这笔损失估了个价：每年大约20亿美元。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "推特被收购之后，北美广告收入掉了一半以上，欧洲掉了四成。马斯克给这笔损失估了个价：每年大约20亿美元。",
+          "原站将本条归为访谈，时长约 97 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克的人类愿景｜Real Talk with Zuby",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-s-vision-for-humanity-real-talk-with-zuby/"
+      },
+      {
+        "title": "原始媒体：Zuby",
+        "url": "https://www.youtube.com/watch?v=pjc_oo4ApSY"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-shows-latest-neuralink-demo-of-monkey-typing-with-its": {
+    "takeaway": "光标在屏幕上移动，停在一个高亮的字母上，然后滑向下一个。操作屏幕的那只猴子，手没有碰过任何键盘。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "光标在屏幕上移动，停在一个高亮的字母上，然后滑向下一个。操作屏幕的那只猴子，手没有碰过任何键盘。",
+          "原站将本条归为发布会，时长约 7 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克展示 Neuralink 最新演示：猴子用大脑打字",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-shows-latest-neuralink-demo-of-monkey-typing-with-its/"
+      },
+      {
+        "title": "原始媒体：CNET Highlights",
+        "url": "https://www.youtube.com/watch?v=qatNpM3o74w"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-reveals-the-goal-of-the-new-twitter": {
+    "takeaway": "440 亿美元买下一家公司，一年后自己承认，估值不到买入价的一半。买贵了至少一倍。马斯克在这场访谈里把这笔账算得干干净净，还顺手给自己来了一句：那我在这儿肯定是个天才。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "440 亿美元买下一家公司，一年后自己承认，估值不到买入价的一半。买贵了至少一倍。马斯克在这场访谈里把这笔账算得干干净净，还顺手给自己来了一句：那我在这儿肯定是个天才。",
+          "原站将本条归为发布会，时长约 13 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克揭示新 Twitter 的目标",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-reveals-the-goal-of-the-new-twitter/"
+      },
+      {
+        "title": "原始媒体：Fox News",
+        "url": "https://www.youtube.com/watch?v=qbxStDmHFAE"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-with-tucker-carlson": {
+    "takeaway": "2023 年 7 月 13 日，周四，财经评论者 Mike Norman 在赶去机场之前录了一段十几分钟的视频。他刚看完塔克·卡尔森（Tucker Carlson）对埃隆·马斯克（Elon Musk）的那场专访，其中两段让他坐不住，一段想反驳，一段想点赞。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2023 年 7 月 13 日，周四，财经评论者 Mike Norman 在赶去机场之前录了一段十几分钟的视频。他刚看完塔克·卡尔森（Tucker Carlson）对埃隆·马斯克（Elon Musk）的那场专访，其中两段让他坐不住，一段想反驳，一段想点赞。",
+          "原站将本条归为访谈，时长约 9 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克接受塔克·卡尔森专访",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-with-tucker-carlson/"
+      },
+      {
+        "title": "原始媒体：Mike Norman MMT Economics",
+        "url": "https://www.youtube.com/watch?v=qyz6fZHN-eE"
+      }
+    ]
+  },
+  "elon-qm-bill-gates-elon-musk-and-mark-zuckerberg-arrive-at-ai-insight-fo": {
+    "takeaway": "参考档案收录的大会演讲资料，发布渠道为 Sky News，视频时长约 48 分钟。原始标题为《Bill Gates, Elon Musk and Mark Zuckerberg arrive at AI insight forum》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的大会演讲资料，发布渠道为 Sky News，视频时长约 48 分钟。原始标题为《Bill Gates, Elon Musk and Mark Zuckerberg arrive at AI insight forum》。本条保留原始媒体与档案来源。",
+          "原站将本条归为大会演讲，时长约 48 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：比尔·盖茨、马斯克与马克·扎克伯格出席 AI 洞察论坛",
+        "url": "https://elon.qiaomu.ai/ep/bill-gates-elon-musk-and-mark-zuckerberg-arrive-at-ai-insight-fo/"
+      },
+      {
+        "title": "原始媒体：Sky News",
+        "url": "https://www.youtube.com/watch?v=rJvMu1aXEsE"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-delivers-speech-at-vivatech": {
+    "takeaway": "2023 年 6 月的巴黎，VivaTech 会场挤满了人。主持人莫里斯·莱维（Maurice Lévy）开场就把马斯克的头衔念了一遍：PayPal、Tesla、SpaceX、OpenAI 的缔造者，永远逆流而上，而且几乎每次都被证明是对的。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2023 年 6 月的巴黎，VivaTech 会场挤满了人。主持人莫里斯·莱维（Maurice Lévy）开场就把马斯克的头衔念了一遍：PayPal、Tesla、SpaceX、OpenAI 的缔造者，永远逆流而上，而且几乎每次都被证明是对的。",
+          "原站将本条归为大会演讲，时长约 60 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在 VivaTech 发表演讲",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-delivers-speech-at-vivatech/"
+      },
+      {
+        "title": "原始媒体：Sky News",
+        "url": "https://www.youtube.com/watch?v=tMdFGrnp5XI"
+      }
+    ]
+  },
+  "elon-qm-tesla-bot-elon-musk-answers-all-your-questions-full-ai-team-q-a": {
+    "takeaway": "马斯克给Dojo团队定的成功标准，跟跑分无关。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克给Dojo团队定的成功标准，跟跑分无关。",
+          "原站将本条归为访谈，时长约 51 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla Bot：马斯克回答所有提问（AI 团队完整 Q&A）",
+        "url": "https://elon.qiaomu.ai/ep/tesla-bot-elon-musk-answers-all-your-questions-full-ai-team-q-a/"
+      },
+      {
+        "title": "原始媒体：CNET Highlights",
+        "url": "https://www.youtube.com/watch?v=tSa1kOOELrY"
+      }
+    ]
+  },
+  "elon-qm-72-millions-listen-to-elon-musk-talk-to-adland-on-twitter-spaces": {
+    "takeaway": "2022 年 11 月，马斯克接手推特刚满一周。周五的裁员邮件发完，周末舆论炸锅，广告主在观望要不要撤预算。就在这个节骨眼上，推特的广告业务负责人 Robin Wheeler 发了条消息：下午有一场 Spaces 直播，马斯克会来回答问题。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2022 年 11 月，马斯克接手推特刚满一周。周五的裁员邮件发完，周末舆论炸锅，广告主在观望要不要撤预算。就在这个节骨眼上，推特的广告业务负责人 Robin Wheeler 发了条消息：下午有一场 Spaces 直播，马斯克会来回答问题。",
+          "原站将本条归为X Spaces，时长约 56 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：72：数百万人收听马斯克在 Twitter Spaces 对话广告业",
+        "url": "https://elon.qiaomu.ai/ep/72-millions-listen-to-elon-musk-talk-to-adland-on-twitter-spaces/"
+      },
+      {
+        "title": "原始媒体：All Things Audio",
+        "url": "https://www.youtube.com/watch?v=wjov0zYV-i0"
+      }
+    ]
+  },
+  "elon-qm-tesla-s-chief-designer-on-the-cybertruck-and-working-with-elon-m": {
+    "takeaway": "2019 年 11 月那场发布会上，不锈钢球砸向 Cybertruck 车窗之前，弗朗茨·冯·霍尔茨豪森（Franz von Holzhausen）已经在后台对着同一块玻璃扔了好几次。没碎。他还留了视频，准备证明这玻璃扛得住。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2019 年 11 月那场发布会上，不锈钢球砸向 Cybertruck 车窗之前，弗朗茨·冯·霍尔茨豪森（Franz von Holzhausen）已经在后台对着同一块玻璃扔了好几次。没碎。他还留了视频，准备证明这玻璃扛得住。",
+          "原站将本条归为访谈，时长约 17 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：特斯拉首席设计师谈 Cybertruck 与和马斯克共事",
+        "url": "https://elon.qiaomu.ai/ep/tesla-s-chief-designer-on-the-cybertruck-and-working-with-elon-m/"
+      },
+      {
+        "title": "原始媒体：CNBC",
+        "url": "https://www.youtube.com/watch?v=xTH3Nm_Ca1g"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-with-tucker-carlson-part-2": {
+    "takeaway": "马斯克手里有一条关于外星人的硬证据，和六千颗卫星有关。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克手里有一条关于外星人的硬证据，和六千颗卫星有关。",
+          "原站将本条归为访谈，时长约 41 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克接受塔克·卡尔森专访（第二部分）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-with-tucker-carlson-part-2/"
+      },
+      {
+        "title": "原始媒体：Elon Musk Editor",
+        "url": "https://www.youtube.com/watch?v=xYWT9W3zRfU"
+      }
+    ]
+  },
+  "elon-qm-elon-full-bbc-interview-12-april-2023": {
+    "takeaway": "Twitter的账上只剩10亿美元，每年烧掉30亿美元。这个算式的结果是，从接手那天算起，这家公司还有四个月可活。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "Twitter的账上只剩10亿美元，每年烧掉30亿美元。这个算式的结果是，从接手那天算起，这家公司还有四个月可活。",
+          "原站将本条归为访谈，时长约 57 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 BBC 完整专访（2023 年 4 月 12 日）",
+        "url": "https://elon.qiaomu.ai/ep/elon-full-bbc-interview-12-april-2023/"
+      },
+      {
+        "title": "原始媒体：Nimrod Kamer",
+        "url": "https://www.youtube.com/watch?v=bRkcLYbvApU"
+      }
+    ]
+  },
+  "elon-qm-mr-musk-interview": {
+    "takeaway": "2023 年 4 月，一场没有画面的采访在 Twitter Spaces 上开播。上百万人在线收听，听到的是两个人越说越僵。一边是刚买下 Twitter 不到半年的马斯克，另一边是 BBC 的科技记者。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2023 年 4 月，一场没有画面的采访在 Twitter Spaces 上开播。上百万人在线收听，听到的是两个人越说越僵。一边是刚买下 Twitter 不到半年的马斯克，另一边是 BBC 的科技记者。",
+          "原站将本条归为访谈，时长约 16 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克先生专访",
+        "url": "https://elon.qiaomu.ai/ep/mr-musk-interview/"
+      },
+      {
+        "title": "原始媒体：archive.org · Dr. John Campbell",
+        "url": "https://archive.org/download/youtube-HdJAJknnfbA/HdJAJknnfbA.mp4"
+      }
+    ]
+  },
+  "elon-qm-linda-yaccarino-interviews-elon-musk-april-18-2023": {
+    "takeaway": "2023年4月18日，迈阿密，Possible营销大会。马斯克站在几百位广告主面前，说了一句他们最不想听的话：如果保住言论自由意味着丢掉广告收入，那就丢掉。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2023年4月18日，迈阿密，Possible营销大会。马斯克站在几百位广告主面前，说了一句他们最不想听的话：如果保住言论自由意味着丢掉广告收入，那就丢掉。",
+          "原站将本条归为访谈，时长约 43 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：琳达·亚卡里诺专访马斯克（2023 年 4 月 18 日）",
+        "url": "https://elon.qiaomu.ai/ep/linda-yaccarino-interviews-elon-musk-april-18-2023/"
+      },
+      {
+        "title": "原始媒体：Best of Elon",
+        "url": "https://www.youtube.com/watch?v=ypZNWjPpOuI"
+      }
+    ]
+  },
+  "elon-qm-interview-with-bill-maher": {
+    "takeaway": "比尔·马赫（Bill Maher）一口气报完那串头衔：让电动车成为现实的人，正在完善可回收火箭，搞太空旅行，把人类大脑直接连到电脑，用电磁子弹列车连接城市，那个对乌克兰战争至关重要的星链（Starlink）卫星系统，然后周二还要去挖隧道解决交通。最后补一句，他还发很多推。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "比尔·马赫（Bill Maher）一口气报完那串头衔：让电动车成为现实的人，正在完善可回收火箭，搞太空旅行，把人类大脑直接连到电脑，用电磁子弹列车连接城市，那个对乌克兰战争至关重要的星链（Starlink）卫星系统，然后周二还要去挖隧道解决交通。最后补一句，他还发很多推。",
+          "原站将本条归为访谈，时长约 21 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：比尔·马赫专访",
+        "url": "https://elon.qiaomu.ai/ep/interview-with-bill-maher/"
+      },
+      {
+        "title": "原始媒体：@elonmusk",
+        "url": "https://video.twimg.com/amplify_video/1652825677844955137/vid/640x360/e75C-T6tw-lyq3Y8.mp4?tag=14"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-latest-interview-with-david-faber": {
+    "takeaway": "一家汽车公司的老板说，现在卖车基本不赚钱。他说这话时没有焦虑，语气像在揭开一个早就设计好的局。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一家汽车公司的老板说，现在卖车基本不赚钱。他说这话时没有焦虑，语气像在揭开一个早就设计好的局。",
+          "原站将本条归为访谈，时长约 62 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克最新专访：对话大卫·法伯",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-latest-interview-with-david-faber/"
+      },
+      {
+        "title": "原始媒体：Dan Solovei",
+        "url": "https://www.youtube.com/watch?v=Pf-smob2k50"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-s-neuralink-update-june-2023": {
+    "takeaway": "2023年5月，Neuralink拿到FDA的人体临床试验批准。消息出来的那几天，社交媒体上刷屏的说法是“脑机接口要来了”。这个理解差了好几个数量级。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2023年5月，Neuralink拿到FDA的人体临床试验批准。消息出来的那几天，社交媒体上刷屏的说法是“脑机接口要来了”。这个理解差了好几个数量级。",
+          "原站将本条归为发布会，时长约 12 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 Neuralink 最新进展（2023 年 6 月）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-s-neuralink-update-june-2023/"
+      },
+      {
+        "title": "原始媒体：Neura Pod",
+        "url": "https://www.youtube.com/watch?v=uNcJLxSsm5E"
+      }
+    ]
+  },
+  "elon-qm-ai-discussion-with-rishi-sunak": {
+    "takeaway": "比尔·盖茨说过一句话，我们这个时代没有人比马斯克更用力地推动科学和创新的边界。马斯克听完的反应是：\"这话有点疯。不过被比尔·盖茨这么说，感觉挺好。\"",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "比尔·盖茨说过一句话，我们这个时代没有人比马斯克更用力地推动科学和创新的边界。马斯克听完的反应是：\"这话有点疯。不过被比尔·盖茨这么说，感觉挺好。\"",
+          "原站将本条归为大会演讲，时长约 51 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克与苏纳克对话 AI",
+        "url": "https://elon.qiaomu.ai/ep/ai-discussion-with-rishi-sunak/"
+      },
+      {
+        "title": "原始媒体：@elonmusk",
+        "url": "https://video.twimg.com/amplify_video/1720183703102443520/vid/avc1/1280x720/a5CsP0NY8LC8R0QB.mp4?tag=16"
+      }
+    ]
+  },
+  "elon-qm-cybertruck-talk-with-joe-rogan-and-the-rock": {
+    "takeaway": "乔·罗根（Joe Rogan）把弓拉满，松手。箭撞在 Cybertruck 的车门上，火花溅出来，然后弹开了。他凑过去看，门上留了一道非常浅的痕迹，浅到得侧着光才找得到。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "乔·罗根（Joe Rogan）把弓拉满，松手。箭撞在 Cybertruck 的车门上，火花溅出来，然后弹开了。他凑过去看，门上留了一道非常浅的痕迹，浅到得侧着光才找得到。",
+          "原站将本条归为访谈，时长约 4 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克、乔·罗根与巨石强森聊 Cybertruck",
+        "url": "https://elon.qiaomu.ai/ep/cybertruck-talk-with-joe-rogan-and-the-rock/"
+      },
+      {
+        "title": "原始媒体：@elonmusk",
+        "url": "https://video.twimg.com/amplify_video/1724907758372462593/vid/avc1/886x478/7Lcp6XlkwL7JHNTW.mp4?tag=14"
+      }
+    ]
+  },
+  "elon-qm-at-auschwitz-with-elon-musk": {
+    "takeaway": "本·夏皮罗（Ben Shapiro）坐在波兰一间临时演播室里，开口没讲感受，先报了一串数字。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "本·夏皮罗（Ben Shapiro）坐在波兰一间临时演播室里，开口没讲感受，先报了一串数字。",
+          "原站将本条归为访谈，时长约 54 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在奥斯维辛",
+        "url": "https://elon.qiaomu.ai/ep/at-auschwitz-with-elon-musk/"
+      },
+      {
+        "title": "原始媒体：Ben Shapiro",
+        "url": "https://www.youtube.com/watch?v=0GBT2ClPUv8"
+      }
+    ]
+  },
+  "elon-qm-how-to-reveal-the-many-sides-of-elon-musk-the-art-of-the-intervi": {
+    "takeaway": "安德鲁·索金（Andrew Ross Sorkin）的手机里有个文件，名字就叫「Elon」。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "安德鲁·索金（Andrew Ross Sorkin）的手机里有个文件，名字就叫「Elon」。",
+          "原站将本条归为发布会，时长约 29 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：如何展现马斯克的多面性：采访的艺术",
+        "url": "https://elon.qiaomu.ai/ep/how-to-reveal-the-many-sides-of-elon-musk-the-art-of-the-intervi/"
+      },
+      {
+        "title": "原始媒体：New York Times Podcasts",
+        "url": "https://www.youtube.com/watch?v=0SuAlNkV1Cg"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-and-dr-peter-diamandis-fii8-conversation-on-the-future": {
+    "takeaway": "马斯克给出的数字很具体：AI 的能力每年提升 10 倍。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克给出的数字很具体：AI 的能力每年提升 10 倍。",
+          "原站将本条归为播客，时长约 22 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克与彼得·戴曼迪斯 FII8 对话：AI 的未来",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-and-dr-peter-diamandis-fii8-conversation-on-the-future/"
+      },
+      {
+        "title": "原始媒体：FII Institute",
+        "url": "https://www.youtube.com/watch?v=3JkkWfzc4Jg"
+      }
+    ]
+  },
+  "elon-qm-are-aliens-real-the-search-with-elon-musk": {
+    "takeaway": "参考档案收录的访谈资料，发布渠道为 Ben Shapiro，视频时长约 10 分钟。原始标题为《Are Aliens Real? | THE SEARCH With Elon Musk》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的访谈资料，发布渠道为 Ben Shapiro，视频时长约 10 分钟。原始标题为《Are Aliens Real? | THE SEARCH With Elon Musk》。本条保留原始媒体与档案来源。",
+          "原站将本条归为访谈，时长约 10 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：外星人真的存在吗？| 马斯克《The Search》访谈",
+        "url": "https://elon.qiaomu.ai/ep/are-aliens-real-the-search-with-elon-musk/"
+      },
+      {
+        "title": "原始媒体：Ben Shapiro",
+        "url": "https://www.youtube.com/watch?v=4IaL-QMQ-MA"
+      }
+    ]
+  },
+  "elon-qm-we-robot-tesla-cybercab-unveil": {
+    "takeaway": "一辆车从黑暗里滑出来，停在聚光灯下。车门向上掀开，马斯克从里面走出来，朝台下挥手。这台车没有方向盘，没有踏板，也没有后视镜。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一辆车从黑暗里滑出来，停在聚光灯下。车门向上掀开，马斯克从里面走出来，朝台下挥手。这台车没有方向盘，没有踏板，也没有后视镜。",
+          "原站将本条归为发布会，时长约 80 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：We, Robot | Tesla Cybercab 发布",
+        "url": "https://elon.qiaomu.ai/ep/we-robot-tesla-cybercab-unveil/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=6v6dbxPlsXs"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-delivers-spacex-update-talks-starship-progress-and-mor": {
+    "takeaway": "2023 年，全人类送进地球轨道的载荷，有 80% 来自同一家公司。这家公司叫 SpaceX。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2023 年，全人类送进地球轨道的载荷，有 80% 来自同一家公司。这家公司叫 SpaceX。",
+          "原站将本条归为发布会，时长约 59 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克发布 SpaceX 进展，谈 Starship 最新情况",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-delivers-spacex-update-talks-starship-progress-and-mor/"
+      },
+      {
+        "title": "原始媒体：VideoFromSpace",
+        "url": "https://www.youtube.com/watch?v=6xLmBLWDSHo"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-holds-pa-town-hall-talks-free-speech-and-right-to-bear": {
+    "takeaway": "宾夕法尼亚州的一场市政厅活动上，马斯克站上台，没有提词器，没有演讲稿。他先说了一句让全场安静两秒的话：从今晚开始到选举日，每天晚上抽一个人，给 100 万美元。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "宾夕法尼亚州的一场市政厅活动上，马斯克站上台，没有提词器，没有演讲稿。他先说了一句让全场安静两秒的话：从今晚开始到选举日，每天晚上抽一个人，给 100 万美元。",
+          "原站将本条归为大会演讲，时长约 69 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在宾州办市政厅：谈言论自由与持枪权，此前送出100万美元",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-holds-pa-town-hall-talks-free-speech-and-right-to-bear/"
+      },
+      {
+        "title": "原始媒体：CBS 21 News",
+        "url": "https://www.youtube.com/watch?v=8ugENmbDL8k"
+      }
+    ]
+  },
+  "elon-qm-donald-trump-elon-musk-full-convo-on-x-spaces": {
+    "takeaway": "2024年7月13日，宾夕法尼亚州巴特勒的露天场地。一颗子弹擦过特朗普的右耳，留下一道血痕。两个月后，他坐在 X Spaces 的直播间里，对马斯克复盘那几秒钟，给出的解释带着某种荒诞的精确：救他命的，是一张关于非法移民的图表。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2024年7月13日，宾夕法尼亚州巴特勒的露天场地。一颗子弹擦过特朗普的右耳，留下一道血痕。两个月后，他坐在 X Spaces 的直播间里，对马斯克复盘那几秒钟，给出的解释带着某种荒诞的精确：救他命的，是一张关于非法移民的图表。",
+          "原站将本条归为X Spaces，时长约 84 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：特朗普与马斯克 X Spaces 完整对话",
+        "url": "https://elon.qiaomu.ai/ep/donald-trump-elon-musk-full-convo-on-x-spaces/"
+      },
+      {
+        "title": "原始媒体：INTEL",
+        "url": "https://www.youtube.com/watch?v=9focwklcxno"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-s-approach-to-problem-solving-lex-fridman-podcast": {
+    "takeaway": "全世界最聪明的一批工程师凑在一起，最容易犯的错是什么？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "全世界最聪明的一批工程师凑在一起，最容易犯的错是什么？",
+          "原站将本条归为播客，时长约 9 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克如何解决问题 | Lex Fridman 播客",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-s-approach-to-problem-solving-lex-fridman-podcast/"
+      },
+      {
+        "title": "原始媒体：Lex Clips",
+        "url": "https://www.youtube.com/watch?v=CDZ9REOh2xA"
+      }
+    ]
+  },
+  "elon-qm-the-destructiveness-of-dei-the-search-with-elon-musk": {
+    "takeaway": "Ben Shapiro 问马斯克，美国人要怎么才能从 DEI 里走出来。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "Ben Shapiro 问马斯克，美国人要怎么才能从 DEI 里走出来。",
+          "原站将本条归为访谈，时长约 11 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：DEI 的破坏性 | 马斯克《The Search》访谈",
+        "url": "https://elon.qiaomu.ai/ep/the-destructiveness-of-dei-the-search-with-elon-musk/"
+      },
+      {
+        "title": "原始媒体：Ben Shapiro",
+        "url": "https://www.youtube.com/watch?v=Cut_dByoKek"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-pleads-vote-like-your-life-depends-on-it-and-speaks-on": {
+    "takeaway": "白宫记者协会晚宴（White House Correspondents' Dinner）的现场，马斯克坐在离特朗普两张桌子远的位置。台上演讲者一个接一个拿特朗普开涮，台下的特朗普脸色越来越沉。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "白宫记者协会晚宴（White House Correspondents' Dinner）的现场，马斯克坐在离特朗普两张桌子远的位置。台上演讲者一个接一个拿特朗普开涮，台下的特朗普脸色越来越沉。",
+          "原站将本条归为访谈，时长约 20 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克呼吁“像生命攸关一样投票”，谈为何投身政治",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-pleads-vote-like-your-life-depends-on-it-and-speaks-on/"
+      },
+      {
+        "title": "原始媒体：JRE Clips",
+        "url": "https://www.youtube.com/watch?v=DWVev5-2Db0"
+      }
+    ]
+  },
+  "elon-qm-a-conversation-with-elon-musk": {
+    "takeaway": "马斯克自己给星舰那次试飞估的成功率，只有20%到25%。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克自己给星舰那次试飞估的成功率，只有20%到25%。",
+          "原站将本条归为访谈，时长约 34 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：与马斯克对话",
+        "url": "https://elon.qiaomu.ai/ep/a-conversation-with-elon-musk/"
+      },
+      {
+        "title": "原始媒体：The Cato Institute",
+        "url": "https://www.youtube.com/watch?v=EtQqAL9apYA"
+      }
+    ]
+  },
+  "elon-qm-cybertruck-delivery-event": {
+    "takeaway": "2019 年 11 月那场发布会上，特斯拉设计负责人弗朗茨·冯·霍尔茨豪森（Franz von Holzhausen）朝 Cybertruck 的车窗扔了一个金属球，玻璃裂了。四年后的交付活动上，同一个人站在同一个位置，手里又拿着球，又扔了一次。这次玻璃扛住了。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2019 年 11 月那场发布会上，特斯拉设计负责人弗朗茨·冯·霍尔茨豪森（Franz von Holzhausen）朝 Cybertruck 的车窗扔了一个金属球，玻璃裂了。四年后的交付活动上，同一个人站在同一个位置，手里又拿着球，又扔了一次。这次玻璃扛住了。",
+          "原站将本条归为发布会，时长约 37 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Cybertruck 交付活动",
+        "url": "https://elon.qiaomu.ai/ep/cybertruck-delivery-event/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=FU6r3BmlgBM"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-full-new-york-times-interview-with-andrew-sorkin": {
+    "takeaway": "马斯克在那场访谈里给自己的定性很干脆：在他发过的三万条帖子里，那条关于\"实际真相\"的回复，\"可能是我做过的最糟糕、最愚蠢的一条\"。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克在那场访谈里给自己的定性很干脆：在他发过的三万条帖子里，那条关于\"实际真相\"的回复，\"可能是我做过的最糟糕、最愚蠢的一条\"。",
+          "原站将本条归为访谈，时长约 74 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克接受《纽约时报》完整专访，对话安德鲁·索尔金",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-full-new-york-times-interview-with-andrew-sorkin/"
+      },
+      {
+        "title": "原始媒体：America Truth",
+        "url": "https://www.youtube.com/watch?v=FaIEYuDSkvg"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-by-andrew-ross-sorkin-at-dealbook-summit": {
+    "takeaway": "2024 年 11 月底的 DealBook 峰会，最后一场对话请上了埃隆·马斯克（Elon Musk）。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2024 年 11 月底的 DealBook 峰会，最后一场对话请上了埃隆·马斯克（Elon Musk）。",
+          "原站将本条归为大会演讲，时长约 92 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在 DealBook 峰会接受安德鲁·罗斯·索尔金专访",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-by-andrew-ross-sorkin-at-dealbook-summit/"
+      },
+      {
+        "title": "原始媒体：Jack Jensen",
+        "url": "https://www.youtube.com/watch?v=HchjzkQmDYU"
+      }
+    ]
+  },
+  "elon-qm-join-elon-musk-on-a-tour-of-starship-just-before-it-launches-w-p": {
+    "takeaway": "2024 年 6 月 5 日，星舰（Starship）第四次试飞的前一天，蒂姆·多德（Tim Dodd，频道名 Everyday Astronaut）站在得州博卡奇卡的发射台上，问马斯克对明天有几成把握。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2024 年 6 月 5 日，星舰（Starship）第四次试飞的前一天，蒂姆·多德（Tim Dodd，频道名 Everyday Astronaut）站在得州博卡奇卡的发射台上，问马斯克对明天有几成把握。",
+          "原站将本条归为发布会，时长约 33 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：发射前随马斯克参观 Starship（含发射后采访）",
+        "url": "https://elon.qiaomu.ai/ep/join-elon-musk-on-a-tour-of-starship-just-before-it-launches-w-p/"
+      },
+      {
+        "title": "原始媒体：Everyday Astronaut",
+        "url": "https://www.youtube.com/watch?v=InJOlT6WdHc"
+      }
+    ]
+  },
+  "elon-qm-musk-s-pay-package-tesla-shareholder-s-lawyer-weighs-in": {
+    "takeaway": "2018 年，特斯拉股东以约 73% 的赞成票，通过了一份给马斯克的薪酬方案。2024 年 1 月，特拉华州衡平法院首席法官麦考密克（Kathaleen McCormick）用一份判决书把它撤销了。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2018 年，特斯拉股东以约 73% 的赞成票，通过了一份给马斯克的薪酬方案。2024 年 1 月，特拉华州衡平法院首席法官麦考密克（Kathaleen McCormick）用一份判决书把它撤销了。",
+          "原站将本条归为股东会，时长约 10 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克薪酬方案：Tesla 股东律师发声",
+        "url": "https://elon.qiaomu.ai/ep/musk-s-pay-package-tesla-shareholder-s-lawyer-weighs-in/"
+      },
+      {
+        "title": "原始媒体：Bloomberg Tech",
+        "url": "https://www.youtube.com/watch?v=KYNSxz3bumI"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-on-optimus-we-ll-build-over-1-billion-robots-a-year-le": {
+    "takeaway": "全球每年生产大约一亿辆汽车，路上跑着的存量大约二十亿辆。马斯克被问到人形机器人量产会做到什么规模，他先把这组汽车的数字摆出来当参照，然后给出自己的猜测：人形机器人的用处大得多，所以他猜是每年十亿台以上。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "全球每年生产大约一亿辆汽车，路上跑着的存量大约二十亿辆。马斯克被问到人形机器人量产会做到什么规模，他先把这组汽车的数字摆出来当参照，然后给出自己的猜测：人形机器人的用处大得多，所以他猜是每年十亿台以上。",
+          "原站将本条归为播客，时长约 8 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克谈 Optimus：每年将造超10亿台机器人 | Lex Fridman 播客",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-on-optimus-we-ll-build-over-1-billion-robots-a-year-le/"
+      },
+      {
+        "title": "原始媒体：Lex Clips",
+        "url": "https://www.youtube.com/watch?v=QGjhqFvDpHY"
+      }
+    ]
+  },
+  "elon-qm-president-trump-s-interview-with-elon-musk-on-x": {
+    "takeaway": "2024年8月12日晚上，马斯克在X上开直播，比原定时间晚了四十多分钟。他的解释是服务器遭到大规模分布式拒绝服务攻击，几百Gbps的流量把所有数据通道塞满。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2024年8月12日晚上，马斯克在X上开直播，比原定时间晚了四十多分钟。他的解释是服务器遭到大规模分布式拒绝服务攻击，几百Gbps的流量把所有数据通道塞满。",
+          "原站将本条归为访谈，时长约 126 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：特朗普总统与马斯克在 X 的访谈",
+        "url": "https://elon.qiaomu.ai/ep/president-trump-s-interview-with-elon-musk-on-x/"
+      },
+      {
+        "title": "原始媒体：Donald J Trump",
+        "url": "https://www.youtube.com/watch?v=QzWjFzRMQNA"
+      }
+    ]
+  },
+  "elon-qm-latest-elon-musk-interview-with-ben-shapiro-european-jewish-asso": {
+    "takeaway": "2024 年，马斯克和本·夏皮罗（Ben Shapiro）在奥斯维辛集中营旧址边走边聊。这场对话由欧洲犹太协会组织，话题从参观集中营的感受开始，一路延伸到言论自由、反犹主义、DEI 意识形态、大学危机、加沙战争，最后落在人类文明该往哪走。这场对话里马斯克说的很多话，比他在 X 上那 1.6",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2024 年，马斯克和本·夏皮罗（Ben Shapiro）在奥斯维辛集中营旧址边走边聊。这场对话由欧洲犹太协会组织，话题从参观集中营的感受开始，一路延伸到言论自由、反犹主义、DEI 意识形态、大学危机、加沙战争，最后落在人类文明该往哪走。这场对话里马斯克说的很多话，比他在 X 上那 1.6",
+          "原站将本条归为访谈，时长约 33 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：最新：马斯克接受本·夏皮罗专访 | 欧洲犹太协会",
+        "url": "https://elon.qiaomu.ai/ep/latest-elon-musk-interview-with-ben-shapiro-european-jewish-asso/"
+      },
+      {
+        "title": "原始媒体：TechDialogue",
+        "url": "https://www.youtube.com/watch?v=UMkfuuJHC3I"
+      }
+    ]
+  },
+  "elon-qm-watch-live-tesla-2024-annual-shareholder-meeting-with-elon-musk": {
+    "takeaway": "560亿美元的薪酬方案，被股东第二次投票通过。同一天，同一个会场，董事会明确反对的两个股东提案，也被投票通过了。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "560亿美元的薪酬方案，被股东第二次投票通过。同一天，同一个会场，董事会明确反对的两个股东提案，也被投票通过了。",
+          "原站将本条归为股东会，时长约 151 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：直播：Tesla 2024 年度股东大会，马斯克出席",
+        "url": "https://elon.qiaomu.ai/ep/watch-live-tesla-2024-annual-shareholder-meeting-with-elon-musk/"
+      },
+      {
+        "title": "原始媒体：Benzinga",
+        "url": "https://www.youtube.com/watch?v=UQhnxPu67G4"
+      }
+    ]
+  },
+  "elon-qm-theo-von-elon-musk-talk-about-ai-mma-fight-dealing-with-advertis": {
+    "takeaway": "视频信息栏底部有一行小字：AI Generated Podcast。频道名写着 Comedy Gold。主持人自称西奥·冯（Theo Von），开口第一句把节目名字念成了“this AI weekend podcast”。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "视频信息栏底部有一行小字：AI Generated Podcast。频道名写着 Comedy Gold。主持人自称西奥·冯（Theo Von），开口第一句把节目名字念成了“this AI weekend podcast”。",
+          "原站将本条归为播客，时长约 8 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：西奥·冯与马斯克聊 AI、MMA 比赛、应对广告商……（AI 生成播客）",
+        "url": "https://elon.qiaomu.ai/ep/theo-von-elon-musk-talk-about-ai-mma-fight-dealing-with-advertis/"
+      },
+      {
+        "title": "原始媒体：Comedy Gold",
+        "url": "https://www.youtube.com/watch?v=W5e60yaT39c"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-bingo-on-tesla-s-earnings-call-elon-inc": {
+    "takeaway": "2024 年 1 月的一个周三，几十万人同时在线，听一个 52 岁的男人讲他明年打算卖多少辆车。这些人里有华尔街分析师，有特斯拉员工，有纯粹来看热闹的粉丝。他们真正想知道的事情只有一件：他今天心情怎么样。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2024 年 1 月的一个周三，几十万人同时在线，听一个 52 岁的男人讲他明年打算卖多少辆车。这些人里有华尔街分析师，有特斯拉员工，有纯粹来看热闹的粉丝。他们真正想知道的事情只有一件：他今天心情怎么样。",
+          "原站将本条归为股东会，时长约 28 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla 财报电话会上的马斯克 Bingo | Elon, Inc.",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-bingo-on-tesla-s-earnings-call-elon-inc/"
+      },
+      {
+        "title": "原始媒体：Bloomberg Podcasts",
+        "url": "https://www.youtube.com/watch?v=Z9-ZMcT0AQM"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-on-abundance-agi-and-the-media-in-2024-ep-79-x-spaces": {
+    "takeaway": "2024 年新年，马斯克在 X Spaces 上跟彼得·戴曼迪斯（Peter Diamandis）聊了两个多小时。中间他提到一件事：偶尔不小心读到新闻，他整个人会变丧。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2024 年新年，马斯克在 X Spaces 上跟彼得·戴曼迪斯（Peter Diamandis）聊了两个多小时。中间他提到一件事：偶尔不小心读到新闻，他整个人会变丧。",
+          "原站将本条归为X Spaces，时长约 77 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克谈丰裕、AGI 与 2024 媒体 | EP #79（X Spaces）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-on-abundance-agi-and-the-media-in-2024-ep-79-x-spaces/"
+      },
+      {
+        "title": "原始媒体：Peter H. Diamandis",
+        "url": "https://www.youtube.com/watch?v=_PcL4w--uNs"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-on-agi-safety-superintelligence-and-neuralink-2024-ep": {
+    "takeaway": "参考档案收录的播客资料，发布渠道为 Peter H. Diamandis，视频时长约 30 分钟。原始标题为《Elon Musk on AGI Safety, Superintelligence, and Neuralink (2024) | EP #91》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的播客资料，发布渠道为 Peter H. Diamandis，视频时长约 30 分钟。原始标题为《Elon Musk on AGI Safety, Superintelligence, and Neuralink (2024) | EP #91》。本条保留原始媒体与档案来源。",
+          "原站将本条归为播客，时长约 30 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克谈 AGI 安全、超级智能与 Neuralink（2024）| EP #91",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-on-agi-safety-superintelligence-and-neuralink-2024-ep/"
+      },
+      {
+        "title": "原始媒体：Peter H. Diamandis",
+        "url": "https://www.youtube.com/watch?v=akXMYvKjUxM"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-holds-town-hall-event-in-pennsylvania": {
+    "takeaway": "宾夕法尼亚州的这场市政厅活动，马斯克聊了两个多小时，从火星、AI、出生率一直讲到政府开支、教育、心理健康。但如果只能记住一件事，应该是他在开场没几分钟就抛出的一组日期：周一、周二。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "宾夕法尼亚州的这场市政厅活动，马斯克聊了两个多小时，从火星、AI、出生率一直讲到政府开支、教育、心理健康。但如果只能记住一件事，应该是他在开场没几分钟就抛出的一组日期：周一、周二。",
+          "原站将本条归为大会演讲，时长约 167 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在宾夕法尼亚举办市政厅活动",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-holds-town-hall-event-in-pennsylvania/"
+      },
+      {
+        "title": "原始媒体：Sky News",
+        "url": "https://www.youtube.com/watch?v=deViqTOqS4M"
+      }
+    ]
+  },
+  "elon-qm-full-interview-elon-musk-tucker-carlson": {
+    "takeaway": "「你估计我的刑期会有多长？」",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "「你估计我的刑期会有多长？」",
+          "原站将本条归为访谈，时长约 109 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克与塔克·卡尔森完整专访",
+        "url": "https://elon.qiaomu.ai/ep/full-interview-elon-musk-tucker-carlson/"
+      },
+      {
+        "title": "原始媒体：MAGA__Mandy",
+        "url": "https://www.youtube.com/watch?v=fxnywNYZ6BI"
+      }
+    ]
+  },
+  "elon-qm-live-ben-shapiro-interviews-elon-musk-at-european-jewish-associa": {
+    "takeaway": "哈佛-哈里斯（Harvard-Harris）的一份民调里，18 到 24 岁的美国人中有 67% 认为犹太人属于“压迫者阶级”。美国有 700 万犹太人，占 3.3 亿总人口的 2% 出头。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "哈佛-哈里斯（Harvard-Harris）的一份民调里，18 到 24 岁的美国人中有 67% 认为犹太人属于“压迫者阶级”。美国有 700 万犹太人，占 3.3 亿总人口的 2% 出头。",
+          "原站将本条归为大会演讲，时长约 55 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：直播：本·夏皮罗在欧洲犹太协会大会采访马斯克",
+        "url": "https://elon.qiaomu.ai/ep/live-ben-shapiro-interviews-elon-musk-at-european-jewish-associa/"
+      },
+      {
+        "title": "原始媒体：Associated Press",
+        "url": "https://www.youtube.com/watch?v=kmlSAHRCxqc"
+      }
+    ]
+  },
+  "elon-qm-the-insanity-of-sandy-munro-s-elon-musk-interview": {
+    "takeaway": "一款 2.5 万美元的特斯拉什么时候来？桑迪·芒罗（Sandy Munro）把这个问题摆到马斯克面前，得到的第一个回答是一句标准的上市公司挡箭牌：因为我们是公开交易的公司，我不能评论会影响财务数据的事情。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一款 2.5 万美元的特斯拉什么时候来？桑迪·芒罗（Sandy Munro）把这个问题摆到马斯克面前，得到的第一个回答是一句标准的上市公司挡箭牌：因为我们是公开交易的公司，我不能评论会影响财务数据的事情。",
+          "原站将本条归为访谈，时长约 83 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：桑迪·芒罗马斯克专访有多疯狂",
+        "url": "https://elon.qiaomu.ai/ep/the-insanity-of-sandy-munro-s-elon-musk-interview/"
+      },
+      {
+        "title": "原始媒体：eHack by Meet Kevin",
+        "url": "https://www.youtube.com/watch?v=ky8bCX3hrro"
+      }
+    ]
+  },
+  "elon-qm-full-elon-chat-with-president-donald-trump-on-x-spaces": {
+    "takeaway": "2024 年 7 月 13 日傍晚，宾夕法尼亚州巴特勒的露天场地上，特朗普朝右侧看了一眼图表。就是这一眼，让 130 码外射来的子弹穿过他的右耳，而不是他的头骨。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2024 年 7 月 13 日傍晚，宾夕法尼亚州巴特勒的露天场地上，特朗普朝右侧看了一眼图表。就是这一眼，让 130 码外射来的子弹穿过他的右耳，而不是他的头骨。",
+          "原站将本条归为X Spaces，时长约 120 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：[完整版] 马斯克与特朗普总统 X Spaces 对话",
+        "url": "https://elon.qiaomu.ai/ep/full-elon-chat-with-president-donald-trump-on-x-spaces/"
+      },
+      {
+        "title": "原始媒体：FADEpoint",
+        "url": "https://www.youtube.com/watch?v=mewzRB9vbqo"
+      }
+    ]
+  },
+  "elon-qm-walter-isaacson-on-the-appeal-of-elon-musk-plagiarism-on-campus": {
+    "takeaway": "三个数字，先摆出来。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "三个数字，先摆出来。",
+          "原站将本条归为访谈，时长约 8 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：沃尔特·艾萨克森谈马斯克的吸引力、校园抄袭与派拉蒙合并谈判",
+        "url": "https://elon.qiaomu.ai/ep/walter-isaacson-on-the-appeal-of-elon-musk-plagiarism-on-campus/"
+      },
+      {
+        "title": "原始媒体：CNBC Television",
+        "url": "https://www.youtube.com/watch?v=ml75Fx22sCg"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-reveals-new-tesla-owners-are-not-buying-full-self-driv": {
+    "takeaway": "一个买了 Model 3 快三个月的人，被问到车上还有没有 FSD 时，反问了一句：FSD 是什么？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一个买了 Model 3 快三个月的人，被问到车上还有没有 FSD 时，反问了一句：FSD 是什么？",
+          "原站将本条归为发布会，时长约 13 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克透露：新 Tesla 车主不买 FSD",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-reveals-new-tesla-owners-are-not-buying-full-self-driv/"
+      },
+      {
+        "title": "原始媒体：Dirty Tesla",
+        "url": "https://www.youtube.com/watch?v=njviVx45NIM"
+      }
+    ]
+  },
+  "elon-qm-tesla-q1-2024-financial-results-and-q-a-webcast": {
+    "takeaway": "马斯克在财报电话会快结束时说了一句话，语气很硬：",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克在财报电话会快结束时说了一句话，语气很硬：",
+          "原站将本条归为发布会，时长约 72 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla Q1 2024 财报与问答网络直播",
+        "url": "https://elon.qiaomu.ai/ep/tesla-q1-2024-financial-results-and-q-a-webcast/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=o81Rs-w3YMY"
+      }
+    ]
+  },
+  "elon-qm-new-elon-musk-interview-discussion-with-nicolai-tangen-ceo-of-th": {
+    "takeaway": "为 AI 专门建造的计算机，正以每年至少 10 倍的速度上线，有些时候 6 到 9 个月就翻一番。马斯克在这场访谈里给了一个更具体的坐标：两年之内，会出现比地球上任何一个人都聪明的东西；五年之内，AI 的总算力会超过全人类思维能力的总和。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "为 AI 专门建造的计算机，正以每年至少 10 倍的速度上线，有些时候 6 到 9 个月就翻一番。马斯克在这场访谈里给了一个更具体的坐标：两年之内，会出现比地球上任何一个人都聪明的东西；五年之内，AI 的总算力会超过全人类思维能力的总和。",
+          "原站将本条归为访谈，时长约 47 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克最新专访：对话挪威养老金基金 CEO 尼古拉·坦根",
+        "url": "https://elon.qiaomu.ai/ep/new-elon-musk-interview-discussion-with-nicolai-tangen-ceo-of-th/"
+      },
+      {
+        "title": "原始媒体：Best of Elon",
+        "url": "https://www.youtube.com/watch?v=pXSF2M2aimc"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-x-donald-trump-full-spaces-interview": {
+    "takeaway": "马斯克问，那一秒是什么感觉。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克问，那一秒是什么感觉。",
+          "原站将本条归为X Spaces，时长约 100 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 x 特朗普：X Spaces 完整访谈",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-x-donald-trump-full-spaces-interview/"
+      },
+      {
+        "title": "原始媒体：Shogun Samurai",
+        "url": "https://www.youtube.com/watch?v=qUG-2xh3cH0"
+      }
+    ]
+  },
+  "elon-qm-2024-annual-shareholder-meeting-tesla": {
+    "takeaway": "2024年6月13日，特斯拉年度股东大会在德州奥斯汀的超级工厂举行。当天最抓眼球的新闻是两件事：股东重新批准了马斯克2018年那份价值560亿美元的薪酬方案，同时同意把公司注册地从特拉华州迁到德州。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2024年6月13日，特斯拉年度股东大会在德州奥斯汀的超级工厂举行。当天最抓眼球的新闻是两件事：股东重新批准了马斯克2018年那份价值560亿美元的薪酬方案，同时同意把公司注册地从特拉华州迁到德州。",
+          "原站将本条归为股东会，时长约 146 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2024 年度股东大会 | Tesla",
+        "url": "https://elon.qiaomu.ai/ep/2024-annual-shareholder-meeting-tesla/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=remZ1KMR_Z4"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-on-how-to-save-the-human-race-at-2024-milken-conferenc": {
+    "takeaway": "宇宙有 138 亿年历史，地球有 45 亿年。人类从苏美尔人发明楔形文字算起，大约 5500 年。5500 年除以 45 亿年，是百万分之一。这就是文字诞生以来占据地球寿命的比例。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "宇宙有 138 亿年历史，地球有 45 亿年。人类从苏美尔人发明楔形文字算起，大约 5500 年。5500 年除以 45 亿年，是百万分之一。这就是文字诞生以来占据地球寿命的比例。",
+          "原站将本条归为播客，时长约 41 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在 #2024 Milken 会议谈如何拯救人类",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-on-how-to-save-the-human-race-at-2024-milken-conferenc/"
+      },
+      {
+        "title": "原始媒体：electron media group, inc.",
+        "url": "https://www.youtube.com/watch?v=s5o5m7LP6YY"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-on-the-lessons-of-history-lex-fridman-podcast": {
+    "takeaway": "美国建不成高铁。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "美国建不成高铁。",
+          "原站将本条归为播客，时长约 12 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克谈历史教训 | Lex Fridman 播客",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-on-the-lessons-of-history-lex-fridman-podcast/"
+      },
+      {
+        "title": "原始媒体：Lex Clips",
+        "url": "https://www.youtube.com/watch?v=swZ2Ngv4oSk"
+      }
+    ]
+  },
+  "elon-qm-tesla-full-q3-2024-earnings-call-with-elon-musk": {
+    "takeaway": "全球电动车产业里，找不到第二家赚钱的公司。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "全球电动车产业里，找不到第二家赚钱的公司。",
+          "原站将本条归为股东会，时长约 65 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla 2024 Q3 财报电话会：马斯克完整发言",
+        "url": "https://elon.qiaomu.ai/ep/tesla-full-q3-2024-earnings-call-with-elon-musk/"
+      },
+      {
+        "title": "原始媒体：Humanoid Robots Guide To The Galaxy",
+        "url": "https://www.youtube.com/watch?v=uLp-Q2mjGs8"
+      }
+    ]
+  },
+  "elon-qm-gript-interviews-elon-musk-on-irish-hate-speech-bill": {
+    "takeaway": "爱尔兰正在推一部法案，法案里给\"仇恨\"下了这样一个定义：仇恨，指基于若干特定特征而产生的仇恨。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "爱尔兰正在推一部法案，法案里给\"仇恨\"下了这样一个定义：仇恨，指基于若干特定特征而产生的仇恨。",
+          "原站将本条归为访谈，时长约 26 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Gript 专访马斯克：谈爱尔兰仇恨言论法案",
+        "url": "https://elon.qiaomu.ai/ep/gript-interviews-elon-musk-on-irish-hate-speech-bill/"
+      },
+      {
+        "title": "原始媒体：archive.org · Gript Media",
+        "url": "https://archive.org/download/youtube-aYJGiXLZujk/aYJGiXLZujk.mp4"
+      }
+    ]
+  },
+  "elon-qm-building-truth-seeking-non-deceptive-ai-elon-musk-vivatech-inter": {
+    "takeaway": "人类说话、打字、看屏幕，把所有对外的信息输出加起来，持续的带宽不到每秒 10 比特。按 24 小时平摊，不到每秒 5 比特。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "人类说话、打字、看屏幕，把所有对外的信息输出加起来，持续的带宽不到每秒 10 比特。按 24 小时平摊，不到每秒 5 比特。",
+          "原站将本条归为大会演讲，时长约 65 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 VivaTech 访谈：构建追求真相、不欺骗的 AI",
+        "url": "https://elon.qiaomu.ai/ep/building-truth-seeking-non-deceptive-ai-elon-musk-vivatech-inter/"
+      },
+      {
+        "title": "原始媒体：John'sEntertainment",
+        "url": "https://www.youtube.com/watch?v=0J0LGuC3gQI"
+      }
+    ]
+  },
+  "elon-qm-neuralink-update-improved-version-posted-by-musk": {
+    "takeaway": "Nolan 是 Neuralink 的第一位人类植入者。他大脑里的设备，眼下只有大约 15% 的电极还在正常工作。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "Nolan 是 Neuralink 的第一位人类植入者。他大脑里的设备，眼下只有大约 15% 的电极还在正常工作。",
+          "原站将本条归为发布会，时长约 39 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克发布 Neuralink 进展（改进版）",
+        "url": "https://elon.qiaomu.ai/ep/neuralink-update-improved-version-posted-by-musk/"
+      },
+      {
+        "title": "原始媒体：@elonmusk",
+        "url": "https://video.twimg.com/amplify_video/1811157088875466756/vid/avc1/1280x720/b3U6xU6--mbSjUGA.mp4?tag=14"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-neuralink-and-the-future-of-humanity-lex-fridman-podca": {
+    "takeaway": "莱克斯·弗里德曼的播客里，马斯克端起杯子喝了一口，然后扔出一个数字：人类平均每秒能传输多少信息。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "莱克斯·弗里德曼的播客里，马斯克端起杯子喝了一口，然后扔出一个数字：人类平均每秒能传输多少信息。",
+          "原站将本条归为播客，时长约 518 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克：Neuralink 与人类未来｜莱克斯·弗里德曼播客 #438",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-neuralink-and-the-future-of-humanity-lex-fridman-podca/"
+      },
+      {
+        "title": "原始媒体：Lex Fridman",
+        "url": "https://www.youtube.com/watch?v=Kbk9BiPhm7o"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-holds-a-town-hall-event-in-pittsburgh-pennsylvania-oct": {
+    "takeaway": "匹兹堡，10 月 20 日晚上。马斯克上台后讲的第一个具体事项不是火星，不是自动驾驶，是一个截止时间：宾夕法尼亚州的选民登记，明天午夜关闭。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "匹兹堡，10 月 20 日晚上。马斯克上台后讲的第一个具体事项不是火星，不是自动驾驶，是一个截止时间：宾夕法尼亚州的选民登记，明天午夜关闭。",
+          "原站将本条归为大会演讲，时长约 114 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在宾夕法尼亚州匹兹堡举行市民大会（2024年10月20日）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-holds-a-town-hall-event-in-pittsburgh-pennsylvania-oct/"
+      },
+      {
+        "title": "原始媒体：Five Fools",
+        "url": "https://www.youtube.com/watch?v=6oeMy--5PIE"
+      }
+    ]
+  },
+  "elon-qm-conversation-with-joe-rogan-summary-edit-posted-by-musk": {
+    "takeaway": "2024年11月，乔·罗根（Joe Rogan）在自己的播客里见到马斯克，开口第一句话是\"谢谢你买下推特\"。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2024年11月，乔·罗根（Joe Rogan）在自己的播客里见到马斯克，开口第一句话是\"谢谢你买下推特\"。",
+          "原站将本条归为播客，时长约 22 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克发布与乔·罗根对话精华剪辑",
+        "url": "https://elon.qiaomu.ai/ep/conversation-with-joe-rogan-summary-edit-posted-by-musk/"
+      },
+      {
+        "title": "原始媒体：@elonmusk",
+        "url": "https://video.twimg.com/amplify_video/1854900665723580416/vid/avc1/1280x720/KoCRTWJ0Wm2ZuWkj.mp4?tag=14"
+      }
+    ]
+  },
+  "elon-qm-grok-3-full-livestream-with-elon-musk": {
+    "takeaway": "2024 年 4 月，xAI 的人去找数据中心供应商，问了一个问题：在一个地方把 10 万张 GPU 连贯地跑起来，需要多久？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2024 年 4 月，xAI 的人去找数据中心供应商，问了一个问题：在一个地方把 10 万张 GPU 连贯地跑起来，需要多久？",
+          "原站将本条归为发布会，时长约 42 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 Grok 3 完整直播",
+        "url": "https://elon.qiaomu.ai/ep/grok-3-full-livestream-with-elon-musk/"
+      },
+      {
+        "title": "原始媒体：DexNotDexter",
+        "url": "https://www.youtube.com/watch?v=-DAlFdJkQWY"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-shares-tentative-mars-game-plan-in-spacex-update-at-st": {
+    "takeaway": "马斯克在 Starbase 的这次更新里讲了很多火星，最容易被忽略的细节是维生素 C。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克在 Starbase 的这次更新里讲了很多火星，最容易被忽略的细节是维生素 C。",
+          "原站将本条归为发布会，时长约 9 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在 Starbase 的 SpaceX 更新中透露火星计划初稿",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-shares-tentative-mars-game-plan-in-spacex-update-at-st/"
+      },
+      {
+        "title": "原始媒体：VideoFromSpace",
+        "url": "https://www.youtube.com/watch?v=-HojSvdYYCs"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-delivers-spacex-update-on-starship-mars-goals-and-more": {
+    "takeaway": "美国几十年来第一座新建的城市，落在得克萨斯州南部靠墨西哥湾的地方，名字叫 Starbase（星际基地）。五年半前，那里是一片什么都没有的沙洲。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "美国几十年来第一座新建的城市，落在得克萨斯州南部靠墨西哥湾的地方，名字叫 Starbase（星际基地）。五年半前，那里是一片什么都没有的沙洲。",
+          "原站将本条归为发布会，时长约 40 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克发布 SpaceX 更新：Starship、火星目标及更多",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-delivers-spacex-update-on-starship-mars-goals-and-more/"
+      },
+      {
+        "title": "原始媒体：VideoFromSpace",
+        "url": "https://www.youtube.com/watch?v=0nMfW7T3rx4"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-extended-interview-part-1-the-future-of-x": {
+    "takeaway": "2024 年 3 月，Don Lemon（唐·莱蒙）在特斯拉的奥斯汀总部坐下来，对面是马斯克。这场访谈录完没几天，X 取消了他的内容合作协议。一年后，莱蒙把这段对话剪成十集重新播出，开场白是这么说的：它不只是一次让人挑眉的对话，它还预告了此后定义马斯克轨迹的许多争论。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2024 年 3 月，Don Lemon（唐·莱蒙）在特斯拉的奥斯汀总部坐下来，对面是马斯克。这场访谈录完没几天，X 取消了他的内容合作协议。一年后，莱蒙把这段对话剪成十集重新播出，开场白是这么说的：它不只是一次让人挑眉的对话，它还预告了此后定义马斯克轨迹的许多争论。",
+          "原站将本条归为访谈，时长约 12 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克深度访谈（上）：X 的未来",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-extended-interview-part-1-the-future-of-x/"
+      },
+      {
+        "title": "原始媒体：Don Lemon",
+        "url": "https://www.youtube.com/watch?v=0q9wEThQvCk"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-new-all-in-interview-full-video": {
+    "takeaway": "马斯克在 All-In 峰会上被问到，在华盛顿待了几个月，学到了什么。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克在 All-In 峰会上被问到，在华盛顿待了几个月，学到了什么。",
+          "原站将本条归为播客，时长约 45 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克最新 All-In 访谈（完整视频）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-new-all-in-interview-full-video/"
+      },
+      {
+        "title": "原始媒体：Elon Musk Editor",
+        "url": "https://www.youtube.com/watch?v=4P7uBndGMaQ"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-clashes-with-bloomberg-s-mishal-husain-at-qatar-econom": {
+    "takeaway": "“我在知道埃隆疯了之前就买了这辆车。”",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "“我在知道埃隆疯了之前就买了这辆车。”",
+          "原站将本条归为大会演讲，时长约 37 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在卡塔尔经济论坛与彭博社米沙尔·侯赛因交锋",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-clashes-with-bloomberg-s-mishal-husain-at-qatar-econom/"
+      },
+      {
+        "title": "原始媒体：DRM News",
+        "url": "https://www.youtube.com/watch?v=4ibzU_t1diw"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-on-stephen-colbert-show-full-interview": {
+    "takeaway": "俄罗斯副总理建议美国用蹦床把宇航员送上国际空间站。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "俄罗斯副总理建议美国用蹦床把宇航员送上国际空间站。",
+          "原站将本条归为访谈，时长约 11 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克做客斯蒂芬·科尔伯特秀：完整访谈",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-on-stephen-colbert-show-full-interview/"
+      },
+      {
+        "title": "原始媒体：Force To Improve",
+        "url": "https://www.youtube.com/watch?v=70sCMaW7Suk"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-tesla-ceo-musk-speaks-at-qatar-economic-forum": {
+    "takeaway": "卡塔尔经济论坛的台上，主持人拿着一个具体数字问马斯克：选前你说 DOGE 能省下 2 万亿美元，现在 doge.gov 上写着 1700 亿，中间那一万八千多亿去哪了？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "卡塔尔经济论坛的台上，主持人拿着一个具体数字问马斯克：选前你说 DOGE 能省下 2 万亿美元，现在 doge.gov 上写着 1700 亿，中间那一万八千多亿去哪了？",
+          "原站将本条归为大会演讲，时长约 206 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla CEO 马斯克在卡塔尔经济论坛发言",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-tesla-ceo-musk-speaks-at-qatar-economic-forum/"
+      },
+      {
+        "title": "原始媒体：Republic World",
+        "url": "https://www.youtube.com/watch?v=7oizdI3hm10"
+      }
+    ]
+  },
+  "elon-qm-trump-elon-musk-speak-at-white-house-full": {
+    "takeaway": "数字刚出来，特朗普先放了一段录音。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "数字刚出来，特朗普先放了一段录音。",
+          "原站将本条归为政府活动，时长约 52 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：特朗普与马斯克在白宫发言（完整版）",
+        "url": "https://elon.qiaomu.ai/ep/trump-elon-musk-speak-at-white-house-full/"
+      },
+      {
+        "title": "原始媒体：FOX 7 Austin",
+        "url": "https://www.youtube.com/watch?v=7qEl2niXATQ"
+      }
+    ]
+  },
+  "elon-qm-musk-s-vision-for-saudi-elon-musk-speaks-at-saudi-u-s-investment": {
+    "takeaway": "利雅得的会场，一台特斯拉 Optimus 走上台，跟着《Y.M.C.A.》的节拍做了几个动作。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "利雅得的会场，一台特斯拉 Optimus 走上台，跟着《Y.M.C.A.》的节拍做了几个动作。",
+          "原站将本条归为大会演讲，时长约 9 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克的沙特愿景：在沙特-美国投资论坛发言",
+        "url": "https://elon.qiaomu.ai/ep/musk-s-vision-for-saudi-elon-musk-speaks-at-saudi-u-s-investment/"
+      },
+      {
+        "title": "原始媒体：DRM News",
+        "url": "https://www.youtube.com/watch?v=8asU7PG1mfA"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-rare-interviews-from-the-early-days-2": {
+    "takeaway": "有人问马斯克，那枚火箭里到底装了什么。他答得干脆：我们最大的载荷，其实是一整轮奶酪。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "有人问马斯克，那枚火箭里到底装了什么。他答得干脆：我们最大的载荷，其实是一整轮奶酪。",
+          "原站将本条归为播客，时长约 28 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克早期罕见访谈 #2",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-rare-interviews-from-the-early-days-2/"
+      },
+      {
+        "title": "原始媒体：Elon Musk Editor",
+        "url": "https://www.youtube.com/watch?v=980KshpWnSk"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-there-are-dead-people-working-in-government-speaks-at": {
+    "takeaway": "美国政府里有多少\"死人\"还在领工资？埃隆·马斯克（Elon Musk）给出的答案是：不少。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "美国政府里有多少\"死人\"还在领工资？埃隆·马斯克（Elon Musk）给出的答案是：不少。",
+          "原站将本条归为政府活动，时长约 10 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在特朗普内阁会议上谈 DOGE：政府里有“死人”在工作",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-there-are-dead-people-working-in-government-speaks-at/"
+      },
+      {
+        "title": "原始媒体：LiveNOW from FOX",
+        "url": "https://www.youtube.com/watch?v=9DLtwUFwpTY"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-talking-robotaxi-tesla-etc-on-cnbc-part-2": {
+    "takeaway": "三个 Transformer，短缺的偏偏是那个其他两个都离不开的。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "三个 Transformer，短缺的偏偏是那个其他两个都离不开的。",
+          "原站将本条归为访谈，时长约 16 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 CNBC 访谈（下）：Robotaxi、Tesla 等",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-talking-robotaxi-tesla-etc-on-cnbc-part-2/"
+      },
+      {
+        "title": "原始媒体：teslaplaidtok",
+        "url": "https://www.youtube.com/watch?v=9tB-xnlPBB8"
+      }
+    ]
+  },
+  "elon-qm-learn-english-elon-musk-interview-with-ron-baron-english-subtitl": {
+    "takeaway": "51 岁，每天工作 16 个小时，一周干满七天，满世界飞，会议一个接一个，社交媒体上每天都有人在骂他。罗恩·巴伦（Ron Baron）在第 29 届巴伦投资年会上把这个人人想问的问题直接摆到台面上：你在改变世界，你也在给自己找麻烦，为什么还要干？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "51 岁，每天工作 16 个小时，一周干满七天，满世界飞，会议一个接一个，社交媒体上每天都有人在骂他。罗恩·巴伦（Ron Baron）在第 29 届巴伦投资年会上把这个人人想问的问题直接摆到台面上：你在改变世界，你也在给自己找麻烦，为什么还要干？",
+          "原站将本条归为访谈，时长约 17 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：学英语｜马斯克对话罗恩·巴伦访谈（英文字幕）",
+        "url": "https://elon.qiaomu.ai/ep/learn-english-elon-musk-interview-with-ron-baron-english-subtitl/"
+      },
+      {
+        "title": "原始媒体：Great English Speeches",
+        "url": "https://www.youtube.com/watch?v=AjET5s5N74g"
+      }
+    ]
+  },
+  "elon-qm-full-president-trump-cabinet-meeting-w-elon-musk-rfk-jr-tulsi-ga": {
+    "takeaway": "太平洋上出现了这样一幕：满载货物的中国巨轮，在航行到一半时掉头返航。它们没有进港，没有卸货，直接回去了。特朗普在会议室里描述这个场景时，用了一个很直白的理由，145%的关税，让这些船觉得\"不划算\"。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "太平洋上出现了这样一幕：满载货物的中国巨轮，在航行到一半时掉头返航。它们没有进港，没有卸货，直接回去了。特朗普在会议室里描述这个场景时，用了一个很直白的理由，145%的关税，让这些船觉得\"不划算\"。",
+          "原站将本条归为政府活动，时长约 123 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：特朗普内阁会议完整版：马斯克、小罗伯特·F·肯尼迪、图尔西·加巴德出席",
+        "url": "https://elon.qiaomu.ai/ep/full-president-trump-cabinet-meeting-w-elon-musk-rfk-jr-tulsi-ga/"
+      },
+      {
+        "title": "原始媒体：LiveNOW from FOX",
+        "url": "https://www.youtube.com/watch?v=B-1xpqn6z2o"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-addresses-trump-cabinet-meeting-federal-employees-emai": {
+    "takeaway": "2025 年，白宫内阁会议室。特朗普环顾一圈，示意埃隆·马斯克站起来说几句。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2025 年，白宫内阁会议室。特朗普环顾一圈，示意埃隆·马斯克站起来说几句。",
+          "原站将本条归为政府活动，时长约 19 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在特朗普内阁会议谈联邦雇员邮件与 DOGE（完整发言）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-addresses-trump-cabinet-meeting-federal-employees-emai/"
+      },
+      {
+        "title": "原始媒体：ABC10",
+        "url": "https://www.youtube.com/watch?v=Eb1xXMzvfu8"
+      }
+    ]
+  },
+  "elon-qm-neuralink-update-summer-2025": {
+    "takeaway": "先说一个数字：人类向外界输出信息的速度，一天平均不到 1 比特每秒。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "先说一个数字：人类向外界输出信息的速度，一天平均不到 1 比特每秒。",
+          "原站将本条归为发布会，时长约 60 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Neuralink 2025 夏季进展",
+        "url": "https://elon.qiaomu.ai/ep/neuralink-update-summer-2025/"
+      },
+      {
+        "title": "原始媒体：Neuralink",
+        "url": "https://www.youtube.com/watch?v=FASMejN_5gs"
+      }
+    ]
+  },
+  "elon-qm-tesla-q3-2025-financial-results-and-q-a-webcast": {
+    "takeaway": "特斯拉第三季度财报电话会，马斯克上台后的第一句话没提交付量，也没提毛利率。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "特斯拉第三季度财报电话会，马斯克上台后的第一句话没提交付量，也没提毛利率。",
+          "原站将本条归为发布会，时长约 76 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla 2025 Q3 财报及问答网络直播",
+        "url": "https://elon.qiaomu.ai/ep/tesla-q3-2025-financial-results-and-q-a-webcast/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=GQ9S7xbkGAY"
+      }
+    ]
+  },
+  "elon-qm-tesla-ceo-elon-musk-speaks-at-dubai-s-world-government-summit-bo": {
+    "takeaway": "美国联邦政府雇员想退休，一个月最多能办一万人。这个数字不取决于财政预算，不取决于人手，取决于宾夕法尼亚州一座矿井里电梯的运行速度。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "美国联邦政府雇员想退休，一个月最多能办一万人。这个数字不取决于财政预算，不取决于人手，取决于宾夕法尼亚州一座矿井里电梯的运行速度。",
+          "原站将本条归为大会演讲，时长约 213 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla CEO 马斯克在迪拜世界政府峰会：Boring 城市、AI 与 DODGE",
+        "url": "https://elon.qiaomu.ai/ep/tesla-ceo-elon-musk-speaks-at-dubai-s-world-government-summit-bo/"
+      },
+      {
+        "title": "原始媒体：ANI News",
+        "url": "https://www.youtube.com/watch?v=Gkk7QyAbhB0"
+      }
+    ]
+  },
+  "elon-qm-trump-elon-speak-at-white-house-full": {
+    "takeaway": "一个石灰岩矿洞里的电梯，决定了整个美国联邦政府每个月能有多少人退休。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一个石灰岩矿洞里的电梯，决定了整个美国联邦政府每个月能有多少人退休。",
+          "原站将本条归为政府活动，时长约 32 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：特朗普与马斯克在白宫发言（完整版）",
+        "url": "https://elon.qiaomu.ai/ep/trump-elon-speak-at-white-house-full/"
+      },
+      {
+        "title": "原始媒体：FOX 26 Houston",
+        "url": "https://www.youtube.com/watch?v=HsxwlQcRvhg"
+      }
+    ]
+  },
+  "elon-qm-jared-issacman-refuses-to-answer-whether-elon-musk-was-in-his-na": {
+    "takeaway": "同一个问题，被参议员问了七遍。被问的人叫贾里德·艾萨克曼（Jared Isaacman），特朗普提名他出任NASA局长。七轮回答里，\"是\"和\"否\"一次都没出现过。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "同一个问题，被参议员问了七遍。被问的人叫贾里德·艾萨克曼（Jared Isaacman），特朗普提名他出任NASA局长。七轮回答里，\"是\"和\"否\"一次都没出现过。",
+          "原站将本条归为访谈，时长约 10 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：贾里德·艾萨克曼拒答马斯克是否参与其 NASA 局长面试",
+        "url": "https://elon.qiaomu.ai/ep/jared-issacman-refuses-to-answer-whether-elon-musk-was-in-his-na/"
+      },
+      {
+        "title": "原始媒体：VideoFromSpace",
+        "url": "https://www.youtube.com/watch?v=IA7sSBHwNtE"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-talks-about-population-collapse-in-south-korea": {
+    "takeaway": "0.72。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "0.72。",
+          "原站将本条归为访谈，时长约 7 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克谈韩国人口崩溃",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-talks-about-population-collapse-in-south-korea/"
+      },
+      {
+        "title": "原始媒体：Average Korean Man",
+        "url": "https://www.youtube.com/watch?v=JQC8xhLhskc"
+      }
+    ]
+  },
+  "elon-qm-pandomonthly-rare-elon-musk-fireside-chat-deleted-video": {
+    "takeaway": "先摆一个数字。2002 年 PayPal 卖给 eBay，马斯克税后到手大约 1.8 亿美元。他把这笔钱切成三块：1 亿进 SpaceX，7000 万进特斯拉，1000 万进 SolarCity。切完，他需要向朋友借钱付房租。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "先摆一个数字。2002 年 PayPal 卖给 eBay，马斯克税后到手大约 1.8 亿美元。他把这笔钱切成三块：1 亿进 SpaceX，7000 万进特斯拉，1000 万进 SolarCity。切完，他需要向朋友借钱付房租。",
+          "原站将本条归为大会演讲，时长约 63 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Pandomonthly：马斯克罕见炉边谈话（已删除视频）",
+        "url": "https://elon.qiaomu.ai/ep/pandomonthly-rare-elon-musk-fireside-chat-deleted-video/"
+      },
+      {
+        "title": "原始媒体：Vish Pandey",
+        "url": "https://www.youtube.com/watch?v=Kyb64VW7bbU"
+      }
+    ]
+  },
+  "elon-qm-full-elon-musk-interview-at-cpac-2025-unfiltered-unscripted-unmi": {
+    "takeaway": "先看一个数字：美国政府的社会保障数据库里，登记在册的\"活着的、有资格领社保的美国人\"超过 4 亿。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "先看一个数字：美国政府的社会保障数据库里，登记在册的\"活着的、有资格领社保的美国人\"超过 4 亿。",
+          "原站将本条归为大会演讲，时长约 32 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 CPAC 2025 完整访谈：未过滤、无剧本、不容错过",
+        "url": "https://elon.qiaomu.ai/ep/full-elon-musk-interview-at-cpac-2025-unfiltered-unscripted-unmi/"
+      },
+      {
+        "title": "原始媒体：Libertarian Times",
+        "url": "https://www.youtube.com/watch?v=L2hkqolW168"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-live-musk-addresses-uae-world-governments-summit-2025": {
+    "takeaway": "“未来某个时点，数字智能会占到全部智能的 99% 以上。人类智能在总量里只占很小的一小部分。”",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "“未来某个时点，数字智能会占到全部智能的 99% 以上。人类智能在总量里只占很小的一小部分。”",
+          "原站将本条归为大会演讲，时长约 80 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 LIVE：亮相 2025 阿联酋世界政府峰会",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-live-musk-addresses-uae-world-governments-summit-2025/"
+      },
+      {
+        "title": "原始媒体：WION",
+        "url": "https://www.youtube.com/watch?v=Liur4Argg6s"
+      }
+    ]
+  },
+  "elon-qm-fall-2025-elon-school-of-law-commencement": {
+    "takeaway": "2025 年秋天，北卡罗来纳州最高法院大法官 Phil Berger Jr. 站在 Elon 大学法学院的毕业典礼讲台上，对两百多名即将拿到 Juris Doctor 学位的年轻人说了一句话。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2025 年秋天，北卡罗来纳州最高法院大法官 Phil Berger Jr. 站在 Elon 大学法学院的毕业典礼讲台上，对两百多名即将拿到 Juris Doctor 学位的年轻人说了一句话。",
+          "原站将本条归为大会演讲，时长约 105 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2025 秋季 Elon 法学院毕业典礼",
+        "url": "https://elon.qiaomu.ai/ep/fall-2025-elon-school-of-law-commencement/"
+      },
+      {
+        "title": "原始媒体：Elon University",
+        "url": "https://www.youtube.com/watch?v=LwrnIawCrr4"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-speaks-at-saudi-u-s-investment-forum": {
+    "takeaway": "一个机器人，在利雅得的会场里跳起了 YMCA。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一个机器人，在利雅得的会场里跳起了 YMCA。",
+          "原站将本条归为大会演讲，时长约 8 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在沙特-美国投资论坛发言",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-speaks-at-saudi-u-s-investment-forum/"
+      },
+      {
+        "title": "原始媒体：CNBC Television",
+        "url": "https://www.youtube.com/watch?v=LyouLvz6iiY"
+      }
+    ]
+  },
+  "elon-qm-xal-s-mind-blowing-grok-4-demo-w-elon-musk-full-replay": {
+    "takeaway": "“人类最后的考试”（Humanity's Last Exam，简称HLE）一共2500道题，由各领域专家逐题手工编写。数学、物理、化学、生物、工程、语言学、历史，每道题都停在博士资格考试甚至更高研究水平。这些题在公开网络上搜不到，靠记忆也背不下来。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "“人类最后的考试”（Humanity's Last Exam，简称HLE）一共2500道题，由各领域专家逐题手工编写。数学、物理、化学、生物、工程、语言学、历史，每道题都停在博士资格考试甚至更高研究水平。这些题在公开网络上搜不到，靠记忆也背不下来。",
+          "原站将本条归为发布会，时长约 37 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：xAI 惊艳 Grok 4 演示：马斯克同台（完整回放）",
+        "url": "https://elon.qiaomu.ai/ep/xal-s-mind-blowing-grok-4-demo-w-elon-musk-full-replay/"
+      },
+      {
+        "title": "原始媒体：Brighter with Herbert",
+        "url": "https://www.youtube.com/watch?v=MtYsUdfZPMA"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-talks-doge-mission-explains-dems-committing-treason-at": {
+    "takeaway": "美国社会保障局的数据库里，登记着超过 4 亿\"有资格领取社保的美国人\"。美国全国人口是 3.4 亿。数据库里还躺着一个人，年龄 360 岁。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "美国社会保障局的数据库里，登记着超过 4 亿\"有资格领取社保的美国人\"。美国全国人口是 3.4 亿。数据库里还躺着一个人，年龄 360 岁。",
+          "原站将本条归为政府活动，时长约 32 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在 CPAC 谈 DOGE 使命，称民主党人“叛国”",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-talks-doge-mission-explains-dems-committing-treason-at/"
+      },
+      {
+        "title": "原始媒体：Newsmax",
+        "url": "https://www.youtube.com/watch?v=Og3s57735oU"
+      }
+    ]
+  },
+  "elon-qm-are-tesla-s-biggest-fans-done-with-elon-musk": {
+    "takeaway": "Briana Jane 和丈夫一共买过 8 辆特斯拉。除了最早的 Roadster，其余每个型号至少拥有一辆。有一段时间，特斯拉股票占了他们投资组合的 100%。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "Briana Jane 和丈夫一共买过 8 辆特斯拉。除了最早的 Roadster，其余每个型号至少拥有一辆。有一段时间，特斯拉股票占了他们投资组合的 100%。",
+          "原站将本条归为访谈，时长约 14 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla 最铁粉也受够马斯克了？",
+        "url": "https://elon.qiaomu.ai/ep/are-tesla-s-biggest-fans-done-with-elon-musk/"
+      },
+      {
+        "title": "原始媒体：CNBC",
+        "url": "https://www.youtube.com/watch?v=OlXDlmVjoYw"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-at-qatar-economic-forum-2025-global-business-insights": {
+    "takeaway": "主持人问马斯克，这一周怎么过。他报了一串城市名：昨天早上硅谷，昨天晚上洛杉矶，现在奥斯汀，明天华盛顿，明晚和总统共进晚餐，然后是一连串内阁部长会议，周四晚上回硅谷。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "主持人问马斯克，这一周怎么过。他报了一串城市名：昨天早上硅谷，昨天晚上洛杉矶，现在奥斯汀，明天华盛顿，明晚和总统共进晚餐，然后是一连串内阁部长会议，周四晚上回硅谷。",
+          "原站将本条归为大会演讲，时长约 67 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在 2025 卡塔尔经济论坛：全球商业洞察",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-at-qatar-economic-forum-2025-global-business-insights/"
+      },
+      {
+        "title": "原始媒体：AT World News",
+        "url": "https://www.youtube.com/watch?v=P_WCYJ4yq2Q"
+      }
+    ]
+  },
+  "elon-qm-full-interview-elon-musk-speaks-at-the-qatar-economic-forum": {
+    "takeaway": "主持人问马斯克，五年之后你还会是特斯拉的 CEO 吗？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "主持人问马斯克，五年之后你还会是特斯拉的 CEO 吗？",
+          "原站将本条归为大会演讲，时长约 18 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：完整访谈：马斯克在卡塔尔经济论坛发言",
+        "url": "https://elon.qiaomu.ai/ep/full-interview-elon-musk-speaks-at-the-qatar-economic-forum/"
+      },
+      {
+        "title": "原始媒体：IShowJetLive",
+        "url": "https://www.youtube.com/watch?v=PxJCwLqWDUQ"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-live-tesla-ceo-on-global-influence-at-qatar-economic-f": {
+    "takeaway": "论坛进行到中段，主持人和马斯克在台上僵住了几秒。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "论坛进行到中段，主持人和马斯克在台上僵住了几秒。",
+          "原站将本条归为大会演讲，时长约 38 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克直播：Tesla CEO 亮相卡塔尔经济论坛谈全球影响力",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-live-tesla-ceo-on-global-influence-at-qatar-economic-f/"
+      },
+      {
+        "title": "原始媒体：DRM News",
+        "url": "https://www.youtube.com/watch?v=QXyTJfArvx4"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-introducing-grok-4-full-video": {
+    "takeaway": "马斯克上台没讲几句，先扔了一个数字：给 Grok 4 做 SAT，每次都满分，哪怕那些题它从没见过。GRE 也一样，人文学科、语言、数学、物理、工程，随便挑，接近满分。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克上台没讲几句，先扔了一个数字：给 Grok 4 做 SAT，每次都满分，哪怕那些题它从没见过。GRE 也一样，人文学科、语言、数学、物理、工程，随便挑，接近满分。",
+          "原站将本条归为发布会，时长约 54 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克发布 Grok 4（完整视频）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-introducing-grok-4-full-video/"
+      },
+      {
+        "title": "原始媒体：Elon Musk Editor",
+        "url": "https://www.youtube.com/watch?v=QbNODZwQQuw"
+      }
+    ]
+  },
+  "elon-qm-live-elon-musk-s-full-cpac-interview-bold-views-on-politics-and": {
+    "takeaway": "美国政府一年花掉 7 万亿美元。马斯克在 CPAC 的台上说，这里面保守估计有 10% 是欺诈，也就是 7000 亿美元。他说这句话的时候语气很平，像在报一个产品参数。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "美国政府一年花掉 7 万亿美元。马斯克在 CPAC 的台上说，这里面保守估计有 10% 是欺诈，也就是 7000 亿美元。他说这句话的时候语气很平，像在报一个产品参数。",
+          "原站将本条归为大会演讲，时长约 286 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：直播：马斯克 CPAC 完整专访：畅谈政治与创新",
+        "url": "https://elon.qiaomu.ai/ep/live-elon-musk-s-full-cpac-interview-bold-views-on-politics-and/"
+      },
+      {
+        "title": "原始媒体：NewsX World",
+        "url": "https://www.youtube.com/watch?v=Rfz_JPQd9GM"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-with-ben-shapiro-full-interview": {
+    "takeaway": "2002 年，马斯克给刚创办的 SpaceX 估的成功率不到 10%。他的原话是，大概率会死。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2002 年，马斯克给刚创办的 SpaceX 估的成功率不到 10%。他的原话是，大概率会死。",
+          "原站将本条归为访谈，时长约 50 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克接受本·夏皮罗专访（完整版）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-with-ben-shapiro-full-interview/"
+      },
+      {
+        "title": "原始媒体：Elon Musk Editor",
+        "url": "https://www.youtube.com/watch?v=S_vpv4I27hs"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-son-at-oval-office-full-news-conference": {
+    "takeaway": "联邦政府每个月最多能让多少人退休？答案是一万人。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "联邦政府每个月最多能让多少人退休？答案是一万人。",
+          "原站将本条归为政府活动，时长约 32 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克携子现身椭圆形办公室：完整新闻发布会",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-son-at-oval-office-full-news-conference/"
+      },
+      {
+        "title": "原始媒体：FOX 4 Dallas-Fort Worth",
+        "url": "https://www.youtube.com/watch?v=Sa1m5OuF5Tk"
+      }
+    ]
+  },
+  "elon-qm-watch-president-trump-holds-cabinet-meeting-with-elon-musk": {
+    "takeaway": "美国内阁会议室里，农业部长布鲁克·罗林斯（Brooke Rollins）正在讲鸡蛋价格。她说到一半，特朗普插了一句，问她那个数字到底是多少。她重复了一遍：批发价降了 53%。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "美国内阁会议室里，农业部长布鲁克·罗林斯（Brooke Rollins）正在讲鸡蛋价格。她说到一半，特朗普插了一句，问她那个数字到底是多少。她重复了一遍：批发价降了 53%。",
+          "原站将本条归为政府活动，时长约 47 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：特朗普总统与马斯克举行内阁会议（全程）",
+        "url": "https://elon.qiaomu.ai/ep/watch-president-trump-holds-cabinet-meeting-with-elon-musk/"
+      },
+      {
+        "title": "原始媒体：LiveNOW from FOX",
+        "url": "https://www.youtube.com/watch?v=SdmboAlIZhI"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-at-the-white-house-full-news-conference": {
+    "takeaway": "联邦政府每个月最多能让多少人退休？答案是一万人。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "联邦政府每个月最多能让多少人退休？答案是一万人。",
+          "原站将本条归为政府活动，时长约 35 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在白宫：完整新闻发布会",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-at-the-white-house-full-news-conference/"
+      },
+      {
+        "title": "原始媒体：FOX 7 Austin",
+        "url": "https://www.youtube.com/watch?v=ThjwjSNzye0"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-with-tucker-carlson-part-1": {
+    "takeaway": "参考档案收录的访谈资料，发布渠道为 Elon Musk Editor，视频时长约 55 分钟。原始标题为《Elon Musk Interview With Tucker Carlson (Part 1)》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的访谈资料，发布渠道为 Elon Musk Editor，视频时长约 55 分钟。原始标题为《Elon Musk Interview With Tucker Carlson (Part 1)》。本条保留原始媒体与档案来源。",
+          "原站将本条归为访谈，时长约 55 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克接受塔克·卡尔森专访（上）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-with-tucker-carlson-part-1/"
+      },
+      {
+        "title": "原始媒体：Elon Musk Editor",
+        "url": "https://www.youtube.com/watch?v=TrsefCVoi98"
+      }
+    ]
+  },
+  "elon-qm-live-elon-musk-speaks-at-dubai-s-world-government-summit-boring": {
+    "takeaway": "美国联邦政府雇员的退休申请，至今还是纸质的。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "美国联邦政府雇员的退休申请，至今还是纸质的。",
+          "原站将本条归为大会演讲，时长约 265 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：直播：马斯克在迪拜世界政府峰会谈“无聊城市”、AI 与 DOGE",
+        "url": "https://elon.qiaomu.ai/ep/live-elon-musk-speaks-at-dubai-s-world-government-summit-boring/"
+      },
+      {
+        "title": "原始媒体：NEWS9 Live",
+        "url": "https://www.youtube.com/watch?v=UrAn6Qm_MO0"
+      }
+    ]
+  },
+  "elon-qm-2025-annual-shareholder-meeting-tesla": {
+    "takeaway": "大多数公司的股东大会是用来催眠的。马斯克自己在台上就这么说：",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "大多数公司的股东大会是用来催眠的。马斯克自己在台上就这么说：",
+          "原站将本条归为股东会，时长约 143 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla 2025 年度股东大会",
+        "url": "https://elon.qiaomu.ai/ep/2025-annual-shareholder-meeting-tesla/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=VGPlvmMjPtE"
+      }
+    ]
+  },
+  "elon-qm-bloomberg-s-elon-musk-interview-big-take": {
+    "takeaway": "DOGE 官网上写着一千七百亿美元。马斯克在选前说的是两万亿。侯赛因把这个差额摆出来问了一句，得到的回应是“你这个问题的基本前提是荒谬的”。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "DOGE 官网上写着一千七百亿美元。马斯克在选前说的是两万亿。侯赛因把这个差额摆出来问了一句，得到的回应是“你这个问题的基本前提是荒谬的”。",
+          "原站将本条归为访谈，时长约 42 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Bloomberg 专访马斯克 | Big Take",
+        "url": "https://elon.qiaomu.ai/ep/bloomberg-s-elon-musk-interview-big-take/"
+      },
+      {
+        "title": "原始媒体：Bloomberg Podcasts",
+        "url": "https://www.youtube.com/watch?v=V_IpRSXyhV0"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-talks-spacex-starship-s-potential-to-transform-space-e": {
+    "takeaway": "洛杉矶到悉尼，不到半小时。纽约到新加坡，半小时。横跨大西洋，十分钟。这些时间表是马斯克在这次访谈里随口报出来的，载体是星舰（Starship），前提是它得先做成一件人类从来没做成的事：完全、快速、便宜地重复使用。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "洛杉矶到悉尼，不到半小时。纽约到新加坡，半小时。横跨大西洋，十分钟。这些时间表是马斯克在这次访谈里随口报出来的，载体是星舰（Starship），前提是它得先做成一件人类从来没做成的事：完全、快速、便宜地重复使用。",
+          "原站将本条归为发布会，时长约 21 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克谈 SpaceX Starship 改变太空探索的潜力（最新更新）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-talks-spacex-starship-s-potential-to-transform-space-e/"
+      },
+      {
+        "title": "原始媒体：VideoFromSpace",
+        "url": "https://www.youtube.com/watch?v=VaNxtHeBOYY"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-tesla-spacex-xai-neuralink-updates": {
+    "takeaway": "马斯克出现在大屏幕上的时候，背景是火星探测器“毅力号”的模型。主持人说这画面看着有点像火星，他笑着接了一句，那是毅力号在火星上的样子。这场对谈发生在 X Takeover 现场，前身是 Tesla Takeover，他已经连续两年来参加。台下坐着一千五百多个从世界各地赶来的车主。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克出现在大屏幕上的时候，背景是火星探测器“毅力号”的模型。主持人说这画面看着有点像火星，他笑着接了一句，那是毅力号在火星上的样子。这场对谈发生在 X Takeover 现场，前身是 Tesla Takeover，他已经连续两年来参加。台下坐着一千五百多个从世界各地赶来的车主。",
+          "原站将本条归为发布会，时长约 65 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克专访：Tesla、SpaceX、xAI 与 Neuralink 最新进展",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-tesla-spacex-xai-neuralink-updates/"
+      },
+      {
+        "title": "原始媒体：Tesla Owners Silicon Valley",
+        "url": "https://www.youtube.com/watch?v=W9yxDlPAwG4"
+      }
+    ]
+  },
+  "elon-qm-walter-isaacson-in-conversation-with-michael-lewis-elon-musk": {
+    "takeaway": "两个新奥尔良人在台上互相拆台。沃尔特·艾萨克森（Walter Isaacson）说，五年级的时候他是学生会主席，当年的老师和校长看见他俩现在的合影，会指着他说\"嗯，这很合理\"，然后指着迈克尔·刘易斯说\"他没戏\"。刘易斯接过话头：确实，他们会这么说，而且他们错了。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "两个新奥尔良人在台上互相拆台。沃尔特·艾萨克森（Walter Isaacson）说，五年级的时候他是学生会主席，当年的老师和校长看见他俩现在的合影，会指着他说\"嗯，这很合理\"，然后指着迈克尔·刘易斯说\"他没戏\"。刘易斯接过话头：确实，他们会这么说，而且他们错了。",
+          "原站将本条归为访谈，时长约 53 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：沃尔特·艾萨克森对话迈克尔·刘易斯：马斯克",
+        "url": "https://elon.qiaomu.ai/ep/walter-isaacson-in-conversation-with-michael-lewis-elon-musk/"
+      },
+      {
+        "title": "原始媒体：The 92nd Street Y, New York",
+        "url": "https://www.youtube.com/watch?v=XUi4UQyQeDk"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-the-future-engineered-x-takeover-2025": {
+    "takeaway": "参考档案收录的访谈资料，发布渠道为 Tesla Owners Silicon Valley，视频时长约 77 分钟。原始标题为《Elon Musk Interview | The Future, Engineered | X Takeover 2025》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的访谈资料，发布渠道为 Tesla Owners Silicon Valley，视频时长约 77 分钟。原始标题为《Elon Musk Interview | The Future, Engineered | X Takeover 2025》。本条保留原始媒体与档案来源。",
+          "原站将本条归为访谈，时长约 77 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克专访 | 工程化未来 | X Takeover 2025",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-the-future-engineered-x-takeover-2025/"
+      },
+      {
+        "title": "原始媒体：Tesla Owners Silicon Valley",
+        "url": "https://www.youtube.com/watch?v=YqDehngsBHw"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-doge-team-talk-government-cuts-livenow-from-fox": {
+    "takeaway": "一个十道题的在线问卷，市价大概一万美元。联邦政府为它付了将近十亿美元。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一个十道题的在线问卷，市价大概一万美元。联邦政府为它付了将近十亿美元。",
+          "原站将本条归为政府活动，时长约 31 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克与 DOGE 团队谈政府削减开支 | FOX LiveNOW",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-doge-team-talk-government-cuts-livenow-from-fox/"
+      },
+      {
+        "title": "原始媒体：LiveNOW from FOX",
+        "url": "https://www.youtube.com/watch?v=_ZfotdjNi-M"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-x-everyday-astronaut-interview-spacex-starship-flight9": {
+    "takeaway": "距离发射还剩 4 小时 30 分钟。马斯克坐到镜头前，被问到此刻脑子里在想什么。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "距离发射还剩 4 小时 30 分钟。马斯克坐到镜头前，被问到此刻脑子里在想什么。",
+          "原站将本条归为访谈，时长约 11 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 × Everyday Astronaut 专访：SpaceX Starship 第九飞",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-x-everyday-astronaut-interview-spacex-starship-flight9/"
+      },
+      {
+        "title": "原始媒体：LaunchRecap Aviation",
+        "url": "https://www.youtube.com/watch?v=_hfXaFSUh6k"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-with-tucker-carlson-full-interview": {
+    "takeaway": "塔克·卡尔森问马斯克，如果特朗普输了，你估计自己的刑期会有多长？马斯克没笑。他说他确实想过这个问题，也想过还能不能见到自己的孩子。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "塔克·卡尔森问马斯克，如果特朗普输了，你估计自己的刑期会有多长？马斯克没笑。他说他确实想过这个问题，也想过还能不能见到自己的孩子。",
+          "原站将本条归为访谈，时长约 96 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克接受塔克·卡尔森专访（完整版）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-with-tucker-carlson-full-interview/"
+      },
+      {
+        "title": "原始媒体：Elon Musk Editor",
+        "url": "https://www.youtube.com/watch?v=_jmKX3CLMZY"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-with-stagwell-s-ceo-mark-penn-full-video": {
+    "takeaway": "马斯克在 CES 现场对着一屋子大公司的首席营销官说了一句话，让整个会场安静了几秒：人类积累的全部知识，去年就已经被 AI 拿去训练用完了。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克在 CES 现场对着一屋子大公司的首席营销官说了一句话，让整个会场安静了几秒：人类积累的全部知识，去年就已经被 AI 拿去训练用完了。",
+          "原站将本条归为访谈，时长约 34 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克对话 Stagwell CEO 马克·佩恩（完整视频）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-with-stagwell-s-ceo-mark-penn-full-video/"
+      },
+      {
+        "title": "原始媒体：Elon Musk Editor",
+        "url": "https://www.youtube.com/watch?v=_wTA90BYo30"
+      }
+    ]
+  },
+  "elon-qm-elon-uncut-the-complete-interview-verdict-ep-216": {
+    "takeaway": "53 岁的马斯克坐在白宫，对面是参议员泰德·克鲁兹（Ted Cruz）。访谈开场，克鲁兹抛出第一个问题：你在推特（Twitter）看到的烂摊子，和你在联邦政府看到的烂摊子，哪个更糟？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "53 岁的马斯克坐在白宫，对面是参议员泰德·克鲁兹（Ted Cruz）。访谈开场，克鲁兹抛出第一个问题：你在推特（Twitter）看到的烂摊子，和你在联邦政府看到的烂摊子，哪个更糟？",
+          "原站将本条归为播客，时长约 59 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克未删减完整专访 | Verdict 第216期",
+        "url": "https://elon.qiaomu.ai/ep/elon-uncut-the-complete-interview-verdict-ep-216/"
+      },
+      {
+        "title": "原始媒体：Verdict with Ted Cruz",
+        "url": "https://www.youtube.com/watch?v=aMcmuKTfr54"
+      }
+    ]
+  },
+  "elon-qm-qatar-economic-forum-2025-elon-musk-signals-shift-on-openai-and": {
+    "takeaway": "2025 年卡塔尔经济论坛，马斯克坐在台上接受访谈。主持人问星链进入南非是不是存在利益冲突，马斯克的回答是反问：为什么南非会有种族主义法律？主持人说这不是我该回答的问题。马斯克说，这是你的采访，所有人都想听你说，你回答。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2025 年卡塔尔经济论坛，马斯克坐在台上接受访谈。主持人问星链进入南非是不是存在利益冲突，马斯克的回答是反问：为什么南非会有种族主义法律？主持人说这不是我该回答的问题。马斯克说，这是你的采访，所有人都想听你说，你回答。",
+          "原站将本条归为大会演讲，时长约 22 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：2025 卡塔尔经济论坛：马斯克暗示对 OpenAI 与政治立场转变",
+        "url": "https://elon.qiaomu.ai/ep/qatar-economic-forum-2025-elon-musk-signals-shift-on-openai-and/"
+      },
+      {
+        "title": "原始媒体：moneycontrol",
+        "url": "https://www.youtube.com/watch?v=eN97POWtFLU"
+      }
+    ]
+  },
+  "elon-qm-democrats-go-after-trump-musk-in-doge-war-on-waste-hearing": {
+    "takeaway": "美国国债总额突破36万亿美元。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "美国国债总额突破36万亿美元。",
+          "原站将本条归为政府活动，时长约 120 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：民主党在 DOGE“反浪费战争”听证会上炮轰特朗普与马斯克",
+        "url": "https://elon.qiaomu.ai/ep/democrats-go-after-trump-musk-in-doge-war-on-waste-hearing/"
+      },
+      {
+        "title": "原始媒体：Fox Business",
+        "url": "https://www.youtube.com/watch?v=eUupj6tDdIQ"
+      }
+    ]
+  },
+  "elon-qm-live-elon-musk-speaks-at-dubai-s-world-governments-summit": {
+    "takeaway": "美国联邦政府雇员能不能顺利退休，取决于宾夕法尼亚州一座矿井里电梯的运行速度。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "美国联邦政府雇员能不能顺利退休，取决于宾夕法尼亚州一座矿井里电梯的运行速度。",
+          "原站将本条归为大会演讲，时长约 35 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：直播：马斯克在迪拜世界政府峰会发表演讲",
+        "url": "https://elon.qiaomu.ai/ep/live-elon-musk-speaks-at-dubai-s-world-governments-summit/"
+      },
+      {
+        "title": "原始媒体：Reuters",
+        "url": "https://www.youtube.com/watch?v=eV396ioBs3g"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-rare-interviews-from-the-early-days": {
+    "takeaway": "一家只有 400 人的公司，做任何一个小动作，第二天就能上《纽约时报》。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一家只有 400 人的公司，做任何一个小动作，第二天就能上《纽约时报》。",
+          "原站将本条归为访谈，时长约 21 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克早期罕见采访",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-rare-interviews-from-the-early-days/"
+      },
+      {
+        "title": "原始媒体：Elon Musk Editor",
+        "url": "https://www.youtube.com/watch?v=fTEsMEVAtp4"
+      }
+    ]
+  },
+  "elon-qm-president-trump-elon-musk-in-the-oval-office-full-remarks": {
+    "takeaway": "美国联邦政府雇员办退休，最后一步是把纸质档案送进一个石灰岩矿。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "美国联邦政府雇员办退休，最后一步是把纸质档案送进一个石灰岩矿。",
+          "原站将本条归为政府活动，时长约 31 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：特朗普与马斯克在椭圆形办公室：完整讲话",
+        "url": "https://elon.qiaomu.ai/ep/president-trump-elon-musk-in-the-oval-office-full-remarks/"
+      },
+      {
+        "title": "原始媒体：Bloomberg Podcasts",
+        "url": "https://www.youtube.com/watch?v=gAuTb-yMNk4"
+      }
+    ]
+  },
+  "elon-qm-live-elon-musk-speaks-about-doge-and-ai-at-world-governments-sum": {
+    "takeaway": "美国政府雇员想退休，流程是这样的：表格手工填，数字手工算，装进马尼拉纸信封，送进矿井竖井，存到地下的矿井里。能办多快，取决于宾夕法尼亚州那部矿井电梯跑多快。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "美国政府雇员想退休，流程是这样的：表格手工填，数字手工算，装进马尼拉纸信封，送进矿井竖井，存到地下的矿井里。能办多快，取决于宾夕法尼亚州那部矿井电梯跑多快。",
+          "原站将本条归为政府活动，时长约 46 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：直播：马斯克在迪拜世界政府峰会谈 DOGE 与 AI",
+        "url": "https://elon.qiaomu.ai/ep/live-elon-musk-speaks-about-doge-and-ai-at-world-governments-sum/"
+      },
+      {
+        "title": "原始媒体：Associated Press",
+        "url": "https://www.youtube.com/watch?v=gGJE6ahMyKk"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-talks-tesla-politics-and-putin-relationship-full-inter": {
+    "takeaway": "2025年5月，多哈经济论坛。彭博社的米歇尔·侯赛因坐在马斯克对面，手里攥着一组欧洲汽车销量数据。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2025年5月，多哈经济论坛。彭博社的米歇尔·侯赛因坐在马斯克对面，手里攥着一组欧洲汽车销量数据。",
+          "原站将本条归为访谈，时长约 40 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克谈 Tesla、政治与普京关系（完整专访）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-talks-tesla-politics-and-putin-relationship-full-inter/"
+      },
+      {
+        "title": "原始媒体：Bloomberg Podcasts",
+        "url": "https://www.youtube.com/watch?v=gPGZRJDVXcU"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-rare-interviews-from-the-early-days-3": {
+    "takeaway": "2002 年之后，马斯克就不再参与 PayPal 的任何事务。可这场采访的第一个问题，还是关于 PayPal：偷账号、隐藏收费、转账不可靠，这些指责你怎么回应？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2002 年之后，马斯克就不再参与 PayPal 的任何事务。可这场采访的第一个问题，还是关于 PayPal：偷账号、隐藏收费、转账不可靠，这些指责你怎么回应？",
+          "原站将本条归为播客，时长约 22 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克早期罕见采访 #3",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-rare-interviews-from-the-early-days-3/"
+      },
+      {
+        "title": "原始媒体：Elon Musk Editor",
+        "url": "https://www.youtube.com/watch?v=geM1XsOQah8"
+      }
+    ]
+  },
+  "elon-qm-podcast-special-2-elon-musk-interview-at-saudi-economic-forum": {
+    "takeaway": "80 亿人对数百亿台机器人。这个比例出现在沙特阿拉伯的一场经济论坛上。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "80 亿人对数百亿台机器人。这个比例出现在沙特阿拉伯的一场经济论坛上。",
+          "原站将本条归为播客，时长约 10 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：播客特辑 2：马斯克在沙特经济论坛受访",
+        "url": "https://elon.qiaomu.ai/ep/podcast-special-2-elon-musk-interview-at-saudi-economic-forum/"
+      },
+      {
+        "title": "原始媒体：Kevin Brake",
+        "url": "https://www.youtube.com/watch?v=hTTwiE7J_M8"
+      }
+    ]
+  },
+  "elon-qm-full-town-hall-with-elon-musk-in-lancaster-pennsylvania": {
+    "takeaway": "宾夕法尼亚州兰开斯特县周边，有40,000张缺席选票已经寄出，还没有交回。这是马斯克走上台后说的第一件事，比自我介绍还早。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "宾夕法尼亚州兰开斯特县周边，有40,000张缺席选票已经寄出，还没有交回。这是马斯克走上台后说的第一件事，比自我介绍还早。",
+          "原站将本条归为大会演讲，时长约 155 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克宾州兰开斯特市政厅活动（完整版）",
+        "url": "https://elon.qiaomu.ai/ep/full-town-hall-with-elon-musk-in-lancaster-pennsylvania/"
+      },
+      {
+        "title": "原始媒体：#MrInfluencerUgReports",
+        "url": "https://www.youtube.com/watch?v=hrRqtb4a-4g"
+      }
+    ]
+  },
+  "elon-qm-live-elon-musk-speaks-remotely-at-the-qatar-economic-forum": {
+    "takeaway": "卡塔尔经济论坛的远程连线里，主持人抛出的第一个问题是欧洲销量。马斯克的回答很干脆：欧洲是特斯拉最弱的市场，其他地区都很强，眼下看不到任何有意义的销量缺口。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "卡塔尔经济论坛的远程连线里，主持人抛出的第一个问题是欧洲销量。马斯克的回答很干脆：欧洲是特斯拉最弱的市场，其他地区都很强，眼下看不到任何有意义的销量缺口。",
+          "原站将本条归为大会演讲，时长约 40 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：直播：马斯克远程亮相卡塔尔经济论坛",
+        "url": "https://elon.qiaomu.ai/ep/live-elon-musk-speaks-remotely-at-the-qatar-economic-forum/"
+      },
+      {
+        "title": "原始媒体：Reuters",
+        "url": "https://www.youtube.com/watch?v=iTRY86NEIbg"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-wisconsin-town-hall-full-fox-5-news": {
+    "takeaway": "威斯康星州 Green Bay 的一场市政厅活动，马斯克开场先举起帽子问台下觉得怎么样。台下有人喊 USA，也有人被他当场认出是索罗斯那边来的。一场地方选举的活动，气氛办得像全国竞选集会。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "威斯康星州 Green Bay 的一场市政厅活动，马斯克开场先举起帽子问台下觉得怎么样。台下有人喊 USA，也有人被他当场认出是索罗斯那边来的。一场地方选举的活动，气氛办得像全国竞选集会。",
+          "原站将本条归为大会演讲，时长约 114 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克威斯康星州市政厅活动（完整版）| FOX 5 News",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-wisconsin-town-hall-full-fox-5-news/"
+      },
+      {
+        "title": "原始媒体：FOX 5 Atlanta",
+        "url": "https://www.youtube.com/watch?v=keVBP1YwyUo"
+      }
+    ]
+  },
+  "elon-qm-full-elon-musk-interview-at-cpac-2025-amid-trump-doge-impacting": {
+    "takeaway": "如果有人一年前告诉马斯克，他会站在 CPAC 的舞台上，跟总统一起把政府拆掉，他会信吗？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "如果有人一年前告诉马斯克，他会站在 CPAC 的舞台上，跟总统一起把政府拆掉，他会信吗？",
+          "原站将本条归为政府活动，时长约 32 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 CPAC 2025 完整专访：特朗普、DOGE 与联邦雇员风波",
+        "url": "https://elon.qiaomu.ai/ep/full-elon-musk-interview-at-cpac-2025-amid-trump-doge-impacting/"
+      },
+      {
+        "title": "原始媒体：Austin American-Statesman",
+        "url": "https://www.youtube.com/watch?v=oBEoqiZRIvg"
+      }
+    ]
+  },
+  "elon-qm-tesla-q4-and-full-year-2025-financial-results-and-q-a-webcast": {
+    "takeaway": "财报电话会开到一半，马斯克宣布了一件事：Model S 和 Model X 要停产了。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "财报电话会开到一半，马斯克宣布了一件事：Model S 和 Model X 要停产了。",
+          "原站将本条归为发布会，时长约 68 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla Q4 与 2025 全年财务业绩及 Q&A 直播",
+        "url": "https://elon.qiaomu.ai/ep/tesla-q4-and-full-year-2025-financial-results-and-q-a-webcast/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=oK0UZEE9GPo"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-with-ben-shapiro-part-1": {
+    "takeaway": "马斯克第一次到加拿大的时候，全部家当是两千多加元的旅行支票、一个装衣服的包、一背包书。他在采访里把这件事说得很具体，连\"加拿大旅行支票\"这种早就消失的东西都点了名。可互联网上流传的版本不是这样。流传的版本说，他来自一个赞比亚翡翠矿的家庭，是个靠家产起跑的公子哥。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克第一次到加拿大的时候，全部家当是两千多加元的旅行支票、一个装衣服的包、一背包书。他在采访里把这件事说得很具体，连\"加拿大旅行支票\"这种早就消失的东西都点了名。可互联网上流传的版本不是这样。流传的版本说，他来自一个赞比亚翡翠矿的家庭，是个靠家产起跑的公子哥。",
+          "原站将本条归为访谈，时长约 20 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克接受本·夏皮罗专访（上）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-with-ben-shapiro-part-1/"
+      },
+      {
+        "title": "原始媒体：Elon Musk Editor",
+        "url": "https://www.youtube.com/watch?v=pVElvvXWh0c"
+      }
+    ]
+  },
+  "elon-qm-pres-trump-holds-full-cabinet-meeting-with-musk-rfk-jr-gabbard-r": {
+    "takeaway": "两个半小时，特朗普坐在内阁会议长桌的主位，对着一圈摄像机说了一句话，在场的记者大概都低头确认了一遍自己有没有听错。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "两个半小时，特朗普坐在内阁会议长桌的主位，对着一圈摄像机说了一句话，在场的记者大概都低头确认了一遍自己有没有听错。",
+          "原站将本条归为政府活动，时长约 73 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：特朗普内阁会议：马斯克、小罗伯特·肯尼迪、加巴德、鲁比奥、赫格塞思出席",
+        "url": "https://elon.qiaomu.ai/ep/pres-trump-holds-full-cabinet-meeting-with-musk-rfk-jr-gabbard-r/"
+      },
+      {
+        "title": "原始媒体：LiveNOW from FOX",
+        "url": "https://www.youtube.com/watch?v=pVYScw3lxlM"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-full-interview-with-michael-milken-2025": {
+    "takeaway": "台上摆着两杯水。马斯克指了指：这杯是热水，这杯是常温水，你随便挑。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "台上摆着两杯水。马斯克指了指：这杯是热水，这杯是常温水，你随便挑。",
+          "原站将本条归为大会演讲，时长约 40 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克对话迈克尔·米尔肯（2025 完整专访）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-full-interview-with-michael-milken-2025/"
+      },
+      {
+        "title": "原始媒体：IShowJetLive",
+        "url": "https://www.youtube.com/watch?v=q-MFKzvqFOk"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-sues-chatgpt-creator-sam-altman-tells-his-side-of-the": {
+    "takeaway": "马斯克给 OpenAI 算过一次命：成功率 0%。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克给 OpenAI 算过一次命：成功率 0%。",
+          "原站将本条归为访谈，时长约 9 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克起诉 ChatGPT 开发商，萨姆·奥特曼讲述他的版本",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-sues-chatgpt-creator-sam-altman-tells-his-side-of-the/"
+      },
+      {
+        "title": "原始媒体：Tucker Carlson Network",
+        "url": "https://www.youtube.com/watch?v=tWtV03WDD7M"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-is-targeting-the-democrats-dirty-money-columnist-says": {
+    "takeaway": "2025 年，特斯拉的充电站被人用燃烧弹炸了，俄勒冈州一家门店的玻璃上被打出了弹孔。砸这些东西的人，愤怒的来源跟车本身没关系，跟这家公司 CEO 的另一份工作有关。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2025 年，特斯拉的充电站被人用燃烧弹炸了，俄勒冈州一家门店的玻璃上被打出了弹孔。砸这些东西的人，愤怒的来源跟车本身没关系，跟这家公司 CEO 的另一份工作有关。",
+          "原站将本条归为发布会，时长约 8 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：专栏作家：马斯克正瞄准民主党的“黑金”",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-is-targeting-the-democrats-dirty-money-columnist-says/"
+      },
+      {
+        "title": "原始媒体：Fox Business",
+        "url": "https://www.youtube.com/watch?v=u2S-vCqizlE"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-with-lara-trump-full-interview": {
+    "takeaway": "一年前，媒体把他捧成救世主。左派为他鼓掌，民调里大多数人对他的印象是正面的。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一年前，媒体把他捧成救世主。左派为他鼓掌，民调里大多数人对他的印象是正面的。",
+          "原站将本条归为访谈，时长约 18 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克对话拉拉·特朗普（完整访谈）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-with-lara-trump-full-interview/"
+      },
+      {
+        "title": "原始媒体：Elon Musk Editor",
+        "url": "https://www.youtube.com/watch?v=u6Txnhfy57k"
+      }
+    ]
+  },
+  "elon-qm-x-takeover-2025-elon-musk-interview": {
+    "takeaway": "现场摆着一个毅力号（Perseverance）火星车的模型。访谈刚开始，主持人指着它，马斯克顺着看了一眼。2025年的X Takeover，前身是Tesla Takeover，这是第二年办。台上聊的第一个话题是星舰（Starship），一辆还没学会完整回家的火箭。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "现场摆着一个毅力号（Perseverance）火星车的模型。访谈刚开始，主持人指着它，马斯克顺着看了一眼。2025年的X Takeover，前身是Tesla Takeover，这是第二年办。台上聊的第一个话题是星舰（Starship），一辆还没学会完整回家的火箭。",
+          "原站将本条归为访谈，时长约 8 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：X Takeover 2025：马斯克访谈",
+        "url": "https://elon.qiaomu.ai/ep/x-takeover-2025-elon-musk-interview/"
+      },
+      {
+        "title": "原始媒体：Driving Tesla",
+        "url": "https://www.youtube.com/watch?v=v5pmIZ7Q_wQ"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-unite-the-kingdom-full-speech-from-london": {
+    "takeaway": "2025 年 9 月 13 日，伦敦市中心。大屏幕上出现一个人，对台下黑压压的人群说了一句话：",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2025 年 9 月 13 日，伦敦市中心。大屏幕上出现一个人，对台下黑压压的人群说了一句话：",
+          "原站将本条归为访谈，时长约 16 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克“Unite The Kingdom”伦敦完整演讲",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-unite-the-kingdom-full-speech-from-london/"
+      },
+      {
+        "title": "原始媒体：British Stand",
+        "url": "https://www.youtube.com/watch?v=vc7T2m39KYU"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-cnbc-interview-with-david-faber": {
+    "takeaway": "6 月底，得克萨斯州奥斯汀的街头会出现大约 10 辆没有司机、也没有安全员的特斯拉。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "6 月底，得克萨斯州奥斯汀的街头会出现大约 10 辆没有司机、也没有安全员的特斯拉。",
+          "原站将本条归为访谈，时长约 28 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克接受 CNBC 大卫·法伯专访",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-cnbc-interview-with-david-faber/"
+      },
+      {
+        "title": "原始媒体：Elon Musk Editor",
+        "url": "https://www.youtube.com/watch?v=vizKY0kj01U"
+      }
+    ]
+  },
+  "elon-qm-tesla-q1-2025-financial-results-and-q-a-webcast": {
+    "takeaway": "一家季度交付下滑、股价承压的汽车公司，CEO 在财报电话会上说，这家公司未来的市值可能等于排在它后面五家公司的总和。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一家季度交付下滑、股价承压的汽车公司，CEO 在财报电话会上说，这家公司未来的市值可能等于排在它后面五家公司的总和。",
+          "原站将本条归为发布会，时长约 94 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla Q1 2025 财报及问答网络直播",
+        "url": "https://elon.qiaomu.ai/ep/tesla-q1-2025-financial-results-and-q-a-webcast/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=vs4cfyyMWhQ"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-the-road-to-making-life-multiplanetary-full-video": {
+    "takeaway": "美国几十年来第一座新注册的城市，地基是一片沙洲。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "美国几十年来第一座新注册的城市，地基是一片沙洲。",
+          "原站将本条归为访谈，时长约 41 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克：让生命多行星化之路（完整视频）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-the-road-to-making-life-multiplanetary-full-video/"
+      },
+      {
+        "title": "原始媒体：Elon Musk Editor",
+        "url": "https://www.youtube.com/watch?v=vse4nvYdtQE"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-speaks-at-dubai-s-world-government-summit": {
+    "takeaway": "宾夕法尼亚州有一座矿井，里面存着美国联邦雇员的纸质退休档案。全美联邦雇员每个月最多能退休一万人，卡点不在预算，不在编制，而在那部矿井电梯的速度。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "宾夕法尼亚州有一座矿井，里面存着美国联邦雇员的纸质退休档案。全美联邦雇员每个月最多能退休一万人，卡点不在预算，不在编制，而在那部矿井电梯的速度。",
+          "原站将本条归为大会演讲，时长约 37 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在迪拜世界政府峰会发表演讲",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-speaks-at-dubai-s-world-government-summit/"
+      },
+      {
+        "title": "原始媒体：Yahoo Finance",
+        "url": "https://www.youtube.com/watch?v=w8-aVtuOQCw"
+      }
+    ]
+  },
+  "elon-qm-dems-demand-elon-musk-testify-at-fiery-hearing-on-doge": {
+    "takeaway": "两个小时的国会听证会，民主党议员提到埃隆·马斯克（Elon Musk）27 次，提到\"浪费\"3 次。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "两个小时的国会听证会，民主党议员提到埃隆·马斯克（Elon Musk）27 次，提到\"浪费\"3 次。",
+          "原站将本条归为政府活动，时长约 120 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：民主党人要求马斯克就 DOGE 出席激烈听证会作证",
+        "url": "https://elon.qiaomu.ai/ep/dems-demand-elon-musk-testify-at-fiery-hearing-on-doge/"
+      },
+      {
+        "title": "原始媒体：Fox News",
+        "url": "https://www.youtube.com/watch?v=xwoKq4AU5QM"
+      }
+    ]
+  },
+  "elon-qm-bret-baier-s-full-interview-with-elon-musk-and-doge": {
+    "takeaway": "一个十道题的在线调查问卷，用市面上的现成工具做出来，成本大概一万美元。美国联邦政府为它付了将近十亿美元。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一个十道题的在线调查问卷，用市面上的现成工具做出来，成本大概一万美元。美国联邦政府为它付了将近十亿美元。",
+          "原站将本条归为政府活动，时长约 31 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：布雷特·拜尔专访马斯克与 DOGE（完整版）",
+        "url": "https://elon.qiaomu.ai/ep/bret-baier-s-full-interview-with-elon-musk-and-doge/"
+      },
+      {
+        "title": "原始媒体：IShowJet ",
+        "url": "https://www.youtube.com/watch?v=y6lCyFPmSlI"
+      }
+    ]
+  },
+  "elon-qm-my-talk-today-at-the-presidential-parade": {
+    "takeaway": "2025 年 1 月，华盛顿，一场与总统就职庆典相关的活动。马斯克上台，讲了不到三分钟。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2025 年 1 月，华盛顿，一场与总统就职庆典相关的活动。马斯克上台，讲了不到三分钟。",
+          "原站将本条归为大会演讲，时长约 4 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在总统阅兵式上的演讲",
+        "url": "https://elon.qiaomu.ai/ep/my-talk-today-at-the-presidential-parade/"
+      },
+      {
+        "title": "原始媒体：@elonmusk",
+        "url": "https://video.twimg.com/ext_tw_video/1881434187091374080/pu/vid/avc1/944x516/t0hcM4srFxLmLmyj.mp4?tag=12"
+      }
+    ]
+  },
+  "elon-qm-trump-elon-musk-interview-with-hannity-full-video-february-18-20": {
+    "takeaway": "2022 年，马斯克花 440 亿美元买下推特。那时候他在左派圈子里的待遇还算过得去。两年半之后，他走进一场民主党的大型活动，收获的是一屋子能杀人的眼神。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2022 年，马斯克花 440 亿美元买下推特。那时候他在左派圈子里的待遇还算过得去。两年半之后，他走进一场民主党的大型活动，收获的是一屋子能杀人的眼神。",
+          "原站将本条归为访谈，时长约 41 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：特朗普与马斯克接受汉尼提访谈（完整视频）｜2025年2月18日",
+        "url": "https://elon.qiaomu.ai/ep/trump-elon-musk-interview-with-hannity-full-video-february-18-20/"
+      },
+      {
+        "title": "原始媒体：America Unfiltered with James P",
+        "url": "https://www.youtube.com/watch?v=FCXN2CFX1uc"
+      }
+    ]
+  },
+  "elon-qm-full-interview-elon-musk-cpac-2025-day-one-2-20-25": {
+    "takeaway": "电锯。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "电锯。",
+          "原站将本条归为大会演讲，时长约 36 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 CPAC 2025 首日完整访谈",
+        "url": "https://elon.qiaomu.ai/ep/full-interview-elon-musk-cpac-2025-day-one-2-20-25/"
+      },
+      {
+        "title": "原始媒体：Right Side Broadcasting Network",
+        "url": "https://www.youtube.com/watch?v=fCB9aLZGJSQ"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-live-stream-path-of-exile-2-from-airplane-5-april-2025": {
+    "takeaway": "参考档案收录的访谈资料，发布渠道为 archive.org，视频时长约 104 分钟。原始标题为《Elon Musk Live Stream Path of Exile 2 From Airplane - 5 April 2025》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的访谈资料，发布渠道为 archive.org，视频时长约 104 分钟。原始标题为《Elon Musk Live Stream Path of Exile 2 From Airplane - 5 April 2025》。本条保留原始媒体与档案来源。",
+          "原站将本条归为访谈，时长约 104 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在飞机上直播《流放之路 2》",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-live-stream-path-of-exile-2-from-airplane-5-april-2025/"
+      },
+      {
+        "title": "原始媒体：archive.org",
+        "url": "https://archive.org/download/elon-musk-live-stream-poe-2-from-airplane-5-april-2025/Elon%20Musk%20live%20stream%20POE2%20from%20Airplane%20-%205%20April%202025.mp4"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-full-speech-at-the-2025-annual-tesla-shareholder-meeti": {
+    "takeaway": "超过 75% 的股东投票通过了那份闹了两年的薪酬方案。几分钟后，马斯克站上台，开口讲的第一件事跟钱没关系。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "超过 75% 的股东投票通过了那份闹了两年的薪酬方案。几分钟后，马斯克站上台，开口讲的第一件事跟钱没关系。",
+          "原站将本条归为股东会，时长约 89 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在 2025 年 Tesla 年度股东大会完整演讲",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-full-speech-at-the-2025-annual-tesla-shareholder-meeti/"
+      },
+      {
+        "title": "原始媒体：Bučko Buček",
+        "url": "https://www.youtube.com/watch?v=hUbolEvnsaw"
+      }
+    ]
+  },
+  "elon-qm-ron-baron-interviews-elon-musk-at-the-29th-annual-baron-investme": {
+    "takeaway": "马斯克是从红眼航班直接赶到会场的。开场他自己先交代了一句，脑子比平时转得慢，没怎么睡。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克是从红眼航班直接赶到会场的。开场他自己先交代了一句，脑子比平时转得慢，没怎么睡。",
+          "原站将本条归为大会演讲，时长约 60 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：罗恩·巴伦在第29届巴伦投资大会对话马斯克",
+        "url": "https://elon.qiaomu.ai/ep/ron-baron-interviews-elon-musk-at-the-29th-annual-baron-investme/"
+      },
+      {
+        "title": "原始媒体：Baron Capital",
+        "url": "https://www.youtube.com/watch?v=E-squeb0YJA"
+      }
+    ]
+  },
+  "elon-qm-tesla-s-elon-musk-and-nvidia-s-jensen-huang-talk-ai-at-u-s-saudi": {
+    "takeaway": "11 月 19 日，利雅得，美沙投资论坛。台上坐着两个人，两个人背后的公司市值加起来七八万亿美元。主持人问的第一个正经问题是：几十万个工作岗位要被机器人顶掉，你们怎么看。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "11 月 19 日，利雅得，美沙投资论坛。台上坐着两个人，两个人背后的公司市值加起来七八万亿美元。主持人问的第一个正经问题是：几十万个工作岗位要被机器人顶掉，你们怎么看。",
+          "原站将本条归为大会演讲，时长约 30 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克与黄仁勋在美沙投资论坛谈 AI",
+        "url": "https://elon.qiaomu.ai/ep/tesla-s-elon-musk-and-nvidia-s-jensen-huang-talk-ai-at-u-s-saudi/"
+      },
+      {
+        "title": "原始媒体：CNBC Television",
+        "url": "https://www.youtube.com/watch?v=E2bU6n7F9hM"
+      }
+    ]
+  },
+  "elon-qm-watch-elon-musk-delivers-remarks-at-the-u-s-saudi-investment-for": {
+    "takeaway": "“长期看，工作会变成可选项。”",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "“长期看，工作会变成可选项。”",
+          "原站将本条归为大会演讲，时长约 28 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在美沙投资论坛发表讲话",
+        "url": "https://elon.qiaomu.ai/ep/watch-elon-musk-delivers-remarks-at-the-u-s-saudi-investment-for/"
+      },
+      {
+        "title": "原始媒体：Right Side Broadcasting Network",
+        "url": "https://www.youtube.com/watch?v=hwBzOceMz08"
+      }
+    ]
+  },
+  "elon-qm-president-trump-tesla-s-elon-musk-nvidia-s-jensen-huang-speak-at": {
+    "takeaway": "论坛进行到后半段，主持人把同一个问题抛给了马斯克和黄仁勋（Jensen Huang）：AI 会不会让人没工作？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "论坛进行到后半段，主持人把同一个问题抛给了马斯克和黄仁勋（Jensen Huang）：AI 会不会让人没工作？",
+          "原站将本条归为大会演讲，时长约 86 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：特朗普、马斯克与黄仁勋在美沙投资论坛演讲",
+        "url": "https://elon.qiaomu.ai/ep/president-trump-tesla-s-elon-musk-nvidia-s-jensen-huang-speak-at/"
+      },
+      {
+        "title": "原始媒体：Yahoo Finance",
+        "url": "https://www.youtube.com/watch?v=8KA2XUXNrac"
+      }
+    ]
+  },
+  "elon-qm-live-trump-elon-musk-and-jensen-huang-speak-at-us-saudi-business": {
+    "takeaway": "马斯克在台上说了一句话，把整场对话的基调定下来了。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克在台上说了一句话，把整场对话的基调定下来了。",
+          "原站将本条归为大会演讲，时长约 125 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：直播：特朗普、马斯克与黄仁勋在美沙商业论坛演讲",
+        "url": "https://elon.qiaomu.ai/ep/live-trump-elon-musk-and-jensen-huang-speak-at-us-saudi-business/"
+      },
+      {
+        "title": "原始媒体：DRM News",
+        "url": "https://www.youtube.com/watch?v=CXF97dfC7a0"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-reveals-his-obsession-with-x-on-nikhil-kamath-s-podcas": {
+    "takeaway": "参考档案收录的播客资料，发布渠道为 CNN-News18，视频时长约 115 分钟。原始标题为《Elon Musk Reveals His Obsession With 'X' On Nikhil Kamath's Podcast: 'Sometimes I Wonder...'  |N18S》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的播客资料，发布渠道为 CNN-News18，视频时长约 115 分钟。原始标题为《Elon Musk Reveals His Obsession With 'X' On Nikhil Kamath's Podcast: 'Sometimes I Wonder...'  |N18S》。本条保留原始媒体与档案来源。",
+          "原站将本条归为播客，时长约 115 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在尼基尔·卡马斯播客中谈对 X 的执念：“有时我会想……”",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-reveals-his-obsession-with-x-on-nikhil-kamath-s-podcas/"
+      },
+      {
+        "title": "原始媒体：CNN-News18",
+        "url": "https://www.youtube.com/watch?v=JP1VNBh83bk"
+      }
+    ]
+  },
+  "elon-qm-live-trump-speaks-at-investment-forum-after-saudi-s-massive-1tn": {
+    "takeaway": "美国全国的平均用电量，大约是 460 吉瓦。有人算过一笔账：如果人工智能每年要吃掉 300 吉瓦的算力，相当于全美发电量的三分之二。这个量级的电厂，地球上没有哪个国家建得出来。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "美国全国的平均用电量，大约是 460 吉瓦。有人算过一笔账：如果人工智能每年要吃掉 300 吉瓦的算力，相当于全美发电量的三分之二。这个量级的电厂，地球上没有哪个国家建得出来。",
+          "原站将本条归为大会演讲，时长约 133 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：直播：沙特万亿美元大单后 特朗普在投资论坛演讲",
+        "url": "https://elon.qiaomu.ai/ep/live-trump-speaks-at-investment-forum-after-saudi-s-massive-1tn/"
+      },
+      {
+        "title": "原始媒体：The Economic Times",
+        "url": "https://www.youtube.com/watch?v=NIJ9LumpyD4"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-joins-ron-baron-for-virtual-fireside-chat-at-baron-con": {
+    "takeaway": "80亿人，全部塞进纽约市的一层楼里。马斯克说这话时语气很平，像在讲一个常识。他顺带提了一句章鱼，说章鱼不介意被密密麻麻地挤在一起。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "80亿人，全部塞进纽约市的一层楼里。马斯克说这话时语气很平，像在讲一个常识。他顺带提了一句章鱼，说章鱼不介意被密密麻麻地挤在一起。",
+          "原站将本条归为大会演讲，时长约 58 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克与罗恩·巴伦在巴伦大会线上炉边对话",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-joins-ron-baron-for-virtual-fireside-chat-at-baron-con/"
+      },
+      {
+        "title": "原始媒体：When Geniuses Speak",
+        "url": "https://www.youtube.com/watch?v=XessI9rXJUc"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-ron-baron-optimus-robots-grok-5-agi-path-ai5-chip-fsd": {
+    "takeaway": "罗恩·巴伦（Ron Baron）抛出的问题很实在：如果特斯拉明年要产一百万台 Optimus，后年一千万台，再往后一亿台、十亿台，这些机器人走在人行道上，地方够吗？要不要专门修点什么？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "罗恩·巴伦（Ron Baron）抛出的问题很实在：如果特斯拉明年要产一百万台 Optimus，后年一千万台，再往后一亿台、十亿台，这些机器人走在人行道上，地方够吗？要不要专门修点什么？",
+          "原站将本条归为发布会，时长约 61 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克与罗恩·巴伦：Optimus 机器人、Grok 5 的 AGI 之路、AI5 芯片与 FSD 未来（完整访谈）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-ron-baron-optimus-robots-grok-5-agi-path-ai5-chip-fsd/"
+      },
+      {
+        "title": "原始媒体：Echoes of Insight",
+        "url": "https://www.youtube.com/watch?v=aViS26pYGf0"
+      }
+    ]
+  },
+  "elon-qm-jensen-huang-elon-musk-reveal-how-ai-will-transform-work-life-at": {
+    "takeaway": "马斯克被问到\"长期来看一切会走向哪里\"时，他没有谈模型参数，没有谈算力规模，给出的答案更像出自一个哲学家之手：工作会变成可选项。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克被问到\"长期来看一切会走向哪里\"时，他没有谈模型参数，没有谈算力规模，给出的答案更像出自一个哲学家之手：工作会变成可选项。",
+          "原站将本条归为发布会，时长约 20 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：黄仁勋与马斯克在美沙投资论坛谈 AI 如何重塑工作与生活",
+        "url": "https://elon.qiaomu.ai/ep/jensen-huang-elon-musk-reveal-how-ai-will-transform-work-life-at/"
+      },
+      {
+        "title": "原始媒体：DRM News",
+        "url": "https://www.youtube.com/watch?v=mssPDPWKDD0"
+      }
+    ]
+  },
+  "elon-qm-live-donald-trump-speaks-at-us-saudi-investment-forum-alongside": {
+    "takeaway": "马斯克说，长期来看，工作会变成可选的。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克说，长期来看，工作会变成可选的。",
+          "原站将本条归为大会演讲，时长约 116 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：直播：特朗普与马斯克、英伟达 CEO 同台美沙投资论坛",
+        "url": "https://elon.qiaomu.ai/ep/live-donald-trump-speaks-at-us-saudi-investment-forum-alongside/"
+      },
+      {
+        "title": "原始媒体：The Sun",
+        "url": "https://www.youtube.com/watch?v=tLPcEv8DAIU"
+      }
+    ]
+  },
+  "elon-qm-president-trump-joins-mbs-elon-musk-nvidia-ceo-at-us-saudi-econo": {
+    "takeaway": "特朗普当着沙特王储的面，把投资数字从 6000 亿喊到 1 万亿。合影的时候他又加了一句：能不能做到 1.5 万亿。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "特朗普当着沙特王储的面，把投资数字从 6000 亿喊到 1 万亿。合影的时候他又加了一句：能不能做到 1.5 万亿。",
+          "原站将本条归为访谈，时长约 39 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：特朗普与 MBS、马斯克及英伟达 CEO 出席美沙经济盛会",
+        "url": "https://elon.qiaomu.ai/ep/president-trump-joins-mbs-elon-musk-nvidia-ceo-at-us-saudi-econo/"
+      },
+      {
+        "title": "原始媒体：DRM News",
+        "url": "https://www.youtube.com/watch?v=uRFSoT-9OfY"
+      }
+    ]
+  },
+  "elon-qm-full-conversation-elon-musk-on-ai-india-google-4k-cnbc-tv18": {
+    "takeaway": "访谈一开始，主持人没有问 AI，没有问火星，而是盯着马斯克看了几秒，说了一句：你比我想象的要高大、壮实得多。马斯克笑了，回了一句：在网上，我看起来很小。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "访谈一开始，主持人没有问 AI，没有问火星，而是盯着马斯克看了几秒，说了一句：你比我想象的要高大、壮实得多。马斯克笑了，回了一句：在网上，我看起来很小。",
+          "原站将本条归为访谈，时长约 21 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克谈 AI、印度与 Google（完整对话）",
+        "url": "https://elon.qiaomu.ai/ep/full-conversation-elon-musk-on-ai-india-google-4k-cnbc-tv18/"
+      },
+      {
+        "title": "原始媒体：CNBC-TV18",
+        "url": "https://www.youtube.com/watch?v=vI6or7s0vvo"
+      }
+    ]
+  },
+  "elon-qm-live-president-trump-joins-elon-musk-nvidia-ceo-at-u-s-saudi-eco": {
+    "takeaway": "6000亿美元变成1万亿美元，只用了几个月。特朗普在台上讲这件事，讲完自己补了一句：刚才在后台合影，我又问了王储一句，能不能做到1.5万亿。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "6000亿美元变成1万亿美元，只用了几个月。特朗普在台上讲这件事，讲完自己补了一句：刚才在后台合影，我又问了王储一句，能不能做到1.5万亿。",
+          "原站将本条归为访谈，时长约 60 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：直播：特朗普与马斯克、英伟达 CEO 出席美沙经济盛会",
+        "url": "https://elon.qiaomu.ai/ep/live-president-trump-joins-elon-musk-nvidia-ceo-at-u-s-saudi-eco/"
+      },
+      {
+        "title": "原始媒体：DRM News",
+        "url": "https://www.youtube.com/watch?v=wssic1gP6KU"
+      }
+    ]
+  },
+  "elon-qm-davos-2026-elon-musk-addresses-the-world-economic-forum": {
+    "takeaway": "SpaceX 往轨道上送了九千颗卫星。九千颗，绕着地球飞。马斯克在达沃斯说，这些卫星从来没有一次为了避让外星飞船而调整过轨道。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "SpaceX 往轨道上送了九千颗卫星。九千颗，绕着地球飞。马斯克在达沃斯说，这些卫星从来没有一次为了避让外星飞船而调整过轨道。",
+          "原站将本条归为大会演讲，时长约 31 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：达沃斯 2026：马斯克在世界经济论坛演讲",
+        "url": "https://elon.qiaomu.ai/ep/davos-2026-elon-musk-addresses-the-world-economic-forum/"
+      },
+      {
+        "title": "原始媒体：Arise News",
+        "url": "https://www.youtube.com/watch?v=6MxDwGesvtI"
+      }
+    ]
+  },
+  "elon-qm-tesla-q2-2026-financial-results-and-q-a-webcast": {
+    "takeaway": "美国每年有3万到4万人死于交通事故。这个数字几乎不会出现在任何新闻标题里。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "美国每年有3万到4万人死于交通事故。这个数字几乎不会出现在任何新闻标题里。",
+          "原站将本条归为发布会，时长约 70 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla Q2 2026 财报及问答网络直播",
+        "url": "https://elon.qiaomu.ai/ep/tesla-q2-2026-financial-results-and-q-a-webcast/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=9H5y9Uag8AA"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-s-impressive-speech-at-the-2026-shareholders-meeting": {
+    "takeaway": "股东大会的舞台上，几个机器人正在跳舞，身上没有一根电线。台下的股东在鼓掌，有人笑出声。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "股东大会的舞台上，几个机器人正在跳舞，身上没有一根电线。台下的股东在鼓掌，有人笑出声。",
+          "原站将本条归为股东会，时长约 41 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在 2026 年股东大会的精彩演讲",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-s-impressive-speech-at-the-2026-shareholders-meeting/"
+      },
+      {
+        "title": "原始媒体：SILENT STRENGTH",
+        "url": "https://www.youtube.com/watch?v=DDSSao__H44"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-1971-2026-the-full-history-how-he-built-tesla-spacex-x": {
+    "takeaway": "2008年12月23日，美国宇航局（NASA）宣布给 SpaceX 一份16亿美元的合同，用飞船给国际空间站运货。第二天，12月24日，平安夜，特斯拉（Tesla）在现金见底前的最后几天关掉了一轮融资。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2008年12月23日，美国宇航局（NASA）宣布给 SpaceX 一份16亿美元的合同，用飞船给国际空间站运货。第二天，12月24日，平安夜，特斯拉（Tesla）在现金见底前的最后几天关掉了一轮融资。",
+          "原站将本条归为访谈，时长约 9 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 1971-2026：完整历史｜他如何打造 Tesla、SpaceX、X 并成为首富",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-1971-2026-the-full-history-how-he-built-tesla-spacex-x/"
+      },
+      {
+        "title": "原始媒体：History Vault 1.0",
+        "url": "https://www.youtube.com/watch?v=NJkTHh-otTQ"
+      }
+    ]
+  },
+  "elon-qm-new-interview-with-elon-musk-starship-ai-chips-optimus-cybercab": {
+    "takeaway": "参考档案收录的访谈资料，发布渠道为 BestInTESLA，视频时长约 41 分钟。原始标题为《NEW Interview with Elon Musk - Starship, AI, Chips, Optimus, Cybercab (X-Takeover)》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的访谈资料，发布渠道为 BestInTESLA，视频时长约 41 分钟。原始标题为《NEW Interview with Elon Musk - Starship, AI, Chips, Optimus, Cybercab (X-Takeover)》。本条保留原始媒体与档案来源。",
+          "原站将本条归为访谈，时长约 41 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克最新访谈：Starship、AI、芯片、Optimus 与 Cybercab",
+        "url": "https://elon.qiaomu.ai/ep/new-interview-with-elon-musk-starship-ai-chips-optimus-cybercab/"
+      },
+      {
+        "title": "原始媒体：BestInTESLA",
+        "url": "https://www.youtube.com/watch?v=Nd9RGul3GDY"
+      }
+    ]
+  },
+  "elon-qm-full-speech-elon-musk-talks-about-the-future-of-a-i-space-trump": {
+    "takeaway": "2026年达沃斯的那场对话快到尾声时，劳伦斯·芬克（Larry Fink）问马斯克，你会在有生之年去火星吗。马斯克说会。芬克又问，那你愿意死在火星上吗。马斯克说愿意，只要别是撞上去的那一刻。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2026年达沃斯的那场对话快到尾声时，劳伦斯·芬克（Larry Fink）问马斯克，你会在有生之年去火星吗。马斯克说会。芬克又问，那你愿意死在火星上吗。马斯克说愿意，只要别是撞上去的那一刻。",
+          "原站将本条归为大会演讲，时长约 32 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克达沃斯 2026 完整演讲：AI、太空与特朗普“和平委员会”",
+        "url": "https://elon.qiaomu.ai/ep/full-speech-elon-musk-talks-about-the-future-of-a-i-space-trump/"
+      },
+      {
+        "title": "原始媒体：NDTV Profit",
+        "url": "https://www.youtube.com/watch?v=X-mWTfNDFlE"
+      }
+    ]
+  },
+  "elon-qm-we-re-in-the-most-interesting-time-in-history-elon-musk-at-the-w": {
+    "takeaway": "达沃斯世界经济论坛 2026 年年会，马斯克跟黑岩集团（BlackRock）CEO 拉里·芬克（Larry Fink）对谈。开场芬克扔出一组数字。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "达沃斯世界经济论坛 2026 年年会，马斯克跟黑岩集团（BlackRock）CEO 拉里·芬克（Larry Fink）对谈。开场芬克扔出一组数字。",
+          "原站将本条归为大会演讲，时长约 32 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：“我们身处史上最有趣的时代”：马斯克在 WEF 2026",
+        "url": "https://elon.qiaomu.ai/ep/we-re-in-the-most-interesting-time-in-history-elon-musk-at-the-w/"
+      },
+      {
+        "title": "原始媒体：Rebel News",
+        "url": "https://www.youtube.com/watch?v=cQvR3-pwqcI"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-s-tesla-terafab-full-presentation-2026-3-21": {
+    "takeaway": "地球上的芯片产能，把三星、台积电、美光全算上，把所有已建和在建的晶圆厂全部加起来，只够马斯克新计划所需产能的 2%。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "地球上的芯片产能，把三星、台积电、美光全算上，把所有已建和在建的晶圆厂全部加起来，只够马斯克新计划所需产能的 2%。",
+          "原站将本条归为发布会，时长约 27 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 Tesla Terafab 完整演讲",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-s-tesla-terafab-full-presentation-2026-3-21/"
+      },
+      {
+        "title": "原始媒体：Chansoo Byeon",
+        "url": "https://www.youtube.com/watch?v=eL4O7hszjV4"
+      }
+    ]
+  },
+  "elon-qm-watch-live-elon-musk-s-speech-at-world-economic-forum-2026-in-da": {
+    "takeaway": "达沃斯 2026 年的一场对话，开场就有点尴尬。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "达沃斯 2026 年的一场对话，开场就有点尴尬。",
+          "原站将本条归为大会演讲，时长约 34 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：直播：马斯克在达沃斯世界经济论坛 2026 演讲",
+        "url": "https://elon.qiaomu.ai/ep/watch-live-elon-musk-s-speech-at-world-economic-forum-2026-in-da/"
+      },
+      {
+        "title": "原始媒体：NDTV Profit",
+        "url": "https://www.youtube.com/watch?v=l-vLycW50tQ"
+      }
+    ]
+  },
+  "elon-qm-watch-elon-musk-speaks-at-wef-2026-ai-space-global-tech-insights": {
+    "takeaway": "达沃斯世界经济论坛的对话开场，拉里·芬克（Larry Fink）先抛出了一组数字。贝莱德上市以来给股东的年化复合回报是21%。而特斯拉自从马斯克接手上市，这个数字是43%。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "达沃斯世界经济论坛的对话开场，拉里·芬克（Larry Fink）先抛出了一组数字。贝莱德上市以来给股东的年化复合回报是21%。而特斯拉自从马斯克接手上市，这个数字是43%。",
+          "原站将本条归为大会演讲，时长约 17 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 WEF 2026 演讲：AI、太空与全球科技洞察",
+        "url": "https://elon.qiaomu.ai/ep/watch-elon-musk-speaks-at-wef-2026-ai-space-global-tech-insights/"
+      },
+      {
+        "title": "原始媒体：DWS News",
+        "url": "https://www.youtube.com/watch?v=lwm3GRXKQyg"
+      }
+    ]
+  },
+  "elon-qm-tesla-q1-2026-financial-results-and-q-a-webcast": {
+    "takeaway": "特斯拉 2026 年第一季度，自由现金流 14 亿美元出头。同一场财报电话会上，首席财务官 Vaibhav Taneja 说，2026 年全年资本开支会超过 250 亿美元，而且今年剩下的时间里，自由现金流都会是负的。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "特斯拉 2026 年第一季度，自由现金流 14 亿美元出头。同一场财报电话会上，首席财务官 Vaibhav Taneja 说，2026 年全年资本开支会超过 250 亿美元，而且今年剩下的时间里，自由现金流都会是负的。",
+          "原站将本条归为发布会，时长约 65 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla Q1 2026 财报及问答网络直播",
+        "url": "https://elon.qiaomu.ai/ep/tesla-q1-2026-financial-results-and-q-a-webcast/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=qO7T5zgRvXM"
+      }
+    ]
+  },
+  "elon-qm-tesla-q3-2026-financial-results-and-q-a-webcast": {
+    "takeaway": "特斯拉 2026 年第三季度财报电话会上，马斯克给出的最有信息量的数字是 10 倍。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "特斯拉 2026 年第三季度财报电话会上，马斯克给出的最有信息量的数字是 10 倍。",
+          "原站将本条归为发布会，时长约 60 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla Q3 2026 财报及问答网络直播",
+        "url": "https://elon.qiaomu.ai/ep/tesla-q3-2026-financial-results-and-q-a-webcast/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=tFezqXBF-gw"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-x-takeover-2026-what-s-next-for-humanity": {
+    "takeaway": "参考档案收录的访谈资料，发布渠道为 Tesla Owners Silicon Valley，视频时长约 47 分钟。原始标题为《ELON MUSK INTERVIEW: X Takeover 2026, What's next for Humanity.》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的访谈资料，发布渠道为 Tesla Owners Silicon Valley，视频时长约 47 分钟。原始标题为《ELON MUSK INTERVIEW: X Takeover 2026, What's next for Humanity.》。本条保留原始媒体与档案来源。",
+          "原站将本条归为访谈，时长约 47 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克专访：X Takeover 2026，人类下一步走向何方",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-x-takeover-2026-what-s-next-for-humanity/"
+      },
+      {
+        "title": "原始媒体：Tesla Owners Silicon Valley",
+        "url": "https://www.youtube.com/watch?v=wJasRLuu_LA"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-with-katie-miller": {
+    "takeaway": "凯蒂·米勒问马斯克，如果重来一次，你还会去搞那个叫 DOGE 的部门吗。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "凯蒂·米勒问马斯克，如果重来一次，你还会去搞那个叫 DOGE 的部门吗。",
+          "原站将本条归为播客，时长约 66 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克接受凯蒂·米勒专访",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-with-katie-miller/"
+      },
+      {
+        "title": "原始媒体：Rotella Streams",
+        "url": "https://www.youtube.com/watch?v=DNSlg_cAsto"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-interview-at-wef-22-jan-2026-see-description": {
+    "takeaway": "参考档案收录的大会演讲资料，发布渠道为 MakeMoneyInYourSleep，视频时长约 36 分钟。原始标题为《Elon Musk Interview at WEF 22 Jan 2026 (see description)》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的大会演讲资料，发布渠道为 MakeMoneyInYourSleep，视频时长约 36 分钟。原始标题为《Elon Musk Interview at WEF 22 Jan 2026 (see description)》。本条保留原始媒体与档案来源。",
+          "原站将本条归为大会演讲，时长约 36 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在 WEF 2026年1月22日专访（详见简介）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-interview-at-wef-22-jan-2026-see-description/"
+      },
+      {
+        "title": "原始媒体：MakeMoneyInYourSleep",
+        "url": "https://www.youtube.com/watch?v=Bqrvu0IwG-Y"
+      }
+    ]
+  },
+  "elon-qm-tesla-ceo-elon-musk-speaks-at-the-world-economic-forum-in-davos": {
+    "takeaway": "马斯克在达沃斯上台，主持人请他谈谈旗下这些公司究竟在解决什么问题。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克在达沃斯上台，主持人请他谈谈旗下这些公司究竟在解决什么问题。",
+          "原站将本条归为大会演讲，时长约 33 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla CEO 马斯克在瑞士达沃斯世界经济论坛发言",
+        "url": "https://elon.qiaomu.ai/ep/tesla-ceo-elon-musk-speaks-at-the-world-economic-forum-in-davos/"
+      },
+      {
+        "title": "原始媒体：CNBC Television",
+        "url": "https://www.youtube.com/watch?v=UrB2tQDVLLo"
+      }
+    ]
+  },
+  "elon-qm-live-wef2026-conversation-with-elon-musk-22-jan-2026": {
+    "takeaway": "参考档案收录的大会演讲资料，发布渠道为 Astro AWANI，视频时长约 33 分钟。原始标题为《[LIVE] #WEF2026: Conversation with Elon Musk | 22 Jan 2026》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的大会演讲资料，发布渠道为 Astro AWANI，视频时长约 33 分钟。原始标题为《[LIVE] #WEF2026: Conversation with Elon Musk | 22 Jan 2026》。本条保留原始媒体与档案来源。",
+          "原站将本条归为大会演讲，时长约 33 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：[直播] #WEF2026：与马斯克对话 | 2026年1月22日",
+        "url": "https://elon.qiaomu.ai/ep/live-wef2026-conversation-with-elon-musk-22-jan-2026/"
+      },
+      {
+        "title": "原始媒体：Astro AWANI",
+        "url": "https://www.youtube.com/watch?v=cCFjkBZpTN4"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-speaks-on-ai-robotics-and-aliens-in-discussion-looking": {
+    "takeaway": "SpaceX 在轨道上大约有 9000 颗卫星。马斯克给出的说法是，这么多年下来，从来没有为了避让一艘外星飞船而动过一次轨道。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "SpaceX 在轨道上大约有 9000 颗卫星。马斯克给出的说法是，这么多年下来，从来没有为了避让一艘外星飞船而动过一次轨道。",
+          "原站将本条归为访谈，时长约 10 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克谈 AI、机器人与外星人：展望未来",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-speaks-on-ai-robotics-and-aliens-in-discussion-looking/"
+      },
+      {
+        "title": "原始媒体：Global News",
+        "url": "https://www.youtube.com/watch?v=DPCvFy5BKeM"
+      }
+    ]
+  },
+  "elon-qm-pete-hegseth-joins-elon-musk-for-remarks-at-spacex-facility-in-t": {
+    "takeaway": "一位负责打仗的部长，站在一家造火箭的公司里，宣布五角大楼要用马斯克的算法改造自己。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一位负责打仗的部长，站在一家造火箭的公司里，宣布五角大楼要用马斯克的算法改造自己。",
+          "原站将本条归为访谈，时长约 42 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：皮特·赫格塞斯与马斯克在得州 SpaceX 设施发表讲话",
+        "url": "https://elon.qiaomu.ai/ep/pete-hegseth-joins-elon-musk-for-remarks-at-spacex-facility-in-t/"
+      },
+      {
+        "title": "原始媒体：electron media group, inc.",
+        "url": "https://www.youtube.com/watch?v=L9OoP-oOnJ4"
+      }
+    ]
+  },
+  "elon-qm-full-live-event-from-starbase-pete-hegseth-elon-musk": {
+    "takeaway": "2026 年 2 月，德克萨斯州博卡奇卡。马斯克站在星舰硬件旁边讲了六分钟，主题是外星人和《星际迷航》。紧接着上台的战争部长讲了将近一小时，主题是数据目录、限期报告和一个叫 Emil 的人。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2026 年 2 月，德克萨斯州博卡奇卡。马斯克站在星舰硬件旁边讲了六分钟，主题是外星人和《星际迷航》。紧接着上台的战争部长讲了将近一小时，主题是数据目录、限期报告和一个叫 Emil 的人。",
+          "原站将本条归为访谈，时长约 46 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Starbase 全场直播：皮特·赫格塞斯与马斯克",
+        "url": "https://elon.qiaomu.ai/ep/full-live-event-from-starbase-pete-hegseth-elon-musk/"
+      },
+      {
+        "title": "原始媒体：LiveNOW from FOX",
+        "url": "https://www.youtube.com/watch?v=MlRm9tCT0Ug"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-ai-and-robots-the-only-way-to-meaningfully-boost-stand": {
+    "takeaway": "马斯克用一个词定了调：唯一。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克用一个词定了调：唯一。",
+          "原站将本条归为访谈，时长约 8 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克：AI 与机器人是显著提升生活水平的“唯一途径”",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-ai-and-robots-the-only-way-to-meaningfully-boost-stand/"
+      },
+      {
+        "title": "原始媒体：Yahoo Finance",
+        "url": "https://www.youtube.com/watch?v=Oa4G0ua1ScI"
+      }
+    ]
+  },
+  "elon-qm-full-conversation-elon-musk-reveals-ai-space-robotics-plans-to-s": {
+    "takeaway": "美国全年的用电量，一块 100 英里见方（约 160 公里见方）的太阳能板就能覆盖。选址不用愁，犹他、内华达、新墨西哥州随便挑个没人的角落。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "美国全年的用电量，一块 100 英里见方（约 160 公里见方）的太阳能板就能覆盖。选址不用愁，犹他、内华达、新墨西哥州随便挑个没人的角落。",
+          "原站将本条归为发布会，时长约 32 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：完整对话：马斯克揭秘 AI、太空与机器人计划，保障人类未来 | AQ1B",
+        "url": "https://elon.qiaomu.ai/ep/full-conversation-elon-musk-reveals-ai-space-robotics-plans-to-s/"
+      },
+      {
+        "title": "原始媒体：DRM News",
+        "url": "https://www.youtube.com/watch?v=QBQBPn0U4z0"
+      }
+    ]
+  },
+  "elon-qm-china-is-leading-in-solar-energy-elon-musk-reveals-china-s-1-000": {
+    "takeaway": "近地轨道上有九千颗星链（Starlink）卫星。这几年它们做过无数次轨道调整，避让太空垃圾、避让交叉的轨道、避让别国的航天器。但没有一次，是为了躲开一艘外星飞船。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "近地轨道上有九千颗星链（Starlink）卫星。这几年它们做过无数次轨道调整，避让太空垃圾、避让交叉的轨道、避让别国的航天器。但没有一次，是为了躲开一艘外星飞船。",
+          "原站将本条归为发布会，时长约 14 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：“中国领跑太阳能”：马斯克揭示中国 1000GW 光伏推进计划 | AQ1B",
+        "url": "https://elon.qiaomu.ai/ep/china-is-leading-in-solar-energy-elon-musk-reveals-china-s-1-000/"
+      },
+      {
+        "title": "原始媒体：DRM News",
+        "url": "https://www.youtube.com/watch?v=TYVv6yDjKwM"
+      }
+    ]
+  },
+  "elon-qm-live-ryanair-ceo-michael-o-leary-gives-press-conference-amid-elo": {
+    "takeaway": "马斯克在 X 上骂他是白痴，还追了一句“不可忍受的黑猩猩”（insufferable chimp）。两天后，这位被骂的人站在都柏林一间会议室里，宣布推出“大白痴机票促销”（big idiot seat sale）：10 万张票，16.99 欧元一张。促销上线一天，三四百万次点击，瑞安航空预",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克在 X 上骂他是白痴，还追了一句“不可忍受的黑猩猩”（insufferable chimp）。两天后，这位被骂的人站在都柏林一间会议室里，宣布推出“大白痴机票促销”（big idiot seat sale）：10 万张票，16.99 欧元一张。促销上线一天，三四百万次点击，瑞安航空预",
+          "原站将本条归为媒体，时长约 62 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：直播：瑞安航空 CEO 迈克尔·奥利里在马斯克争议中召开记者会",
+        "url": "https://elon.qiaomu.ai/ep/live-ryanair-ceo-michael-o-leary-gives-press-conference-amid-elo/"
+      },
+      {
+        "title": "原始媒体：The Telegraph",
+        "url": "https://www.youtube.com/watch?v=exNPPlA26GU"
+      }
+    ]
+  },
+  "elon-qm-tesla-ceo-elon-musk-speaks-at-the-world-economic-forum": {
+    "takeaway": "AI 芯片的产能正在指数级上涨，电网的扩容速度是每年3%到4%。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "AI 芯片的产能正在指数级上涨，电网的扩容速度是每年3%到4%。",
+          "原站将本条归为大会演讲，时长约 29 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Tesla CEO 马斯克在世界经济论坛发言",
+        "url": "https://elon.qiaomu.ai/ep/tesla-ceo-elon-musk-speaks-at-the-world-economic-forum/"
+      },
+      {
+        "title": "原始媒体：Yahoo Finance",
+        "url": "https://www.youtube.com/watch?v=gvEbuHqK9Ns"
+      }
+    ]
+  },
+  "elon-qm-full-interview-elon-musk-on-ai-robots-tesla-china-trump-and-mars": {
+    "takeaway": "拉里·芬克（Larry Fink）上台先扔了一组数字。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "拉里·芬克（Larry Fink）上台先扔了一组数字。",
+          "原站将本条归为大会演讲，时长约 32 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：完整专访：马斯克在 WEF 与拉里·芬克谈 AI、机器人、Tesla、中国、特朗普与火星 | AI1G",
+        "url": "https://elon.qiaomu.ai/ep/full-interview-elon-musk-on-ai-robots-tesla-china-trump-and-mars/"
+      },
+      {
+        "title": "原始媒体：DRM News and DWS News",
+        "url": "https://www.youtube.com/watch?v=hXb1k59w3M8"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-joins-panel-discussion-at-wef-ac1p": {
+    "takeaway": "9000 颗卫星在天上飞，从来没有一次需要为了避让外星飞船而变轨。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "9000 颗卫星在天上飞，从来没有一次需要为了避让外星飞船而变轨。",
+          "原站将本条归为大会演讲，时长约 49 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克出席 WEF 小组讨论 | AC1P",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-joins-panel-discussion-at-wef-ac1p/"
+      },
+      {
+        "title": "原始媒体：News Central",
+        "url": "https://www.youtube.com/watch?v=tNCC38bGyEA"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-xai-all-hands-meeting-february-10-2026": {
+    "takeaway": "一家成立两年半的公司，图像和视频的日产量超过了所有竞争对手加起来。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一家成立两年半的公司，图像和视频的日产量超过了所有竞争对手加起来。",
+          "原站将本条归为访谈，时长约 46 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 xAI 全员大会，2026年2月10日",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-xai-all-hands-meeting-february-10-2026/"
+      },
+      {
+        "title": "原始媒体：Space SPAN (Science Policy and News)",
+        "url": "https://www.youtube.com/watch?v=HD_SiJDWPcQ"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-huge-respect-for-builders-interview-with-andr-thierig": {
+    "takeaway": "“从技术角度讲，今年你可以在特斯拉里睡着，醒来就到目的地。”（马斯克）",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "“从技术角度讲，今年你可以在特斯拉里睡着，醒来就到目的地。”（马斯克）",
+          "原站将本条归为访谈，时长约 23 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克：“非常尊重建设者” | 对话 Giga Berlin 经理安德烈·蒂里希",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-huge-respect-for-builders-interview-with-andr-thierig/"
+      },
+      {
+        "title": "原始媒体：Emanuel Rau",
+        "url": "https://www.youtube.com/watch?v=mR0Y--c8tVc"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-the-economy-will-be-10x-the-size-in-10-years-239": {
+    "takeaway": "十年后，全球经济规模会是现在的 10 倍。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "十年后，全球经济规模会是现在的 10 倍。",
+          "原站将本条归为播客，时长约 24 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克：十年后经济规模将达 10 倍 | #239",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-the-economy-will-be-10x-the-size-in-10-years-239/"
+      },
+      {
+        "title": "原始媒体：Peter H. Diamandis",
+        "url": "https://www.youtube.com/watch?v=N5KCm_55xeQ"
+      }
+    ]
+  },
+  "elon-qm-translating-thought-to-speech-neuralink": {
+    "takeaway": "2026 年 1 月，一个叫 Ken 的男人做了一场开颅手术。医生在他头骨上开了个小孔，把一根比头发丝还细的电极线送进大脑。第二天，他出院回家了。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2026 年 1 月，一个叫 Ken 的男人做了一场开颅手术。医生在他头骨上开了个小孔，把一根比头发丝还细的电极线送进大脑。第二天，他出院回家了。",
+          "原站将本条归为发布会，时长约 11 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：将思想转化为语音 | Neuralink",
+        "url": "https://elon.qiaomu.ai/ep/translating-thought-to-speech-neuralink/"
+      },
+      {
+        "title": "原始媒体：Neuralink",
+        "url": "https://www.youtube.com/watch?v=u8mmn9lOIyw"
+      }
+    ]
+  },
+  "elon-qm-elon-enters-the-chip-race-the-s-p-500-repricing-and-human-driver": {
+    "takeaway": "全球 AI 算力的年产出，今天大约是 20 吉瓦。马斯克在奥斯汀说，他要做到 1 太瓦。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "全球 AI 算力的年产出，今天大约是 20 吉瓦。马斯克在奥斯汀说，他要做到 1 太瓦。",
+          "原站将本条归为播客，时长约 130 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克入局芯片竞赛、标普500重定价，人类驾驶将违法 | EP #242",
+        "url": "https://elon.qiaomu.ai/ep/elon-enters-the-chip-race-the-s-p-500-repricing-and-human-driver/"
+      },
+      {
+        "title": "原始媒体：Peter H. Diamandis",
+        "url": "https://www.youtube.com/watch?v=wMLcIWLlcWg"
+      }
+    ]
+  },
+  "elon-qm-pampena-v-musk-full-deposition": {
+    "takeaway": "2022 年 4 月 25 日，马斯克和 Twitter 签下 440 亿美元的收购协议。签字之前，他没有向 Twitter 问过一个关于虚假账号的问题。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2022 年 4 月 25 日，马斯克和 Twitter 签下 440 亿美元的收购协议。签字之前，他没有向 Twitter 问过一个关于虚假账号的问题。",
+          "原站将本条归为访谈，时长约 36 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Pampena 诉马斯克案 | 完整证词",
+        "url": "https://elon.qiaomu.ai/ep/pampena-v-musk-full-deposition/"
+      },
+      {
+        "title": "原始媒体：Founders HQ",
+        "url": "https://www.youtube.com/watch?v=XPn-UPRqPTk"
+      }
+    ]
+  },
+  "elon-qm-full-departure-trump-elon-musk-marco-rubio-tim-cook-depart-beiji": {
+    "takeaway": "参考档案收录的访谈资料，发布渠道为 DWS News，视频时长约 7 分钟。原始标题为《FULL DEPARTURE: Trump, Elon Musk, Marco Rubio & Tim Cook Depart Beijing After State Banquet | AC1E》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的访谈资料，发布渠道为 DWS News，视频时长约 7 分钟。原始标题为《FULL DEPARTURE: Trump, Elon Musk, Marco Rubio & Tim Cook Depart Beijing After State Banquet | AC1E》。本条保留原始媒体与档案来源。",
+          "原站将本条归为访谈，时长约 7 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：全场：特朗普、马斯克、马可·卢比奥与蒂姆·库克国宴后离开北京 | AC1E",
+        "url": "https://elon.qiaomu.ai/ep/full-departure-trump-elon-musk-marco-rubio-tim-cook-depart-beiji/"
+      },
+      {
+        "title": "原始媒体：DWS News",
+        "url": "https://www.youtube.com/watch?v=0iE5ncnBFsI"
+      }
+    ]
+  },
+  "elon-qm-just-recorded-elon-musk-interviewed-by-jp-morgan-s-jamie-dimon": {
+    "takeaway": "马斯克被问要不要让 SpaceX 上市，被问了快十年。他的答案一直是\"不\"。这家公司从 2014、2015 年前后就实现了正现金流，一直自己养活自己。那些看起来像融资的私募轮，本质上是给员工和投资人做流动性，SpaceX 甚至在多数轮次里回购股票。公司上下人人持股，没想过去公开市场找钱。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克被问要不要让 SpaceX 上市，被问了快十年。他的答案一直是\"不\"。这家公司从 2014、2015 年前后就实现了正现金流，一直自己养活自己。那些看起来像融资的私募轮，本质上是给员工和投资人做流动性，SpaceX 甚至在多数轮次里回购股票。公司上下人人持股，没想过去公开市场找钱。",
+          "原站将本条归为访谈，时长约 21 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：刚刚录制：摩根大通杰米·戴蒙专访马斯克",
+        "url": "https://elon.qiaomu.ai/ep/just-recorded-elon-musk-interviewed-by-jp-morgan-s-jamie-dimon/"
+      },
+      {
+        "title": "原始媒体：Brighter with Herbert",
+        "url": "https://www.youtube.com/watch?v=2aTfE_UM7sU"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-sec-funding-secured-deposition-video-part-2": {
+    "takeaway": "美国股市历史上针对单一公司规模最大的做空，不在雷曼，不在安然，在特斯拉。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "美国股市历史上针对单一公司规模最大的做空，不在雷曼，不在安然，在特斯拉。",
+          "原站将本条归为访谈，时长约 52 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 SEC“资金已到位”证词视频 第2部分",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-sec-funding-secured-deposition-video-part-2/"
+      },
+      {
+        "title": "原始媒体：PlainSite",
+        "url": "https://www.youtube.com/watch?v=ChQD_WXg8rA"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-sec-funding-secured-deposition-video-part-3": {
+    "takeaway": "2018年8月7日，马斯克在推特上敲下一句话：正考虑以每股420美元把特斯拉私有化，资金已到位（funding secured）。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2018年8月7日，马斯克在推特上敲下一句话：正考虑以每股420美元把特斯拉私有化，资金已到位（funding secured）。",
+          "原站将本条归为访谈，时长约 61 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 SEC“资金已到位”证词视频 第3部分",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-sec-funding-secured-deposition-video-part-3/"
+      },
+      {
+        "title": "原始媒体：PlainSite",
+        "url": "https://www.youtube.com/watch?v=G7UFVV_lXbA"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-sec-funding-secured-deposition-video-part-4": {
+    "takeaway": "2018年那场会开了大约40分钟。两年后坐在SEC律师对面，马斯克能回忆起来的细节只剩三样：有人递给他一罐红牛，一位沙特来客坐在桌子对面，以及一句被反复重复的话，“你定条款，我们照做”。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2018年那场会开了大约40分钟。两年后坐在SEC律师对面，马斯克能回忆起来的细节只剩三样：有人递给他一罐红牛，一位沙特来客坐在桌子对面，以及一句被反复重复的话，“你定条款，我们照做”。",
+          "原站将本条归为访谈，时长约 68 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 SEC“资金已到位”证词视频 第4部分",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-sec-funding-secured-deposition-video-part-4/"
+      },
+      {
+        "title": "原始媒体：PlainSite",
+        "url": "https://www.youtube.com/watch?v=_e9vxHJl9-k"
+      }
+    ]
+  },
+  "elon-qm-breaking-elon-musk-s-first-interview-since-jury-rejected-claim-a": {
+    "takeaway": "2026 年 6 月，一桩针对 OpenAI 的诉讼被陪审团驳回。驳回的理由跟马斯克说得对不对没关系，是诉讼时效过了。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2026 年 6 月，一桩针对 OpenAI 的诉讼被陪审团驳回。驳回的理由跟马斯克说得对不对没关系，是诉讼时效过了。",
+          "原站将本条归为大会演讲，时长约 26 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：突发：陪审团驳回对奥尔特曼 OpenAI 的指控后，马斯克首次受访",
+        "url": "https://elon.qiaomu.ai/ep/breaking-elon-musk-s-first-interview-since-jury-rejected-claim-a/"
+      },
+      {
+        "title": "原始媒体：Forbes",
+        "url": "https://www.youtube.com/watch?v=adgbH9FixW0"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-sec-funding-secured-deposition-video-part-1": {
+    "takeaway": "一份 SEC 取证文件里，\"or\"（或）被定义为包含\"and/or\"（和/或），\"and\"（和）也被定义成包含\"and/or\"。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "一份 SEC 取证文件里，\"or\"（或）被定义为包含\"and/or\"（和/或），\"and\"（和）也被定义成包含\"and/or\"。",
+          "原站将本条归为访谈，时长约 59 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 SEC“资金已到位”证词视频 第1部分",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-sec-funding-secured-deposition-video-part-1/"
+      },
+      {
+        "title": "原始媒体：PlainSite",
+        "url": "https://www.youtube.com/watch?v=mignjkwNFQk"
+      }
+    ]
+  },
+  "elon-qm-model-s-x-signature-delivery-event": {
+    "takeaway": "2026 年 6 月，弗里蒙特工厂总装线的尽头，最后一批 Model S 和 Model X 交到了车主手里。14 年前，同一块竹地板上摆的是第一批车。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2026 年 6 月，弗里蒙特工厂总装线的尽头，最后一批 Model S 和 Model X 交到了车主手里。14 年前，同一块竹地板上摆的是第一批车。",
+          "原站将本条归为发布会，时长约 27 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Model S & X 签名版交付活动",
+        "url": "https://elon.qiaomu.ai/ep/model-s-x-signature-delivery-event/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=tj7Sd7fs6JQ"
+      }
+    ]
+  },
+  "elon-qm-jamie-dimon-interviews-elon-musk-full-spacex-ipo-roadshow-event": {
+    "takeaway": "6 月 4 日，摩根大通总部 51 楼。杰米·戴蒙（Jamie Dimon）问马斯克（Elon Musk）的第一个问题是：为什么现在让 SpaceX 上市？",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "6 月 4 日，摩根大通总部 51 楼。杰米·戴蒙（Jamie Dimon）问马斯克（Elon Musk）的第一个问题是：为什么现在让 SpaceX 上市？",
+          "原站将本条归为访谈，时长约 27 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：杰米·戴蒙专访马斯克——SpaceX IPO 路演全场活动 2026年6月4日",
+        "url": "https://elon.qiaomu.ai/ep/jamie-dimon-interviews-elon-musk-full-spacex-ipo-roadshow-event/"
+      },
+      {
+        "title": "原始媒体：market analyzer",
+        "url": "https://www.youtube.com/watch?v=1n-DL0LbZRw"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-and-ian-dahl-spacex-vision-update-june-8-2026": {
+    "takeaway": "太阳占了太阳系总质量的 99.86%。剩下的 0.14% 里，木星拿走绝大部分，地球小到可以忽略。人类关于能源、算力、增长的所有争吵，都发生在这粒尘埃上。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "太阳占了太阳系总质量的 99.86%。剩下的 0.14% 里，木星拿走绝大部分，地球小到可以忽略。人类关于能源、算力、增长的所有争吵，都发生在这粒尘埃上。",
+          "原站将本条归为发布会，时长约 31 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克与伊恩·达尔：SpaceX 愿景更新，2026年6月8日",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-and-ian-dahl-spacex-vision-update-june-8-2026/"
+      },
+      {
+        "title": "原始媒体：Space SPAN (Science Policy and News)",
+        "url": "https://www.youtube.com/watch?v=VvjV0gzi5Zg"
+      }
+    ]
+  },
+  "elon-qm-musk-gives-spacex-ambitious-trajectory-during-earnings-debut": {
+    "takeaway": "参考档案收录的股东会资料，发布渠道为 LiveNOW from FOX，视频时长约 8 分钟。原始标题为《Musk gives SpaceX ambitious trajectory during earnings debut》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的股东会资料，发布渠道为 LiveNOW from FOX，视频时长约 8 分钟。原始标题为《Musk gives SpaceX ambitious trajectory during earnings debut》。本条保留原始媒体与档案来源。",
+          "原站将本条归为股东会，时长约 8 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克在财报首秀中给出 SpaceX 雄心勃勃的发展轨迹",
+        "url": "https://elon.qiaomu.ai/ep/musk-gives-spacex-ambitious-trajectory-during-earnings-debut/"
+      },
+      {
+        "title": "原始媒体：LiveNOW from FOX",
+        "url": "https://www.youtube.com/watch?v=2fIejUFW1_M"
+      }
+    ]
+  },
+  "elon-qm-gov-greg-abbott-interviews-elon-musk-on-the-sean-hannity-show": {
+    "takeaway": "地球每年送进轨道的所有东西，按质量算，有 85% 出自同一家公司。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "地球每年送进轨道的所有东西，按质量算，有 85% 出自同一家公司。",
+          "原站将本条归为访谈，时长约 12 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：格雷格·阿博特州长在《肖恩·汉尼提秀》专访马斯克",
+        "url": "https://elon.qiaomu.ai/ep/gov-greg-abbott-interviews-elon-musk-on-the-sean-hannity-show/"
+      },
+      {
+        "title": "原始媒体：NPC Wire",
+        "url": "https://www.youtube.com/watch?v=RjPSaFw9q7c"
+      }
+    ]
+  },
+  "elon-qm-the-full-length-interview-with-elon-musk-the-economist": {
+    "takeaway": "参考档案收录的访谈资料，发布渠道为 The Economist，视频时长约 85 分钟。原始标题为《The full-length interview with Elon Musk | The Economist》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的访谈资料，发布渠道为 The Economist，视频时长约 85 分钟。原始标题为《The full-length interview with Elon Musk | The Economist》。本条保留原始媒体与档案来源。",
+          "原站将本条归为访谈，时长约 85 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克完整专访 | The Economist",
+        "url": "https://elon.qiaomu.ai/ep/the-full-length-interview-with-elon-musk-the-economist/"
+      },
+      {
+        "title": "原始媒体：The Economist",
+        "url": "https://www.youtube.com/watch?v=XuoqKYxDHVc"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-spacex-company-talk-august-11-2026": {
+    "takeaway": "2026 年 8 月 11 日，SpaceX 照例办公司讲话。马斯克上台，先放老照片，从加州 El Segundo 一间小仓库讲起，把二十多年历史过了一遍，最后落在一个数字上。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2026 年 8 月 11 日，SpaceX 照例办公司讲话。马斯克上台，先放老照片，从加州 El Segundo 一间小仓库讲起，把二十多年历史过了一遍，最后落在一个数字上。",
+          "原站将本条归为访谈，时长约 29 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克 SpaceX 公司讲话，2026年8月11日",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-spacex-company-talk-august-11-2026/"
+      },
+      {
+        "title": "原始媒体：Space SPAN (Science Policy and News)",
+        "url": "https://www.youtube.com/watch?v=vRsUMqZItmw"
+      }
+    ]
+  },
+  "elon-qm-new-interview-elon-musk-on-the-30-trillion-prize": {
+    "takeaway": "参考档案收录的访谈资料，发布渠道为 Brighter with Herbert，视频时长约 37 分钟。原始标题为《NEW INTERVIEW: Elon Musk On The $30 Trillion Prize》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的访谈资料，发布渠道为 Brighter with Herbert，视频时长约 37 分钟。原始标题为《NEW INTERVIEW: Elon Musk On The $30 Trillion Prize》。本条保留原始媒体与档案来源。",
+          "原站将本条归为访谈，时长约 37 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：新专访：马斯克谈“30万亿美元大奖”",
+        "url": "https://elon.qiaomu.ai/ep/new-interview-elon-musk-on-the-30-trillion-prize/"
+      },
+      {
+        "title": "原始媒体：Brighter with Herbert",
+        "url": "https://www.youtube.com/watch?v=_Dz64hXIkkA"
+      }
+    ]
+  },
+  "elon-qm-ai-will-crush-all-humans-elon-musk-on-extreme-advancements-in-ai": {
+    "takeaway": "参考档案收录的大会演讲资料，发布渠道为 Right Side Broadcasting Network，视频时长约 9 分钟。原始标题为《\"AI Will Crush All Humans\": Elon Musk on Extreme Advancements in AI at G20 Summit - 09/01/26》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的大会演讲资料，发布渠道为 Right Side Broadcasting Network，视频时长约 9 分钟。原始标题为《\"AI Will Crush All Humans\": Elon Musk on Extreme Advancements in AI at G20 Summit - 09/01/26》。本条保留原始媒体与档案来源。",
+          "原站将本条归为大会演讲，时长约 9 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：“AI 将碾压全人类”：马斯克在 G20 峰会谈 AI 极端进展 - 2026年9月1日",
+        "url": "https://elon.qiaomu.ai/ep/ai-will-crush-all-humans-elon-musk-on-extreme-advancements-in-ai/"
+      },
+      {
+        "title": "原始媒体：Right Side Broadcasting Network",
+        "url": "https://www.youtube.com/watch?v=H0Ap25IOWr8"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-and-gwynne-shotwell-2026-all-in-summit-september-14-20": {
+    "takeaway": "参考档案收录的播客资料，发布渠道为 Space SPAN (Science Policy and News)，视频时长约 64 分钟。原始标题为《Elon Musk and Gwynne Shotwell, 2026 All-In Summit, September 14, 2026 (See NOTE in Description)》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的播客资料，发布渠道为 Space SPAN (Science Policy and News)，视频时长约 64 分钟。原始标题为《Elon Musk and Gwynne Shotwell, 2026 All-In Summit, September 14, 2026 (See NOTE in Description)》。本条保留原始媒体与档案来源。",
+          "原站将本条归为播客，时长约 64 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克与格温·肖特维尔，2026 All-In Summit，2026年9月14日（见简介备注）",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-and-gwynne-shotwell-2026-all-in-summit-september-14-20/"
+      },
+      {
+        "title": "原始媒体：Space SPAN (Science Policy and News)",
+        "url": "https://www.youtube.com/watch?v=8G0YSP4Y9TU"
+      }
+    ]
+  },
+  "elon-qm-full-elon-musk-jensen-huang-tom-brown-discuss-the-ai-revolution": {
+    "takeaway": "参考档案收录的访谈资料，发布渠道为 Right Side Broadcasting Network，视频时长约 27 分钟。原始标题为《FULL: Elon Musk, Jensen Huang, Tom Brown Discuss the AI Revolution & What's Next - 09/29/26》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的访谈资料，发布渠道为 Right Side Broadcasting Network，视频时长约 27 分钟。原始标题为《FULL: Elon Musk, Jensen Huang, Tom Brown Discuss the AI Revolution & What's Next - 09/29/26》。本条保留原始媒体与档案来源。",
+          "原站将本条归为访谈，时长约 27 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：完整版：马斯克、黄仁勋、汤姆·布朗谈AI革命与未来 - 09/29/26",
+        "url": "https://elon.qiaomu.ai/ep/full-elon-musk-jensen-huang-tom-brown-discuss-the-ai-revolution/"
+      },
+      {
+        "title": "原始媒体：Right Side Broadcasting Network",
+        "url": "https://www.youtube.com/watch?v=388P7IFSpwE"
+      }
+    ]
+  },
+  "elon-qm-full-exclusive-cmg-interview-with-tesla-ceo-elon-musk": {
+    "takeaway": "2026 年前几个月，中国的发电量超过了美国、欧洲和印度加起来。这句话出自马斯克，说在 Tesla 全球工程总部的采访间里，语速很平，像在报天气。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "2026 年前几个月，中国的发电量超过了美国、欧洲和印度加起来。这句话出自马斯克，说在 Tesla 全球工程总部的采访间里，语速很平，像在报天气。",
+          "原站将本条归为访谈，时长约 26 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：完整版：CMG独家专访Tesla CEO马斯克",
+        "url": "https://elon.qiaomu.ai/ep/full-exclusive-cmg-interview-with-tesla-ceo-elon-musk/"
+      },
+      {
+        "title": "原始媒体：CGTN",
+        "url": "https://www.youtube.com/watch?v=34-5wOGmCKc"
+      }
+    ]
+  },
+  "elon-qm-full-panel-nvidia-ceo-huang-musk-on-super-intelligence-america-g": {
+    "takeaway": "参考档案收录的大会演讲资料，发布渠道为 DWS News and DRM News，视频时长约 28 分钟。原始标题为《FULL PANEL: Nvidia CEO Huang & Musk on Super Intelligence, America.gov, Energy,Orbital Compute |AI1E》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的大会演讲资料，发布渠道为 DWS News and DRM News，视频时长约 28 分钟。原始标题为《FULL PANEL: Nvidia CEO Huang & Musk on Super Intelligence, America.gov, Energy,Orbital Compute |AI1E》。本条保留原始媒体与档案来源。",
+          "原站将本条归为大会演讲，时长约 28 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：完整小组讨论：Nvidia CEO黄仁勋与马斯克谈超级智能、America.gov、能源与轨道计算｜AI1E",
+        "url": "https://elon.qiaomu.ai/ep/full-panel-nvidia-ceo-huang-musk-on-super-intelligence-america-g/"
+      },
+      {
+        "title": "原始媒体：DWS News and DRM News",
+        "url": "https://www.youtube.com/watch?v=9S6risqmgAk"
+      }
+    ]
+  },
+  "elon-qm-breaking-elon-musk-and-jensen-huang-speak-at-america-gov-event-a": {
+    "takeaway": "参考档案收录的访谈资料，发布渠道为 Forbes Breaking News，视频时长约 26 分钟。原始标题为《BREAKING: Elon Musk And Jensen Huang Speak At America.Gov Event, An AI-Powered Government Website》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的访谈资料，发布渠道为 Forbes Breaking News，视频时长约 26 分钟。原始标题为《BREAKING: Elon Musk And Jensen Huang Speak At America.Gov Event, An AI-Powered Government Website》。本条保留原始媒体与档案来源。",
+          "原站将本条归为访谈，时长约 26 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：突发：马斯克与黄仁勋在America.Gov活动发声，谈AI驱动政府网站",
+        "url": "https://elon.qiaomu.ai/ep/breaking-elon-musk-and-jensen-huang-speak-at-america-gov-event-a/"
+      },
+      {
+        "title": "原始媒体：Forbes Breaking News",
+        "url": "https://www.youtube.com/watch?v=Gf-KssYwepc"
+      }
+    ]
+  },
+  "elon-qm-watch-full-elon-musk-on-china-ai-manufacturing-and-china-us-rela": {
+    "takeaway": "今年早些时候，中国的发电量超过了美国、欧洲和印度加起来的总和。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "今年早些时候，中国的发电量超过了美国、欧洲和印度加起来的总和。",
+          "原站将本条归为访谈，时长约 25 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：观看完整版：马斯克谈中国、AI、制造业与中美关系",
+        "url": "https://elon.qiaomu.ai/ep/watch-full-elon-musk-on-china-ai-manufacturing-and-china-us-rela/"
+      },
+      {
+        "title": "原始媒体：CGTN Europe",
+        "url": "https://www.youtube.com/watch?v=JTxHfG7sRaM"
+      }
+    ]
+  },
+  "elon-qm-full-panel-elon-musk-and-nvidia-s-huang-on-ai-safety-super-intel": {
+    "takeaway": "参考档案收录的大会演讲资料，发布渠道为 DRM News，视频时长约 26 分钟。原始标题为《FULL PANEL: Elon Musk and Nvidia's Huang on AI Safety, Super Intelligence & America’s AI Future|AI1N》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的大会演讲资料，发布渠道为 DRM News，视频时长约 26 分钟。原始标题为《FULL PANEL: Elon Musk and Nvidia's Huang on AI Safety, Super Intelligence & America’s AI Future|AI1N》。本条保留原始媒体与档案来源。",
+          "原站将本条归为大会演讲，时长约 26 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：完整小组讨论：马斯克与Nvidia黄仁勋谈AI安全、超级智能与美国AI未来｜AI1N",
+        "url": "https://elon.qiaomu.ai/ep/full-panel-elon-musk-and-nvidia-s-huang-on-ai-safety-super-intel/"
+      },
+      {
+        "title": "原始媒体：DRM News",
+        "url": "https://www.youtube.com/watch?v=KsW3rJLm0lU"
+      }
+    ]
+  },
+  "elon-qm-full-presser-trump-musk-zuckerberg-huang-address-ai-future-at-wh": {
+    "takeaway": "参考档案收录的政府活动资料，发布渠道为 DWS News and DRM News，视频时长约 29 分钟。原始标题为《FULL PRESSER: Trump, Musk, Zuckerberg & Huang Address AI Future at White House | AC15》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的政府活动资料，发布渠道为 DWS News and DRM News，视频时长约 29 分钟。原始标题为《FULL PRESSER: Trump, Musk, Zuckerberg & Huang Address AI Future at White House | AC15》。本条保留原始媒体与档案来源。",
+          "原站将本条归为政府活动，时长约 29 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：完整记者会：特朗普、马斯克、扎克伯格、黄仁勋在白宫谈AI未来｜AC15",
+        "url": "https://elon.qiaomu.ai/ep/full-presser-trump-musk-zuckerberg-huang-address-ai-future-at-wh/"
+      },
+      {
+        "title": "原始媒体：DWS News and DRM News",
+        "url": "https://www.youtube.com/watch?v=hZwhFsg8D1I"
+      }
+    ]
+  },
+  "elon-qm-roadster-event": {
+    "takeaway": "0.81 秒。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "0.81 秒。",
+          "原站将本条归为发布会，时长约 23 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：Roadster活动",
+        "url": "https://elon.qiaomu.ai/ep/roadster-event/"
+      },
+      {
+        "title": "原始媒体：Tesla",
+        "url": "https://www.youtube.com/watch?v=qt5p-_tE8d0"
+      }
+    ]
+  },
+  "elon-qm-full-trump-joins-musk-zuckerberg-huang-pichai-amodei-openai-s-br": {
+    "takeaway": "参考档案收录的政府活动资料，发布渠道为 DRM News，视频时长约 30 分钟。原始标题为《FULL: Trump Joins Musk, Zuckerberg, Huang, Pichai, Amodei & OpenAI’s Brockman at White House | AI1N》。本条保留原始媒体与档案来源。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "参考档案收录的政府活动资料，发布渠道为 DRM News，视频时长约 30 分钟。原始标题为《FULL: Trump Joins Musk, Zuckerberg, Huang, Pichai, Amodei & OpenAI’s Brockman at White House | AI1N》。本条保留原始媒体与档案来源。",
+          "原站将本条归为政府活动，时长约 30 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：完整版：特朗普与马斯克、扎克伯格、黄仁勋、皮查伊、阿莫代及OpenAI布罗克曼齐聚白宫｜AI1N",
+        "url": "https://elon.qiaomu.ai/ep/full-trump-joins-musk-zuckerberg-huang-pichai-amodei-openai-s-br/"
+      },
+      {
+        "title": "原始媒体：DRM News",
+        "url": "https://www.youtube.com/watch?v=r8Rn-DNAVlU"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-unveils-spacex-flight-15-plans-and-q3-2026-financial-o": {
+    "takeaway": "马斯克在电话会快结束时扔出一个数字：到 2027 年底，SpaceX 的年度经常性收入会落在 5000 亿到 1 万亿美元之间。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克在电话会快结束时扔出一个数字：到 2027 年底，SpaceX 的年度经常性收入会落在 5000 亿到 1 万亿美元之间。",
+          "原站将本条归为发布会，时长约 62 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克公布SpaceX Flight 15计划及2026 Q3财务与运营业绩 [10/20/2026]",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-unveils-spacex-flight-15-plans-and-q3-2026-financial-o/"
+      },
+      {
+        "title": "原始媒体：MAGNO NEWS",
+        "url": "https://www.youtube.com/watch?v=lVNHybwudXI"
+      }
+    ]
+  },
+  "elon-qm-elon-musk-the-end-of-work-the-death-of-money-and-a-world-run-by": {
+    "takeaway": "马斯克有个\"邪恶探测器\"。",
+    "sections": [
+      {
+        "heading": "资料与来源",
+        "kind": "source",
+        "paragraphs": [
+          "马斯克有个\"邪恶探测器\"。",
+          "原站将本条归为访谈，时长约 37 分钟。日期按参考索引记录，具体精度见页面说明。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "参考档案：马斯克：工作的终结、金钱的消亡与AI主宰的世界",
+        "url": "https://elon.qiaomu.ai/ep/elon-musk-the-end-of-work-the-death-of-money-and-a-world-run-by/"
+      },
+      {
+        "title": "原始媒体：The Builders with Walter Isaacson",
+        "url": "https://www.youtube.com/watch?v=AQnwQHMnCrE"
       }
     ]
   }
