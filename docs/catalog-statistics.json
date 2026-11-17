@@ -1,98 +1,108 @@
 {
-  "checkedAt": "2026-11-16",
-  "previous": 14,
-  "total": 116,
-  "added": 102,
+  "checkedAt": "2026-11-17",
+  "previous": 116,
+  "total": 292,
+  "added": 190,
+  "removed": 14,
   "contentStatus": {
-    "deep": 14,
-    "reading": 54,
-    "brief": 48
+    "deep": 12,
+    "reading": 140,
+    "brief": 140
   },
   "perPerson": [
     {
       "id": "naval",
       "name": "纳瓦尔",
-      "total": 15,
+      "total": 37,
       "types": {
-        "collection": 2,
-        "interview": 13
+        "collection": 5,
+        "interview": 13,
+        "host": 8,
+        "summary": 2,
+        "essay": 9
       },
       "deep": 2,
-      "reading": 11,
-      "brief": 2
+      "reading": 28,
+      "brief": 7
     },
     {
       "id": "justin",
       "name": "孙宇晨",
-      "total": 14,
+      "total": 75,
       "types": {
-        "interview": 12,
-        "talk": 2
+        "interview": 2,
+        "talk": 1,
+        "lesson": 72
       },
-      "deep": 2,
-      "reading": 4,
-      "brief": 8
+      "deep": 0,
+      "reading": 21,
+      "brief": 54
     },
     {
       "id": "dan",
       "name": "Dan Koe",
-      "total": 10,
+      "total": 31,
       "types": {
-        "interview": 10
+        "interview": 10,
+        "summary": 1,
+        "essay": 20
       },
       "deep": 2,
-      "reading": 4,
-      "brief": 4
+      "reading": 17,
+      "brief": 12
     },
     {
       "id": "tim",
       "name": "Tim Ferriss",
-      "total": 19,
+      "total": 41,
       "types": {
-        "talk": 5,
+        "talk": 6,
         "host": 4,
-        "interview": 10
+        "essay": 19,
+        "interview": 11,
+        "summary": 1
       },
       "deep": 3,
-      "reading": 9,
-      "brief": 7
+      "reading": 24,
+      "brief": 14
     },
     {
       "id": "julian",
       "name": "Julian Shapiro",
-      "total": 24,
+      "total": 39,
       "types": {
         "interview": 12,
         "host": 9,
-        "essay": 3
+        "essay": 18
       },
       "deep": 2,
-      "reading": 11,
-      "brief": 11
+      "reading": 25,
+      "brief": 12
     },
     {
       "id": "alex",
       "name": "Alex Hormozi",
-      "total": 12,
+      "total": 29,
       "types": {
-        "interview": 11,
+        "interview": 28,
         "clip": 1
       },
       "deep": 2,
-      "reading": 10,
-      "brief": 0
+      "reading": 15,
+      "brief": 12
     },
     {
       "id": "elon",
       "name": "马斯克",
-      "total": 26,
+      "total": 44,
       "types": {
-        "interview": 25,
+        "interview": 41,
+        "essay": 2,
         "talk": 1
       },
       "deep": 2,
-      "reading": 8,
-      "brief": 16
+      "reading": 13,
+      "brief": 29
     }
   ],
   "mergedDuplicates": [],

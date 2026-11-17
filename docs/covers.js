@@ -21,8 +21,8 @@
   }
   function hash(text){let result=0;for(const c of text)result=(result*31+c.charCodeAt(0))>>>0;return result;}
   function poster(a){
-    const key=theme(a),variant=hash(a.id)%4,year=(a.date||'').slice(0,4)||'IDEAS';
-    return `<div class="editorial-cover theme-${key} layout-${variant}" aria-hidden="true"><span class="poster-grid"></span><span class="poster-caption">THE CONVERSATION ARCHIVE</span><span class="poster-year">${esc(year)}</span><svg class="poster-symbol" viewBox="0 0 140 140" fill="none" stroke="currentColor" stroke-width="1.5">${symbols[key]}</svg><span class="poster-topic-en">${themes[key].en}</span><span class="poster-title">${esc(a.tags.slice(0,2).join('，')||themes[key].zh)}</span><span class="poster-program">${esc(a.source)}</span><span class="poster-mark">${['＋','&','◯','↗'][variant]}</span></div>`;
+    const key=theme(a),variant=hash(a.id)%4,year=a.type==='lesson'?'№'+String(a.episodeNumber).padStart(3,'0'):(a.date||'').slice(0,4)||'IDEAS';
+    return `<div class="editorial-cover theme-${key} layout-${variant}" aria-hidden="true"><span class="poster-grid"></span><span class="poster-caption">THE CONVERSATION ARCHIVE</span><span class="poster-year">${esc(year)}</span><svg class="poster-symbol" viewBox="0 0 140 140" fill="none" stroke="currentColor" stroke-width="1.5">${symbols[key]}</svg><span class="poster-topic-en">${themes[key].en}</span><span class="poster-title">${esc(a.type==='lesson'?a.title:a.tags.slice(0,2).join('，')||themes[key].zh)}</span><span class="poster-program">${esc(a.source)}</span><span class="poster-mark">${['＋','&','◯','↗'][variant]}</span></div>`;
   }
   function asset(a){return window.ARCHIVE_COVERS?.[a.id];}
   function media(a,{hero=false}={}){

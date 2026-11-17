@@ -16,7 +16,7 @@
       const list=articles.filter(a=>related(a,p.id));
       const count=key=>list.filter(a=>format(a,p.id)===key).length;
       const long=list.filter(readable).length;
-      return `<tr><th scope="row"><button data-person="${p.id}">${esc(p.name)} ↗</button></th><td>${count('interview')}</td><td>${count('host')}</td><td>${count('talk')}</td><td>${count('clip')}</td><td>${list.filter(a=>['essay','collection'].includes(a.type)).length}</td><td>${long}</td><td><strong>${list.length}</strong></td></tr>`;
+      return `<tr><th scope="row"><button data-person="${p.id}">${esc(p.name)} ↗</button></th><td>${count('interview')}</td><td>${count('host')}</td><td>${count('talk')}</td><td>${count('clip')}</td><td>${list.filter(a=>['essay','collection'].includes(a.type)).length}</td><td>${count('summary')}</td><td>${count('lesson')}</td><td>${long}</td><td><strong>${list.length}</strong></td></tr>`;
     }).join('');
     const coverage=window.ARCHIVE_COVERAGE;
     if(coverage?.sources?.length){$('coverageSources').innerHTML=coverage.sources.map(source=>`<li><strong>${esc(source.person)}</strong><span>${esc(source.note)}</span>${source.links.map(link=>`<a href="${esc(link.url)}" target="_blank" rel="noopener noreferrer">${esc(link.title)} ↗</a>`).join('')}</li>`).join('');}

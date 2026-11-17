@@ -59,16 +59,6 @@ window.ARCHIVE_COVERS = {
     "height": 720,
     "sha256": "83b4ade807cfd9a36779be3872f10e93c4cf255c9be87969e58efc82475c67d0"
   },
-  "justin-bankless": {
-    "file": "assets/covers/justin-bankless.jpg",
-    "sourceUrl": "https://i.ytimg.com/vi/sQmC8ffh8C4/maxresdefault.jpg",
-    "pageUrl": "https://www.youtube.com/watch?v=sQmC8ffh8C4",
-    "credit": "封面来源：Bankless；版权归原权利方",
-    "kind": "youtube-thumbnail",
-    "width": 1280,
-    "height": 720,
-    "sha256": "2adab3a462df54b95da35ec21faf176fdc924f5f0b244d7c1aa89949cef863c2"
-  },
   "naval-startup-advice": {
     "file": "assets/covers/naval-startup-advice.jpg",
     "sourceUrl": "https://tim.blog/wp-content/uploads/2015/08/naval-ravikant-on-the-tim-ferriss-show.jpg",
@@ -98,16 +88,6 @@ window.ARCHIVE_COVERS = {
     "width": 1280,
     "height": 720,
     "sha256": "0470da3ff7005b39b9b6cc1aca70b6ec599ad5c89e7952ade4534d10ab8aa2bf"
-  },
-  "justin-cnbc": {
-    "file": "assets/covers/justin-cnbc.jpg",
-    "sourceUrl": "https://i.ytimg.com/vi/DuJ-nSXVzQ4/maxresdefault.jpg",
-    "pageUrl": "https://www.youtube.com/watch?v=DuJ-nSXVzQ4",
-    "credit": "封面来源：CNBC Crypto World；版权归原权利方",
-    "kind": "youtube-thumbnail",
-    "width": 1280,
-    "height": 720,
-    "sha256": "13d82890a4404c77b55477ee478a5909de8f9e7b68ed12dbed497c6f1a6c31c2"
   },
   "dan-unblocked-2026": {
     "file": "assets/covers/dan-unblocked-2026.jpg",
@@ -139,16 +119,6 @@ window.ARCHIVE_COVERS = {
     "height": 720,
     "sha256": "6b054ca9867314b25306600303bd75188dd9c42d91e26a34bfffbd82a6d6446d"
   },
-  "justin-pvara-2026": {
-    "file": "assets/covers/justin-pvara-2026.jpg",
-    "sourceUrl": "https://i.ytimg.com/vi/g_K3v5k3_7I/maxresdefault.jpg",
-    "pageUrl": "https://www.youtube.com/watch?v=g_K3v5k3_7I",
-    "credit": "封面来源：PVARA · Bilal Bin Saqib；版权归原权利方",
-    "kind": "youtube-thumbnail",
-    "width": 1280,
-    "height": 720,
-    "sha256": "d7d79b821f05658d4b2918cad29b65366a7a590dbd8df85b88cdd99ddac3d16e"
-  },
   "elon-jre-2404": {
     "file": "assets/covers/elon-jre-2404.jpg",
     "sourceUrl": "https://i.ytimg.com/vi/O4wBUysNe2k/maxresdefault.jpg",
@@ -178,16 +148,6 @@ window.ARCHIVE_COVERS = {
     "width": 1280,
     "height": 720,
     "sha256": "9065c85fdf37e1a9da2810ea215630981e2a5ad3f48db4153fcaf4963aba328d"
-  },
-  "justin-token2049-2025": {
-    "file": "assets/covers/justin-token2049-2025.jpg",
-    "sourceUrl": "https://i.ytimg.com/vi/vJXfs42lHuw/maxresdefault.jpg",
-    "pageUrl": "https://www.youtube.com/watch?v=vJXfs42lHuw",
-    "credit": "封面来源：TOKEN2049 · 官方演讲；版权归原权利方",
-    "kind": "youtube-thumbnail",
-    "width": 1280,
-    "height": 720,
-    "sha256": "6e6f411198e7ea0a0dbc88544a362015603d392be1505aa5a4eaf06bcf80921a"
   },
   "elon-jre-2281": {
     "file": "assets/covers/elon-jre-2281.jpg",
@@ -228,16 +188,6 @@ window.ARCHIVE_COVERS = {
     "width": 1280,
     "height": 720,
     "sha256": "bb30bc8aa58441e9ac00a9c9a07720bed6508620da0fda3a1440b5a1b8f96c63"
-  },
-  "justin-token2049-2024": {
-    "file": "assets/covers/justin-token2049-2024.jpg",
-    "sourceUrl": "https://i.ytimg.com/vi/Q4m8fHkpfcg/maxresdefault.jpg",
-    "pageUrl": "https://www.youtube.com/watch?v=Q4m8fHkpfcg",
-    "credit": "封面来源：TOKEN2049 · Henri Arslanian 主持圆桌；版权归原权利方",
-    "kind": "youtube-thumbnail",
-    "width": 1280,
-    "height": 720,
-    "sha256": "f6afc0024a9c602eac9f7591b08c5db3d0b9d3cc777ab35e6b5fbe3bc40a803f"
   },
   "elon-don-lemon-2024": {
     "file": "assets/covers/elon-don-lemon-2024.jpg",
@@ -289,16 +239,6 @@ window.ARCHIVE_COVERS = {
     "height": 720,
     "sha256": "04cdb7cfd48d78038e8c5d9861ac9de638a53b8e076c5ea0eb9ea4509bfceeb0"
   },
-  "justin-asia-2023": {
-    "file": "assets/covers/justin-asia-2023.jpg",
-    "sourceUrl": "https://i.ytimg.com/vi/umucB98EefQ/maxresdefault.jpg",
-    "pageUrl": "https://www.youtube.com/watch?v=umucB98EefQ",
-    "credit": "封面来源：孙宇晨官方访谈档案；版权归原权利方",
-    "kind": "youtube-thumbnail",
-    "width": 1280,
-    "height": 720,
-    "sha256": "0092eab2caedbc7306ecd64dfad77a89c7a78e773e08ffa79576905eef45c555"
-  },
   "elon-allin-2023": {
     "file": "assets/covers/elon-allin-2023.jpg",
     "sourceUrl": "https://i.ytimg.com/vi/tKqJ5-kkUGk/maxresdefault.jpg",
@@ -339,16 +279,6 @@ window.ARCHIVE_COVERS = {
     "height": 720,
     "sha256": "e930108aa1789a25f52c5f7976c96736d4d335d851570e7ce40f4bac67d1b3a7"
   },
-  "justin-token2049-2022": {
-    "file": "assets/covers/justin-token2049-2022.jpg",
-    "sourceUrl": "https://i.ytimg.com/vi/VwdtHCcSZoA/maxresdefault.jpg",
-    "pageUrl": "https://www.youtube.com/watch?v=VwdtHCcSZoA",
-    "credit": "封面来源：TOKEN2049 · Emma Cui 主持圆桌；版权归原权利方",
-    "kind": "youtube-thumbnail",
-    "width": 1280,
-    "height": 720,
-    "sha256": "7bfc18374aacdfea58c8951f70413b809cbeb6897088f737149099afb1f2af30"
-  },
   "tim-huberman-2023": {
     "file": "assets/covers/tim-huberman-2023.jpg",
     "sourceUrl": "https://cdn.prod.website-files.com/64751ad903a904b42aa4adc1/66ba3deb12749efe96e31187_650b23abfa25bf0cc0d04a1b_Episode-Card-129-Tim-Ferriss.jpeg",
@@ -388,16 +318,6 @@ window.ARCHIVE_COVERS = {
     "width": 1280,
     "height": 720,
     "sha256": "66fb251df009e85c9616aa3cf3d75120e67c2748dd5f857a45899003c2c8b476"
-  },
-  "justin-hackernoon-2023": {
-    "file": "assets/covers/justin-hackernoon-2023.jpg",
-    "sourceUrl": "https://hackernoon.imgix.net/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-dk93o4x.jpeg",
-    "pageUrl": "https://hackernoon.com/decoding-the-future-of-web3-and-blockchain-with-justin-sun",
-    "credit": "封面来源：HackerNoon · Ishan Pandey；版权归原权利方",
-    "kind": "official-og",
-    "width": 1400,
-    "height": 787,
-    "sha256": "8f6d8eb54b78a723038c8c6c3215ca6c771e322c32964ba17752ecd915a602aa"
   },
   "julian-brains-writing-nonfiction": {
     "file": "assets/covers/julian-brains-writing-nonfiction.jpg",
@@ -559,16 +479,6 @@ window.ARCHIVE_COVERS = {
     "height": 720,
     "sha256": "90b3f61a2de94add9859764c4a0635e3ccbc01efbe468c166fabb401b2e0dde1"
   },
-  "justin-wolf-2021": {
-    "file": "assets/covers/justin-wolf-2021.jpg",
-    "sourceUrl": "https://i.ytimg.com/vi/X6W4rcw-Gns/maxresdefault.jpg",
-    "pageUrl": "https://www.youtube.com/watch?v=X6W4rcw-Gns",
-    "credit": "封面来源：The Wolf Of All Streets · Scott Melker；版权归原权利方",
-    "kind": "youtube-thumbnail",
-    "width": 1280,
-    "height": 720,
-    "sha256": "b66e8d480eb4b46a411db1df72c9802fae10ad05f5a30a3aacb30d3feb7e3260"
-  },
   "elon-lex-mars-2021": {
     "file": "assets/covers/elon-lex-mars-2021.png",
     "sourceUrl": "https://lexfridman.com/wordpress/wp-content/uploads/2021/12/thumb_elon_musk_3.png",
@@ -638,16 +548,6 @@ window.ARCHIVE_COVERS = {
     "width": 1280,
     "height": 720,
     "sha256": "b6c6025fff4303767eefbe9add37838687ba2e53357c2659311156dc412fe9a4"
-  },
-  "justin-token2049-2019": {
-    "file": "assets/covers/justin-token2049-2019.jpg",
-    "sourceUrl": "https://i.ytimg.com/vi/jt8tXXKO6IQ/maxresdefault.jpg",
-    "pageUrl": "https://www.youtube.com/watch?v=jt8tXXKO6IQ",
-    "credit": "封面来源：TOKEN2049 · 官方演讲；版权归原权利方",
-    "kind": "youtube-thumbnail",
-    "width": 1280,
-    "height": 720,
-    "sha256": "4ba26bec148e1c34d4fc6ff276a69b24de118491ed7e17b91ea73425a9e9e1f8"
   },
   "naval-jre-1309": {
     "file": "assets/covers/naval-jre-1309.jpg",
@@ -968,5 +868,865 @@ window.ARCHIVE_COVERS = {
     "width": 1400,
     "height": 1400,
     "sha256": "915de91b49b4746a8db2d9b0c7fa28e7947fbb7c50c206a5cc54bc6b0e7dccfd"
+  },
+  "dan-r20261117-launch-new-life": {
+    "file": "assets/covers/dan-r20261117-launch-new-life.jpg",
+    "sourceUrl": "https://substackcdn.com/image/fetch/$s_!yzcr!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9803fa03-c784-4694-a275-5f4a46247c64_1920x1080.jpeg",
+    "pageUrl": "https://letters.thedankoe.com/p/how-to-launch-into-a-completely-new-ef8",
+    "credit": "封面来源：Dan Koe · future/proof；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 675,
+    "sha256": "3d6cc943cd9a53f4e5eefe6132744afbc419d6d805db34c4ba346d2b93a76f51"
+  },
+  "dan-r20261117-interest-lifestyle": {
+    "file": "assets/covers/dan-r20261117-interest-lifestyle.jpg",
+    "sourceUrl": "https://substackcdn.com/image/fetch/$s_!otQG!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F430122a5-e2b2-4ff9-9408-5e92e3f42b6a_1920x1080.jpeg",
+    "pageUrl": "https://letters.thedankoe.com/p/full-course-how-to-turn-your-interests",
+    "credit": "封面来源：Dan Koe · future/proof；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 675,
+    "sha256": "236398073558285b76208aebfdae6c578320049d743722f2c21a0276bae5742a"
+  },
+  "dan-r20261117-one-human-ai": {
+    "file": "assets/covers/dan-r20261117-one-human-ai.jpg",
+    "sourceUrl": "https://substackcdn.com/image/fetch/$s_!Jwno!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe61e58bd-23c4-4b62-bec7-4ebefe8ef6f7_1920x1080.jpeg",
+    "pageUrl": "https://letters.thedankoe.com/p/the-one-human-business-how-to-earn",
+    "credit": "封面来源：Dan Koe · future/proof；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 675,
+    "sha256": "9b8eb983c23c759177f1009095937b595307870af97abe054e8e75e199569c89"
+  },
+  "dan-r20261117-digital-renaissance": {
+    "file": "assets/covers/dan-r20261117-digital-renaissance.jpg",
+    "sourceUrl": "https://substackcdn.com/image/fetch/$s_!OY-4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F488ffc38-26aa-4bcd-88dd-1ba206b5af09_2912x1632.png",
+    "pageUrl": "https://letters.thedankoe.com/p/we-are-in-the-middle-of-the-digital",
+    "credit": "封面来源：Dan Koe · future/proof；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 675,
+    "sha256": "9313231f8596aca59b7d9883918200218798f4bd80d1d4589a1413bde572654d"
+  },
+  "dan-r20261117-cognitive-flexibility": {
+    "file": "assets/covers/dan-r20261117-cognitive-flexibility.jpg",
+    "sourceUrl": "https://substackcdn.com/image/fetch/$s_!G2g0!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c000451-2632-4c4c-a1bb-32d598802615_2912x1632.png",
+    "pageUrl": "https://letters.thedankoe.com/p/give-me-20-minutes-and-ill-make-you",
+    "credit": "封面来源：Dan Koe · future/proof；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 675,
+    "sha256": "568b2f324652ef6dfc53f1ea75f00284d8eea83843b250d59d158607534febd4"
+  },
+  "dan-r20261117-ai-business-2027": {
+    "file": "assets/covers/dan-r20261117-ai-business-2027.jpg",
+    "sourceUrl": "https://substackcdn.com/image/fetch/$s_!I3gB!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2febc53-bfd6-4022-b668-ca0b547c0b1e_2912x1632.png",
+    "pageUrl": "https://letters.thedankoe.com/p/the-most-lucrative-ai-business-to",
+    "credit": "封面来源：Dan Koe · future/proof；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 675,
+    "sha256": "9ac9bbbdeec9127eb51b7800145d45612832f75f367dc89298bc37ce4a5a5bdc"
+  },
+  "dan-r20261117-remember-reading": {
+    "file": "assets/covers/dan-r20261117-remember-reading.jpg",
+    "sourceUrl": "https://substackcdn.com/image/fetch/$s_!NvZx!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6003bf08-91e0-4e34-a54f-05c9e29c1105_1920x1080.jpeg",
+    "pageUrl": "https://letters.thedankoe.com/p/how-to-remember-everything-you-read",
+    "credit": "封面来源：Dan Koe · future/proof；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 675,
+    "sha256": "3ee39c7a9a21c6375a6800097baa70f499ee83a7b1770ff23d06afc866c823e0"
+  },
+  "dan-r20261117-strategic-thinking": {
+    "file": "assets/covers/dan-r20261117-strategic-thinking.jpg",
+    "sourceUrl": "https://substackcdn.com/image/fetch/$s_!bJYB!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2501625-ed04-48ff-8134-76f612d8e051_2912x1632.png",
+    "pageUrl": "https://letters.thedankoe.com/p/strategy-vs-tactics-how-to-actually",
+    "credit": "封面来源：Dan Koe · future/proof；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 675,
+    "sha256": "76f091cafe6102c00f05d4b2d5cc0bfc2a2e4093f82cb141415984c1a6a59e48"
+  },
+  "dan-r20261117-writing-habit": {
+    "file": "assets/covers/dan-r20261117-writing-habit.jpg",
+    "sourceUrl": "https://substackcdn.com/image/fetch/$s_!Zw_d!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0394246-db46-4d7d-a3a6-6f050806fdb6_1920x1080.jpeg",
+    "pageUrl": "https://letters.thedankoe.com/p/the-writing-habit-that-saved-my-brain",
+    "credit": "封面来源：Dan Koe · future/proof；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 675,
+    "sha256": "4ab531a53d84a6ca79fb7b5e67b86beccde28ac94abdde9df65cd9d1fc0f192b"
+  },
+  "naval-r20261117-future-2026": {
+    "file": "assets/covers/naval-beginning-infinity.png",
+    "sourceUrl": "https://i0.wp.com/nav.al/wp-content/uploads/2019/12/Navatar.png?fit=1080%2C1080&ssl=1",
+    "pageUrl": "https://nav.al/future",
+    "credit": "封面来源：Naval 官方网站；版权归原权利方",
+    "kind": "official-og",
+    "width": 1080,
+    "height": 1080,
+    "sha256": "29fda8d7ed1ead7c5a03c4926fc60d123db6c3b56f051b78e2169e611a936925"
+  },
+  "dan-r20261117-age-experience": {
+    "file": "assets/covers/dan-r20261117-age-experience.jpg",
+    "sourceUrl": "https://substackcdn.com/image/fetch/$s_!pWXt!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0cef210d-e94e-410d-87ac-638d74556b30_1920x1080.jpeg",
+    "pageUrl": "https://letters.thedankoe.com/p/the-influencer-is-dead-the-age-of",
+    "credit": "封面来源：Dan Koe · future/proof；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 675,
+    "sha256": "39e7fcebdab4b33b95c6296d28159c3be84abe2ce850bea4e744868a1692256f"
+  },
+  "elon-wef-2026": {
+    "file": "assets/covers/elon-wef-2026.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/IgifEgm1-e0/maxresdefault.jpg",
+    "pageUrl": "https://events.weforum.org/en/events/world-economic-forum-annual-meeting-2026/sessions/conversation-with-elon-musk",
+    "credit": "封面来源：World Economic Forum · Laurence Fink；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "db0b372d8f2165ae9788ae1b71bdd0103d84f554082d0fc68fd6e4d6fc5d1be1"
+  },
+  "dan-r20261117-long-form-guide": {
+    "file": "assets/covers/dan-r20261117-long-form-guide.jpg",
+    "sourceUrl": "https://substackcdn.com/image/fetch/$s_!Zc7J!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7ea760b-5c85-4355-88f5-04382b12ac33_1920x1080.jpeg",
+    "pageUrl": "https://letters.thedankoe.com/p/full-guide-how-to-start-writing-long",
+    "credit": "封面来源：Dan Koe · future/proof；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 675,
+    "sha256": "fbc19713561ae5eada294cca7eb1b230014dcac2972753e2c9bacf4d1f17201c"
+  },
+  "tim-r20261117-past-year-review": {
+    "file": "assets/covers/tim-r20261117-past-year-review.jpg",
+    "sourceUrl": "https://tim.blog/wp-content/uploads/2018/07/tfs_essentialism_blog-1024x1024.jpg",
+    "pageUrl": "https://tim.blog/2025/12/26/past-year-review/",
+    "credit": "封面来源：Tim Ferriss 官方博客；版权归原权利方",
+    "kind": "official-og",
+    "width": 1024,
+    "height": 1024,
+    "sha256": "2cf9b2f06f296b3ef5c382c88ff7183c083d60e3323e8aa7f80a46a990cb06f6"
+  },
+  "elon-people-wtf-16": {
+    "file": "assets/covers/elon-people-wtf-16.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/Rni7Fz7208c/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=Rni7Fz7208c",
+    "credit": "封面来源：People by WTF · Nikhil Kamath；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "5d9075d71f5db29abca1c9e66b30a8011be54ece0e949746c59666195a9ffcf2"
+  },
+  "dan-r20261117-human-nature-skill": {
+    "file": "assets/covers/dan-r20261117-human-nature-skill.jpg",
+    "sourceUrl": "https://substackcdn.com/image/fetch/$s_!6ora!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbda02988-0853-4983-af53-555e7369ddb3_2912x1632.png",
+    "pageUrl": "https://letters.thedankoe.com/p/the-most-profitable-skill-of-the",
+    "credit": "封面来源：Dan Koe · future/proof；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 675,
+    "sha256": "5d92a09d9c5db872a55bbc787696521df29df94c6a31e631e843b92daa95c41d"
+  },
+  "alex-replit-2025": {
+    "file": "assets/covers/alex-replit-2025.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/6Ait5R-3-lI/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=6Ait5R-3-lI",
+    "credit": "封面来源：Replit · Amjad Masad；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "7af5b3d82af563da64b12904f15a560e7e06b2395e2419a3e0d807ee7d6bfb1f"
+  },
+  "alex-mfm-764": {
+    "file": "assets/covers/alex-mfm-764.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/C7degTzRk_A/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=C7degTzRk_A",
+    "credit": "封面来源：My First Million · Sam Parr；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "0397a88c74a4bc53e8c5c5abfb8d07a8875f84a688cd130c4300cf200b33d16d"
+  },
+  "elon-allin-summit-2025": {
+    "file": "assets/covers/elon-allin-summit-2025.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/qeZqZBRA-6Q/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=qeZqZBRA-6Q",
+    "credit": "封面来源：All-In Podcast；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "ee04003bb61c364cd8331920503ecfc29756b2f4d76a3237b828291f5f935615"
+  },
+  "alex-how-invest-200": {
+    "file": "assets/covers/alex-how-invest-200.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/rbwPjS8ObfM/maxresdefault.jpg",
+    "pageUrl": "https://podcasts.apple.com/us/podcast/e200-21-harsh-truths-nobody-will-ever-tell-you-alex-hormozi/id1697772657?i=1000722095572",
+    "credit": "封面来源：How I Invest · David Weisburd；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "fa2b9b0b72fbe028d672843bf55313d0a21b25d370db0fa71be159f059178870"
+  },
+  "alex-on-purpose-2025": {
+    "file": "assets/covers/alex-on-purpose-2025.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/gEF67-G9MO0/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=gEF67-G9MO0",
+    "credit": "封面来源：On Purpose · Jay Shetty；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "74f9394afc113d0838c05f4dc6635b5f6544c3114059bdaa42b2a6f6d83aaf8a"
+  },
+  "dan-r20261117-delusional-success": {
+    "file": "assets/covers/dan-r20261117-delusional-success.jpg",
+    "sourceUrl": "https://substackcdn.com/image/fetch/$s_!OhrA!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb629156c-ae2e-4226-8d4a-69d40f970121_1920x1080.jpeg",
+    "pageUrl": "https://letters.thedankoe.com/p/you-need-to-be-delusional-if-you",
+    "credit": "封面来源：Dan Koe · future/proof；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 675,
+    "sha256": "b7fbd58258a2d5cdb5b7fff4e5aa096dca2bf1731b76adde16dec2cc8732bd02"
+  },
+  "dan-r20261117-content-map": {
+    "file": "assets/covers/dan-r20261117-content-map.jpg",
+    "sourceUrl": "https://substackcdn.com/image/fetch/$s_!fcq4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd173ab75-4de3-46f1-ae99-4a105e11132c_1920x1080.jpeg",
+    "pageUrl": "https://letters.thedankoe.com/p/the-content-map-how-to-never-run",
+    "credit": "封面来源：Dan Koe · future/proof；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 675,
+    "sha256": "5bbf85b7acd679c84c1a26135f321a1edab0e006d02068299f5cb8a33a32e815"
+  },
+  "dan-r20261117-launch-product": {
+    "file": "assets/covers/dan-r20261117-launch-product.jpg",
+    "sourceUrl": "https://substackcdn.com/image/fetch/$s_!eHeF!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f4de98b-75f7-488f-a3da-d4db02e29ea0_1456x816.png",
+    "pageUrl": "https://letters.thedankoe.com/p/how-to-launch-a-product",
+    "credit": "封面来源：Dan Koe · future/proof；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 675,
+    "sha256": "ffbe2ad0293f3111bc20459adcaa5f1f0f9f92bd0f7ee82a0dbd895eac6cd46f"
+  },
+  "dan-r20261117-one-idea-many": {
+    "file": "assets/covers/dan-r20261117-one-idea-many.jpg",
+    "sourceUrl": "https://substackcdn.com/image/fetch/$s_!_v0f!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a02a869-f881-4cde-8cab-418a351a6dda_1920x1080.jpeg",
+    "pageUrl": "https://letters.thedankoe.com/p/how-to-turn-1-idea-into-1000-that",
+    "credit": "封面来源：Dan Koe · future/proof；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 675,
+    "sha256": "7f10d3c406e7c5dc2e27b95a6637ec1130851936d1134b85a127f140ff144c8d"
+  },
+  "dan-r20261117-landing-pages": {
+    "file": "assets/covers/dan-r20261117-landing-pages.jpg",
+    "sourceUrl": "https://substackcdn.com/image/fetch/$s_!aaTf!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4772c704-4d36-4b0d-94fb-68e0b1501d5f_1536x1024.png",
+    "pageUrl": "https://letters.thedankoe.com/p/how-to-write-persuasive-landing-pages",
+    "credit": "封面来源：Dan Koe · future/proof；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 675,
+    "sha256": "10d0771e9285ad24be356d856d0be32d71a42e6905af0677a22f1e5f948504d6"
+  },
+  "dan-r20261117-deep-ideas": {
+    "file": "assets/covers/dan-r20261117-deep-ideas.jpg",
+    "sourceUrl": "https://substackcdn.com/image/fetch/$s_!ldnT!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1843c8dc-6e2f-45a7-8073-20630d0a44ef_1456x816.png",
+    "pageUrl": "https://letters.thedankoe.com/p/full-guide-how-i-write-about-deep",
+    "credit": "封面来源：Dan Koe · future/proof；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 675,
+    "sha256": "36d59365d3df2118c06a4f0bd26b8191bd11b7826273f4e7e50e005fc5d08fe5"
+  },
+  "alex-iced-coffee-2025": {
+    "file": "assets/covers/alex-iced-coffee-2025.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/q-_hwD1jNK4/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=q-_hwD1jNK4",
+    "credit": "封面来源：The Iced Coffee Hour；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "20efbeeaa0fb0a846c9d054ef5adbd63d559d8dab0f8c44325fa589fd24939ad"
+  },
+  "dan-r20261117-build-world": {
+    "file": "assets/covers/dan-r20261117-build-world.jpg",
+    "sourceUrl": "https://substackcdn.com/image/fetch/$s_!JfQS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa637427c-70e5-4864-8197-719f72ce1085_1456x816.png",
+    "pageUrl": "https://letters.thedankoe.com/p/how-to-build-a-world-the-2-hour-content",
+    "credit": "封面来源：Dan Koe · future/proof；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 675,
+    "sha256": "20e588e665aea252bf61dd9419957bd61ac9b41729ff9f2c612c429053194270"
+  },
+  "dan-r20261117-short-form-drills": {
+    "file": "assets/covers/dan-r20261117-short-form-drills.jpg",
+    "sourceUrl": "https://substackcdn.com/image/fetch/$s_!Ov_P!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2681e8d-8f8a-4fe9-8270-76d4207dae9e_1456x816.jpeg",
+    "pageUrl": "https://letters.thedankoe.com/p/3-drills-to-become-a-master-at-short",
+    "credit": "封面来源：Dan Koe · future/proof；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 675,
+    "sha256": "d22d7054fd379832c9832bbfca4b0037d73ad32f43147636c321165e4cafa9ca"
+  },
+  "alex-how-i-write-2025": {
+    "file": "assets/covers/alex-how-i-write-2025.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/sKOcCQh5nac/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=sKOcCQh5nac",
+    "credit": "封面来源：How I Write · David Perell；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "b86295bd40d52096a35143d4b642b7aa5daf1331652a542fde04f5a4673009f9"
+  },
+  "elon-moonshots-2026": {
+    "file": "assets/covers/elon-moonshots-2026.png",
+    "sourceUrl": "https://podcasts.apple.com/assets/meta/apple-podcasts.png",
+    "pageUrl": "https://podcasts.apple.com/us/podcast/elon-musk-on-agi-timeline-us-vs-china-job-markets-clean/id1648228034?i=1000743987690",
+    "credit": "封面来源：Moonshots · Peter Diamandis、Dave Blundin；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 630,
+    "sha256": "d2c778fa82262f99925c36f933e3afb06f0e217bc1c08b1a673865017f84b914"
+  },
+  "naval-modern-wisdom-922": {
+    "file": "assets/covers/elon-moonshots-2026.png",
+    "sourceUrl": "https://podcasts.apple.com/assets/meta/apple-podcasts.png",
+    "pageUrl": "https://podcasts.apple.com/us/podcast/44-harsh-truths-about-human-nature-naval-ravikant-922/id1347973549?i=1000701535098",
+    "credit": "封面来源：Modern Wisdom · Chris Williamson；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 630,
+    "sha256": "d2c778fa82262f99925c36f933e3afb06f0e217bc1c08b1a673865017f84b914"
+  },
+  "alex-doac-2025": {
+    "file": "assets/covers/elon-moonshots-2026.png",
+    "sourceUrl": "https://podcasts.apple.com/assets/meta/apple-podcasts.png",
+    "pageUrl": "https://podcasts.apple.com/vc/podcast/the-man-that-makes-millionaires-turn-%24100-to-%2410k/id1291423644?i=1000691729705",
+    "credit": "封面来源：The Diary Of A CEO · Steven Bartlett；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 630,
+    "sha256": "d2c778fa82262f99925c36f933e3afb06f0e217bc1c08b1a673865017f84b914"
+  },
+  "alex-blueprint-2024": {
+    "file": "assets/covers/alex-blueprint-2024.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/gT2bk52F9bg/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=gT2bk52F9bg",
+    "credit": "封面来源：The Blueprint · Simon Squibb；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "1e881d05ce2425bb2aea09487da2c64b9d3ff63f932ad43b4ae52ffd36966ce7"
+  },
+  "naval-sovereign-child-788": {
+    "file": "assets/covers/elon-moonshots-2026.png",
+    "sourceUrl": "https://podcasts.apple.com/assets/meta/apple-podcasts.png",
+    "pageUrl": "https://podcasts.apple.com/fi/podcast/788-naval-ravikant-and-aaron-stupple-how-to-raise/id863897795?i=1000684308338",
+    "credit": "封面来源：The Tim Ferriss Show；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 630,
+    "sha256": "d2c778fa82262f99925c36f933e3afb06f0e217bc1c08b1a673865017f84b914"
+  },
+  "elon-starfactory-tour-2024": {
+    "file": "assets/covers/elon-starfactory-tour-2024.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/aFqjoCbZ4ik/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=aFqjoCbZ4ik",
+    "credit": "封面来源：Everyday Astronaut · Tim Dodd；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "db063d6611c893e483b224fcb61db3795740f7ce4ed78c4957e9852c7eff935a"
+  },
+  "alex-mw-830": {
+    "file": "assets/covers/elon-moonshots-2026.png",
+    "sourceUrl": "https://podcasts.apple.com/assets/meta/apple-podcasts.png",
+    "pageUrl": "https://podcasts.apple.com/us/podcast/24-controversial-truths-about-success-failure-alex/id1347973549?i=1000666600695",
+    "credit": "封面来源：Modern Wisdom · Chris Williamson；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 630,
+    "sha256": "d2c778fa82262f99925c36f933e3afb06f0e217bc1c08b1a673865017f84b914"
+  },
+  "alex-mw-738": {
+    "file": "assets/covers/elon-moonshots-2026.png",
+    "sourceUrl": "https://podcasts.apple.com/assets/meta/apple-podcasts.png",
+    "pageUrl": "https://podcasts.apple.com/us/podcast/21-brutally-honest-lessons-about-life-alex-hormozi-738/id1347973549?i=1000643333214",
+    "credit": "封面来源：Modern Wisdom · Chris Williamson；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 630,
+    "sha256": "d2c778fa82262f99925c36f933e3afb06f0e217bc1c08b1a673865017f84b914"
+  },
+  "alex-liam-ottley-2023": {
+    "file": "assets/covers/alex-liam-ottley-2023.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/w1Q93tz83DY/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=w1Q93tz83DY",
+    "credit": "封面来源：Liam Ottley；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "e9d55081ae2b101a0143e117348456e10b2fe0719596ebb5de61083e24c7e5a5"
+  },
+  "alex-danny-miranda-377": {
+    "file": "assets/covers/alex-danny-miranda-377.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/wKQiy_cA6OA/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=wKQiy_cA6OA",
+    "credit": "封面来源：The Danny Miranda Podcast；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "fdb233be48285b1c48f4044c560eb45f01401751227b1573e5440c01e996dc31"
+  },
+  "elon-bill-maher-2023": {
+    "file": "assets/covers/elon-bill-maher-2023.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/oO8w6XcXJUs/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=oO8w6XcXJUs",
+    "credit": "封面来源：Real Time with Bill Maher · HBO；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "50f7fe03ec6de824574ae52bdbc8b48d9223d7f3459f3e85adf6ac2423b5ccfb"
+  },
+  "alex-learning-leader-540": {
+    "file": "assets/covers/alex-learning-leader-540.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/ypBrmOzG6HM/maxresdefault.jpg",
+    "pageUrl": "https://ryanhawk12.substack.com/p/540-alex-hormozi-creating-confidence-e5b",
+    "credit": "封面来源：The Learning Leader Show · Ryan Hawk；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "8cd8487678a56de772f0f77734217655941cf40b794c4c013e9eb46ce045e9f3"
+  },
+  "tim-r20261117-ai-nonfiction": {
+    "file": "assets/covers/tim-r20261117-ai-nonfiction.jpg",
+    "sourceUrl": "https://tim.blog/wp-content/uploads/2020/09/socialmedia_timFerriss_200114_005.jpg",
+    "pageUrl": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+    "credit": "封面来源：Tim Ferriss 官方博客；版权归原权利方",
+    "kind": "official-og",
+    "width": 2048,
+    "height": 1367,
+    "sha256": "9d863628ba1e5f7980503c1157dfdc9798b9005b52666001e8749d067d691021"
+  },
+  "alex-mw-610": {
+    "file": "assets/covers/elon-moonshots-2026.png",
+    "sourceUrl": "https://podcasts.apple.com/assets/meta/apple-podcasts.png",
+    "pageUrl": "https://podcasts.apple.com/us/podcast/19-harsh-truths-about-human-nature-alex-hormozi-610/id1347973549?i=1000607066181",
+    "credit": "封面来源：Modern Wisdom · Chris Williamson；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 630,
+    "sha256": "d2c778fa82262f99925c36f933e3afb06f0e217bc1c08b1a673865017f84b914"
+  },
+  "elon-wgs-2023": {
+    "file": "assets/covers/elon-wgs-2023.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/2IVQwzFzsBo/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=2IVQwzFzsBo",
+    "credit": "封面来源：World Governments Summit · Mohammad Al Gergawi；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "8c2cb648235a4e2227f5a71353633f77dd76efbde821c972552aecbceb9f0f3f"
+  },
+  "elon-ft-car-2022": {
+    "file": "assets/covers/elon-ft-car-2022.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/VfyrQVhfGZc/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=VfyrQVhfGZc",
+    "credit": "封面来源：Financial Times／FT Live · Peter Campbell；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "a5f3c6a08daf35922742f995b7541ed4e9a3cd27665eaae6ce44976531b86efb"
+  },
+  "alex-impact-theory-2022": {
+    "file": "assets/covers/elon-moonshots-2026.png",
+    "sourceUrl": "https://podcasts.apple.com/assets/meta/apple-podcasts.png",
+    "pageUrl": "https://podcasts.apple.com/us/podcast/alex-hormozi-do-you-have-what-it-takes-to-get-rich/id1191775648?i=1000580060209",
+    "credit": "封面来源：Impact Theory · Tom Bilyeu；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 630,
+    "sha256": "d2c778fa82262f99925c36f933e3afb06f0e217bc1c08b1a673865017f84b914"
+  },
+  "alex-chad-jt-308": {
+    "file": "assets/covers/alex-chad-jt-308.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/TTneE3QfbWA/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=TTneE3QfbWA",
+    "credit": "封面来源：Chad and JT Go Deep；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "0f94694ab09eaaa16edb8c2b7d0789d3b86e8fc8adf14fbb7f0b3ae02d7ff9cf"
+  },
+  "alex-mw-490": {
+    "file": "assets/covers/elon-moonshots-2026.png",
+    "sourceUrl": "https://podcasts.apple.com/assets/meta/apple-podcasts.png",
+    "pageUrl": "https://podcasts.apple.com/us/podcast/building-a-%24100m-marriage-alex-leila-hormozi-490/id1347973549?i=1000567462972",
+    "credit": "封面来源：Modern Wisdom · Chris Williamson；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 630,
+    "sha256": "d2c778fa82262f99925c36f933e3afb06f0e217bc1c08b1a673865017f84b914"
+  },
+  "elon-babylon-bee-2021": {
+    "file": "assets/covers/elon-babylon-bee-2021.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/jvGnw1sHh9M/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=jvGnw1sHh9M",
+    "credit": "封面来源：The Babylon Bee · Seth Dillon、Kyle Mann、Ethan Nicolle；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "9243b56e0639cbd141a2bc82fa986a8edd5a4f96a45b812227681a660f3bcbef"
+  },
+  "elon-starbase-tour-2021": {
+    "file": "assets/covers/elon-starbase-tour-2021.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/t705r8ICkRw/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=t705r8ICkRw",
+    "credit": "封面来源：Everyday Astronaut · Tim Dodd；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "af477ca74b982a804f329a7796f19bc35820276581630f0caacb150242161e68"
+  },
+  "elon-wsj-2021": {
+    "file": "assets/covers/elon-wsj-2021.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/lSD_vpfikbE/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=lSD_vpfikbE",
+    "credit": "封面来源：The Wall Street Journal · Joanna Stern；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "318e32d49ab54fb354ba718b42bd4d5115f9cd2ab6ebff493b09c789bcad7ba2"
+  },
+  "tim-pete-holmes-2020": {
+    "file": "assets/covers/elon-moonshots-2026.png",
+    "sourceUrl": "https://podcasts.apple.com/assets/meta/apple-podcasts.png",
+    "pageUrl": "https://podcasts.apple.com/us/podcast/tim-ferriss/id475878118?i=1000501813601",
+    "credit": "封面来源：You Made It Weird with Pete Holmes；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 630,
+    "sha256": "d2c778fa82262f99925c36f933e3afb06f0e217bc1c08b1a673865017f84b914"
+  },
+  "naval-tim-473": {
+    "file": "assets/covers/elon-moonshots-2026.png",
+    "sourceUrl": "https://podcasts.apple.com/assets/meta/apple-podcasts.png",
+    "pageUrl": "https://podcasts.apple.com/gb/podcast/473-naval-ravikant-on-happiness-reducing-anxiety-crypto/id863897795?i=1000494834273",
+    "credit": "封面来源：The Tim Ferriss Show；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 630,
+    "sha256": "d2c778fa82262f99925c36f933e3afb06f0e217bc1c08b1a673865017f84b914"
+  },
+  "elon-starship-2019": {
+    "file": "assets/covers/elon-starship-2019.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/cIQ36Kt7UVg/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=cIQ36Kt7UVg",
+    "credit": "封面来源：Everyday Astronaut · Tim Dodd；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "d6fb82350ed94d85467f8f97422e9a219e2d8bb32f6ea507fb3ce535e6c30a7c"
+  },
+  "tim-r20261117-fame-costs": {
+    "file": "assets/covers/tim-r20261117-fame-costs.jpg",
+    "sourceUrl": "https://tim.blog/wp-content/uploads/2020/02/Tim_November_2008.jpg",
+    "pageUrl": "https://tim.blog/2020/02/02/reasons-to-not-become-famous/",
+    "credit": "封面来源：Tim Ferriss 官方博客；版权归原权利方",
+    "kind": "official-og",
+    "width": 2128,
+    "height": 1416,
+    "sha256": "649db6bef1f88877c213df60a0ad3d59212068b8b9e33c8d83cc74a613fb1d6d"
+  },
+  "elon-sxsw-2018": {
+    "file": "assets/covers/elon-sxsw-2018.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/kzlUyrccbos/hqdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=kzlUyrccbos",
+    "credit": "封面来源：SXSW · Jonathan Nolan；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 480,
+    "height": 360,
+    "sha256": "581ad90938134c441a08e500a91164b96b93f1b16837c4fb20fad06cf4e2fed3"
+  },
+  "elon-wgs-2017": {
+    "file": "assets/covers/elon-wgs-2017.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/rCoFKUJ_8Yo/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=rCoFKUJ_8Yo",
+    "credit": "封面来源：World Governments Summit · Mohammad Al Gergawi；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "f609d710110e32b1c488be06f9de1d3c79b34743da3a9e6a0394488569ce747e"
+  },
+  "tim-design-matters-2017": {
+    "file": "assets/covers/elon-moonshots-2026.png",
+    "sourceUrl": "https://podcasts.apple.com/assets/meta/apple-podcasts.png",
+    "pageUrl": "https://podcasts.apple.com/us/podcast/tim-ferriss/id328074695?i=1000378661916",
+    "credit": "封面来源：Design Matters with Debbie Millman；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 630,
+    "sha256": "d2c778fa82262f99925c36f933e3afb06f0e217bc1c08b1a673865017f84b914"
+  },
+  "tim-r20261117-reads-2020": {
+    "file": "assets/covers/tim-r20261117-reads-2020.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2021/01/Tim-Ferriss-in-Austin-scaled.jpg?fit=2560%2C1708&ssl=1",
+    "pageUrl": "https://tim.blog/2021/01/14/tim-ferriss-2020-reading-recommendations/",
+    "credit": "封面来源：Tim Ferriss 官方博客；版权归原权利方",
+    "kind": "official-og",
+    "width": 2560,
+    "height": 1708,
+    "sha256": "b08f6b8d34140f14f67b8e4247b88851441315f484e17059076ce570d8bd692b"
+  },
+  "elon-yc-2016": {
+    "file": "assets/covers/elon-yc-2016.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/tnBQmEqBCY0/maxresdefault.jpg",
+    "pageUrl": "https://www.ycombinator.com/blog/elon-musk-on-how-to-build-the-future",
+    "credit": "封面来源：Y Combinator · Sam Altman；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 668,
+    "sha256": "a4df921b4bd5b16e7364d3ae46f6fcbac127a24f3e46cbd983042d245282e808"
+  },
+  "tim-r20261117-17-questions": {
+    "file": "assets/covers/tim-r20261117-17-questions.jpg",
+    "sourceUrl": "https://tim.blog/wp-content/uploads/2016/12/yabusame-tim.jpg",
+    "pageUrl": "https://tim.blog/2016/12/07/testing-the-impossible-17-questions-that-changed-my-life/",
+    "credit": "封面来源：Tim Ferriss 官方博客；版权归原权利方",
+    "kind": "official-og",
+    "width": 640,
+    "height": 480,
+    "sha256": "18de87797c206f470fa84a08557b6997ea8e4b9f66119c9348818e175fd9e4bc"
+  },
+  "tim-r20261117-reads-2021": {
+    "file": "assets/covers/tim-r20261117-reads-2021.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2022/01/Tim-books.jpeg?fit=1280%2C720&ssl=1",
+    "pageUrl": "https://tim.blog/2022/01/07/tim-ferriss-reading-recommendations-2021/",
+    "credit": "封面来源：Tim Ferriss 官方博客；版权归原权利方",
+    "kind": "official-og",
+    "width": 1280,
+    "height": 720,
+    "sha256": "3417b2f7d3b228680625ceff9f6702704e7c803e4d2f2019084962410d4fd308"
+  },
+  "tim-r20261117-fear-setting-essay": {
+    "file": "assets/covers/tim-r20261117-fear-setting-essay.jpg",
+    "sourceUrl": "https://tim.blog/wp-content/uploads/2018/05/timferrissshoot-191-1024x683.jpg",
+    "pageUrl": "https://tim.blog/2017/05/15/fear-setting/",
+    "credit": "封面来源：Tim Ferriss 官方博客；版权归原权利方",
+    "kind": "official-og",
+    "width": 1024,
+    "height": 683,
+    "sha256": "b800f96f7ac4e00af1dfe97e416b96fba1c69ec01c634e014a4c4ff01ccb2f9b"
+  },
+  "tim-r20261117-podcast-business": {
+    "file": "assets/covers/tim-r20261117-podcast-business.jpg",
+    "sourceUrl": "https://tim.blog/wp-content/uploads/2016/04/16652491320_bbf69cc5e1_o.jpg?quality=80&strip=all",
+    "pageUrl": "https://tim.blog/2016/04/11/tim-ferriss-podcast-business/",
+    "credit": "封面来源：Tim Ferriss 官方博客；版权归原权利方",
+    "kind": "official-og",
+    "width": 900,
+    "height": 601,
+    "sha256": "b5827071cb7892153d889d9201c54d870f7802982cd163b872f4d313b9e8e568"
+  },
+  "naval-venture-studio-2016": {
+    "file": "assets/covers/elon-moonshots-2026.png",
+    "sourceUrl": "https://podcasts.apple.com/assets/meta/apple-podcasts.png",
+    "pageUrl": "https://podcasts.apple.com/us/podcast/ep-31-naval-ravikant-angellist-2-of-2/id1044852273?i=1000373581377",
+    "credit": "封面来源：Venture Studio · Kevin Weeks；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 630,
+    "sha256": "d2c778fa82262f99925c36f933e3afb06f0e217bc1c08b1a673865017f84b914"
+  },
+  "justin-sina-leaders-2015": {
+    "file": "assets/covers/justin-sina-leaders-2015.jpg",
+    "sourceUrl": "https://n.sinaimg.cn/sinacn20190604ac/250/w450h600/20190604/d0f2-hxyuaph2144369.jpg",
+    "pageUrl": "https://finance.sina.com.cn/hy/20151205/212723942075.shtml",
+    "credit": "封面来源：新浪财经 · 中国企业领袖年会；版权归原权利方",
+    "kind": "official-og",
+    "width": 450,
+    "height": 600,
+    "sha256": "9fc9802e6c4f9c0dcb7f331b9b4d4e9f012138e4582014d20068720faf669c7d"
+  },
+  "elon-master-plan-deux": {
+    "file": "assets/covers/elon-master-plan-deux.jpg",
+    "sourceUrl": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/tesla-logo-thumbnail.jpg",
+    "pageUrl": "https://www.tesla.com/master-plan-part-deux",
+    "credit": "封面来源：Tesla · Elon Musk；版权归原权利方",
+    "kind": "official-og",
+    "width": 1600,
+    "height": 1200,
+    "sha256": "10e2157a6194a5f97e71f87eb78f77f5915347f76e19d6b306c7258004adaf15"
+  },
+  "tim-r20261117-morning-rituals": {
+    "file": "assets/covers/tim-r20261117-morning-rituals.jpg",
+    "sourceUrl": "https://tim.blog/wp-content/uploads/2016/12/tim-random-show-threesome.jpg",
+    "pageUrl": "https://tim.blog/2015/09/18/5-morning-rituals/",
+    "credit": "封面来源：Tim Ferriss 官方博客；版权归原权利方",
+    "kind": "official-og",
+    "width": 2000,
+    "height": 1335,
+    "sha256": "88cd5b0b2b6ea75338971494bbf34c0054b870190490acfa5032485b2f4bafc9"
+  },
+  "tim-r20261117-productivity-human": {
+    "file": "assets/covers/tim-r20261117-productivity-human.jpg",
+    "sourceUrl": "https://tim.blog/wp-content/uploads/2013/11/10658493733_bed88c10d8.jpg",
+    "pageUrl": "https://tim.blog/2013/11/03/productivity-hacks/",
+    "credit": "封面来源：Tim Ferriss 官方博客；版权归原权利方",
+    "kind": "official-og",
+    "width": 499,
+    "height": 228,
+    "sha256": "225f8234c350a6f0f776aaba2fd4350c877c2b8f8b45f6bfca26d93ffaf0957f"
+  },
+  "tim-r20261117-startup-vacation": {
+    "file": "assets/covers/tim-r20261117-startup-vacation.jpg",
+    "sourceUrl": "https://tim.blog/wp-content/uploads/2015/10/matt_9509255413_99c9a1a118_z.jpg?quality=80&strip=all&w=500",
+    "pageUrl": "https://tim.blog/2015/10/29/startup-vacation-2/",
+    "credit": "封面来源：Tim Ferriss 官方博客；版权归原权利方",
+    "kind": "official-og",
+    "width": 500,
+    "height": 333,
+    "sha256": "8f207e81600b4a0f71c532dd458839b625af392079390162684ed547d7e659d4"
+  },
+  "tim-r20261117-philosophy-interview": {
+    "file": "assets/covers/tim-r20261117-philosophy-interview.jpg",
+    "sourceUrl": "https://tim.blog/wp-content/uploads/2011/05/3086863632_c34e6628c1.jpg",
+    "pageUrl": "https://tim.blog/2011/05/18/philosophy-as-a-personal-operating-system-from-seneca-to-musashi/",
+    "credit": "封面来源：Tim Ferriss 官方博客；版权归原权利方",
+    "kind": "official-og",
+    "width": 500,
+    "height": 500,
+    "sha256": "9d5fb130e864e9b8343347abff0e8e4cb5d0a3a3cb658eb215bff4799b54fe9d"
+  },
+  "tim-r20261117-public-speaking": {
+    "file": "assets/covers/tim-r20261117-public-speaking.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2010/04/4081610950_6e38832d3f.jpg?fit=500%2C333&ssl=1",
+    "pageUrl": "https://tim.blog/2010/04/11/public-speaking-how-i-prepare-every-time/",
+    "credit": "封面来源：Tim Ferriss 官方博客；版权归原权利方",
+    "kind": "official-og",
+    "width": 500,
+    "height": 333,
+    "sha256": "4f9c4bda8376783cfd348d8293d8f1ef91533269daf142dfece20f3a42ae37de"
+  },
+  "naval-r20261117-cofounder": {
+    "file": "assets/covers/naval-r20261117-cofounder.png",
+    "sourceUrl": "https://venturehacks.com/wp-content/themes/Cutline-1-1.4-2ColumnRight/images/venture-hacks-logo-white.png",
+    "pageUrl": "https://venturehacks.com/pick-cofounder",
+    "credit": "封面来源：Venture Hacks · Naval；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 630,
+    "sha256": "61fbdff8cfd1fba18408d0b0158e1c7df8054caf2a2ebef2a5bad617d7382115"
+  },
+  "tim-r20261117-deloading": {
+    "file": "assets/covers/tim-r20261117-deloading.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2016/03/img_5998_v2.jpg?fit=2448%2C3264&ssl=1",
+    "pageUrl": "https://tim.blog/2016/03/29/deloading-phase/",
+    "credit": "封面来源：Tim Ferriss 官方博客；版权归原权利方",
+    "kind": "official-og",
+    "width": 2448,
+    "height": 3264,
+    "sha256": "68505010f07ada205fc121db1cc2146264e234c481d742334761c1e6f07bd93c"
+  },
+  "tim-r20261117-no-complaint": {
+    "file": "assets/covers/tim-r20261117-no-complaint.jpg",
+    "sourceUrl": "https://tim.blog/wp-content/uploads/2007/09/vmull1.jpg",
+    "pageUrl": "https://tim.blog/2007/09/18/real-mind-control-the-21-day-no-complaint-experiment/",
+    "credit": "封面来源：Tim Ferriss 官方博客；版权归原权利方",
+    "kind": "official-og",
+    "width": 400,
+    "height": 300,
+    "sha256": "f6b1dc3b6e39ba60d3f5bf3a65c324bd17865a5d8cf691415b8b0ff07b101a1e"
+  },
+  "tim-r20261117-morning-pages": {
+    "file": "assets/covers/tim-r20261117-morning-pages.jpg",
+    "sourceUrl": "https://tim.blog/wp-content/uploads/2015/01/evernote-snapshot-20150114-141515.jpg",
+    "pageUrl": "https://tim.blog/2015/01/15/morning-pages/",
+    "credit": "封面来源：Tim Ferriss 官方博客；版权归原权利方",
+    "kind": "official-og",
+    "width": 1798,
+    "height": 2398,
+    "sha256": "80d150c670a96a7d7a54c71f3e4c0c59099151758fb7c59d16373072c41c1081"
+  },
+  "tim-r20261117-margin-manifesto": {
+    "file": "assets/covers/tim-r20261117-margin-manifesto.jpg",
+    "sourceUrl": "https://tim.blog/wp-content/uploads/2008/06/2061715292_b11767988d.jpg",
+    "pageUrl": "https://tim.blog/2008/06/24/the-margin-manifesto-11-tenets-for-reaching-or-doubling-profitability-in-3-months/",
+    "credit": "封面来源：Tim Ferriss 官方博客；版权归原权利方",
+    "kind": "official-og",
+    "width": 500,
+    "height": 311,
+    "sha256": "9fa4b886af769d2c2d42570fe99f9ba3aa4b6924f896725680d358ac746f3588"
+  },
+  "julian-memorized-rules": {
+    "file": "assets/covers/julian-memorized-rules.png",
+    "sourceUrl": "https://cdn.prod.website-files.com/54a5a40be53a05f34703dd18/6ae801e2dc607490fc1dafdb_og-share.png",
+    "pageUrl": "https://www.julian.com/blog/memorized-rules",
+    "credit": "封面来源：Julian Shapiro · 本人官网；版权归原权利方",
+    "kind": "official-og",
+    "width": 1200,
+    "height": 630,
+    "sha256": "5c5b214039827cf3ecfba762f3f6708ad333363818514c919d682674a6f07b6c"
+  },
+  "tim-r20261117-real-world-mba": {
+    "file": "assets/covers/tim-r20261117-real-world-mba.jpg",
+    "sourceUrl": "https://i0.wp.com/tim.blog/wp-content/uploads/2020/01/Tim-Ferriss-Writing-In-Journal.jpg?fit=2048%2C1367&ssl=1",
+    "pageUrl": "https://tim.blog/2010/06/28/mba/",
+    "credit": "封面来源：Tim Ferriss 官方博客；版权归原权利方",
+    "kind": "official-og",
+    "width": 2048,
+    "height": 1367,
+    "sha256": "0e6175e82ee47a3cd8d20e38e1cbb7b6cfa063cc7fbe09d41f3fd65696204eaf"
+  },
+  "elon-master-plan-2006": {
+    "file": "assets/covers/elon-master-plan-deux.jpg",
+    "sourceUrl": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/tesla-logo-thumbnail.jpg",
+    "pageUrl": "https://www.tesla.com/secret-master-plan",
+    "credit": "封面来源：Tesla · Elon Musk；版权归原权利方",
+    "kind": "official-og",
+    "width": 1600,
+    "height": 1200,
+    "sha256": "10e2157a6194a5f97e71f87eb78f77f5915347f76e19d6b306c7258004adaf15"
+  },
+  "julian-market-pull-chapter": {
+    "file": "assets/covers/julian-essay-product-led-acquisition.jpg",
+    "sourceUrl": "https://cdn.prod.website-files.com/54a5a40be53a05f34703dd18/5ba00cc0c492f668b38660c3_41884457_10160793896435573_4473141282675359744_o.jpg",
+    "pageUrl": "https://www.julian.com/guide/startup/market-pull",
+    "credit": "封面来源：Julian Shapiro · 本人官网；版权归原权利方",
+    "kind": "official-og",
+    "width": 1638,
+    "height": 1638,
+    "sha256": "8dd1ccedc30b3c4550351f78050994737385c284cec0748d88598a80eab48270"
+  },
+  "tim-r20261117-not-to-do": {
+    "file": "assets/covers/tim-r20261117-not-to-do.jpg",
+    "sourceUrl": "https://tim.blog/wp-content/uploads/2016/04/tim-ferriss-on-zero-to-hero-transformations.jpg",
+    "pageUrl": "https://tim.blog/2007/08/16/the-not-to-do-list-9-habits-to-stop-now/",
+    "credit": "封面来源：Tim Ferriss 官方博客；版权归原权利方",
+    "kind": "official-og",
+    "width": 500,
+    "height": 497,
+    "sha256": "d13baaffe33d6266ce15a2654383dc6268d1cb3a90079168d53e78df29ae412c"
+  },
+  "alex-crisp-158": {
+    "file": "assets/covers/alex-crisp-158.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/lF5d1OjJ5MY/maxresdefault.jpg",
+    "pageUrl": "https://crisp.co/podcast/episode-158-alex-hormozi/",
+    "credit": "封面来源：The Game Changing Attorney Podcast · Crisp；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "88065496bdd0105dfa8a992c70f312857ccbd55e1016d86f05d3c151c47a393b"
+  },
+  "alex-impact-theory-ahead": {
+    "file": "assets/covers/alex-impact-theory-ahead.jpg",
+    "sourceUrl": "https://i.ytimg.com/vi/Tigt75AcLLA/maxresdefault.jpg",
+    "pageUrl": "https://www.youtube.com/watch?v=Tigt75AcLLA",
+    "credit": "封面来源：Impact Theory · Tom Bilyeu；版权归原权利方",
+    "kind": "youtube-thumbnail",
+    "width": 1280,
+    "height": 720,
+    "sha256": "1a95153a8fe9c4fed6f5b0dfeed878315daa359f7678a214f0e5a28c707f7d36"
   }
 };
